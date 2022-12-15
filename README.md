@@ -1,7 +1,7 @@
 # italianVAT
 
 Repository of the italianVAT corpus, a novel corpus that consists of 226 Italian second-instance decisions on Value Added Tax (VAT) by the Regional Tax Commissions from various judicial districts.
-The corpus is annotated based on the structural parts of the decisions. The detailed description of the annotation scheme is in Table 4 of the appendix.
+The corpus is annotated based on the structural parts of the decisions.
 Due to privacy reasons, the data will soon be available.
 
 
@@ -9,17 +9,20 @@ Due to privacy reasons, the data will soon be available.
 
 If you use this repository, dataset, or code, please cite our work as:
 
-*Galli, Federico & Grundler, Giulia & Fidelangeli, Alessia & Galassi, Andrea & Lagioia, Francesca & Palmieri, Elena & Ruggeri, Federico & Sartor, Giovanni & Torroni, Paolo. (2022). Predicting Outcomes of Italian VAT Decisions1. 10.3233/FAIA220465.*
+*Galli, Federico & Grundler, Giulia & Fidelangeli, Alessia & Galassi, Andrea & Lagioia, Francesca & Palmieri, Elena & Ruggeri, Federico & Sartor, Giovanni & Torroni, Paolo. (2022). Predicting Outcomes of Italian VAT Decisions. 10.3233/FAIA220465.*
 
 ```
-@inbook{inbook,
+@inproceedings{galli2022,
 author = {Galli, Federico and Grundler, Giulia and Fidelangeli, Alessia and Galassi, Andrea and Lagioia, Francesca and Palmieri, Elena and Ruggeri, Federico and Sartor, Giovanni and Torroni, Paolo},
 year = {2022},
 month = {12},
-pages = {},
 title = {Predicting Outcomes of Italian VAT Decisions1},
 isbn = {9781643683645},
-doi = {10.3233/FAIA220465}
+doi = {10.3233/FAIA220465},
+booktitle = {JURIX},
+volume = {362},
+pages = {188--193},
+series = {Frontiers in Artificial Intelligence and Applications}
 }
 ```
 
