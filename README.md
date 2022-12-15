@@ -29,7 +29,7 @@ series = {Frontiers in Artificial Intelligence and Applications}
 
 ## Repository structure
 
-* the paper folder contains the paper pdf with an unpublished appendix 
+* the paper folder contains the paper pdf
 * the italianVAT_dataset folder contains the tagged documents in xml format
 * xmlToJson.py is a python script that converts the dataset into json format
 * create_df.py is a python script that generates the dataframe
