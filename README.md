@@ -1,1 +1,41 @@
 # italianVAT
+
+Repository of the italianVAT corpus, a novel corpus that consists of 226 Italian second-instance decisions on Value Added Tax (VAT) by the Regional Tax Commissions from various judicial districts.
+The corpus is annotated based on the structural parts of the decisions. The detailed description of the annotation scheme is in Table 4 of the appendix.
+Due to privacy reasons, the data will soon be available.
+
+
+## Citation
+
+If you use this repository, dataset, or code, please cite our work as:
+
+*Galli, Federico & Grundler, Giulia & Fidelangeli, Alessia & Galassi, Andrea & Lagioia, Francesca & Palmieri, Elena & Ruggeri, Federico & Sartor, Giovanni & Torroni, Paolo. (2022). Predicting Outcomes of Italian VAT Decisions1. 10.3233/FAIA220465.*
+
+```
+@inbook{inbook,
+author = {Galli, Federico and Grundler, Giulia and Fidelangeli, Alessia and Galassi, Andrea and Lagioia, Francesca and Palmieri, Elena and Ruggeri, Federico and Sartor, Giovanni and Torroni, Paolo},
+year = {2022},
+month = {12},
+pages = {},
+title = {Predicting Outcomes of Italian VAT Decisions1},
+isbn = {9781643683645},
+doi = {10.3233/FAIA220465}
+}
+```
+
+
+## Repository structure
+
+* the paper folder contains the paper pdf with an unpublished appendix 
+* the italianVAT_dataset folder contains the tagged documents in xml format
+* xmlToJson.py is a python script that converts the dataset into json format
+* create_df.py is a python script that generates the dataframe
+* outcomeprediction.py defines the functions that perform the classification task
+* run_experiments.py calls the outcomeprediction.py functions with the desired parameters
+
+
+## How to run the experiments
+
+* run xmlToJson.py to convert the xml dataset into the required json format
+* run create_df.py to create the dataframe
+* open run_experiments.py to choose the task's parameters, embeddings and classifiers, or run it as it is to get the complete set of experiments
