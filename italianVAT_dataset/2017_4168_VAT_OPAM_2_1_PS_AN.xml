@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+
+
+	Sentenza del DD/MM/2017 n. 4168 - 
+	Comm. Trib. Reg. per la XXX
+
+	Intitolazione: Iva Contratti di coassicurazione Esenzione ed onere della prova.
+
+	Massima:
+
+	L'esenzione prevista dall'art. 10, comma 1 n. 2. del d.P.R. 633/1972 per le operazioni di assicurazione si estende a tutte le prestazioni che integrano il servizio assicurativo sotto il profilo economico, per cui devono essere individuati gli elementi caratteristici dell'operazione e stabilire se il soggetto passivo fornisca all'assicurato più prestazioni distinte o un'unica prestazione. Spetta poi al giudice accertare se l'operazione debba essere considerata come unica operazione di assicurazione ovvero come operazione accessoria ovvero come prestazioni indipendenti. Tale principio si applica anche nei casi in cui il rapporto assicurativo sia stato concluso con altri soggetti attraverso le cd. "clausole di delega", restando a carico della società assicuratrice la dimostrazione dell'idoneità delle prestazioni a configurare il vincolo assicurativo sotto il profilo economico e l'esistenza di un rapporto contrattuale tra il prestatore di servizio e l'assicurato.
+
+
+Testo:
+
+
+	
+		<dec ID="Dec1" G="1" E="1" O="Req1"><req ID="Req1" G="1" P="B">Con atto di appello in data DD.MM.2016, l'<part P="A">Agenzia delle Entrate Direzione Regionale della XXX</part> ha impugnato la sentenza della Commissione Tributaria Provinciale di XXX, sez. 47 n. 7145/47/15 del DD.MM.1015, pubblicata in data DD.MM.2015, che aveva accolto il ricorso proposto da <part P="B">EAI S.p.A.</part> avverso il provvedimento di irrogazione sanzioni n. TMXXXXXXXXX/2013, per IVA. OP. ESENTI 2006.</req></dec>
+	
+
+	
+		<mot ID="Mot1" G="1" O="Req1">La sentenza di primo grado asserisce che le prestazioni contestate, relative a contratti di coassicurazione, risultano esenti da IVA, ai sensi dell'art. 10 commi 2 e 9 del D.P.R. n. 633/1972. In ogni caso la prestazione sarebbe da considerare accessoria alla prestazione principale esente da IVA. La prestazione delegata avrebbe come fine il miglior assolvimento delle attività assicurative rese al cliente e, pertanto, la prestazione delegata deve considerarsi esente da IVA.</mot>
+	
+
+
+
+	
+		<req ID="Req4" G="2" P="A">L'Agenzia ha impugnato la decisione</req>
+		<arg ID="Arg1" G="2" P="A" PRO="Claim1">premettendo che la sanzione nei confronti della EAI S.p.A. era stata emessa perché la stessa, nell'anno di imposta 2006, aveva stipulato contratti di coassicurazione, nell'ambito dei quali corrispondeva commissioni di delega alla HA e tali commissioni erano state contabilizzate dalla delegante in regime di esenzione IVA. 
+		L'Agenzia censura la sentenza per violazione degli artt. 112 e 115 cod. proc. civ., in sintesi perché la sentenza ha stravolto le controdeduzioni dell'Ufficio, attribuendogli cose non dette.
+		Nel merito, l'Agenzia sostiene in definitiva che la clausola di delega, contenuta nel contratto di coassicurazione non costituisce attività assicurativa, ma servizio a titolo oneroso, soggetto ad IVA.</arg> 
+		<claim ID="Claim1" G="2" P="A" PRO="Req2">Quindi la sentenza sarebbe nulla per avere qualificato le operazioni poste in essere e descritte come esenti.</claim>
+		<req ID="Req2" G="2" P="A">L'Agenzia, che ha prodotto numerose sentenze di merito sull'argomento, chiede quindi l'accoglimento dell'appello, la riforma della sentenza</req> 
+		e la condanna della contribuente al pagamento delle spese di lite.
+
+		<claim ID="Claim3" G="2" P="B" CON="Req2">La EAI S.p.A. si è costituita in giudizio, depositando controdeduzioni in data 6.05.2016, nelle quali ha insistito sulla propria tesi difensiva e sulla correttezza della decisione impugnata.</claim> 
+		Ha poi prodotto memorie illustrative in data DD.MM.2017 e DD.MM.2017, richiamando giurisprudenza di legittimità e di merito favorevoli alla sua tesi difensiva, condivisa dai primi giudici.
+	
+
+	MOTIVI DELLA DECISIONE
+
+		L'appello dell'Agenzia merita di essere accolto per le ragioni di seguito esposte, mentre la tesi della Compagnia assicuratrice è priva di pregio.
+
+		<mot ID="Mot2" G="2" O="Claim2">La giurisprudenza invocata dalla Società contribuente risulta superata, da un ben più recente decisione della Suprema Corte (Cassazione civile, sez. trib., n. 22429/04. 2016), che ha trattato un caso speculare a quello in questione.
+
+		In tale decisione, la Corte di Cassazione ha affermato che in ipotesi di "operazioni di assicurazione", la correttezza dell'applicazione normativa dell'esenzione va vagliata alla luce dei pertinenti parametri come ricostruiti dalla CGUE, che possono essere trasfusi nel seguente principio di diritto: "In tema di IVA, il regime di esenzione previsto dal D.P.R. n. 633 del 1972, art. 10, comma 1, n. 2. per le "operazioni di assicurazione", da interpretare restrittivamente in quanto derogatorio al regime ordinario di imponibilità, si estende -in considerazione di quanto stabilito dalla Corte di giustizia, tra le altre, con le sentenze emesse nelle cause C-349/96, C-472/03 e C- 40/15- alla pluralità di prestazioni idonee ad integrare il servizio assicurativo sotto il profilo economico, per cui occorre individuare gli elementi caratteristici dell'operazione di cui trattasi per stabilire se il soggetto passivo fornisca all'assicurato, considerato come consumatore medio, attraverso la pluralità di attività poste in essere, più prestazioni principali distinte o un'unica prestazione, sempre che il prestatore di servizi si sia impegnato esso stesso nei confronti dell'assicurato a garantire a quest'ultimo la copertura di un rischio e sia vincolato all'assicurato da un rapporto contrattuale. 
+		Spetta al giudice della controversia accertare, alla luce di questi elementi d'interpretazione, se l'operazione controversa debba essere considera ai fini dell'IVA, unitariamente come "operazione di assicurazione" ovvero come costituita da prestazioni indipendenti ovvero se ricorrano prestazioni accessorie.
+
+		Tale principio si applica - secondo il giudice di legittimità citato anche quando il contratto assicurativo sia stato concluso in coassicurazione con una pluralità dei soggetti obbligati pro quota alla copertura del rischio dell'assicurato e uno dei coassicuratori sia stato delegato dagli altri alla gestione ed all'esecuzione del rapporto assicurativo. 
+		La regolamentazione dei rapporti interni tra coassicuratori, mediante la cd. clausola di delega, e le concrete modalità di esecuzione dei compiti delegati, con o senza la spendita del nome dei coassicuratori, non ha, infatti, incidenza sulla nozione di "operazione di assicurazione", così come definita sul piano fiscale dalla normativa comunitaria e dall'elaborazione giurisprudenziale della CGEU, che risulta radicata su due specifici elementi: la idoneità delle diverse prestazioni o attività ad integrare il servizio assicurativo sotto il profilo economico; l'esistenza di un vincolo contrattuale tra il prestatore del servizio e l'assicurato, che ricorre nel rapporto con il coassicuratore.".
+
+		Alla luce del principio di diritto enunciato, al quale questa Commissione deve attenersi, va verificato se nel caso in questione la Società assicuratrice contribuente, che contesta il provvedimento di irrogazione sanzioni, abbia dimostrato l'idoneità delle prestazioni o delle attività effettuate a configurare il vincolo assicurativo sotto il profilo economico e l'esistenza di un rapporto contrattuale tra il prestatore di servizio e l'assicurato, che ricorre necessariamente nel rapporto con il coassicuratore.
+
+		Nel caso in questione la Società contribuente ha prodotto solo giurisprudenza di legittimità e di merito, un riscontro ad interpello dell'Agenzia delle Entrate (all. 15), una nota ANIA (all. 16), ma non ha valorizzato l'unicità della funzione economica che dovrebbe accomunare le diverse attività, né ha prodotto alcun contratto a dimostrazione del rapporto tra coassicuratrice ed assicurato.
+
+		In assenza di prova, in forza del principio secondo cui l'onere di fornire la prova contraria, al fine di contestare l'atto impositivo notificatogli, incombe sul contribuente, la sentenza dei primi giudici si manifesta erronea e l'appello dell'Agenzia deve essere accolto con conseguente riforma della sentenza dei primi giudici.</mot>
+
+		Le spese seguono la soccombenza e vanno liquidate in favore dell'Agenzia delle Entrate, Direzione Provinciale I di XXX, in complessivi euro 1.064,00= come da minimi tabellari, ai sensi del D.M. n. 77/2014, in relazione al valore della controversia.
+	
+
+	P.Q.M.
+
+	La Commissione Tributaria Regionale, sez. 15, definitivamente pronunciando sull'appello proposto dall'Agenzia delle Entrate Direzione Regionale della XXX
+
+		<dec ID="Dec2" G="2" E="1" O="Req2">Accoglie l'appello e, per l'effetto, in riforma della sentenza della Commissione Tributaria Provinciale di XXX, sez. 47 n. 7145/47/15 del DD.MM.1015, pubblicata in data DD.MM.2015, conferma il provvedimento di irrogazione sanzioni n. TMXXXXXXXX12013, per IVA. OP. ESENTI 2006.</dec>
+
+		Condanna l'appellata Società EAI S.p.A. alla rifusione delle spese processuali del presente grado di giudizio, come da motivazione.
+
+		
+			Così deciso in XXX, nella Camera di Consiglio del DD MM 2017.
+		
+	
+
+</body>

@@ -1,0 +1,309 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+
+REPUBBLICA ITALIANA
+IN NOME DEL POPOLO ITALIANO
+
+LA COMMISSIONE TRIBUTARIA REGIONALE
+DI VENETO SEZIONE 5
+
+riunita con l'intervento dei Signori:
+giu1 Presidente
+giu2 Relatore
+giu3 Giudice
+
+ha emesso la seguente
+SENTENZA
+
+- sull'appello n. 368/2017
+depositato il DD/MM/2017
+
+- avverso la pronuncia sentenza n. 819/2016 Sez:1 emessa dalla Commissione
+Tributaria Provincialedi VICENZA
+
+<part P="A">contro:
+LS SRL - IN CONCORDATO PREVENTIVO - IN LIQUIDAZIONE
+XXX</part>
+
+difeso da:
+DD
+XXX
+
+e da
+ZV
+XXX
+
+<part P="B">proposto dall'appellante:
+AG. ENTRATE DIREZIONE PROVINCIALE VICENZA</part>
+
+Atti impugnati:
+AVVISO DI ACCERTAMENTO n° T6503M003881/2013 IVA-ALTRO 2008
+AVVISO DI ACCERTAMENTO n° T6506M001390 2014 IVA-ALTRO 2012
+AVVISO DI ACCERTAMENTO n° T6506M003882 2013 IVA-ALTRO 2009
+AVVISO DI ACCERTAMENTO n° T6506M003883/2013 IVA-ALTRO 2010
+AVVISO DI ACCERTAMENTO n° T6506M003884/2013 IVA-ALTRO 2011
+DINIEGO RIMBORSO n° VA13 327813 2014 IVA-ALTRO 2011
+
+REG.GENERALE
+N° 368/2017
+
+ 
+L’Agenzia delle Entrate di Vicenza, ha emesso e notificato alla LS srl in
+concordato preventivo — in liquidazione, avvisi di accertamento per il recupero dell’Iva
+illegittimamente dedotta negli esercizi 2008/2012 e negato il rimborso dell’Iva corrisposta
+nell’esercizio 2011.
+
+L’Ufficio contestava l'utilizzo da parte della ricorrente di dichiarazioni d’intento false
+rilasciate dai propri clienti, con compartecipazione della società ad un disegno
+fraudolento complessivo volto all'evasione dell'Iva.
+
+
+
+ <req ID="Req1" G="1" P="A">
+ In merito alle contestazioni dell’Ufficio, la società presentava separati ricorsi,</req>
+ <claim ID="Claim1" G="1" P="A" PRO="Req1">deducendone l’illegittimità per motivi sia di
+ forma che di merito, e</claim>
+
+ <req ID="Req2" G="1" P="A">per quanto riguarda
+ l’anno 2008 chiedeva anche l'annullamento dell’atto</req>
+ <claim ID="Claim2" G="1" P="A" PRO="Req2"> in quanto emesso oltre il termine,</claim> 
+ <arg ID="Arg1" G="1" P="A" PRO="Claim2">in quanto né dall'atto impugnato, né dal processo verbale di constatazione risultava alcuna
+ segnalazione da parte dell'Agenzia delle Entrate all'Autorità Giudiziaria competente.</arg>
+
+
+
+ <dec ID="Dec1" G="1" E="1" O="Req1">Con sentenza n. 819/01/2016, la Commissione Tributaria Provinciale di Vicenza
+accoglieva l’eccezione relativa all’accertamento per l'anno 2008,</dec>
+
+
+
+<mot ID="Mot1" G="1" O="Claim2"> dichiarando che esso
+doveva essere annullato in quanto emesso oltre il termine massimo consentito.</mot>
+
+
+
+ <dec ID="Dec2" G="1" E="1" O="Req1">Respingeva le eccezioni sollevate in ordine al difetto di notifica e di motivazione;</dec>
+ 
+<mot ID="Mot2" G="1" O="Claim1">in
+conformità alle sentenze di questa CTR n. 436/20/15, n. 540/1/2015 e n. 541/1/2015, che,
+decidendo in sede di rinvio dalla Suprema Corte, ha respinto l'appello in riassunzione
+proposto dall'ufficio, sia pure con diversa motivazione da quella adottata dalla
+Commissione Tributaria Provinciale, ha dichiarato illegittimi gli avvisi di accertamento
+relativi agli esercizi precedenti a quelli oggetto del presente procedimento, sempre in
+relazione alla cosiddetta "operazione Long Drink", affermando che non è stato fornito
+dall’Ufficio alcun elemento idoneo a far dichiarare, in capo alla società SG s.r.l.,
+già LS s.r.l., la consapevolezza della partecipazione ad un giro di illeciti fiscali che
+alcune ditte mettevano in atto ai danni dello Stato non versando l’Iva dovuta.</mot>
+
+Rilevava inoltre che l’indizio di grave di consapevolezza del carattere frodatorio delle
+operazioni commerciali, consistente nell'aver ceduto la merce in evasione I.V.A. a prezzi
+inferiori a quelli di mercato, era pienamente smentito dalla relazione tecnica redatta il DD
+MM 2015 dal Dott. CG,
+<mot ID="Mot3" G="1" O="Claim1"> non contestata da controparte, secondo la quale
+gli adempimenti contabili e fiscali inerenti alle fatture di vendita, alla movimentazione
+della merce ed agli incassi trovavano riscontro con la contabilità, che per tutti i clienti
+oggetto di verifica la Società aveva regolarmente adempiuto alle formalità relative alla
+registrazione ed invio telematico delle dichiarazioni di intento ricevute, che i movimenti
+di magazzino concordavano con la documentazione riscontrata, che non risultavano
+anomalie sui prezzi e/o costi di acquisto e che i prezzi medi di vendita risultavano sempre
+superiori ai costi medi di acquisto.</mot>
+
+
+
+<dec ID="Dec10" G="1" E="1" O="Req1">La CTP di Vicenza, pertanto, accoglieva i ricorsi riuniti</dec> 
+e condannava l’Ufficio al
+pagamento delle spese di lite, liquidate in complessivi €. 33.600,00 oltre alle spese
+generali, C.P.A. ed L.V.A.
+
+
+
+
+
+ <req ID="Req3" G="2" P="B">
+ Contro la sentenza ha presentato appello l’Ufficio, chiedendone la riforma</req> 
+ <claim ID="Claim3" G="2" P="B" PRO="Req3">per errata
+ interpretazione dell’art. 2 del D.Lvo 128/2015, relativamente all’anno 2008</claim> 
+ <claim ID="Claim4" G="2" P="B" PRO="Req3">e la mancata
+ considerazione delle prove fornite a sostegno della consapevolezza o quanto meno della
+ negligenza della società nei rapporti commerciali con ditte palesemente coinvolte in
+ attività mirate a frodare il fisco.</claim>
+
+<req ID="Req4" G="2" P="A">Si è costituito in giudizio la società, che, controdeducendo ai motivi di appello, ne chiede
+il rigetto con conferma della sentenza di primo grado.</req>
+
+In data DD MM 2017 l'Agenzia delle Entrate dimetteva nel procedimento memoria
+illustrativa e di replica, nonché ulteriori documenti a sostegno delle proprie
+argomentazioni.
+
+Il DD MM 2017 la LS srl in liquidazione e concordato preventivo presentava
+in CTR una memoria illustrativa contabile in relazione ai rilievi formulati dall’ Ufficio, ed
+in data DD MM 2018 depositava memoria con dichiarazione dell'intenzione di
+proporre motivi aggiunti e formulava, allo scopo, formale “Istanza di rinvio" dell'udienza
+fissata per il giorno DD.MM.2018, ex art. 24, co. 3, D.Lgs. 546/92.
+
+L’Agenzia in data DD MM 2018 depositava memoria di replica chiedendo il rigetto
+dell’istanza di rinvio, sostenendo l’inammissibilità dei motivi aggiunti per violazione
+dell'articolo 57 e dell'articolo 24 del D. Lgs. 546/1992, stante il divieto di proporre
+domande ed eccezioni nuove in appello e l’inapplicabilità dell'articolo 24 comma 2 D.Lgs
+546/1992 al secondo grado del giudizio.
+
+Contestava inoltre l'eccezione formulata dalla società di inammissibilità dell'utilizzo dei
+verbali in atti per violazione dell'art. 7 D.Lgs. 546/92, trattandosi di dichiarazioni rese da
+terzi in sede penale.
+
+Nell’udienza del DD MM 2018 il Collegio rinviava la discussione della vertenza per
+acquisire ed approfondire la materia alla luce delle sentenze di questa CTR relative agli
+anni precedenti quelli in esame.
+
+<claim ID="Claim5" G="2" P="A" PRO="Req3">In data DD MM la società ha depositato ulteriori documenti a sostegno della regolarità
+degli adempimenti posti in essere dalla LS srl nonché della inattendibilità e
+contraddittorietà delle affermazioni rese dalla dipendente BC, sulle quasi
+si è basata l’azione dell’Ufficio, ed in ordine alle quali è stata presentata da parte del
+legale rappresentante della LS, sig. CT, querela di falso.</claim>
+
+
+La vertenza è stata discussa e decisa nella pubblica udienza.
+
+In via preliminare, in ottemperanza all’esigenza di brevità e sinteticita degli atti
+processuali,visto l’art. 118 delle disposizioni di attuazione del codice di procedura civile,
+nel testo aggiornato con le modifiche introdotte dalla legge n. 69/2009 e della
+disposizione di cui all’art. 132, comma 2, n. 4 del codice di procedura civile, per quanto
+concerne i fatti all’origine della controversia e le questioni in diritto e di fatto eccepite in
+giudizio, si intendono integralmente richiamati e si fa esplicito rinvio agli avvisi di
+accertamento impugnati e al diniego di rimborso emessi e notificati dall’Agenzia delle
+Entrate ed ai relativi allegati.
+<mot ID="Mot4" G="2" O="Claim3">
+Seguendo l’ordine dei motivi d’appello, il primo concerne, relativamente all’anno 2008,
+l’interpretazione delì’art. 2 del D.Lvo 128/2015, in ordine al quale il primo giudice ha
+stabilito la decadenza del potere accertativo per inapplicabilità alla fattispecie del
+raddoppio dei termini.
+
+Il problema è costituito dal rapporto fra il D.Lgs. 128/15, art. 2 e la legge di stabilità n.
+208 del 28.12.15, art. ] co. 131/132, in relazione alla abrogazione o sopravvivenza della
+c.d. clausola di salvaguardia, che prevedeva l'applicazione della normativa (in materia di
+raddoppio termini) precedente all'avvento del D.Lgs. 128/15 per gli avvisi di
+accertamento notificati prima dell'entrata in vigore dello stesso D.Lgs. (02.09.15).
+
+Questa CTR si è già più volte espressa (v. per tutte la sentenza n. 342/5/18) nel ritenere
+che la L. 208/15 non abbia portato all'abrogazione né espressa né tacita della norma
+transitoria suddetta, in ciò conformandosi al giudizio sul punto della Cassazione che, con
+la sentenza n. 26037/2016, nonché con ordinanze e sentenze precedenti e successive, ha
+stabilito che il regime transitorio di cui al co. 3 dell'art. 2 del D.Lgs. 128/2015 non è
+abrogato dal successivo regime transitorio e che pertanto, per gli accertamenti anteriori al
+vigore di tale normativa (come nel caso de qua), non necessita, al fine del raddoppio
+termini, che la denuncia sia espletata prima del termine ordinario di accertamento,
+bastando la sussistenza delle condizioni per l'obbligo di denuncia.</mot>
+
+In tal senso, il motivo d’appello concernente la questione del raddoppio dei termini è
+fondato e, limitatamente a tale punto, la sentenza di primo grado va riformata.
+
+<mot ID="Mot5" G="2" O="Claim4">Per il resto, nel merito, la sentenza va confermata non alla luce dei precedenti
+pronunciamenti di questa stessa CTR, (sent. n. 436/20/15, n. 540/1/2015 e n. 541/1/2015),
+stante la diversa situazione giuridica del soggetto (allora presunto utilizzatore di fatture
+false, oggi accusato di aver utilizzato false dichiarazioni di intenti rilasciate dal
+cessionario), che non consente il verificarsi di un giudicato esterno, bensì per la mancata
+prova della consapevolezza della società di partecipare ad una frode fiscale.
+Correttamente l’Ufficio ha agito, nell’ambito di una indagine sulla violazione delle norme
+in materia di Iva sull’esportazione dei prodotti ceduti a terzi esportatori, nei confronti di
+soggetti individuati come società cartiere, tra le quali anche alcune società cessionarie
+della LS srl.
+
+Alla luce delle sentenze della Corte europea e della Suprema corte di Cassazione, è onere
+dall'Amministrazione Finanziaria fornire la prova sia dell’omesso versamento di Iva in
+qualsiasi punto della catena di fornitura, sia della consapevole partecipazione del soggetto
+indagato, fermo restando che il soggetto passivo non è tenuto ad effettuare investigazioni
+sulla regolarità dei clienti cessionari, salvo l'uso della normale diligenza.
+
+La responsabilità nella partecipazione alla frode costituisce elemento presuntivo di
+coinvolgimento possibile anche del cessionario, ma la consapevolezza che questa siano
+partecipe della frode va sostenuta con prove ulteriori, che possono essere costituire o da
+rapporti ed accordi tra le parti, o da acquisti a prezzi non coerenti di mercato o dalla
+restituzione di parte dell’imposta illecitamente lucrata.
+
+Nel caso di specie, la LS, e la questione non è controversa, si è conformata alle
+disposizioni di legge facendosi rilasciare dai propri clienti le lettere di intenti,
+trasmettendone tempestivamente copia all’Ufficio.
+
+La Cassazione (v. sent. 5174/17) stabilisce che condizione legittimante la fatturazione in
+esenzione dell’Iva è principalmente costituita dalla tempestiva dichiarazione di intenti da
+parte del beneficiario, regolarmente comunicata ai destinatari previsti dalla norma.
+
+Il cedente, pertanto, può essere chiamato, come nella fattispecie, al pagamento
+dell’imposta ed alle relative sanzioni se sia provata, dall’Ufficio accertatore, la
+consapevolezza in ordine all’utilizzo di dichiarazioni d’intento false, delle quali neppure
+l’ Ufficio, all’atto dell’utilizzo, ha rilevato e segnalato la natura fittizia e fraudolenta.
+L’esistenza di tale consapevolezza deve essere provata o, in caso di assenza di prove
+dirette, fondata su presunzioni gravi, precise e concordanti.
+
+Nessuna prova decisiva al riguardo viene fornita dall’ Amministrazione; a conforto della
+tesi dell'insussistenza della consapevole partecipazione, vi sono al contrario diversi
+elementi di fatto che il primo giudice ha correttamente valutato.
+
+Non vi è prova di retrocessione di Iva dai soggetti cessionari a favore della società
+fornitrice; le forniture sono effettuate a soggetti che operavano sulla piazza, nei confronti
+dei quali la società ha fatto, come risulta anche dalle testimonianze di alcuni dipendenti, i
+controlli nei limiti delle sue competenze e possibilità, attraverso indagini presso la
+CCIAA mirate ad accertarne l’esistenza e la solvibilità economica e finanziaria.
+
+Non va sottaciuto che l’Ufficio, pur avendo maggior disponibilità di mezzi e di strumenti
+di controllo, anche sulla regolarità fiscale, è pervenuto alla stessa conclusione,
+consentendo in un caso addirittura a rimborsare, in quanto ritenuto dovuto, un credito Iva
+di € 2.000.000,00.
+
+Altro elemento indiziario sul quale si è fondato l’ Ufficio è l’esistenza di prezzi sottocosto
+della merce venduta ai propri clienti.
+
+Il primo giudice ha correttamente e compiutamente valutato tale elemento presuntivo,
+escludendone l’esistenza in base alla relazione tecnica redatta nel MM 2015 dal dr.
+CG, dalla quale, senza che al riguardo l’Ufficio abbia presentato ragioni di
+contestazioni o dissenso, emerge che non risultano anomalie di alcun genere sui prezzi di
+vendita e che i prezzi medi di vendita risultavano sempre superiori ai costi medi di
+acquisto.
+
+In definitiva, l’Ufficio ha ricostruito l’esistenza di un meccanismo fraudolento posto in
+essere da società italiane cessionarie, ai fini dichiarati di esportazione mai avvenuta, della
+LS srl, ma non viene fornita alcuna prova che la società cedente abbia partecipato
+consapevolmente all’assenta frode fiscale, nè possono costituire prove l’avvenuta
+fornitura o la attribuita evasione dell’imposta a valle delle vendite e da parte di altre
+società.
+
+Riprendendo sul punto le condivisibili ragioni esposte da questa CTR (sent. n. 436/2015)
+nel giudizio in riassunzione per le violazioni relative ad anni precedenti, non vi è prova
+che la contribuente abbia posto in essere, per suo conto un’evasione tributaria o che abbia
+voluto preordinare manovre elusive, quali quelle che le vengono addebitate. La
+contribuente non può rispondere della evasione del tributo perpetrata da altri soggetti
+d’imposta.
+Al contrario risulta dagli atti di causa che la contribuente operava in sospensione di
+imposta sulla base di lettere di intenti regolarmente sottoposte al controllo da parte
+dell’Ufficio e non vi è prova di un ritorno totale o parziale del tributo non versato a valle.
+Non vi è prova che i prezzi fatturati dalla LS fossero inferiori a quelli di mercato
+ed è insegnamento della Suprema Corte che il mancato versamento dell’TVA da parte di
+società cessionarie non è elemento sufficiente a dimostrare la fittizietà o intento
+fraudolento nelle operazioni commerciali poste in essere.</mot>
+
+Sui presupposti sopra indicati, l’appello dell’Ufficio va accolto sulla prima censura
+ e rigettato per il resto.
+
+Stante la parziale reciproca soccombenza, le spese del giudizio liquidate per il primo
+grado vengono confermate, comprendendovi anche le spese del grado d’appello.
+
+
+PQM
+
+la Commissione Tributaria Regionale, sez. n. 5, visto l’appello dell’Ufficio, in parziale
+riforma della sentenza n. 819/01/2016 della Commissione Tributaria Provinciale di
+Vicenza,
+<dec ID="Dec20" G="2" E="1" O="Req3">dichiara legittimo l’avviso di accertamento notificato per l’anno 2008;</dec>
+
+ conferma per il resto l’appellata sentenza comprendendo nella liquidazione delle spese anche quelle
+del grado d’appello,
+<dec ID="Dec3" G="2" E="0" O="Req3">rigettando nel merito l’appello dell’Ufficio.</dec>
+
+Venezia,DD MM 2018
+
+IL PRESIDENTE
+IL RELATORE
+
+ 
+</body>

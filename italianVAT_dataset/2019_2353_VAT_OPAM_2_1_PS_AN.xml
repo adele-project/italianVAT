@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+
+REPUBBLICA ITALIANA
+IN NOME DEL POPOLO ITALIANO
+
+	LA COMMISSIONE TRIBUTARIA REGIONALE DI XXX SEZIONE 1
+
+	riunita con l'intervento dei Signori:
+		giu1 Presidente
+		giu2 Relatore
+		giu3 Giudice
+	
+
+	ha emesso la seguente
+	SENTENZA
+
+	REG.GENERALE N° 8023/2017
+
+	- sull'appello n. 8023/2017
+	depositato il DD/MM/2017
+
+	- avverso la pronuncia sentenza n. 2073/2017 Sez:29 emessa dalla Commissione Tributaria Provinciale di XXX
+
+	<part P="A">contro:
+	BM
+	VIA XXX</part>
+
+	difeso da:
+	DR. VP
+	VIA XXX
+
+	<part P="B">contro:
+	B M. DI BM SAS
+	VIA XXX</part>
+
+	difeso da:
+	DR. VP
+	VIA XXX
+
+	<part P="C">proposto dall'appellante:
+	AG. ENTRATE DIREZIONE PROVINCIALE XXX 3
+	VIA XXX</part>
+
+	Atti impugnati:
+	AVVISO DI ACCERTAMENTO n° TK7013004882/2013 IRPEF-ALTRO 2008
+	AVVISO DI ACCERTAMENTO n° TK70211021192013 IVA-OP.IMPONIB. 2008
+
+
+SVOLGIMENTO DEL PROCESSO
+	
+		<req ID="Req1" G="1" P="A|B">Con sentenza n. 2073/29/2017 la Commissione Tributaria Provinciale di XXX accoglieva il ricorso presentato da B M. DI BM SAS e BM, avverso l'avviso di accertamento n. TK7021102119/2013,</req>
+	
+ 
+		
+con il quale l’Agenzia delle Entrate richiedeva il pagamento dell'IVA relativamente all'anno 2008.
+
+		
+	
+		<claim ID="Claim1" G="1" P="A|B" PRO="Req1">In primo grado, i ricorrenti avevano dedotto l'illegittimità del provvedimento adottato dall'Ufficio.</claim>
+		<claim ID="Claim2" G="1" P="C" CON="Req1">Si costituiva L'Agenzia delle Entrate sostenendo la legittimità del proprio operato.</claim>
+	
+
+	
+		<dec ID="Dec1" G="1" E="1" O="Req1">Il Giudice di primo grado, giudicando fondate le eccezioni proposte dai ricorrenti, accoglieva il ricorso.</dec>
+	
+
+
+
+	
+		<req ID="Req3" G="2" P="C">Avverso tale sentenza ha proposto appello l'Agenzia delle Entrate chiedendo la riforma della sentenza.</req>
+
+		<req ID="Req4" G="2" P="A|B">Si sono costituiti in giudizio BM. DI BM SAS e BM richiedendo la conferma della sentenza impugnata</req> 
+		<req ID="Req5" G="2" P="A|B">e proponendo appello incidentale</req>
+		<claim ID="Claim3" G="2" P="A|B" PRO="Req4|5">ribadendo il difetto di sottoscrizione dell'avviso di accertamento.</claim>
+
+	Alla data odierna, all’esito delle discussioni delle parti, il Collegio si è riservata la decisione.
+	
+
+
+MOTIVI DELLA DECISIONE
+
+	
+		Ad avviso del Collegio l’appello principale deve essere accolto, 
+		mentre deve essere rigettato l'appello incidentale.
+	
+
+
+Preliminarmente, si osserva che l'appello dell'Agenzia delle Entrate risulta regolarmente notificato nei termini di legge e correttamente notificato a mezzo posta.
+
+Dagli atti emerge che l'Ufficio finanziario, dopo aver rilevato un'alta incidenza dei costi esposti dalla società nella dichiarazione modello UNICO presentato per l'anno di imposta 2008, richiedeva l'esibizione della documentazione contabile e fiscale relativa.
+
+La società non ottemperava al predetto invito, per cui l’Ufficio procedeva alla rideterminazione induttiva del reddito di impresa della società notificando altresì analogo avviso di accertamento a MB che risulta essere socio accomandatario nella misura del 50% della sociètà
+
+Il Giudice di primo grado, dopo aver riunito i ricorsi, li accoglieva parzialmente ritenendo congrue le giustificazioni prodotte.
+
+
+	
+		<req ID="Req30" G="2" P="C">Avverso tale sentenza ha proposto appello l'Agenzia delle Entrate lamentando la erronea valutazione dei fatti di causa.</req>
+	
+
+	
+		Ad avviso del Collegio l’appello deve essere accolto 
+		<mot ID="Mot1" G="2" O="Req3">in quanto dalla sentenza impugnata risultano scarsamente motivati i motivi dell’accoglimento sostenendo che viene confutato “verosimilmente quanto contestato dall’Ufficio” né si comprende in che cosa consista l'accoglimento parziale e come venga quantificato.
+
+		Dall'esame degli atti emerge che la società BM. DI BM SAS esercita l’attività di intermediazione e commercio di vari prodotti e che in tema di accertamento fiscale, l'invito da parte dell’amministrazione finanziaria a fornire dati e chiarimenti, assolve alla funzione di assicurare un dialogo preventivo tra fisco e contribuente.
+
+		In base all’art. 32 del D.P.R. n. 600 del 1973, se il contribuente non prova che il mancato adempimento alle richieste dell’Ufficia non sia dovuto a sua negligenza, i documenti prodotti non possono essere presi in considerazione.
+
+		In ogni caso gran parte della documentazione prodotta tardivamente non appare idonea a confutare le risultanze dell’atto impositivo.
+
+		Nello specifico non sono state prodotte. né sono state documentate due fatture emesse dalla società R.B. P SRL che non si riferiscono minimamente alle attività gestite dalla società.
+
+		Per quanto riguarda le fatture emesse dalla SG LEASING SPA si osserva che esse risultano relative a canoni di locazioni finanziarie, ma non risulta indicato il bene strumentale oggetto di locazione.
+
+		Per le fatture emesse dalla AI SRL per canoni di noleggio non è stato esibito il contratto di noleggio.
+
+		Analogamente emergono anomalie per gli ammortamenti riportati in carenza delle fatture di acquisto.
+
+		Sulla base di tali elementi si deve ritenere che l’avviso di accertamento sia stato correttamente emesso e adeguatamente motivato e che il contribuente non ha fornito idonea giustificazione al riguardo.
+
+		Conseguentemente l'appello principale dell’Ufficio deve essere accolto con conseguente conferma dell'avviso di accertamento impugnato.</mot>
+
+		<mot ID="Mot2" G="2" O="Req5">Per quanto riguarda l’appello incidentale si rileva che esso riguarda esclusivamente la eccezione di difetto di sottoscrizione dell’avviso già rigettato in primo grado.
+
+		Il contribuente lamenta che l'atto sia sottoscritto da un funzionario e non da un direttore, ma dagli atti depositati emerge che il funzionario aveva idonea delega alla firma e che in ogni caso, sulla base della costante giurisprudenza, si deve ritenere che la validità dell'atto non può essere inficiato dai problemi organizzativi interni laddove sia chiara l'individuazione dell’ufficio emittente.</mot>
+
+		 Conseguentemente l’appello incidentale deve essere rigettato.
+
+		Segue alla soccombenza il pagamento delle spese processuali che si reputa equo liquidare in euro 1.000,00.
+		
+	
+	P. Q. M.
+
+		<dec ID="Dec2" G="2" E="1" O="Req3">Accoglie l'appello principale dell'Ufficio.</dec> 
+		<dec ID="Dec3" G="2" E="1" O="Req5">Rigetta l'appello incidentale della parte.</dec>
+		Spese euro 1.000,00.
+
+		Il Relatore
+		giu2
+
+		Il Presidente
+		giu1
+	
+
+</body>

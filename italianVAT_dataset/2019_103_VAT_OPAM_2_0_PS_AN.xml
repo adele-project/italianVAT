@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+REPUBBLICA ITALIANA
+IN NOME DEL POPOLO ITALIANO
+
+	LA COMMISSIONE TRIBUTARIA REGIONALE DI XXX SEZIONE 3
+
+	riunita con l'intervento dei Signori:
+		giu1 Presidente
+		giu2 Relatore
+		giu3 Giudice
+	
+
+	REG.GENERALE N° 60/2018
+
+	ha emesso la seguente
+	SENTENZA
+	
+	- sull'appello n. 60/2018
+	depositato il DD/MM/2018
+
+	- avverso la pronuncia sentenza n. 164/2017 Sez:2 emessa dalla Commissione Tributaria Provinciale di XXX
+
+	<part P="A">contro:
+	AG. ENTRATE DIREZIONE PROVINCIALE XXX</part>
+
+	<part P="B">proposto dagli apppellanti:
+	"A" S.N.C.</part>
+
+	difeso da:
+	"Avv1"
+
+	difeso da:
+	"Avv2"
+
+	<part P="C">"X"</part>
+
+	difeso da:
+	"Avv1"
+	"Avv2"
+
+	<part P="D">"Y"</part>
+
+	difeso da:
+	"Avv1"
+	"Avv2"
+
+	<part P="E">"Z"</part>
+
+	difeso da:
+	"Avv1"
+	"Avv2"
+
+	<part P="F">"XX"</part>
+
+	difeso da:
+	"Avv1"
+	"Avv2"
+
+	Atti impugnati:
+	AVVISO DI ACCERTAMENTO n° TI702FM01887/2016 IVA-OP.IMPONIB. 2011
+	AVVISO DI ACCERTAMENTO n° TI702FM01888/2016 IVA-OP.IMPONIB. 2012
+	AVVISO Di ACCERTAMENTO n° TI702FM01889/2016 IVA-OP.IMPONIB. 2013
+
+
+
+
+FATTO
+La "A" Snc, con sede in --- ed i soci illimitatamente responsabili, "X", "Y", "Z", "XX" ricorrevano averso gli avvisi di accertamento n. T1702FM01887 — IVA Anno 2011, n.T11702FM01888 — IVA anno 2012 e n. T1702FM01889 — IVA anno 2013, emessi dall’ Agenzia delle Entrate - Direzione Provinciale di XXX. Tali avvisi di accertamento si fondavano sul pvc elevato dalla Guardia di Finanza in cui si segnalava l’illegittima applicazione del reverse charge previsto dall’art. 17, c.5, DPR 633/72 da cui la contestazione alla "A" s.n.c. da parte dell’Agenzia delle Entrate di emissione di fatture alla "B" Spa senza indicazione dell’IVA. L’Ufficio contestava l’impropria applicazione del reverse change in quanto la cessione di materiale d’oro da parte della "A" alla "B" Spa, non veniva effettuata ad una società che svolgeva esclusivamente l’attività di lavorazione industriale dei metalli preziosi, bensì ad una società, la "B" Spa, che si limitava ad acquistare materiale d’oro usato e rivenderlo a terze imprese per la trasformazione, esercitando, in realtà, attività di intermediazione e non di trasformazione dell’oro.
+In particolare l’ufficio richiamando l’art. 17 comma 5 del DPR 633/1973, la risoluzione dell’Agenzia delle Entrate n° 92/E del 12.12.2013, gli atti istruttori costituiti dal PVC del 20.7.2016 della Guardia di Finanza ed il modello “Unico 2012” della contribuente società, rilevava che condizione essenziale per l’applicazione del reverse charge, era il che cessionario (nel caso di specie cessionaria la società "B" Spa), dell’oro venduto dalla società contribuente, svolgesse effettivamente sui beni d’oro acquistati attività di fusione e trasformazione industriale del metallo, unica circostanza che consentiva di assimilare, ai fini del trattamento IVA, l’acquisto dei suddetti beni di oro usato ad un acquisto d’oro industriale, soggetto al meccanismo dell’inversione contabile.
+L’ufficio riteneva che nel caso di specie la cessionaria "B" Spa non svolgesse attività di trasformazione e contestuale successiva commercializzazione dei beni, e ciò escludeva che l’oro potesse essere ritenuto per “vocazione sempre destinato a un processo di trasformazione industriale”, presupposto per l’applicazione del regime di reverse change.
+La accertata mancanza in capo alla concessionaria dell’oro del requisito soggettivo indicato nella motivazione degli avvisi di accertamento impugnati, (esercizio dell’attività di trasformazione-fusione dell’oro), determinava la ripresa a tassazione oggetto degli avvisi di accertamento.
+
+
+	
+		<req ID="Req1" G="1" P="B|C|D|E|F">I contribuenti impugnavano tali avvisi eccependo:</req>
+		a) <arg ID="Arg1" G="1" P="B|C|D|E|F" PRO="Claim1">che nel caso di specie l’acquirente "B" non era consumatrice finale ed era vincolata per statuto della società a rivendere gli oggetti d’oro acquistati solo a soggetti che li trasformassero in materia prima e non a chi li “destini al loro originario utilizzo”;</arg>
+
+		b) <arg ID="Arg2" G="1" P="B|C|D|E|F" PRO="Claim1">che l’attività della cessionaria nel caso di specie aveva ad oggetto solo l’oro da investimento (per cui vale l’esenzione Iva, salvo opzione di imponibilità) e solo l’oro diverso da quello da investimento nella sua funzione prettamente industriale destinato, quindi, alla trasformazione in materia prima (soggetto al reverse change).
+
+		L’oro ceduto dalla ricorrente alla "B" non poteva pertanto, che essere destinato alla trasformazione,</arg> 
+		<claim ID="Claim1" G="1" P="B|C|D|E|F" PRO="Req1">con conseguente legittima applicazione del regime del reverse charge, come era avvenuto attraverso la successiva cessione da parte di "B" a soggetti terzi per la trasformazione.</claim>
+
+		<arg ID="Arg3" G="1" P="B|C|D|E|F" PRO="Claim2">I ricorrenti contestavano che l’Ufficio aveva erroneamente omesso l’applicazione del disposto dell’art. 6 comma 9 bis2 Dlgs 471/97 rilevando che quando, come nel caso di specie, l'imposta (IVA) era erroneamente assolta dal cessionario o committente, il cedente non era tenuto all’assolvimento dell’imposta stessa, ma andava punito con la sanzione amministrativa compresa tra € 250,00 ed € 10.000,00;</arg> 
+
+		<claim ID="Claim2" G="1" P="B|C|D|E|F" PRO="Req1">rilevavano che l’ufficio non avrebbe, pertanto, dovuto nè potuto emettere l’avviso di accertamento impugnato, bensì un atto di contestazione con irrogazione della sola sanzione di cui all’art. 6 c. 9 bis2.</claim>
+
+		<claim ID="Claim3" G="1" P="B|C|D|E|F" PRO="Req1">ricorrenti eccepivano che l’ufficio aveva, altresì, violato il disposto dell’art. 3 Dlgs 472/97</claim> 
+		<arg ID="Arg4" G="1" P="B|C|D|E|F" PRO="Claim3">in quanto avevano effettuato un accertamento e ripreso a tassazione in forza di una risoluzione ministeriale pubblicata il 12.12.2013, successiva all’esaurimento delle condotte contestate (DD.MM.2013).</arg>
+
+		<claim ID="Claim4" G="1" P="B|C|D|E|F" PRO="Req1">I contribuenti rilevavano, infine, che nel caso di specie doveva essere applicata la causa di non punibilità dell’errore scusabile,</claim> 
+		<arg ID="Arg5" G="1" P="B|C|D|E|F" PRO="Claim4">atteso che ben poteva essere ritenuta esistente un’incertezza normativa chiarita e risolta solo dalla citata risoluzione ministeriale (92/2013), successiva alle condotte contestate (esaurite alla data del DD.MM.2013 quando veniva pubblicata la citata risoluzione ministeriale).</arg>
+	
+
+	
+		<dec ID="Dec1" G="1" E="0" O="Req1">La Commissione Tributaria Provinciale di XXX respingeva il ricorso</dec> 
+	
+	
+		<mot ID="Mot1" G="1" O="Claim1">ritenendo inapplicabile nel caso di specie il regime del reserve charge previsto dall’art. 17 c.5 de PDR 633/1972 in quanto afferente alla cessione di materiale d’oro usato a cui non seguiva, da parte del cessionario, una lavorazione industriale; al contrario, i “fondi di magazzino” acquistati venivano ceduti dalla società acquirente senza alcuna propria attività diretta alla trasformazione e lavorazione degli stessi, così che la società aveva svolto attività di mera intermediazione commerciale e non di trasformazione e lavorazione.</mot>
+
+		<mot ID="Mot2" G="1" O="Claim1">La CTP rilevava, inoltre, che non si poteva “non tener conto che il passaggio dei beni attraverso intermediario, potendosi ripetere più volte tra soggetti diversi prima di essere lavorato, possa in qualche modo permettere agli stessi beni di rientrare nel circuito di vendita in qualsiasi momento”.</mot>
+	
+
+
+
+	
+		<req ID="Req2" G="2" P="B|C|D|E|F"> Appellavano i contribuenti</req> 
+		<claim ID="Claim5" G="2" P="B|C|D|E|F" PRO="Req2">lamentando la erroneità della sentenza per i seguenti motivi:
+		1) Omessa pronuncia sulle domande subordinate formulate dai ricorrenti: irrogazione della sanzione nella misura “fissa”; irrogazione delle sole sanzioni senza addebito d’imposta; nullità dell’avviso in relazione all’applicazione della sola sanzione in assenza di imposta da esigere,</claim>
+		<arg ID="Arg6" G="2" P="B|C|D|E|F" PRO="Claim5">in quanto l’irrogazione non era stata preceduta da atto di contestazione in violazione degli artt. 16 e 17 del Dlgs 472/97.</arg>
+
+		2) <claim ID="Claim6" G="2" P="B|C|D|E|F" PRO="Req2">Erronea applicazione dell’art. 17 c.5 DPR 633/72</claim> 
+		<arg ID="Arg7" G="2" P="B|C|D|E|F" PRO="Claim6">norma che non fa alcun riferimento alla attività del cessionario dell’oro nello stabilire: “in deroga al I° comma, per le cessioni imponibili di oro da investimento di cui all’art. 10, numero 11) nonché per le cessioni di materiale d'oro e per quelle di prodotti semilavorati di purezza pari o superiore a 325 millesimi, al pagamento dell’imposta è tenuto il cessionario, se soggetto passivo d'imposta nel territorio dello stato...”</arg> 
+
+		Resiste l’ufficio.
+	
+
+	DIRITTO
+
+		Il ricorso in appello è infondato e và respinto.
+
+		<mot ID="Mot3" G="2" O="Claim6">Come rilevato nel PVC della Guardi di Finanza, e non contestato dalla contribuente, la "B" spa, nel caso di specie, si era resa cessionaria del materiale d’oro usato, e si era limilitata a rivenderlo a terze imprese per la trasformazione; non aveva effettuato proprio alcuna attività di fusione e/o di trasformazione, né aveva incaricato soggetti terzi per l'effettuazione di tali attività su materiale proprio, limitandosi alla cessione a terzi del materiale a lei ceduto dalla società ricorrente. Aveva svolto sostanzialmente una mera attività di intermediazione nella circolazione dell’oro usato cedutole dalla ricorrente, o meglio, soprattutto dei materiali a magazzino ed invenduti dalla società ricorrente, come emerge dalle dichiarazioni rese da "Y" e dalla quantità di oro risultante acquistata, dalla ricorrente società, da soggetti “privati”.
+		L’Amministrazione finanziaria già prima del 2013 aveva chiarito la portata della norma di cui all’art. 17 c.5 DPR 633/1972 ritenendo che la nozione di “materiale d'oro” o di “semilavorati” di cui alla citata norma, ricomprendesse tutte le forme di oro grezzo destinate a lavorazioni successive o di semilavorati caratterizzati dalle impossibilità di utilizzo ex sè, senza ulteriori stadi/o di lavorazioni/e e/o trasformazioni/e.
+
+		Nel caso di specie, al di là dell’oggetto sociale indicato nello statuto della cessionaria, quest’ultima effettuava solo una attività di acquisizione di materiale d’oro usati e di prodotti d’oro a magazzino ed invenduti dalla cedente, e non li sottoponeva ad alcuna trasformazione, cedendoli invece a propria volta, a soggetti terzi che provvedevano alla loro trasformazione industriale.
+
+		In quanto cessione a soggetto che nello specifico non effettuava alcuna operazione di attività di lavorazione industriale di metalli, né attività di trasformazione con metodo industriale o di fabbricazione ed immissione nel mercato di nuovi oggetti d'oro con proprio marchio di fabbricazione, la mera attività di cessione da parte della ricorrente società alla "B" doveva essere assoggettata al regime ordinario di imponibilità ai fini Iva.</mot>
+
+
+		<mot ID="Mot4" G="2" O="Claim5">Sotto il profilo delle domande subordinate deve rilevarsi che la cessionaria "B" non versava l’Iva in regime di reverse change con riferimento agli acquisti effettuati dalla ricorrente, ma, a propria volta cedeva, senza versare l’imposta, in regime di reverse change a soggetti terzi. Pertanto non possono trovare accoglimento le domande subordinate che si riferivano alla violazione dell’art.
+		3 e 6 Dlgs 472/1997.
+		Non la domanda di applicazione dell’art. 6 comma 9 bis 2 Dlgs 471/97 in quanto l’applicazione di una sanzione compresa tra € 250,00 ed € 10,000 nell’ipotesi di errata applicazione del reverse charge ed erronea assoluzione dell’imposta da parte del cessionario presuppone che il cessionario abbia assolto l’imposta laddove nel caso di specie non assolveva l’imposta ma cedeva, a propria volta in regime di reverve change, ad una società di trasformazione e solo quest’ultima assolveva l’imposta con riferimento al proprio acquisto in reverse change a seguito dell’omesso versamento dell’Iva da parte del cessionario PMP, l'Ufficio correttamente ha proceduto con l’avviso di accertamento per il recupero dell’imposta omessa e l’applicazione delle relative sanzioni.</mot>
+		<mot ID="Mot5" G="2" O="Claim7">Per quanto attiene alla invocata non punibilità ex art. 3 del Dlsg 472/97, stante la prassi interpretativa ed applicativa dell'Ufficio con riferimento all’art. 17 c. 5 Dlsg, che era risalente ad epoca antecedente rispetto alla risoluzione n° 92/103 del 2013, non può ritenersi che si fosse in presenza di errore scusabile da contrasti interpretativi.</mot>
+	
+
+	PQM
+
+		<dec ID="Dec2" G="2" E="0" O="Req2">La Commissione Tributaria Regionale del XXX conferma l’impugnata decisione;</dec>
+		Condanna l'appellante a pagare le spese del grado che liquida in € 1.500,00.
+		
+			Così deciso in XXX, lì DD MM 2018
+		
+
+		Il relatore
+		Il Presidente
+	
+
+</body>

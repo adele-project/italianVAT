@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+
+REPUBBLICA ITALIANA
+IN NOME DEL POPOLO ITALIANO
+
+ LA COMMISSIONE TRIBUTARIA REGIONALE DI XXX SEZIONE 2
+
+ riunita con l'intervento dei Signori: 
+ giu1 Presidente
+ giu2 Relatore 
+ giu3 Giudice
+ 
+
+ ha emesso la seguente
+ SENTENZA
+
+
+ - sull'appello n. 602/2016
+ depositato il DD/MM/2016
+
+ - avverso la pronuncia sentenza n. 114/2016 Sez:2 emessa dalla Commissione Tributaria Provinciale di XXX
+ 
+ <part P="A">contro:
+ I S.R.L.
+ IRPI S.R.L.
+ XXX </part>
+
+ difeso da:
+ AVV. PA
+ XXX
+
+ e da
+ DOTT. CG
+ XXX
+
+ <part P="B">proposto dall'appellante:
+ AG. ENTRATE DIREZIONE PROVINCIALE DI XXX
+ XXX</part>
+
+ Atti impugnati:
+ AVVISO DI ACCERTAMENTO n° T15030200786 IVA-ALTRO 2010
+ AVVISO DI ACCERTAMENTO n° TI5030200789 IVA-ALTRO 2011
+ AVVISO DI ACCERTAMENTO n° T15030200795 IVA-ALTRO 2012
+ AVVISO DI ACCERTAMENTO n° TI5030200797 IVA-ALTRO 2013
+
+
+ REG. GENERALE 602/2016
+
+ 
+SVOLGIMENTO DEL PROCESSO
+
+FATTO
+Da una verifica effettuata dalla G.d.F. di XXX nei confronti della Società IRPI SRL incorporata dalla I SRL, emergeva che negli esercizi dal 2010 al 2013 delle imprese clienti avevano emesso dichiarazioni d’intento ex art. 1 del D.L. n. 746/1983, più precisamente 11 imprese, e di queste solo due risultavano in possesso dei requisiti richiesti. Emergeva altresì che delle nove imprese non in regola, sette avevano concretizzato acquisti dalla IRPI per Euro 2.223.351,88 senza l’applicazione dell'IVA per Euro 461.426,27 emettendo dichiarazioni d’intento ideologicamente false.
+
+L’Agenzia delle Entrate Direzione provinciale di xxx emetteva quindi quattro avvisi di accettamento per il recupero dell’IVA, 
+
+
+ 
+ <req ID="Req1" G="1" P="A">atti impositivi che venivano tempestivamente impugnati dalla I SRL avanti la Commissione Tributaria Provinciale di XXX,</req>
+ <claim ID="Claim1" G="1" P="A" PRO="Req1">assumendo la violazione dell’art. 8 comma 2 del DPR 633/1972 e dell’art. 7 comma 3 del D.Lgs 471/1997,</claim>
+ <arg ID="Arg1" G="1" P="A" PRO="Claim1">in quanto sul fornitore sarebbe posto esclusivamente un obbligo di controllo formale circa la regolarità delle dichiarazioni d’intento e non un controllo sostanziale che graverebbe unicamente in capo all’A.F.</arg> 
+ <claim ID="Claim2" G="1" P="A" PRO="Req1">In subordine il difetto di prova da parte dell’Ufficio di una compartecipazione della Società contribuente nella condotta evasiva dei clienti esportatori , o comunque una sua consapevolezza circa la falsità delle dichiarazioni d’intento prodotte.</claim>
+
+ <arg ID="Arg2" G="1" P="A" CON="Claim1|Claim2">Resisteva l°Agenzia delle Entrate Direzione provinciale di XXX che costituendo in giudizio evidenziava come la pretesa, fosse rivolta alla Società contribuente in quanto prassi e giurisprudenza nazionale e comunitaria precisavano che nel caso di dichiarazioni d’intento false, il cedente è tenuto al versamento dell'IVA sulle operazioni effettuate salvo che dimostri di aver adottato tutte le cautele proprie di un operatore diligente per poter escludere l’esistenza di una frode IVA e, ciò non era avvenuto.</arg>
+ 
+
+ 
+ <dec ID="Dec1" G="1" E="1" O="Req1">Con sentenza del 1.6.2016 la CTP previa riunione dei ricorsi li accoglieva</dec> 
+ condannando l’ufficio alla rifusione delle spese di lite,
+ 
+
+
+
+ 
+ <req ID="Req10" G="2" P="B">Ha quindi proposto appello l'Ufficio concludendo per la riforma della pronuncia di primo grado</req> 
+ con vittoria di spese di lite.
+
+ <req ID="Req11" G="2" P="A">Resiste la Società appellata costituendosi ‘nel presente giudizio depositando controdeduzioni, replicando ai motivi di appello e concludendo per la conferma della pronuncia gravata</req> con vittoria di spese di lite.
+ 
+
+ Motivi della decisone.
+
+ L’appello dell’ Ufficio è infondato. 
+
+ <mot ID="Mot10" G="2" O="Req10">Sostiene 1° Appellante Ufficio che nel caso di dichiarazioni d’ifitento rivelatasi posi falsa, il
+ cedente è comunque tenuto al versamento dell’IVA sulle operazioni effettuate senza
+ l'applicazione dell’imposta, salvo che dimostri di aver adottato tutte le cautele proprie di un
+ operatore onesto e mediamente accorto per poter escludere che le operazioni lo potessero rendere partecipe di una frode IVA e ciò in quanto seppur la Società contribuente abbia — correttamente adempito agli obblighi formali che la norma impone, non ha posto in essere
+ alcuna misura al fine di assicurarsi che le cessioni effettuate non la rendessero partecipe di
+ una frode.
+
+ Va osservato che in tema di IVA, la non imponibilità delle cessioni all'esportazione
+ effettuate nei confronti degli esportatori abituali (c.d. esportazioni indirette), prevista
+ dall'art. 8, comma 1, Jett. c) del d.P.R. 26 ottobre 1972, n. 633, è subordinata, nella
+ disciplina del d.l. 29 ‘dicembre 1983, n. 746, convertito in. legge 27 febbraio 1984, n: 17,
+ all'emissione di apposita "dichiarazione d'intento" da parte dell'esportatore (art. 1, comma 1,
+ lett. c) ed il soggetto cedente; una volta riscontratane la conformità alle disposizioni di
+ legge, non è tenuto ad eseguire alcun altro controllo, rimanendo totalmente a carico di chi
+ emette tale dichiarazione la responsabilità, anche penale, derivante da un'eventuale falsità.
+ Ne consegue che, quando la dichiarazione. stessa «esista e non sia ideologicamente falsa 0,
+ comunque, il cedente non sia consapevole di tale falsità (cioè non abbia la consapevolezza
+ che l'operazione non è destinata all'esportazione, ma ha una destinazione nazionale), per
+ quest'ultimo l'operazione deve ritenersi non imponibile, a prescindere dalla prova
+ dell'effettiva avvenuta esportazione della merce. ( Sez. 5 trib., Sentenza n. 21956 del
+ DD/MM/2010 ).
+
+ Ciò comunque non significa che il soggetto cedente è assolutamente deresponsabilizzato,
+ solo qualora sussistano indizi che consentono di sospettare l’esistenza di irregolarità o di
+ evasione, un operatore accorto potrebbe, secondo le circostanze del caso di specie: vedersi
+ obbligato ad assumere informazioni su un altro operatore, presso il quale prevede, di
+ acquistare beni o servizi, al fine di sincerarsi della sua affidabilità (quale utile riferimento, sentenza del DD MM 2012, M e D, C-80/11 e C-142/11, EU:C: 20.12:373, punto 60).
+
+ Quindi, non è contrario al diritto dell’Unione esigere che un operatore agisca in buona fede
+ e adotti tutte‘ le misure che gli si possono ragionevolmente richiedere al fine di assicurarsi
+ che l’operazione effettuata non lo conduca a partecipare ad un’evasione tributaria ( quale
+ utile riferimento sentenza del 6 settembre 2012, M-G, C-273/11,
+ EU:C:2012:547, punto 48).
+
+ Tuttavia, l’amministrazione fiscale non può esigere in maniera generale che il soggetto
+ passivo il quale intende esercitare il diritto di applicare il regime IVA, da un lato = al fine di
+ assicurarsi che non sussistano irregolarità o evasione a livello degli operatori a monte —
+ verifichi, segnatamente, che l'emittente della fattura correlata ai beni e ai servizi a titolo dei
+ quali viene richiesto l’esercizio di tale dirittò abbia soddisfatto. i propri obblighi di
+ dichiarazione e di pagamento dell'IVA, o, dall’altro lato, che il suddetto soggetto passivo
+ disponga di documenti a tale riguardo ( quale utile riferimento, sentenza del DD MM 2012, M e D, C-80/11 e C-142/11, EU:C;2012:373, punto 61).
+
+
+ Non è invece compatibile con il regime del diritto a detrazione previsto dalla direttiva IVA
+ sanzionare, con il diniego di tale diritto, un soggetto passivo che non sapeva e non avrebbe
+ potuto sapere che l’operazione interessata si iscriveva in un’evasione commessa dal
+ fornitore, o che un’altra operazione nell’ambito della catena di fornitura, anteriore o
+ posteriore a quella realizzata da detto soggetto passivo, era viziata da evasione dell’IVA.
+ Infatti, l’istituzione di un sistema di responsabilità oggettiva andrebbe al di là di quanto
+ necessario per garantire 1 diritti dell’Erario (sentenza del DD MM 2012, B, C-285/11,
+ EU:C:2012:774, punti 41 e 42 ).
+
+ Nell’odierna controversia l'Appellata ha adempiuto a tutti gli obblighi di legge trasmettendo
+ tempestivamente in via telematica all’Agenzia delle Entrate gli estremi delle dichiarazioni:
+ d’intento ricevute, ai sensi dell’art. 1’ comma 385 della Legge 311/2004 “ chiunque omette
+ di inviare, nei termini previsti, la comunicazione di cui all'articolo 1, comma 1, lettera c),
+ ultimo périodo, del decreto-legge 29 dicembre 1983, n. 746, convertito, con modificazioni,
+ dalla legge 27 febbraio 1984, n. 17, introdotto dal comma 381, o la invia con dati. incompleti
+ o inesatti, è responsabile in solido con il soggetto acquirente dell'imposta evasa. Quindi solo nei casi di violazione previsti dall’anzidetta norma può essere responsabilizzato il soggetto
+ cedente.
+
+ Nel merito l’appellata oltre a verificare presso le Camere di Commercio tramite visura, ed
+ accertato l’esistenza delle Imprese emittenti le dichiarazioni d’intente null’altro poteva
+ fare,considerando ché le operazioni contestate costituivano una quota trascurabile del
+ volume d’affari conseguito delle annualità coritestate, rispettivamente 11,2% e il 5,6%.</mot>
+
+ In conclusione la sentenza appellata va integralmente confermata.
+ Le spese di lite del presente grado di giudizio vanno integralmente compensate fra le Parti
+ avuto riguardo della complessità in fatto e diritto delle questioni controverse.
+ 
+
+ P.Q.M.
+
+ <dec ID="Dec10" G="2" E="0" O="Req10">Rigetta l'appello dell’ Ufficio confermando la sentenza di primo grado.</dec>
+ Compensa le spese del presente grado di giudizio.
+
+ Così deciso in XXX, DD.MM.2019.
+
+ Il Relatore
+ giu2
+
+ Il Presidente
+ giu1
+ 
+
+</body>

@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+REPUBBLICA ITALIANA
+IN NOME DEL POPOLO ITALIANO
+
+REG. GENERALE N° 2879/13
+SENTENZA N° 2492/14
+
+	LA COMMISSIONE TRIBUTARIA REGIONALE DI ROMA 
+	SEZIONE 6
+
+	riunita con l'intervento dei Signori:
+		giu1 Presidente
+		giu2 Relatore
+		giu3 Giudice
+	
+
+	ha emesso la seguente
+	SENTENZA
+
+	- sull'appello n. 2879/13
+	depositato il DD/MM/2013
+
+	- avverso la sentenza n. 84/17/11
+	emessa dalla Commissione Tributaria Provinciale di ROMA
+
+	<part P="A">proposto dall'ufficio: AG.ENTRATE DIREZIONE PROVINCIALE ROMA 3</part>
+
+	<part P="B">controparti:
+	MP SRL
+	XXX</part>
+
+	difeso da:
+	CF
+	XXX
+
+	difeso da:
+	MFLM
+	XXX
+
+	Atti impugnati:
+	AVVISO DI ACCERTAMENTO n° RCE060303031 IVA-OP.ESENTI 2002
+
+
+
+	
+		<req ID="Req1" G="1" P="B">La società riceveva avviso di accertamento IVA 2002 , in seguito ad accordi commerciali con la società A per “Premi impegnativa 2005” per commissioni spettanti ed_altre\irregolarità contabili “fuori campo IVA” ai sensi dell’art .2 comma3) DPR 633/72.</req>
+	
+	
+		<dec ID="Dec1" G="1" E="1" O="Req1">Avverso tale accertamento ricorreva avanti la CTP di Roma sez .17 che la accoglieva quale prestazione di servizio, assoggettata ad IVA riconosciuto dall’ufficio.</dec>
+	
+
+
+
+	
+		<req ID="Req2" G="2" P="A">APPELLA L’AGENZIA ed insiste nelle argomentazioni addotte in primo grado.
+		CHIEDE la riforma della sentenza.</req>
+
+		<arg ID="Arg1" G="2" P="B" PRO="Claim1">CONTRODEDUCE LA SOCIETA' che dal PVC la Guardia di Finanza aveva verificato le regolari fatture assoggettate ad IVA, che invece l’ufficio ha ignorato altre notizie comunicate dalla società circa i rapporti commerciali fra le due società,</arg> 
+		<claim ID="Claim1" G="2" P="B" PRO="Req3">che trattasi di una PRESTAZIONE DI SERVIZI CON IVA e che quindi ogni argomentazione dell’ufficio sarebbe pretestuosa , risultando regolare la contabilità.</claim> 
+		L'appello dell’ Ufficio non contiene alcun nuovo elemento diverso dal ricorso in primo grado.
+
+		<req ID="Req3" G="2" P="B">CHIEDE la conferma della sentenza di primo grado ed il rigetto dell’appello dell’ufficio oltre condanna alle spese.</req>
+	
+
+	MOTIVI DELLA DECISIONE
+
+		 Dalla documentazione prodotta,dalle parti si evince che le argomentazioni addotte sono state già esaminate avanti i giudici di primo grado, che le motivazioni della sentenza della CTP di Roma n. 84/17/11 sono ampiamente sufficienti , e non vi sono fattispecie nuove da esaminare. L’appello è pretestuoso e dilatorio , trattandosi di una imposta relativa all’anno 2002.
+
+		<mot ID="Mot1" G="2" O="Req2"> La Commissione non“avendo muove argomentazioni da esaminare sposando le motivazioni già esaminati dalla Commissione-Provinciale , rigetta l’appello dell’ Agenzia e la condanna alle spese dei due gradi di giudizio pari ad euro 1.000,00 ( mille ) oltre accessori.</mot>
+
+		 Ogni altra argomentazione addotta dalle parti viene assorbita da questa.
+	
+
+	P.Q.M.
+
+		<dec ID="Dec2" G="2" E="0" O="Req2">La Commissione respinge l'appello dell’ Agenzia e la condanna alle spese di euro 1.000 (mille ) oltre accessori.</dec>
+
+		Il Relatore
+		 Il Presidente
+	 
+		
+			Roma, 24/03/2014
+		
+	
+</body>

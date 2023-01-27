@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+REPUBBLICA ITALIANA
+IN NOME DEL POPOLO ITALIANO
+
+	LA COMMISSIONE TRIBUTARIA REGIONALE DI XXX SEZIONE 1
+
+	riunita con l'intervento dei Signori:
+		giu1 Presidente 
+		giu2 Relatore
+		giu3 Giudice
+	 
+
+	ha emesso la seguente
+	SENTENZA
+
+	- sull'appello n. 735/2019 
+	depositato il DD/MM/2019
+
+	- avverso la pronuncia sentenza n 303/2018 Sez:2 emessa dalla Commissione Tributaria Provinciale di XXX
+
+	<part P="A">contro:
+	AG. DOGANE E MONOPOLI UFFICIO DELLE DOGANE Di XXX
+	XXX</part>
+
+	<part P="B">proposto dall'appellante:
+	B S.R.L.
+	XXX</part>
+
+	difeso da:
+	FG
+	XXX
+
+	Atti impugnati:
+	AVVISO DI ACCERTAMENTO n° 18089RU17/10/2017 DOGANE IVA IMP. 2015
+
+
+SVOLGIMENTO DEL PROCESSO
+
+	
+		<dec ID="Dec1" G="1" E="1" O="Req1|Re2">La B S.R.L. impugna la sentenza n. 303 /18 del DD/MM/18 con cui la Commissione Tributaria Provinciale di XXX ha accolto parzialmente i suoi due ricorsi:</dec> 
+		<req ID="Req1" G="1" P="B">uno avverso l'avviso di rettifica n. 18089/RU del DD/MM/17 emesso dall'Agenzia delle Dogane e dei Monopoli di Stato di XXX e XXX con il quale si chiedeva, per l’anno 2015, alla B S.R.L. medesima il pagamento, in qualità di obbligato in solido con la ditta BLS, della somma di 31.148,03 oltre interessi, per IVA evasa relativamente alle dichiarazioni di importazione effettuate nel mese di novembre 2015, come indicato nel PVC del DD/MM/2017;</req> 
+		<req ID="Req2" G="1" P="B">l’altro avverso l'atto di irrogazione immediata di sanzioni per la violazione commessa nella procedura di immissione in libera pratica, per un importo di 24.344,41 euro.</req>
+	
+
+	
+		<mot ID="Mot1" G="1" O="Req1">Il Giudice di primo grado ha rigettato il ricorso per quello che riguarda il mancato versamento dell'IVA relativa alle dichiarazioni di importazioni effettuate nel mese di novembre 2015, ritenendo che la veste di fideiussore ricoperta dalla B S.R.L. rispetto alla BLS, ne determinasse anche l'obbligo di prestare garanzia nei confronti del fisco.</mot> 
+		<mot ID="Mot2" G="1" O="Req2">È rispetto alla regolarità delle operazioni compiute dal garantito insieme a quelle relative all'immissione ed estrazione dei beni importati, mentre al contrario ha ritenuto non dovute le sanzioni applicategli poiché, in qualità di garante, non poteva essere chiamata a rispondere di un comportamento in frode alla legge tenuto dall’importatore/garantito, atteso che ai sensi dell’art.50 bis del DL 331/93, la responsabilità del garante è relativa solo all'imposta e non anche alle sanzioni.</mot>
+	
+
+
+
+	
+		<req ID="Req3" G="2" P="B">Propone appello la B S.R.L. per la riforma della sentenza nella parte in cui conferma la regolarità dell'avviso di rettifica per l'IVA evasa nel novembre 2015 relativamente alla dichiarazione di‘importazione delle merci</req> 
+		<claim ID="Claim1" G="2" P="B" PRO="Req3">sostenendo tra 1 motivi di appello che: 
+		1) l'atto di rettifica dell'Agenzia delle dogane è viziato da incompetenza funzionale di quest'ultima</claim> 
+		<arg ID="Arg1" G="2" P="B" PRO="Claim1">in quanto vi è stato un intervallo temporale tra l'immissione in libera pratica e l’immissione in consumo delle merci.
+		Non si tratta di un caso attinente la fiscalità interna’ degli scambi internazionali che attribuirebbe la competenza all'Agenzia delle dogane ai sensi dell’art. 63 D.Lgs. n. 300/99 ma al contrario, di un sistema di inversione contabile volta al recupero, dell'IVA intracomunitaria per il quale vi è la competenza dell'Agenzia delle Entrate.</arg> 
+		2) <claim ID="Claim2" G="2" P="B" PRO="Req3">l'Agenzia delle dogane assume come date certo ma non è stato dimostrato che l'importatore cioè la BLS fosse un soggetto fittizio e comunque insolvente che aveva predisposto l'intera operazione mediante il sistema del deposito fiscale al fine/di evadere IVA e che la B S.R.L., in qualità di garante non poteva ritenersi estranea alla vicenda e liberata dalla sua fideiussione con la solo autofatturazione per un importatore irreperibile.</claim> 
+		<arg ID="Arg2" G="2" P="B" PRO="Claim2">A sostegno della propria tesi l’appellante indica tutta una serie di atti compiuti dalla BLS da cui si trae la sua non fittizietà e inesistenza quale soggetto importatore. In particolare si richiamano le operazioni effettuate dalla BLS per l'immissione in libera pratica delle merti introdotte nel deposito IVA, mai contestate dall'Agenzia delle Dogane; altre operazioni commerciali registrate nei registri IVA; l'adempimento dell'obbligo di dichiarazione periodica IVA relativa alle operazioni in contestazione; da ultimo l'assolvimento da parte di BLS dei propri impegni verso B S.R.L. pattuiti al momento della prestazionedella fideiussione.</arg>
+
+		<req ID="Req4" G="2" P="A">L'Agenzia delle Dogane si costituisce in giudizio chiedendo il rigetto dell'appello.</req>
+	
+
+	MOTIVI DEELA DECISIONE
+
+		L'appello deve essere rigettato. 
+
+		<mot ID="Mot3" G="2" O="Claim1|Claim2">Rileva la Decidente, invero, che il ragionamento logico-giuridico operato nella impugnata sentenza, è condivisibile.
+		Ritiene infatti la Detidente che il Primo Giudice abbia correttamente individuato quale fosse la ragione della competenza dell'Agenzia delle dogane rispetto all'Agenzia dell'Entrate nel caso in oggetto. 
+		Tale ragione è da, individuare nella inesistenza del soggetto importatore cioè la BLS e nella complessiva fittizietà dell’intera operazione di reverse charge finalizzata solo dA esclusivamente ad evadere l'IVA da importazione extracomunitaria. In effetti il primo giudice indica tutta una serie di elementi di fatto a cui ha agganciato il proprio convincimento in adesione alla tesi dell'Agenzia delle Dogane.
+		In particolare ha sottolineato che la BLS era irreperibile già dal MM 20I5 (l'immissione in consumo delle merci è avvenuta a MM 2015), che non era in possesso di un magazzino né di un locale per lo stoccaggio nonostante avesse importato merci per un valore di 5 milioni di euro, che non ha proceduto al versamento dell'IVA per la somma di 247.813,00 euro. 
+		In sostanza la competenza dell'Agenzia delle Dogane riposa sulla fittizietà dell'intera operazione di importazione inficiata dall’intento di frodare la legge tramite il sistema del reverse charge da cui discende, senza alcuna soluzione di continuità, l'indagine dell'Agenzia medesima sull'attività fideiussoria del garante italiano, cioè la BECOSPED. Se è vero infatti che l'IVA all'importazione va versata per effetto ed in occasione di ciascuna importazione al momento dell'accettazione della dichiarazione in dogana ed il relativo obbligo incombe sul dichiarante o sul suo rappresentante, nel caso in oggetto è accertato che le autofatture siano state emesse proprio dall’appellante, dunque con assoluta consapevolezza della responsabilità che si assumeva con tale attività sostitutiva/fideiussoria.
+		Non può che discenderne, in definitiva, una responsabilità della B S.R.L. in merito all'inadempienza dell’assolvimento IVA di BLS e, conseguentemente appare assolutamente legittimo l'avviso di rettifica in oggetto.</mot>
+	
+
+	P.Q.M.
+
+		<dec ID="Dec2" G="2" E="0" O="Req3">La Commissione rigetta l'appello e conferma la sentenza impugnata.</dec>
+		Condanna l’appellante al pagamento delle spese del grado che liquida in euro 5000,00 oltre accessori se dovuti.
+
+		
+			Così deciso nella camera di consiglio della I Sezione della Commissione Tributaria Regionale XXX in data DD MM 2019.
+		
+
+		Il Presidente
+
+		Il Relatore
+	
+
+</body>

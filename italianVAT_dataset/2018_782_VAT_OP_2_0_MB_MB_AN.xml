@@ -1,0 +1,233 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+
+REPUBBLICA ITALIANA
+IN NOME DEL POPOLO ITALIANO
+
+ REG.GENERALE
+ N° 1464/2015
+
+ LA COMMISSIONE TRIBUTARIA REGIONALE
+ DI E. ROMAGNA SEZIONE 9
+
+ riunita con l'intervento dei Signori:
+ giu1 Presidente e Relatore
+ giu2 Giudice
+ giu3 Giudice
+ 
+ ha emesso la seguente
+ SENTENZA
+
+ - sull'appello n. 1464/2015
+ depositato il DD/MM/2015
+
+ - avverso la pronuncia sentenza n. 755/2014 Sez:2 emessa dalla Commissione
+ Tributaria Provinciale di MODENA
+
+ <part P="A">contro:
+ AG. ENTRATE DIREZIONE PROVINCIALE MODENA</part>
+
+ <part P="B">proposto dall'appellante:
+ MD SRL
+ XXX</part>
+
+ difeso da:
+ PI
+ TC
+ XXX
+
+ Atti impugnati:
+ AVVISO DI ACCERTAMENTO n° THH03M503538/2012 IRES-ALTRO 2007
+ AVVISO DI ACCERTAMENTO n° THH03M503538/2012 IVA-ALTRO 2007
+ AVVISO DI ACCERTAMENTO n° THH03M503538/2012 IRAP 2007
+
+SVOLGIMENTO DEL PROCESSO
+
+ 
+ <req ID="Req1" G="1" P="B">La società MD SRL,come rappresentata e difesa,propone appello alla sentenza n.755/02/2014 della Commissione Tributaria Provinciale di Modena che ha dichiarato legittimo l'avviso di accertamento n. THH03MS503533/2012 relativo all'anno d'imposta 2007</req> 
+ 
+
+con il quale aveva effettuato il recupero di costi per spese di pubblicità afferenti l'ambito delle sponsorizzazioni di gare automobilistiche per un importo di euro 55.500,00 pari al 74% delle fatture ricevute dalla società emittente,atteso che l'attività della medesima era stata accertata quale emittente di fatture sovraffatturate in misura pari al 74% con la conseguenza che le fatture registrate di euro 75.000 sono state recuperate a tassazione per euro 55.500,riqualificandole come spese di rappresentanza in quanto idonee ad accrescerne il prestigio piuttosto che ad incrementarne ia vendita dei prodotti commercializzati e come tali soggette a deducibilità limitata pari ad euro 1.300 con un costo da recuperare a tassazione di euro 18.200.00
+
+
+ <dec ID="Dec1" G="1" E="0" O="Req1">ed il Primo Giudice ha ritenuto che l'ufficio avesse dimostrato la sovrafatturazione dell'emittente per cui ha accolto il principio della riqualificazione in spesa di rappresentanza rigettando il ricorso</dec> 
+ e condannando ad euro 1.000,00 di spese di giudizio.
+
+
+
+
+ 
+ <claim ID="Claim1" G="2" P="B" PRO="Req2">Con l'appello,contesta la contraddittoria motivazione alla luce dei fatti e dei documenti di causa</claim> 
+ <arg ID="Arg1" G="2" P="B" PRO="Claim1">perchè
+ l'ufficio non ha assolto al proprio onere della prova e,pertanto,non poteva che soccombere stante la natura
+ indiziaria del p.v.c. redatto dall'ufficio Antifrode della Direzione Regionale dell'Emilia Romagna,atteso che i
+ contratti stipulati dalla istante si riferiscono ad altra società diversa da quella oggetto del p.v.c. preso a base
+ dell'avviso di accertamento e l'unico punto di contatto è rappresentato dalla figura del sig. A
+ C al centro di una serie di società a lui riconducibili che offrivano dei veri e propri pacchetti di
+ risparmio fiscale ai potenziali sponsor mediante la sovradimensione degli importi,ma non ha dimostrato
+ che,nella fattispecie,vi sia stato una effettiva retrocessione del 75% del compenso pattuito,essendo stata
+ considerata una ipotesi di non congruità del costo sostenuto mentre l'avviso impugnato lo considera
+ parzialmente fittizio in quanto la prestazione dedotta sarebbe da considerare parzialmente inesistente.
+
+ Quanto alla congruità del costo,l'incremento del fatturato negli anni e l'aumento della clientela è la prova
+ della economicità della spesa,anche se negli anni si è perdurato il fenomeno delle reiterate perdite di
+ esercizio,perchè lo stesso ufficio ha dichiarato che la manifestazione sportiva si è svolta al 'motor show' di
+ XXX ed era rivolta ad un pubblico di clientela diverso e più vasto da quello abituale essendo la società
+ residente in XXX.</arg>
+
+ <claim ID="Claim2" G="2" P="B" PRO="Req2">Contesta,altresì,la riqualificazione del costo da pubblicità a rappresentanza e la presunzione indiziaria
+ dell'azione dell'ufficio</claim> 
+ <arg ID="Arg10" G="2" P="B" PRO="Claim2">che non ha provato la retrocessione delle somme sovrafatturate a fronte di
+ pagamenti tracciabili.</arg>
+
+ <claim ID="Claim3" G="2" P="B" PRO="Costreq1">Contesta,altresi,la condanna alle spese di lite in quanto l'ufficio costituendosi aveva eccepito
+ l'inammissibilità del ricorso</claim> 
+ <arg ID="Arg2" G="2" P="B" PRO="Claim3">perchè notificato oltre i 60 giorni previsti dali'art.21 del D.Lgs.n.546/92 in
+ quanto,a suo dire,l'istanza di accertamento per adesione presentata doveva ritenersi un'istanza di
+ autotutela per inattività della contribuente,ma il Primo Giudice sul punto non si è pronunciato per cui vi
+ sarebbe soccombenza reciproca con compensazione delle spese di giudizio.</arg>
+
+ <req ID="Req2" G="2" P="B">Conclude con la richiesta di riforma della decisione opposta previa verifica della legittimità dei poteri di
+ firma dell'atto impugnato</req> 
+ e rifusione delle spese del doppio grado di giudizio.
+
+ <claim ID="Claim4" G="2" P="A" PRO="Req3">Si costituisce in giudizio l'ufficio per eccepire l'inammissibilità della richiesta di verifica dei poteri di firma
+ nemmeno rilevabile d'ufficio</claim> 
+ <claim ID="Claim5" G="2" P="A" PRO="Req3">e contesta che,in presenza di presunzioni semplici e non indizi accompagnate
+ dal requisito della gravità,precisione e concordanza che la qualificano presunzione legale,l'onere della
+ prova sia a carico dell'ufficio,</claim> 
+ <arg ID="Arg3" G="2" P="A" PRO="Claim5">dovendosi applicare il meccanismo dell'inversione dell'onere della prova e
+ ribadisce la legittimità della riqualificazione operata in quanto l'applicazione del proprio marchio in
+ occasione di eventi automobilistici non può avere alcuna ripercussione positiva sulla clientela dei prodotti
+ di software per il controllo dei processi di dosaggio e magazzini automatici,trattandosi di un pubblico di
+ appassionati al settore automobilistico.</arg>
+
+ <claim ID="Claim6" G="2" P="A" PRO="Req3">Ritiene di aver dimostrato il meccanismo fraudolento posto in essere dal sig.A C</claim> 
+ <claim ID="Claim7" G="2" P="A" PRO="Req3">e contesta
+ che il mancato esame del Primo Giudice sull'eccezione di inammissibilità dell'appello possa costituire
+ soccombenza reciproca</claim> 
+ <req ID="Req3" G="2" P="A">e conclude con la richiesta di conferma della decisione impugnata</req> 
+ e deposita nota spese di euro 9.711,58.
+
+ All'odierna trattazione in Pubblica Udienza,le parti si rimettono agli atti.
+
+ Indi la causa viene posta in decisione.
+ 
+
+ MOTIVI DELLA DECISIONE
+
+ L'appello è infondato e va rigettato.
+
+ Preliminarmente va rigettata la richiesta di inammissibilità del ricorso introduttivo proposto dall'ufficio nei
+ confronti della contribuente perchè presentato oltre il termine di 60 giorni dalla notifica dell'avviso di
+ accertamento 
+ <mot ID="Mot1" G="2" O="Claim3">dovendo ritenersi l'istanza di accertamento per adesione presentata,poi non
+ definita,un'istanza di autotutela che non sospende i termini per il ricorso ex art.21 del
+ D.Lgs.n.546/92,atteso che la Corte di Cassazione,con la sentenza n.15401/2017,ha precisato che la
+ presentazione dell'istanza di adesione — così come il protrarsi nel tempo della relativa procedura —
+ sospende soltanto il termine di impugnazione per novanta giorni,decorsi i quali, senza che sia stata
+ perfezionata la definizione consensuale,l'avviso di accertamento può essere impugnato o,al
+ contrario,diventa definitivo,in quanto l'art.6 del d.lgs.19/06/1997, n.218,consente sì al contribuente di
+ chiedere all'ufficio la formulazione di una proposta di accertamento ai fini dell'eventuale definizione,ma la
+ scelta di invitarlo ad aderire alla definizione transattiva e di fissarne il contenuto è riservata
+ all'amministrazione finanziaria e non al contribuente con la conseguenza che l'inattività delle parti non
+ influisce sulla sterilizzazione per novanta giorni del termine per l'impugnazione e l'istanza di adesione se
+ formulata in tal senso non può essere intesa in altro modo quale istanza di autotutela o a fini dilatori come
+ pretende l'ufficio (cfr.Cass.n.2857/2012).</mot>
+
+ <mot ID="Mot2" G="2" O="">Quanto al merito,dirimente ai fini della presente decisione è il processo verbale di constatazione del
+ 16/03/2012 con il quale la Direzione Regionale dell'Emilia Romagna,Ufficio Antifrodi,ha dettagliatamente
+ evidenziato la posizione del sig.A C,”deus ex machina” del meccanismo fraudolento
+ realizzato nel settore delle corse automobilistiche con particolare riguardo al mondo delle sponsorizzazioni
+ negli sport automobilistici in cui opera il gruppo RC attualmente gestita da RG srl
+ che fino al 2008 si chiamava S RG srl,ora M sri,poi REG srl,
+ ora B.MO srl (vedi pagina 10 di 63 del p.v.c.).
+
+ In relazione all'annualità 2007 è stato appurato dai verificatori che la R ha utilizzato fatture per
+ operazioni oggettivamente inesistenti per una percentuale pari al 74% dei componenti negativi complessivi
+ e che all'emissione della fattura per la prestazione pubblicitaria,la società emittente sovradimensionava gli
+ generare una indebita detrazione d'imposta ai fini IVA,come risulta dall'esame della documentazione
+ acquisita dai computer della società in cui sono stati rinvenuti due contratti identici che si differenziano
+ all'articolo 9 intitolato compenso dove nel primo contratto viene fissato un corrispettivo pari ad 1/6 di
+ quanto stabilito nel secondo (cfr.pag.23 di 63 pvc).
+
+ Dalle indagini finanziarie esperite anche dalla Guardia di Finanza, organo collaborativo dell'amministrazione
+ finanziaria dotata di fede privilegiata,è risultato che in concomitanza dei versamenti/bonifici ricevuti dagli
+ sponsor sono avvenute uscite in contanti per importi di poco inferiori che lasciano supporre la parziale
+ retrocessione ai medesimi sponsor di quanto in precedenza fatturato ed incassato,tanto più che i
+ pagamenti sono quasi sempre rateali perchè il cliente,prima di effettuare il pagamento a saldo,deve
+ garantirsi la restituzione delle somme precedentemente fatturate per la parte superiore al reale.
+
+ Del resto,l'esame dei contratti ha evidenziato l'estrema genericità degli stessi che non identificano le gare
+ nelle quali verranno affissi gli adesivi recanti il logo dei clienti,nè il contratto identifica la grandezza
+ dell'adesivo ed il posizionamento sul mezzo e nemmeno viene indicato il nominativo del pilota che guiderà
+ il mezzo a riprova del disinteresse del cliente verso la prestazione pubblicitaria ed il suo unico interesse al
+ risparmio fiscale. La difesa della società istante afferma che “il contratto,all'art.1,prevede che il marchio
+ sarà posizionato in maniera adeguata e secondo studi effettuati a cura e spese della venditrice stessa”,il che
+ equivale a non dire assolutamente nulla.
+
+ D'altra parte,la società istante risiede in provincia di Modena e svolge l'attività di fornitura di software e
+ consulenza in materia di informatica e nell'anno 2007 il bilancio di esercizio si è chiuso con un utile di euro
+ 20.027 a fronte di un fatturato pari ad euro 1.767.489 ed un margine operativo lordo di euro 85.005.
+
+ Negli anni successivi sì sono registrate perdite di esercizio che si sono verificate con una sistematicità che
+ rende difficile pensare che un imprenditore possa investire una sponsorizzazione di euro 75.000 superiore
+ agli stessi utili lordi realizzati e,quindi,facendo ricorso al credito bancario sostenendo gravosi interessi
+ passivi sul costo della provvista,tanto più che la stessa difesa riconosce che l'aumento di clientela negli anni
+ successivi alla sponsorizzazione non ha portato il bilancio di fine esercizio in utili,per cui non è infondato
+ ritenere che la società istante si sia avvalsa del meccanismo fraudolento ideato dal sig.C
+ utilizzando le fatture per euro 75.000 oltre IVA relativa al costo di euro 19.500,ottenendo così un risparmio
+ di imposta dichiarando un'utile di esercizio limitato ed usufruendo di indebita detrazione IVA,atteso che la
+ Corte di Cassazione,con la sentenza n.5374 del 04/04/2012,ha affermato che rientra nei poteri
+ dell'amministrazione finanziaria,in sede di accertamento,la valutazione dell'inerenza e finanche della
+ congruità dei costi e ricavi esposti nel bilancio e nelle dichiarazioni.</mot>
+
+ Quanto alla eccezione della società istante sulla presunzione semplice su cui si fonda l'accertamento,la
+ stessa non può essere accolta 
+ <mot ID="Mot3" G="2" O="Claim2">perchè la stessa è accompagnata dal requisito della gravità,precisione e
+ concordanza che la identifica quale presunzione legale con l'inversione dell'onere della prova a carico del
+ contribuente che non può consistere nella esibizione delle scritture contabili e dei documenti di pagamento
+ tracciabili per la loro ovvietà in questi casi, perchè in relazione a tale aspetto si deve osservare che : a} i
+ contratti sono stati stipulati con soggetti di cui è stata accertato il comportamento fraudolento; b) il loro
+ contenuto è stato appurato essere estremamente generico; c) hanno ad oggetto forme di pubblicità di
+ dubbio ritorno per l'impresa; d) l'adesivo è difficilmente visibile e leggibile per l'enormità delle scritte sui
+ mezzi in gara e non può essere considerato fonte di aumento della clientela,ma non degli utili,come
+ sostenuto dalla contribuente.
+
+ Al riguardo,il comma 5 dell'art.109 del TUIR/86,stabilisce che “le spese e gli altri componenti negativi
+ diversi dagli interessi passivi tranne gli oneri fiscali,contributivi e di utilità sociale,sono deducibili se e nella
+ misura in cui si riferiscono ad attività o beni da cui derivano ricavi od altri proventi che concorrono a
+ formare il reddito o che non vi concorrono in quanto esclusi” e la Corte di Cassazione,con la sentenza
+ n.9196/2011 ha statuito che “perchè un costo possa essere incluso tra le componenti negative del reddito,
+ non solo è necessario che ne sua certa l'esistenza, ma occorre altresì che ne sia comprovata l'inerenza,vale a
+ dire che si tratti di spesa che si riferisce ad attività da cui derivano ricavi o proventi che concorrono a
+ formare il reddito d'impresa. Per provare tale ultimo requisito,non è sufficiente,poi,che la spesa sia stata
+ dall'imprenditore riconosciuta e contabilizzata,atteso che una spesa può essere correttamente inserita
+ nella contabilità aziendale solo se esiste una documentazione di supporto,dalla quale possa ricavarsi,oltre
+ che l'importo,la ragione della stessa.
+
+ Nella fattispecie,é in dubbio non la prestazione pubblicitaria bensì la congruità della sua spesa perchè
+ effettuata nei confronti di un soggetto di cui è stata accertata l'attività fraudolenta con la conseguenza che
+ non è infondato ritenere che anche nei confronti della società istante sia stato posto in essere lo stesso
+ meccanismo di risparmio fiscale,per cui l'avviso di accertamento che ha ritenuto indeducibile il 74% del
+ costo e dell'IVA delle fatture di sponsorizzazione riqualificando la spesa come di rappresentanza e
+ calcolando di conseguenza 1/3 del costo deducibile nell'anno 2008, è legittimo e la sentenza appellata deve
+ essere confermata</mot>
+ ed,alla soccombenza,deve seguire,altresi,la condanna al pagamento delle spese del
+ doppio grado di giudizio che vengono complessivamente liquidate come da dispositivo.
+ 
+
+ P.Q.M.
+
+ <dec ID="Dec2" G="2" E="0" O="Req2">La Commissione Tributaria Regionale dell'Emilia Romagna di Bologna,sezione n.9,definitivamente
+ pronunciando,rigetta l'appello</dec> 
+ e condanna la società appellante al pagamento delle spese del doppio grado
+ di giudizio che liquida complessivamente in euro 2.500,00.
+
+ Così deciso in Bologna,lì DD/MM/2018
+
+ IL RELATORE
+ 
+
+</body>

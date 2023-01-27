@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+
+	Sentenza del DD/MM/2020 n. 949 - Comm. Trib. Reg. per la XXX Sezione/Collegio 14 
+
+	Intitolazione: Massima n. 13/2020 IVA - Cessioni intracomunitarie - Non imponibilità - Condizioni
+
+	Massima:
+
+	Nelle cessioni intracomunitarie il regime di non imponibilità IVA non si ricava semplicemente dall'iscrizione al VIES, ma da tutte le condizioni essenziali previste dal Giudice comunitario. Pertanto, occorre che sia il cedente sia il cessionario siano soggetti passivi IVA e che il bene ceduto sia fuoriuscito dal patrimonio del cedente e si trovi nella disponibilità del cessionario. Elementi, questi, che il contribuente non può semplicemente dedurre, dovendoli altresi provare attraverso il deposito in giudizio di idonea documentazione.
+
+	
+		Pres. giu1
+		est. giu2
+	
+
+	Intitolazione:
+
+	Massima n.14/2020 PROCESSO TRIBUTARIO - Atto di appello - Contenuto essenziale - Critica alla sentenza di primo grado Mancanza - Inammissibilità
+
+	Massima:
+
+	Nelle impugnazioni delle sentenze rese dalla Commissione tributaria provinciale, la critica alla decisione appellata è elemento essenziale e condizione necessaria affinché l'appello sia validamente proposto. In mancanza di alcuna censura verso le statuizioni rese dal primo Giudice, deve ritenersi violato il principio basilare di specificità dei motivi di gravame, secondo cui vanno indicate con chiarezza le parti della sentenza che l'appellante intende contestare, motivatamente censurandole.
+
+
+
+Testo:
+
+
+SVOLGIMENTO DEL PROCESSO
+
+
+	
+		<req ID="Req10" G="1" P="A">Con ricorso n. 12819 depositato in data DD.MM.2018 la <part P="A">XXX s.r.l.</part> impugnava l'avviso n. TF XXXX con cui l'<part P="B">Agenzia delle Entrate</part> chiedeva il pagamento della somma di € 141.919,72, di cui € 93.724,00 per IVA relativa all'anno 2013, oltre interessi e sanzioni, dovuta a fronte di cessioni beni effettuate in favore della società A Ltd (GB), in assenza di iscrizione al sistema VIES;</req>
+		
+		<arg ID="Arg1" G="1" P="A" PRO="Claim1">a sostegno del ricorso adduceva che trattandosi di operazioni intracomunitarie,</arg> 
+		<claim ID="Claim1" G="1" P="A" PRO="Req1">le stesse non fossero imponibili ai fini IVA e che l'omessa preventiva iscrizione al sistema VIES costituiva una mera irregolarità di forma, sanabile mediante l'istituto della remissione in bonis ex art. 2, comma 1, del D.L. 16/2012,</claim>
+		<req ID="Req1" G="1" P="A">per cui chiedeva l'annullamento dell'atto impugnato.</req>
+
+		<arg ID="Arg2" G="1" P="B" CON="Claim1">Con controdeduzioni depositate in data 07.11.2018 si costituiva l'Agenzia delle Entrate Direzione Provinciale I di XXX che ribadiva la correttezza del proprio operato, evidenziando che non solo le operazioni di cessione dei beni erano state compiute in assenza di iscrizione al sistema VIES, quanto che la società ricorrente non avesse dimostrato la sussistenza delle condizioni essenziali per la cessione dei beni intra UE.</arg>
+	 
+	
+	
+		<dec ID="Dec1" G="1" E="0" O="Req1">Con sentenza n. 3205, depositata in data DD.MM.2019, la Commissione Tributaria Provinciale di XXX, sezione 41, rigettava il ricorso</dec> 
+		e compensava le spese di lite, 
+	
+	
+		<mot ID="Mot0" G="1" O="Req1">ritenendo che il beneficio della detassazione IV A potesse operare solo in presenza delle condizioni sostanziali della cessione dei beni intra UE e che tale prova non era stata fornita dalla società ricorrente.</mot>
+	
+
+
+
+	
+		<req ID="Req3" G="2" P="A">Con ricorso notificato in data DD.MM.2019, depositato il DD.MM.2019, XXX s.r.l. proponeva appello avverso la suddetta sentenza,</req> 
+		<claim ID="Claim10" G="1" P="A" PRO="Req1">reiterando i motivi di impugnazione proposti in primo grado.</claim>
+
+		<req ID="Req4" G="2" P="B">Con controdeduzioni depositate in data DD.MM.2019, si costituiva l'Agenzia delle Entrate che chiedeva la conferma della sentenza di primo grado.</req>
+	
+
+Nella seduta del DD.MM.2020 il Collegio, sentito il Relatore in Camera di Consiglio ed esaminati gli atti, decideva come da dispositivo.
+
+	MOTIVI DELLA DECISIONE
+
+		L'appello è inammissibile e infondato e va rigettato. 
+		<mot ID="Mot1" G="2" O="Req3">L'appellante non ha indicato gli argomenti addotti dai giudici di prime cure non condivisi, non adducendo alcuna censura avverso le statuizioni rese dalla CTP, né indicando i vizi dai quali la sentenza gravata sarebbe affetta. Risulta pertanto violato il basilare principio della specificità dei motivi di gravame secondo cui vanno indicate con chiarezza le parti della sentenza di primo grado che l'appellante intende contestare, motivatamente censurando l'impugnata sentenza. Nel caso concreto, dalla lettura dell'atto di impugnazione, parte appellante si è limitata a riprodurre in modo testuale e pedissequo quanto già esposto nel ricorso introduttivo del giudizio di primo grado, sia nella parte in fatto che in diritto, non muovendo alcuna censura alla motivazione dell'impugnata sentenza, né esprimendo contrasto avverso l'iter argomentativo della sentenza impugnata.</mot>
+
+		<mot ID="Mot2" G="2" O="Req3"> Per quanto attiene al merito della controversia, deve premettersi che l'Ufficio ha ripreso a tassazione I'IVA relativa ad operazioni intracomunitarie non autorizzate dall'iscrizione al sistema VIES. Parte ricorrente sostiene che sulla scorta della giurisprudenza comunitaria, il regime di non imponibilità dell'IVA trovi applicazione anche per le cessioni intra UE effettuate dal fornitore prima dell'iscrizione al VIES, in presenza di tutte le condizioni sostanziali che legittimano il regime suddetto. A tal proposito si rileva che secondo la sentenza della Corte di Giustizia UE del DD.MM.2017, causa C-21/16, l'iscrizione al VIES del soggetto passivo IVA non è una condizione sostanziale per l'applicazione della non imponibilità IVA, sempre che ne siano soddisfatte le condizioni essenziali; queste ultime si sostanziano nei presupposti che cedente e cessionario siano soggetti passivi IVA, che il bene sia fuoriuscito e sia nella disponibilità del cessionario. Nel caso che ci occupa, a prescindere dalla mancata iscrizione al sistema VIES, la cui istanza è stata inoltrata dalla società il DD.MM.2017, mentre il recupero à tassazione dell'IVA concerne l'anno 2013, il ricorrente non ha fornito alcuna dimostrazione circa la sussistenza delle suddette condizioni essenziali, non depositando alcun documento a sostegno.</mot> 
+		Le spese seguono la soccombenza e vanno liquidate come in dispositivo.
+	
+
+	PQM
+
+		<dec ID="Dec2" G="2" E="0" O="Req3">Dichiara l'appello inammissibile ed infondato.</dec>
+
+		Condanna l'appellante al pagamento delle spese del presente giudizio, liquidate in € 1.500.00 oltre accessori.
+	
+
+</body>

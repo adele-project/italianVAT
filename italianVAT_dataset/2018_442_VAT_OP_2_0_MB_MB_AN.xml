@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+
+REPUBBLICA ITALIANA
+IN NOME DEL POPOLO ITALIANO
+
+ LA COMMISSIONE TRIBUTARIA REGIONALE
+ DI VENETO SEZIONE 5
+
+ riunita con l'intervento dei Signori:
+ giu1 Presidente
+ giu2 Relatore
+ giu3 Giudice
+ 
+ ha emesso la seguente
+ sentenza
+
+ - sull'appello n. 689/2017
+ depositato il DD/MM/2017
+
+ - avverso la pronuncia sentenza n. 724/2016 Sez:4 emessa dalla Commissione
+ Tributaria Provinciale di PADOVA
+
+ <part P="A">contro:
+ AG. ENTRATE DIREZIONE PROVINCIALE PADOVA
+ VIA S. FIDENZIO 2 35128</part>
+
+ <part P="B">proposto dall'appellante:
+ EPS SRL
+ XXX</part>
+
+ difeso da:
+ TC
+ XXX
+
+ Atti impugnati:
+ AVVISO DI ACCERTAMENTO n° T6S030801045/2015 IVA-ALTRO 2009
+ AVVISO DI ACCERTAMENTO n° T6S030801084/2015 IVA-ALTRO 2010
+ AVVISO DI ACCERTAMENTO n° T6S030801086/2015 IVA-ALTRO 2011
+
+ REG.GENERALE N° 689/2017
+
+
+FATTO E SVOLGIMENTO DEL RAPPORTO
+CONTENZIOSO
+
+La società EPS SRL veniva raggiunta, a seguito di attività investigativa della DRE nei confronti della BB Srl, da una serie di avvisi di
+accertamento relativi agli anni d'imposta 2009, 2010 e 2011 con i quali le veniva contestata la deduzione dell'IVA per le fatture emesse dalla succitata società.
+
+Gli accertamenti di cui sopra traevano origine dal fatto che la BB, negli anni in questione, era considerata società interposta tra una serie di cartiere che acquistavano tutte la merce solo da un'unica società di diritto austriaco.
+Secondo l'Amministrazione gli acquisti di granella di plastica avvenivano in Italia, passavano successivamente in un magazzino austriaco, posto poco oltre il confine, e successivamente andavano a società cartiere che vendevano tutta la merce alla BIBI che la rivendeva senza che detta merce transitasse per i propri magazzini.
+
+
+
+ 
+ <req ID="Req1" G="1" P="B"> Avverso i predetti avvisi presentava tempestivo e rituale ricorso l'EP eccependo sia in via pregiudiziale che in diritto che in fatto.</req>
+
+ <claim ID="Claim1" G="1" P="A" CON="Req1"> Si costituiva l'amministrazione che cercava di contrastare quanto dedotto da
+ controparte.</claim>
+ 
+
+ 
+ <dec ID="Dec1" G="1" E="0" O="Req1">La Commissione adita, con ridotta motivazione, respingeva i ricorsi riuniti.</dec>
+ 
+
+
+
+ 
+ <req ID="Req2" G="2" P="B">La società presentava appello</req>
+ <claim ID="Claim2" G="2" P="B" PRO="Req2">e riproponeva quasi totalmente le proprie lagnanze che possono essere così riassunte:
+ 1) Nullità degli avvisi di accertamento per inosservanza del termine dilatorio di 60 gg decorrente dalla consegna del verbale contenente la contestazione degli illeciti. Mancato contraddittorio endoprocedimentale.</claim>
+ 2) <claim ID="Claim3" G="2" P="B" PRO="Req2">Illegittimità degli avvisi impugnati per difetto di motivazione</claim> 
+ <arg ID="Arg10" G="2" P="B" PRO="Claim3">non essendo stato allegato il pvc a carico della BB.</arg>
+ 3) <claim ID="Claim4" G="2" P="B" PRO="Req2">Illegittimità degli accertamenti impugnati per violazione dell'onere della prova spettante all'Ufficio per quanto attiene ai fatti costitutivi della pretesa tributaria.</claim>
+ 4) <claim ID="Claim5" G="2" P="B" PRO="Req2">Illegittimità della pretesa tributaria — violazione dell'art. 19 DPR 633/1972 (principio di neutralità dell'IVA — la BB Ha versato l'IVA che l'appellante ha poi detratto). Buona fede ed affidamento negoziale dalla EP...</claim>
+
+ <arg ID="Arg1" G="2" P="A" CON="Claim2">Si costituiva l'Agenzia delle Entrate che ribadiva come:
+ A) Nel caso concreto non fosse necessario attendere il termine dei 60 gg e che comunque l'avvisata non abbia mai dimostrato che un'eventuale attesa avrebbe consentito alla contribuente di dimostrare e modificare l'orientamento assunto.</arg>
+ B) <arg ID="Arg2" G="2" P="A" CON="Claim3">Negli avvisi di accertamento sono esposti i fatti essenziali e, comunque, nell'incontro preventivo la parte non ha chiesto di conoscere l'intera documentazione.</arg>
+ C) <arg ID="Arg3" G="2" P="A" CON="Claim4">Una volta dimostrato, anche attraverso indizi, il fatto costitutivo della violazione l'onere della prova contraria spetta al contribuente.</arg>
+ D) <arg ID="Arg4" G="2" P="A" CON="Claim5">Nel caso concreto è dimostrato che la parte contribuente non poteva ignorare che il fornitore della merce non fosse la BB</arg>
+ 
+
+ La Commissione, oggi riunita per risolvere il caso sottoposto alla propria attenzione, sentite le, parti che si rifanno sostanzialmente a quanto già dedotto e presente in atti, presa attenta visione della documentazione riversata nel fascicolo di causa 
+ decide di confermare l'appellata decisione.
+
+ <mot ID="Mot1" G="2" O="Claim2">Difatti:
+ Punto 1)
+
+ Agli atti è presente il “Processo Verbale di Contraddittorio” nel quale l'Ufficio
+ comunica alla società di avere preso in esame tutte le fatture emesse nei suoi
+ confronti dalla BB e di considerarle soggettivamente inesistenti in base al
+ pvc emesso nel 2013 a carico di quest'ultima. A fronte di detta
+ comunicazione la ditta contribuente non chiede di mettere a verbale alcunché.
+ Inoltre l'ormai consolidata giurisprudenza, sia della Corte di Giustizia Europea,
+ sia della Corte di Cassazione ritengono necessario il contraddittorio
+ endoprocedimentale soltanto nel caso in cui sia dimostrato che il suo
+ intervento avrebbe ‘potuto comportare un diverso sostanziale evolversi della
+ questione e, visto anche l'esito del primo grado di giudizio, ciò sembra non
+ essere il caso.</mot>
+
+ <mot ID="Mot2" G="2" O="Claim3">
+ Punto 2)
+
+ Nell'avviso di accertamento e nel confronto avvenuto con l'Ufficio
+ antecedentemente all'emissione degli avvisi di accertamento la parte è stata
+ messa a conoscenza dei fatti essenziali e motivazionali della pretesa
+ tributaria: la BB era società interposta tra le cartiere e la ditta austriaca reale
+ cedente. Inoltre la più che puntuale difesa ha dimostrato che la parte era ben
+ a conoscenza di quanto le viene contestato.</mot>
+
+ <mot ID="Mot3" G="2" O="Claim4">
+ Punto 3)
+
+ Per quanto attiene all'onere della prova spetta all'Ufficio dimostrare, anche
+ solo in base ad indizi, pur che gravi precisi e concordanti, l'esistenza del fatto
+ costitutivo della pretesa, mentre, in questo caso, è onere del contribuente dare
+ piena dimostrazione della propria buona fede e dell'impossibilità di rendersi
+ conto di essere coinvolto nella frode avendo agito con la dovuta diligenza.</mot>
+
+ <mot ID="Mot4" G="2" O="Claim5">
+ Punto 4)
+
+ L'Ufficio ha dimostrato che la frode era così organizzata la IH
+ (riconducibile tramite trust a DCL) acquistava in Italia la granella
+ di plastica, la faceva pervenire in Austria presso un magazzino posto poco
+ oltre la frontiera, e la vendeva a cartiere, che non versavano l'imposta, e che
+ rivendevano la merce alla BB, che senza neppure riceverla la rivendeva. In
+ questa fase era ancora il DCL a seguire direttamente la merce
+ verse l'approdo finale. Secondo i verificatori il trasporto, per gli anni in
+ questione, veniva effettuato principalmente dalla DZI il quale, pur
+ avendo come formale destinazione la sede della società C, veniva
+ contattato dal DC il quale lo informava della destinazione effettiva
+ della merce. Veniva, quindi, fissato un appuntamento nel quale il vettore
+ riceveva i documenti di trasporto “corretti”.
+
+ Ora è anche da osservare che la BB aveva come amministratore il D
+ CL, mentre, amministratore della EP. era il figlio F.
+ Secondo la competente autorità austriaca anche il DC F sarebbe
+ cointeressato con il padre nella proprietà della società austriaca, tuttavia con
+ nota del 2016 il DC F disconosceva l'autenticità della firma
+ apposta negli atti di cui sopra.
+
+ Diviene a questo punto difficile, se non irrealistico, affermare l'impossibilità di
+ conoscere le vere origini delle operazioni stante il fatto che il trasportatore era
+ quasi sempre il medesimo e che questi era a conoscenza del percorso solo
+ cartolare della granella, mentre la compravendita effettiva avveniva nell'ambito
+ familiare (DC L (ditta austriaca) — C - DC
+ L (BB) - DC F (EP.).
+
+ Da quanto sopra esposto appare di tutta evidenza l'inconsistenza delle argomentazioni difensive.</mot>
+
+ Per quanto attiene alle spese, esse sono poste a carico della parte soccombente e liquidate in € 10.000,00.
+ 
+
+ P.Q.M
+
+ <dec ID="Dec2" G="2" E="0" O="Req2">Respinge l'appello e conferma la piena validità degli avvisi di accertamento contestati.</dec>
+
+ Spese come da motivazione
+
+ Venezia DD MM 2018
+
+ Il Presidente
+ Il Relatore Estensore 
+ 
+
+</body>

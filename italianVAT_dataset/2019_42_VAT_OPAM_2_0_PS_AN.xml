@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+Sentenza del DD/MM/2019 n. 42 - Comm. Trib. Reg. XXX Sezione/Collegio 3
+
+Intitolazione:
+
+Nessuna intitolazione presente
+
+Massima:
+
+Nessuna massima presente
+
+
+Testo:
+
+FATTO
+
+
+	
+		<req ID="Req1" G="1" P="A">La <part P="A">Società SM spa</part> presentava separati ricorsi avanti alla Commissione Tributaria Provinciale di XXX avverso gli avvisi di accertamento dell'<part P="B">Agenzia delle Entrate di XXX</part> xxxxxxxx/2012 per IVA anno 2007 e nº xxxxxxxxx/2013 per IVA anno 2008. 
+		La contribuente presentava separati ricorsi contro gli avvisi di accertamento per Iva 2009 ed Iva 2010.</req>
+	
+
+
+Gli avvisi di accertamento avevano ad oggetto la ripresa a tassazioni di esportazioni effettuate dalla contribuente alla società "DI Ltd" negli anni 2007 e 2008, e 2009 e 2010, con destinazione della merce in Russia, operazioni ritenute imponibili Iva in Italia in quanto non avvenute in presenza dei presupposti previsti dall'art. 8 comma 1 lett. a) del DPR 633/72.
+
+In particolare tale norma prevede la non imponibilità Iva delle cessioni all'esportazione qualora al trasferimento della proprietà od altro diritto reale sui beni, si accompagni la materiale uscita degli stessi dal territorio comunitario od il trasporto o spedizione vengano eseguite "a cura o a nome dei cedenti anche per incarico del proprio cessionario".
+
+Nel caso di specie, invece, la contribuente effettuava una cessione a società domiciliata alle Isole Vergini Britanniche (la DI Ltd), e quest'ultima concludeva con una seconda cessione della merce a favore di soggetto extra UE (la società russa B). Il trasporto della merce era curato da quest'ultimo soggetto extra UE con vettori terzi, di talchè le cessioni nei confronti della società britannica DI Ltd devono considerarsi avvenute in Italia (luogo di consegna della merce) direttamente al destinatario finale extra UE, cosi dovendosi considerare effettuata non una esportazione, ma una cessione imponibile in Italia.
+
+
+	
+		<claim ID="Claim1" G="1" P="A">La ricorrente società deduceva la nullità degli avvisi di accertamento per vizio di notifica non sanabile degli avvisi impugnati</claim> 
+		<arg ID="Arg1" G="1" P="A" PRO="Claim1">in quanto avendo aderito anche per tale anno di imposta alla previsione di cui all'art. 73 DPR 633/72, ovvero, liquidazione Iva di gruppo, gli avvisi avrebbero dovuto essere notificati anche alla società capogruppo, responsabile in solido con la ricorrente per il pagamento dell'IVA.</arg>
+
+		<claim ID="Claim2" G="1" P="A" PRO="Req1">Deduceva poi la nullità degli atti impositivi per carenza di motivazione e per violazione degli artt. 7 L. 212/2000 e 52 e 56 del DPR 633/72</claim> 
+		<arg ID="Arg2" G="1" P="A" PRO="Claim2">in quanto gli avvisi non erano stati preceduti da alcun invito a dedurre e da nessun contraddittorio e carenti i motivazione.</arg>
+
+		<claim ID="Claim3" G="1" P="A" PRO="Req1">Deduceva infine la nullità degli anni impugnati per violazione e falsa applicazione dell'art. 8 comma 1 DPR 633/72 e art. 13 comma 1 legge 413/1991.</claim>
+
+		<arg ID="Arg3" G="1" P="A" PRO="Claim3">In particolare la ricorrente deduceva che le operazioni oggetto degli avvisi di accertamento, erano in realtà non operazioni triangolari, ma cessioni dirette a soggetto extracomunitario (la DI) con trasporto in Russia presso una terza azienda, come documentato dall'all.to n° 10 del PVC (all. 2 della ricorrente) e solo per mero errore formale nelle fatture era indicata la lettera a) piuttosto che la lettera b) dell'art. 8 comma 1 DPR 633/72 che disciplina le "esportazioni improprie" quando i beni vengono consegnati al cliente estero nel territorio dello Stato ed il cliente estero direttamente o tramite terzi a provvedere trasportare o far trasportare i beni fuori del territorio comunitario e senza che i beni subiscano lavorazioni, come avvenuto nel caso di specie.</arg>
+
+		<arg ID="Arg4" G="1" P="A" PRO="Claim3">In subordine, la ricorrente rilevava che anche volendo applicare al caso di specie la previsione della lettera a) del citato art. 8 comma 1 DPR 633/72, era decisiva, e condizione necessaria e sufficiente per la non imponibilità ai fini iva, la prova che la iniziale volontà degli originari contraenti era di trasportare beni in paesi extra UE a prescindere dal soggetto che effettua il trasporto (primo cedente) al cessionario della triangolazione dei beni al di fuori della UE (come previsto dalla norma interpretativa di cui all'art. 13 c, 1 della legge 413 del 1991).</arg>
+	
+
+La Commissione Tributaria Provinciale di XXX, riuniva i ricorsi per le annualità 2007/2008 e riuniva i ricorsi delle annualità 2008/2009.
+
+	
+		<dec ID="Dec1" G="1" E="0" O="Claim1|Claim2">Respingeva con sentenza 49/02/2016 (annualità 2009-2010) e con sentenza 97/01/2015 (annualità 2007/2008) i motivi di ricorso afferenti alla nullità insanabile della notifica e difetto di motivazione degli avvisi impugnati, ed accoglieva, invece, l'ultimo motivo dei ricorsi, asserendo che le cessioni in oggetto potevano considerarsi cessioni all'esportazione a sensi della lett. a) art. 8 c. 1 DPR 633/72</dec>
+	
+	
+		<mot ID="Mot1" G="1" O="Claim1|Claim2|Claim3">in quanto l'espressione letterale "a cura" del cedente, contenuta nella norma andava interpretata in relazione allo scopo della norma, che è quello di evitare operazioni fraudolente, quali si verificherebbero se il cessionario nazionale potesse autonomamente (al di fuori cioè di un preventivo regolamento contrattuale con il cedente), decidere di esportare i beni in un altro stato membro; e prosegue la CTP: "Nel caso di specie risulta dimostrato che, in base ai rapporti tra le parti contraenti, le operazioni fin dalle loro origini, siano state volute come cessioni finalizzate al trasporto a cessionario estero, così com'è pacifico che le merci siano state effettivamente trasferite in territorio extra UE, attraverso a dogana della Lituania. Pertanto, in applicazione dei suddetti principi, le operazioni contestate per l'anno 2007 e quelle del rilievo 1 Iva per l'anno 2008, nonché quelle relative alle annualità 2009 e 2010, di cui agli avvisi di accertamento impugnati, devono considerarsi cessioni all'esportazione non imponibile ai sensi dell'art. 8 comma 1, lett. a) del DPR 633/72".</mot>
+	
+
+
+
+	
+		<req ID="Req2" G="2" P="B">Appellava l'Ufficio</req> 
+		<claim ID="Claim4" G="2" P="B" PRO="Req2">deducendo la errata interpretazione ed applicazione da parte della CTP del disposto di cui all'art. 8 comma 1, lett. a) del DPR 633/72 nel caso di specie,</claim>
+		<arg ID="Arg6" G="2" P="B" PRO="Claim4">in quanto la cedente aveva consegnato le merci in Italia direttamente al destinatario finale extra UE (non identificato in Italia), effettuando, quindi, non un'esportazione, bensì una cessione imponibile in Italia.</arg>
+
+		<arg ID="Arg7" G="2" P="B" PRO="Claim4">Evidenzia l'appellante che nel caso di specie la fatturazione al cliente estero DI Ltd era stata richiesta dalla B Ltd e l'originario rapporto, tra SM spa e B Ltd, veniva riconfigurato come cessione all'esportazione triangolare in cui il cedente (SM spa) cedeva a DI Ltd che a propria volta cedeva a soggetto russo (B), laddove, in realtà, la cedente SM si disinteressava della questione materiale del trasporto della merce eseguita dalla cessionaria della triangolazione, così essendo preclusa l'applicazione della lett. a) della citata norma.</arg>
+
+		<claim ID="Claim5" G="2" P="B" PRO="Req2">L'appellante deduceva, inoltre, l'inapplicabilità al caso di specie anche della invocata, (dalla ricorrente,) norma di cui all'art. 8 c.1, DPR 633/72</claim> 
+		<arg ID="Arg8" G="2" P="B" PRO="Req5">difettando, nel caso di specie, la consegna dei beni fuori dal territorio della Comunità Europea entro 90 giorni dalla consegna che, nel caso di specie, era mancata in quanto i beni non erano stati consegnati alla DI Ltd ma direttamente, in Italia, alla russa B Ltd senza alcun passaggio di merci attraverso la società delle Isole Vergini Britanniche.</arg>
+
+		<req ID="Req4" G="2" P="A">Resisteva la SM spa in entrambi gli appelli (RGA 638/15, annualità 2007 e 2008 e RGA 416/16, annualità 2009 e 2010),</req> 
+		<claim ID="Claim7" G="2" P="A" PRO="Req4">deducendo l'infondatezza dei motivi d'appello</claim> 
+		<req ID="Req3" G="2" P="A">e appellando incidentalmente sentenza di primo grado</req> 
+		<claim ID="Claim6" G="2" P="A" PRO="Req3">laddove non aveva ritenuto la nullità degli avvisi di accertamento</claim> 
+		<arg ID="Arg9" G="2" P="A" PRO="Claim6">in quanto non preceduto da contraddittorio e per mancanza di allegazione di documenti a sostegno del rilievo, con violazione del diritto di difesa,</arg> 
+		<claim ID="Claim8" G="2" P="A" PRO="Req3">e la nullità degli avvisi impugnati per difetto di motivazione e riproponeva tutte le ragioni di impugnazione degli avvisi e le eccezioni svolte in primo grado.</claim>
+	
+
+La CTR riunisce al contenzioso RGA 638/2015, (annualità 2007/2008) il contenzioso n. 416/2016 (relativo alle annualità 2009/2010), per identità di soggetti e questioni giuridiche trattate e connessione oggettiva.
+
+DIRITTO
+
+Esaminiamo preliminarmente i motivi di appello incidentale in quanto se fondati sarebbero assorbenti rispetto ai motivi di appello principale.
+
+		Il primo motivo di appello incidentale con riferimento alla sentenza del DD.MM.2015 (avvisi di accertamento per le annualità 2007 e 2008) è inammissibile trattandosi di motivo nuovo di impugnazione che avrebbe dovuto essere dedotto con il ricorso introduttivo e non per la prima volta, in appello.
+
+		<mot ID="Mot2" G="2" O="Claim6">Per le annualità 2007-2008 e 2009-2010 l'appello incidentale è infondato non essendovi state nei casi di specie violazioni del diritto di difesa per la contribuente che ha pienamente fatto valere le proprie ragioni nella fase di accertamento con adesione; né la contribuente ha enunciato quali altre o diverse ragioni avrebbe potuto far valere se il contraddittorio fosse stato tempestivamente attivato (vedasi la recente Cass. Civ. Sez. 6 n° 2873 del 6.2.2018: "in tema di tributi cd. armonizzati, avendo luogo la diretta applicazione del diritto dell'Unione, la violazione del contraddittorio endoprocedimentale da parte dell'Amministrazione comporta in ogni caso, anche in campo tributario, l'invalidità dell'atto, purché, in giudizio, il contribuente assolva l'onere di enunciare in concreto le ragioni che avrebbe potuto far valere, qualora in contraddittorio fosse stato tempestivamente attivato, e che l'opposizione di dette ragioni (valutate con riferimento al momento del mancato contraddittorio), si riveli non puramente pretestuosa e tale da configurare, in relazione al canone generale di correttezza e buona fede ed al principio di lealtà processuale, sviamento dello strumento difensivo rispetto alla finalità di corretta tutela dell'interesse sostanziale, per le quali è stato predisposto (tra la successiva giurisprudenza conforme si vedano, tra le altre, Cass. Sez. 5 3 febbraio 2017, n. 2875; Cass. Sez. 6-5 ord. 20 aprile 2017, n.10030 Cass. Sez. 6-5 ord. 5 settembre 2017, n. 20799; Cass. Sez. 6-5, ord. 11 settembre 2017, n. 2107; Cass. Sez. 6-5, ord. 14 novembre 2017, n. 26943)".</mot>
+
+		Altresi infondato il motivo d'appello incidentale relativo alla nullità degli avvisi di accertamento impugnati in quanto carenti di motivazione. <mot ID="Mot3" G="2" O="Claim8"> Gli avvisi impugnati sono motivati avendo assolto la funzione di consentire alla contribuente di avere conoscenza della pretesa tributaria e delle ragioni sulla quale si fonda e di consentire, conseguentemente, la difesa da parte della contribuente; nei casi di specie dal verbale prot. 2487/2014, dalle memorie di parte e dagli stessi ricorsi introduttivi appare evidente che la contribuente avesse conoscenza dell'oggetto della controversia e si fosse efficacemente ed adeguatamente difesa.</mot>
+
+		<mot ID="Mot4" G="2" O="Claim4">Venendo ai motivi d'appello, ritiene questa Commissione che debba privilegiarsi nella interpretazione della norma di cui all'art. 8 lett. a) del DPR 633/72 l'espressione letterale "a cura del cedente", e quella corrispondente "per suo conto" contenuta nell'art. 15 comma 1 della direttiva 77/388 CEE, in funzione della ratio e dello scopo della norma " ... che è quello di evitare operazioni fraudolente, le quali si verificherebbero se il cessionario nazionale potesse autonomamente - e cioè al di fuori di un preventivo regolamento contrattuale con il cedente - decidere di esportare i beni in un altro "Stato membro" e, quindi, non nel senso che la spedizione o il trasporto devono avvenire in esecuzione di un contratto concluso direttamente dal cedente o in rappresentanza di quest'ultimo, ma nel senso se è essenziale che vi sia la prova (il cui onere grava sul contribuente) che l'operazione, fin dalla sua origine e nella sua rappresentazione documentale, sia stata voluta, nella comune volontà degli originari contraenti, come cessione nazionale in vista di trasporto a cessionario residente all'estero." (Cass.civ. Sez. 5 n° 4408 del 23.2.2018).
+
+		Nella fattispecie che ci occupano appare provato che le "operazioni" riprese a tassazione fin dall'origine erano improntate e finalizzate dai contraenti alla cessione nazionale per il trasporto con destinazione al cessionario residente estero. In tal senso risultano predisposte le fatture di vendita ed i documenti di trasporto dimessi in atti che provano come le merci senza subire alcuna lavorazione in Italia, e senza entrare in Italia nella disponibilità o possesso fisico della società acquirente DI Ltd, sono state consegnate in Russia alla cessionaria B Ltd. Dallo stesso atto d'appello dell'ufficio risulta evidente come l'intento e la volontà delle parti contrattuali fosse stato sin dall'origine la cessione all'estero della merce che, infatti, è stata esportata in Russia non potendo, pertanto, considerarsi la intervenuta consegna in Italia al fine del trasporto all'estero per l'esportazione, come una operazione di cessione intervenuta in Italia.</mot>
+
+		Le spese seguono la soccombenza.
+	
+
+	P.Q.M.
+
+		<dec ID="Dec2" G="2" E="1" O="Req2">La Commissione Tributaria Regionale XXX, conferma le impugnate decisioni.</dec>
+
+		Condanna l'Agenzia delle Entrate a pagare le spese del presente grado che liquida in euro 3.000 per ciascun appello, oltre accessori di legge.
+
+		
+			Cosi deciso in XXX li DD.MM.2018
+		
+	
+
+</body>

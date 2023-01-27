@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+
+
+REPUBBLICA ITALIANA
+IN NOME DEL POPOLO ITALIANO
+
+	LA COMMISSIONE TRIBUTARIA REGIONALE DI XXX
+
+	riunita con l'intervento dei Signori:
+		giu1 Presidente
+		giu2 Relatore
+		giu3 Giudice
+	
+
+	Ha emesso la seguente sentenza
+
+	REG. GENERALE N° 417/2014 (riunificato)
+
+	- sull'appello n. 417/2014 depositato il DD/MM/2014
+
+	- avverso la sentenza n. 105/2013 Sez:4 emessa dalla Commissione Tributaria Provinciale di XXX
+
+	<part P="A">contro:
+	AG. ENTRATE DIREZIONE PROVINCIALE XXX</part>
+
+	<part P="B">proposto dagli appellanti: 
+	RCC S.R.L.
+	AMM.RE UNICO/LEG RAPPR PR
+	VIALE XXX</part>
+
+	difeso da:
+	AMVL VIALE XXX
+	difeso da:
+	MT VIALE XXX
+
+	Atti impugnati:
+	AVVISO DI ACCERTAMENTO n° T8K03C401820/2012 IRES-ALTRO 2007
+	AVVISO DI ACCERTAMENTO n° T8K03C401820/2012 IVA-ALTRO 2007
+	AVVISO DI ACCERTAMENTO n° T8K03C401820/2012 IRAP 2007
+	AVVISO DI ACCERTAMENTO n° T8K030301550/2011 IRAP 2006
+
+	- sull'appello n. 2450/2015 depositato il DD/MM/2015
+	- avverso la sentenza n. 163/2015 Sez 3 emessa dalla Commissione Tributaria Provinciale di XXX
+
+	contro:
+	AG. ENTRATE DIREZIONE PROVINCIALE XXX
+
+	proposto dagli apppellanti: 
+	RCC S.R.L.
+	AMM.RE UNICO/LEG RAPPR PR
+	VIALE XXX
+
+	difeso da:
+	AMVL VIALE XXXU
+
+	difeso da:
+	MT VIALE XXX
+
+	AVVISO DI ACCERTAMENTO n° TBK03C401574/2013 IRES-ALTRO 2008 
+	AVVISO DI ACCERTAMENTO n° T8K03C401574/2013 IRAP 2008
+
+
+
+	
+		<req ID="Req1" G="2" P="B">Propone appello la RCC s.r.l. avverso la sentenza della CTP di XXX n. 105/04/13 del DD.MM.13</req>
+	
+
+
+
+	
+		<dec ID="Dec1" G="1" E="0" O="Req1">che rigettava il ricorso da questa presentato contro avviso di accertamento di rideterminazione del reddito di impresa per l'anno 2006</dec>
+		<dec ID="Dec4" G="1" E="0" O="Req1">e accoglieva parzialmente altro ricorso contro avviso di accertamento di rideterminazione del reddito di impresa per l'anno 2007.</dec>
+	
+
+
+
+			
+		<req ID="Req2" G="2" P="B">Con separato ricorso la RCC s.r.l. proponeva appello avverso la sentenza della CTP di XXX n. 163/03/15 del DD.MM.15 che rigettava il ricorso da questa presentato contro avviso di accertamento di rideterminazione del reddito di impresa per l'anno 2008.</req>
+
+		<claim ID="Claim1" G="2" P="B" PRO="Req3|Req4">Con il primo motivo l'appellante contesta l'indeducibilità dei costi derivanti dal contratto di locazione finanziaria concluso dalla contribuente s.r.l. con la O s.r.l. e avente per oggetto macchinari.</claim>
+
+		<arg ID="Arg1" G="2" P="B" PRO="Claim1">In particolare assume l'appellante la non applicabilità al contratto in questione della disposizione di cui all'art. 102, 7 comma TUIR e delle conseguenti limitazioni alla deduzione dei canoni non trattandosi di contratto di leasing of locazione finanziaria bensi di contratto di locazione con trasferimento della proprietà vincolante per ambedue le parti assoggettato alla disciplina di cui all'art. 109, 2 comma lett. a) TUIR.</arg>
+
+		<claim ID="Claim2" G="2" P="B" PRO="Req3|Req4">In via subordinata l'appellante deduce la non corretta applicazione dell'aliquota di ammortamento e la violazione del principio di divieto di doppia imposizione qualora si ritenesse la non deducibilità dei costi sostenuti a fronte del contratto di locazione in questione.</claim>
+
+		<claim ID="Claim3" G="2" P="B" PRO="Req3|Req4">Con il secondo motivo l'appellante deduce la deducibilità del costo di euro 400,00 per costi di sponsorizzazione a favore della JC di XXX</claim> 
+		<arg ID="Arg2" G="2" P="B" PRO="Claim2">in quanto costo inerente all'attività dell'impresa.</arg>
+
+		<claim ID="Claim4" G="2" P="B" PRO="Req3|Req4">Con il terzo motivo l'appellante deduce la non imponibilità ad Iva (euro 4.148,38) di alcune fatture emesse dalla RCC s.r.l. a clienti comunitari per la prestazione di servizi (realizzazione impianti stampa e clichè, spese di facchinaggio e riavvolgimento bobine di polietilene)</claim> 
+		<arg ID="Arg3" G="2" P="B" PRO="Claim4">in quanto operazioni accessorie e dunque non imponibili ai sensi dell'art. 40 D. L 331/93 e art. 12 DPR 633/72.</arg>
+
+		<claim ID="Claim5" G="2" P="A" CON="Req3|Req4">Controdeduce l'Ufficio in ordine al primo motivo d'appello l'applicabilità al contratto di locazione concluso dalla contribuente s.r.l. con la O s.r.l., delle disposizioni di cui all'art. 102, 7 comma TUIR e la conseguente indeducibilità dei canoni</claim> 
+		<arg ID="Arg4" G="2" P="A" CON="Claim1">in quanto la durata del contratto (48 mesi) risulta inferiore alla durata minima (53 mesi) prevista dal citato art. 102, 7 comma TUIR.</arg> 
+			
+		<claim ID="Claim6" G="2" P="A" CON="Req3|Req4">Assume altresi la corretta individuazione del ficiente di ammortamento dell'11,50%.</claim>
+
+		<claim ID="Claim7" G="2" P="A" CON="Claim4">In ordine al secondo motivo l'Ufficio contro deduce l'indeducibilità del costi di pubblicità per assenza di alcun legame esistente tra l'attività dell'azienda e la promozione pubblicitaria;</claim> 
+		<arg ID="Arg5" G="2" P="A" PRO="Claim7">si osserva che l'azienda non vende a consumatori finali bensi all'ingrosso e nel prodotto finale non vi è il marchio dell'impresa RCC s.r.l.</arg>
+
+		<claim ID="Claim8" G="2" P="A" CON="Claim5">In ordine al terzo motivo controdeduce la imponibilità ad iva delle fatture emesse</claim> 
+		<arg ID="Arg6" G="2" P="A" CON="Claim4">non rientrando le prestazioni rese in quelle elencate come accessorie dall'art. 12 DPR 633/72.</arg>
+
+		<req ID="Req6" G="2" P="A">Infine, l'Ufficio propone appello incidentale</req> 
+		<claim ID="Claim9" G="2" P="A" PRO="Req6">deducendo la indeducibilità dei costi (quantificati in euro 100.172,52) sostenuti dalla società appellante per l'attività di intermediazione nelle vendite da parte della RF S.n.c.</claim> 
+		<arg ID="Arg7" G="2" P="A" PRO="Claim9">considerato che le fatture non contengono elementi che precisino la prestazione e l'assenza di ogni documentazione di supporto al riguardo.</arg>
+
+		<claim ID="Claim10" G="2" P="B" CON="Req6">L'appellato in via incidentale eccepisce l'inamissibilità dell'appello per mancata indicazione di specifici motivi di impugnazione</claim> 
+		<claim ID="Claim11" G="2" P="A" CON="Req6">e nel merito deduce la regolarità delle fatture emesse fronte del contratto di agenzia intercorrente tra la RC s.r.l. e la RF s.n.c.</claim>
+	
+
+Preliminarmente la Commissione dispone la riunione dei due procedimenti stante l'evidente nnessione.
+
+	
+		Il primo motivo d'appello merita accoglimento. 
+		<mot ID="Mot1" G="2" O="Claim1|Claim2">Il contratto concluso dalla contribuente s.r.l. con la O s.r.l. avente ad oggetto il godimento da parte RCC s.r.l. di un macchinario, pur avendo alcune caratteristiche proprie del contatto di locazione finanziaria quali la permanenza della proprietà del macchinario in capo al concedente, l'immediata utilizzazione del bene da parte del cessionario e la previsione di canoni per un periodo di 48 mesi, se ne discosta su un elemento fondamentale e cioè sulla possibilità, al termine del rapporto contrattuale, di restituire il bene in alternativa al diritto di esercitare il riscatto. Invero, nel contratto in esame il riscatto non è previsto come eventualità ma ha natura vincolante; recita il contratto: "l'utilizzatore al termine del periodo locativo riscatterà il bene".
+
+		Appare dunque che il contratto in questione rientri non nella previsione di cui all'art. 107, 2 comma TUIR bensi in quella di cui all'art. 109, 2 comma lett. a) TUIR e cioè nella figura della locazione con clausola di trasferimento della proprietà vincolante per ambedue le parti che il TUIR assimila alla vendita con riserva di proprietà.</mot>
+
+		Anche il secondo motivo d'appello merita accoglimento 
+		<mot ID="Mot2" G="2" O="Claim3">considerato che il principio di inerenza deve essere interpretato nel senso di ritenere esistente il legame quando il costo sostenuto sia comunque correlato in senso ampio all'impresa e cioè sia stato sostenuto al fine di svolgere una attività potenzialmente idonea a produrre utili (Cass. 16826/07). Nel caso di specie, il modesto contributo di euro 400,00 corrisposto al JC di XXX giova sicuramente all'immagine della società e ad eventuali sviluppi commerciali della stessa.</mot>
+
+		<mot ID="Mot3" G="2" O="Claim4">In ordine la terzo motivo d'appello l'art. 12 DPR 633/72 recita: "Il trasporto, la posa in opera, l'imballaggio, il confezionamento, la fornitura di recipienti o contenitori e le altre cessioni o prestazioni accessorie ad una cessione di beni o ad una prestazione di servizi, effettuati direttamente dal cedente of prestatore ovvero per suo conto e a sue spese, non sono soggetti autonomamente all'imposta nei rapporti fra le parti dell'operazione principale Se la cessione o prestazione principale è soggetta all'imposta, i corrispettivi delle cessioni o prestazioni accessorie imponibili concorrono a formarne la base imponibile."
+
+		L'indicata disposizione, oltre a prevedere ipotesi predeterminate di prestazioni accessorie, indica come categoria generica anche quella di "altre cessioni o prestazioni accessorie ad una cessione di beni o ad una prestazione di servizi". La norma dunque ammette anche tutte quelle prestazioni che si pongono in stretto rapporto funzionale con la prestazione principale. In quest'ultima categoria, si ritiene, debbano rientrare le prestazioni fatturate dalla società appellante (realizzazione impianti stampa e clichè, spese di facchinaggio e riavvolgimento bobine di polietilene) non differenziandosi, sotto il profilo del loro legame di accessorietà con la prestazione principale, da quelle che specificatamente la norma indica come accessorie</mot>
+
+		Il motivo d'impugnazione va dunque accolto.
+
+		Infine, in ordine all'appello proposto in via incidentale dall'Ufficio, deve ritenersi, in via preliminare, l'impugnazione ammissibile considerato che la riproposizione in appello, seppure con mero rinvio, delle stesse argomentazioni poste a sostegno della domanda disattesa dal giudice di primo grado, assolve l'onere di specificità dei motivi di impugnazione imposto dall'art. 53 del d.lgs. 31 dicembre 1992, n. 546, atteso il carattere devolutivo pieno dell'appello.
+
+		Nel merito tuttavia l'appello incidentale non merita accoglimento
+		<mot ID="Mot4" G="2" O="Claim9">considerato che il rapporto tra la RCC s.r.l. e la RF S.n.c., si desume dal contratto di agenzia avente ad oggetto l'attività di vendita in via esclusiva dei prodotti della RCC s.r.l., stipulato tra le parti l'1.3.06, sottoposto a registrazione e prodotto nel giudizio di primo grado. Sulla base del suddetto contratto la RF s.n.c ha emesso regolari fatture regolarmente contabilizzate in ordine alle quali non sono emersi elementi da far ritenere che la prestazione fatturata non sia effettiva.</mot>
+
+		Le spese di giudizio seguono la soccombenza e si liquidano come in dispositivo.
+	
+
+	P.Q.M.
+
+		<dec ID="Dec2" G="2" E="1" O="Req2|Req3">previa riunione dei procedimenti, accoglie gli appelli principali</dec> 
+		<dec ID="Dec3" G="2" E="0" O="Req4">e rigetta quello incidentale;</dec> 
+		condanna l'Agenzia delle Entrate a rimborsare alla contribuente le spese di giudizio, che si liquidano nell'importo complessivo di euro 3000,00 (tremia/00) oltre accessori di legge.
+
+		
+			XXX, DD MM 2016
+		
+	
+
+</body>

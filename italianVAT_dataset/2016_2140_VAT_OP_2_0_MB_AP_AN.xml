@@ -1,0 +1,210 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+
+REPUBBLICA ITALIANA
+IN NOME DEL POPOLO ITALIANO
+
+REG.GENERALE
+N° 1230/2016
+
+LA COMMISSIONE TRIBUTARIA REGIONALE
+DI FIRENZE SEZ.STACCATA DI LIVORNO SEZIONE 10
+
+riunita con l'intervento dei Signori:
+ giu1 Presidente
+ giu2 Relatore
+ giu3 Giudice
+
+
+ha emesso la seguente
+SENTENZA
+
+- sull'appello n. 1230/2016
+depositato il DD/MM/2016
+
+- avverso la sentenza n. 515/2015 Sez:1 emessa dalla Commissione Tributaria Provincie
+di LIVORNO
+
+<part P="A">contro:
+V D R S e C. S.A.S.
+XXX</part>
+
+difeso da:
+FN
+XXX
+
+e da
+GM
+XXX
+
+<part P="B">proposto dall'appellante:
+AG. ENTRATE DIR. PROVIN. UFF. CONTROLLI LIVORNO</part>
+
+Atti impugnati:
+AVVISO DI ACCERTAMENTO n° T8H021101529 IVA-TERRITORIAL 2012
+
+
+
+MOTIVI DELLA DECISIONE
+L'Agenzia delle Entrate, Direzione Provinciale di Livorno, con l'avviso di accer-
+tamento n. T8H021101529/14, notificato alla società V S.a.s., visto l'articolo
+54, commi 1, 3 e 5 del DPR 633/1972, procedeva alla rettifica della dichiarazione
+IVA per l'anno 2012, considerando come operazioni interne assoggettate ad impo-
+sizione in Italia le operazioni dichiarate nel rigo VE39 della dichiarazione per un
+imponibile totale di To 63.255,00, assoggettandole alla prevista imposta del 21% e
+applicazione delle conseguenti sanzioni a causa della mancata iscrizione del sog-
+getto passivo italiano nell'archivio VIES che comporta l'esclusione delle operazio-
+ni dal regime degli scambi intracomuniteri.
+
+
+
+Il contribuente impugnava l’atto per due motivi:
+
+ <req ID="Req1" G="1" P="A">Con il motivo I deduceva la nullità dell'avviso di accertamento</req>
+ <claim ID="Claim1" G="1" P="A" PRO="Req1">per illegittima ap-
+ plicazione della norma (art. 27 d.l. 78/2000) richiamata dall'Ufficio,</claim> 
+ <arg ID="Arg1" G="1" P="A" PRO="Claim1">in quanto
+ l’interpretazione è contraria ai principi della Direttiva VA in materia di operazio-
+ ni intracomunitarie (n. 2006/112 CE).</arg>
+
+ <claim ID="Claim2" G="1" P="A" PRO="Req2">Con il motivo II deduceva l'illegittima applicazione delle sanzioni</claim> 
+ <req ID="Req2" G="1" P="A">e ne chiedeva l'annullamento</req> 
+ <arg ID="Arg2" G="1" P="A" PRO="Claim2">essendovi una condizione di incertezza sull'applicazione della
+ normativa tributaria (art. 6 comma 2 detD. Lgs. 472/1997), generata soprattutto
+ dalle sentenze della Corte UE.</arg>
+
+
+
+ <dec ID="Dec1" G="1" E="1" O="Req1|Req2">
+ La Commissione Tributaria Provinciale di Livorno, con la sentenza n. 515/1/15,
+ ha accolto il ricorso e compensato le spese di lite.</dec>
+
+La CTP, dopo aver premesso che la società ha successivamente ottenuto l'iscrizio-
+ne al VIES "... così.dimostrando il possesso dei requisiti di legge". richiama la
+giurisprudenza della Corte UE (causa C-342/11) che "... ha chiaramente affermato
+che benché il numero di identificazione [VA fornisca la prova dello Status fiscale
+del soggetto passivo ed agevoli il controllo delle operazioni intracomunitarie, si
+tratta comunque di un requisito formale: che in presenza di elementi concreti, a
+conferma della natura dell’overazione posta in essere, e cioè di una reale opera-
+zione intracomunitaria, non consente di ricondurre la stessa all'imposizione inter-
+na"; conclude affermando che " ... la documentazione versata in atti dalla società
+attesta che le operazioni di cui si discute debbano essere qualificate come intraco-
+munitarie ed in quanto tali soggette al particolare regime previsto dall'art. 27 del
+DL n. 78/2010".
+
+
+
+ 
+ <req ID="Req3" G="2" P="B">Proponeva appello l’ AF per i seguenti motivi:</req>
+ <claim ID="Claim3" G="2" P="B" PRO="Req3">1. ai sensi dell'art. 35 del D.P.R. n. 633 del 1972, come modificato dall’art. 27,
+ comma 1, del D.L. n. 78 del 2010 - convertito dalla legge n. 122 del medesimo
+ anno -</claim> 
+ <arg ID="Arg3" G="2" P="B" PRO="Claim3">il soggetto passivo d'imposta che intende effettuare operazioni intracomuni-
+ tarie deve chiedere autorizzazione all'Agenzia delle Entrate, manifestandone la
+ volontà attraverso una procedura specifica finalizzata all'iscrizione nell'archivio
+ informatico (di seguito VIES) dei soggetti autorizzati a porre in essere le predette
+ operazioni (cfr. art. 35, comma 2, lett. e-bis e comma 7-bis del D.P.R n. 633 del
+ 1972). In particolare, nel provvedimento del Direttore dell'Agenzia delle entrate
+ del 29/ 12/2010 n. 188376 viene specificato che, per coloro che già possiedono un
+ numero di partita IVA, la predetta volontà viene espressa mediante apposita istan-
+ za da presentare direttamente ad un ufficio dell'Agenzia delle Entrate; viceversa,
+ per i soggetti non titolari della predetta posizione IVA, tale volontà va manifestata
+ in sede di dichiarazione d'inizio di attività.</arg>
+
+ <arg ID="Arg4" G="2" P="B" PRO="Claim4">Deduceva, inoltre, che non sussiste alcuna incertezza interpretativa</arg> 
+ <claim ID="Claim4" G="2" P="B" PRO="Req3">e che, pertanto,
+ anche le sanzioni debborio essere confermate e non disapplicate.</claim>
+
+ <claim ID="Claim5" G="2" P="A" PRO="Req4">Il contribuente ribadiva le difese di cui in ricorso e la correttezza della motivazio-
+ ne della sentenza di primo grado</claim>
+ <req ID="Req4" G="2" P="A">di cui chiedeva la conferma.</req>
+ 
+
+ 
+ L'appello è infondato e va respinto:
+ <mot ID="Mot1" G="2" O="Claim3">
+ Come recentemente ribadito da Cass. civ. Sez. V, Sent., 17-12-2014, n. 26466,
+ infatti, in mancanza di dimostrazione di una situazione di frode (nella specie nep-
+ pure adombrata), vate il principio generale del diritto dell'UE secondo cui le ope-
+ razioni devono essere tassate prendendo in considerazione le loro caratteristiche
+ oggettive e, ai fini dell'esenzione, la circostanza che la cessione intracomunitaria è
+ effettivamente avvenuta ( così Corte di giustizia UE in causa Collee, C-146/05).
+ Afferma ancora la Cassazione che, nell'ambito delle Sesta Direttiva, la definizione
+ del soggetto passivo si riferisce unicamente a chiunque eserciti in modo indipen-
+ dente e in qualsiasi luogo una delle attività economiche indicate (art. 4), né tale
+ status resta subordinato al fatto che il soggetto possieda un numero d'identifica-
+ zione IVA (artt. 22 2 28-nonies: cf Cass. Sez. 5, Sentenza n. 20780
+ dell'11/09/2013). 
+ Risulta, invece, dalla giurisprudenza comunitaria che il soggetto
+ passivo agisce in questa qualità quando effettua operazioni nell'ambito della sua
+ attività imponibile;
+ ne deriva che il numero d'identificazione IVA fornisce sì la
+ prova dello status fiscale de soggetto passivo e agevola il controllo delle operazio-
+ ni intracomunitarie, pur essendo requisito formale che non mette in discussione il
+ diritto all'esenzione dall'IVA qualora ricorrano le condizioni sostanziali di una
+ cessione intracomunitaria.
+
+ La mancata attribuzione di un numero d'identificazione o della sua conferma as-
+ sumono uno specifico rilievo, ai fini del diniego della non imponibilità della ces-
+ sione, solo qualora tale violazione formale abbia l'effetto d'impedire la dimostra-
+ zione certa che i requisiti sostanziali dell'operazione intracomunitaria siano stati
+ soddisfatti, posto che tali omissioni di per sé non giustificano il diniego (Cass.
+ Sez. 5, Sentenza n. 22127 del 27/09/2013).
+
+ Infatti, dalle irregolarità delle fatture riguardo all'indicazione di codici identificati-
+ vi possono derivare conseguenze sul piano sanzionatorio, senza che operazioni per
+ loro natura non imponibili divengano imponibili in dipendenza d'irregolarità for
+ mali (Cass. Sez. 5, Sentenza n. 12455 del 28 maggio 2007).
+
+ Invero, la corretta indicazione di un valido numero d'identificazione riguardo al
+ cessionario comunitario garantisce la capacità di tale soggetto di applicare l'impo-
+ sta nel Paese di appartenenza secondo il principio della tassazione nel luogo di
+ destinazione dei beni;
+ la detassazione nel Paese di partenza dei beni, ai sensi della
+ Sesta Direttiva (art. 28-quater), si giustifica proprio in ragione della tendenziale
+ imponibilità nello Stato membro in cui la merce giunge al consumo finale (cfr.
+ Corte di giustizia in causa EMAG, C-245/94).
+
+ Dunque, la non imponibilità, più che a un elemento formale e cioè all'indicazione
+ in fattura di un esatto numero identificativo, è legata al requisito sostanziale della
+ soggettività passiva del cessionario comunitario, incorrerdosi altrimenti nel divie-
+ to di doppia tassazione stabilito dal diritto dell'UE in materia di IVA.
+
+ È evidente, in conclusione, che la mancata iscrizione al VICES non può determinare
+ — di per sé — l'esclusione dal regime agevolato dell'IVA intracomunitaria.
+ </mot>
+
+ 
+ La reiezione del primo motivo determina, di conseguenza, la reiezione anche del
+ secondo motivo di ricorso relativo alle sanzioni applicate a seguito del recupero a
+ tassazione operato in relazione all'IVA.
+
+ Le spese processuali seguono la soccombenza e devoro essere liquidate come da
+ dispositivo, 
+ tenuto conto delle caratteristiche, dell'urgenza e del pregio dell'attivi-tà prestata, dell’importanza, della natura, della difficoltà e del valore dell’affare,
+ delle condizioni soggettive del cliente, dei risultati conseguiti, del numero e della
+ complessità delie questioni giuridiche e i fatto trattate (art. 1 d.m. 13 marzo 2014
+ n. 55, pubblicato sulla G.U. n. 77 del 2.4.2014, applicabile ex art. 28 alle liquida-
+ zioni successive alla sua entrata in vigore).
+ 
+
+ P.Q.M.
+
+ <dec ID="Dec2" G="2" E="0" O="Req3">La Commissione Tributaria Regionale della Toscana — sezione distaccata di Li-
+ vorno, definitivamente pronunciando, ogni diversa istanza, eccezione e difesa di-
+ sattesa e respinta, così provvede:
+ 1) respinge l'appello e conferma la decisione impugnata;</dec>
+ 2) condanna l'Ufficio al pagamento delle spese processuali che liquida in comples-
+ sivi € 3.678, olire 15% per rimborso forfeitario spese generali, IVA e CPA come
+ per legge.
+
+ 
+ Così deciso in Livorno, nella Camera di Consiglio del DD.MM.2016
+ 
+
+ Il Presidente
+ Il Giudice relatore
+ 
+
+</body>

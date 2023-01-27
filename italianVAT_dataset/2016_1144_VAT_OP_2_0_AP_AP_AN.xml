@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+
+REPUBBLICA ITALIANA
+ IN NOME DEL POPOLO ITALIANO
+
+ COMMISSIONE TRIBUTARIA REGIONALE DI FIRENZE SEZ.STACCATA DI LIVORNO SEZIONE 14
+ con l'intervento dei Signori:
+ giu1 Presidente
+ giu2 Relatore
+ giu3 Giudice
+ 
+ ha emesso la seguente
+ SENTENZA
+
+ - sull'appello n. 512/2015
+ depositato il DD/MM/2015
+
+ - avverso la sentenza n. 399/2014 Sez:1 emessa dalla Commissione Tributaria Provinciale di LIVORNO
+
+ <part P="A"> contro:
+ M S.R.L.
+ LEG. RAPPRES. SIG. DA
+ XXX</part>
+
+ difeso da:
+ M DOTT. R
+ XXX
+
+ <part P="B"> proposto dall'appellante:
+ AG. ENTRATE DIREZIONE PROVINCIALE LIVORNO</part>
+
+ Atti impugnati:
+ AVVISO DI ACCERTAMENTO n° T8H031400442/13 IVA-OP.IMPONIB. 2007
+
+ REG.GENERALE N° 512/2015
+
+ Trattasi di ricorso contro avviso di accertamento IVA.
+
+
+ Alla M Srl veniva notificato, in data 16/05/2013 l’avviso di accertamento n. T8H031400442/2013
+ emesso dall’ Agenzia delle Entrate-Direzione Provinciale di Livorno, relativo all’anno d’imposta 2007, con il
+ quale si contestava alla società l’utilizzo di due fatture relative ad operazioni inesistenti emesse dalla ditta
+ individuale OTG di BM, determinando una minore imposta detraibile pari ad euro 17.000,00, e
+ la mancata emissione di fattura nei confronti della medesima OTG per l’imponibile di euro 43.000,00 oltre
+ PIVA pari a euro 8.600,00. L’Ufficio poneva a fondamento dell’avviso di accertamento il contenuto del
+ PVC redatto dalla Guardia di Finanza di Livorno in data 15/0672009.
+
+
+ 
+ La M Srl presentava ricorso avverso il predetto avviso di accertamento 
+ <claim ID="Claim1" G="1" P="A" PRO="Req1|Req2"> eccependo la violazione dell’art. 56, comma 2, del D.P.R. 633/1972 e dell’art. 7 dello Statuto del Contribuente per l’assoluta mancanza di motivazione dell’atto impugnato nonché dell’art. 21, comma 4, del D.P.R. richiamato,</claim>
+ <arg ID="Arg1" G="1" P="A" PRO="Claim1"> in quanto la norma dispone che la fattura relativa alle prestazioni di servizio venga emessa al momento del pagamento del corrispettivo, circostanza che non si è verificata perché nel 2007 la OTG non aveva portato alcun risultato in merito all’allargamento della clientela.</arg> 
+ <claim ID="Claim2" G="1" P="A" PRO="Req1|Req2"> Rilevava altresì la violazione dell’art. 57 del D.P.R. 633/1972, con riferimento all’allungamento dei termini di decadenza richiamati dall’Ufficio,</claim> 
+ <arg ID="Arg2" G="1" P="A" PRO="Claim2"> vista l’intervenuta sentenza del Tribunale di Livorno del 30 settembre 2013 che aveva assolto con formula piena per insussistenza del fatto tutti gli imputati.</arg> 
+ <req ID="Req1" G="1" P="A"> Concludeva chiedendo la sospensione dell’esecuzione dell’atto impugnato ai sensi dell’art. 47 D. Lgs. 546/1992</req> 
+ <req ID="Req2" G="1" P="A"> e l’annullamento dell’avviso di accertamento per difetto di motivazione dei rilievi fiscali in esso contenuti sia in punto di diritto che nei presupposti di fatto.</req>
+
+ <claim ID="Claim3" G="1" P="B" PRO="Req3"> L’Agenzia delle Entrate-Direzione Provinciale di Livorno si costituiva in giudizio sostenendo la correttezza
+ del proprio operato,</claim> 
+ <arg ID="Arg3" G="1" P="B" PRO="Claim3">ritenendo correttamente motivato l’avviso di accertamento dal momento che il contribuente era stato posto nella condizione di conoscere l’an e il quantum della pretesa fiscale.</arg> 
+ <arg ID="Arg4" G="1" P="B" PRO="Claim3"> Ribadiva che le fatture contestate si riferivano ad operazioni inesistenti e spettava al contribuente l’onere di provare l'effettiva esistenza delle stesse. </arg>
+ <arg ID="Arg5" G="1" P="B" CON="Claim2"> Contestava l’eccezione di controparte relativa alla presunta illegittimità del raddoppio dei termini di accertamento, dal momento che l’Ufficio si era trovato in presenza di violazioni che prevedono l’obbligo della denuncia penale. Precisava altresì che non vi era stata alcuna doppia imposizione ai fini IVA e contestava l’omessa fatturazione alla OTG dal momento che erano trascorsi due anni dalla registrazione dell’importo.</arg> 
+ <req ID="Req3" G="1" P="B"> Si opponeva alla richiesta di sospensione dell’esecutività dell’accertamento, mancando i requisiti, e chiedeva il rigetto del ricorso</req> 
+ e la condanna del ricorrente alle spese.
+ 
+ 
+ <dec ID="Dec1" G="1" E="1" O="Req1"> All’udienza del 14 marzo 2014 la Commissione accoglieva l’istanza di sospensione.</dec>
+
+ <dec ID="Dec2" G="1" E="1" O="Req2"> La CTP di Livorno, con sentenza n. 399/1/14, del 27 giugno 2014, depositata il 10 luglio 2014, accoglieva il ricorso</dec> 
+ e condannava l’Ufficio al pagamento delle spese di giudizio. 
+ 
+ 
+ <mot ID="Mot10" G="1" O="Req1|Req2">Osservava di dover tener conto, nel caso in esame, dell’esito del procedimento penale e precisava che incombeva sull’Ufficio l'onere di provare che le fatture si riferivano ad operazioni inesistenti.</mot>
+ 
+
+
+ 
+ L’Agenzia delle Entrate-Direzione Provinciale di Livorno proponeva appello avverso la sentenza dei giudici
+ di prime cure 
+ <claim ID="Claim4" G="2" P="B" PRO="Req4"> in quanto la stessa non si era pronunciata sulla questione inerente l’omessa fatturazione alla
+ OTG di BM dell’importo annotato dalla M Srl sul libro giornale 2006 di euro 43.000,00, che comportava il recupero a tassazione dell’IVA per euro 8.600,00.</claim> 
+ <req ID="Req4" G="2" P="B">Chiedeva pertanto, in parziale riforma della sentenza di primo grado, che venisse confermata la legittimità dell’accertamento in merito al rilievo n.2,</req> 
+ con compensazione delle spese di giudizio. Presentava istanza di discussione in pubblica udienza.
+
+ <claim ID="Claim5" G="2" P="A" PRO="Req5" /> La M Srl, si costituiva in giudizio a ministero del dott. RM, contestava l’effettivo pagamento dell’importo di 43.000,00 da parte della OTG, precisando che le prestazioni di servizi si considerano effettuate al momento del pagamento del corrispettivo. 
+ <req ID="Req5" G="2" P="A"> Chiedeva il rigetto dell’appello e la conferma della sentenza di primo grado.</req>
+ 
+ OSSERVA
+ <mot ID="Mot1" G="2" O="Claim4"> 
+ In tale grado di giudizio non si può che richiamare e conformarsi a quanto già dedotto ed argomentato dai
+ Giudici di prime cure.
+ L’Ufficio contesta alla M Srl, esclusivamente ai fini IVA, la mancata
+ fatturazione di euro 43.000,00, cui corrisponde l’TVA di euro 8.600,00, “essendo ampiamente trascorsi i
+ termini previsti dal legislatore per l’emissione del documento contabile” e non avendo la società attivato
+ “una procedura di messa in mora del debitore per la riscossione di una somma già inserita in contabilità”.
+ Si deve osservare che l’art. 21, comma 4, del D.P.R. 633/1972 prevede che la fattura sia emessa nel
+ momento in cui la prestazione, cui si riferisce, si possa considerare effettuata ai fini IVA e pertanto al
+ momento del pagamento del corrispettivo come disposto dall’art. 6 del medesimo decreto 633/1972.
+
+ Sulla base di quanto esposto, si deve ritenere che l'Ufficio non abbia correttamente individuato i fatti
+ costitutivi della sua pretesa, in quanto non ha indicato gli elementi e le circostanze, a suo avviso, rivelatori dell’esistenza di un maggior imponibile.</mot>
+ Il ricorso va dunque respinto 
+ e le spese di giudizio, di seguito quantificate, seguono il criterio della soccombenza.
+ 
+ PQM
+ <dec ID="Dec3" G="2" E="0" O="Req4">La Commissione conferma la sentenza di primo grado </dec>
+ condanna l’Ufficio al pagamento delle spese di giudizio nella misura di euro 1.000,00 oltre accessori.
+
+ 
+ Livorno,lì DD MM 2015
+ 
+
+ Il Relatore (giu2)
+ Il Presidente (giu1)
+ 
+
+</body>

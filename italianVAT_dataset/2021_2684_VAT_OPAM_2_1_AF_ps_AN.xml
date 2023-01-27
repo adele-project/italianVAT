@@ -1,0 +1,235 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+
+REPUBBLICA ITALIANA
+IN NOME DEL POPOLO ITALIANO
+
+LA COMMISSIONE TRIBUTARIA REGIONALE
+
+DI XXX SEZIONE 7
+
+riunita con l'intervento dei Signori:
+
+ giu1 Presidente
+
+ giu2 Relatore
+
+ giu3 Giudice
+
+
+ha emesso la seguente ear
+
+SENTENZA
+
+- sull'appello n. 1491/2017
+spedito il DD/MM/2017
+
+- avverso la pronuncia sentenza n. 659/2016 Sez:1 emessa dalla Commissione
+Tributaria Provinciale di XXX
+<part P="A">contro:
+BB S.R.L. IN LIQUIDAZIONE
+VIA XXX</part>
+
+difeso da:
+LA
+C.DA XXX
+
+<part P="B">proposto dall'appellante:
+AG. ENTRATE DIREZIONE PROVINCIALE Di XXX</part>
+
+
+Atti impugnati:
+ATTO.CONTESTAZI n° TYUCOB200233 IVA-OP.ESENTI 2010
+ATTO CONTESTAZI n° TYUCOB200233 IVA-SCAMBI COM. 2010
+
+REG.GENERALE
+
+N° 1491/2017
+
+
+
+SVOLGIMENTO DEL PROCESSO
+
+
+ 
+ <req ID="Req1" G="2" P="B">L'Agenzia delle Entrate Provinciale di XXX in data DD MM 2017 presentava ricorso in Appello alla CTR XXX R.G.A. 1491/2017 per la riforma della sentenza n.659/2016 della Commissione Tributaria Provinciale di XXX sez.1 depositata in cancelleria in data DD/MM/2016, riguardante l’atto di contestazione n°TYUC0B200233/2014 relativa IVA- OP. ESENTI 2010.</req>
+ 
+
+
+
+ 
+ <dec ID="Dec1" G="1" E="1" O="Req1"><req ID="Req2" G="1" P="A">La Commissione Tributaria Provinciale di XXX con sentenza n.659/2016,
+ in parziale accoglimento del ricorso della soc. BB s.r.l.
+ conferma il verbale di accertamento con riferimento alle sanzioni
+ comminate per le irregolarità di cui all’art.11 comma 4, d.lgs. n. 471/97,
+ annulla il verbale per la restante parte.</req></dec>
+ 
+ Compensa le spese di giudizio tra le parti.
+ 
+
+ 
+
+ 
+ <req ID="Req10" G="2" P="B">L'Agenzia delle Entrate Provinciale di XXX impugna la sentenza della CTP di XXX per aver accolto parzialmente il ricorso ed annullato le sanzioni irrogate</req>
+ 
+ <claim ID="Claim5" G="2" P="B" PRO="Req10">per omessa annotazione di operazioni intracomunitarie nei registri IVA</claim> 
+ <arg ID="Arg3" G="2" P="A" PRO="Claim5">sulla base dell’erronea convinzione che tali violazioni dovessero essere sanzionate con l’avviso di accertamento n.TYU03B500445 emesso, per la medesima annualità, sulla base degli studi di settore.</arg>
+ 
+ <claim ID="Claim1" G="2" P="A" PRO="Req10">La soc. BB s.r.l. si è costituita, presentando le seguenti
+ controdeduzioni: nell’impugnato verbale di accertamento sono comprese
+ le sanzioni per omissioni IVA, anch'esse oggetto del verbale di
+ accertamento n.TYU03B500445;</claim> 
+ <req ID="Req3" G="2" P="A">chiede quindi la conferma della sentenza
+ nella parte appellata dall'Agenzia delle Entrate in cui si annullano le
+ sanzioni diverse da quelle relative alle irregolarità di cui all’art.11, comma
+ 4, d. lgs. n. 471/97.</req>
+
+ <req ID="Req4" G="2" P="A">La soc. BB s.r.l. in data DD/MM/2017 presentava Appello Incidentale all’Appello principale proposto dall'Agenzia delle Entrate Provinciale di XXX</req> 
+ <claim ID="Claim2" G="2" P="A" PRO="Req4">per i seguenti motivi:
+
+ 1.Erroneita ed illegittimità della decisione impugnata per l’errore in
+ iudicando commesso dai primi giudici</claim> 
+ <arg ID="Arg1" G="2" P="A" PRO="Claim2">per avere ritenuto destituita di
+ fondamento le contestazioni relative alla: 1.” nullità dell'atto di
+ contestazione per difetto di competenza territoriale dell'Agenzia delle
+ Dogane che ha effettuato la verifica” — 2. “nullità dell'atto di
+ contestazione per difetto di competenza territoriale dell'Agenzia delle
+ Entrate che ha emanato l’Atto di contestazione”. Generando anche un
+ difetto di motivazione della sentenza opposta.</arg>
+
+ 2. <claim ID="Claim3" G="2" P="A" PRO="Req4">Erroneità ed illegittimità della decisione impugnata per l’errore in
+ iudicando commesso dai primi giudici</claim> 
+ <arg ID="Arg2" G="2" P="A" PRO="Claim3">per avere ritenuto destituita di
+ fondamento la contestazione relative alla parziale nullità dell'atto di
+ contestazione per avvenuta regolarizzazione dei modelli Intra 1 ed Intra 2.</arg>
+
+ <claim ID="Claim4" G="2" P="A" PRO="Req4">In data 09/05/2017 l’Agenzia delle Entrate depositava le controdeduzioni
+ all’Appello Incidentale perché prive di ogni fondamento sono le eccezioni
+ opposte in ordine all’erroneità della decisione impugnata per l'errore in
+ iudicando commesso dai giudici di prime per aver ritenuto destituite di
+ fondamento le contestazioni relative alla nullità dell'atto di contestazione:
+ - per difetto di competenza territoriale dell'Agenzia delle Dogane che
+ ha effettuato la verifica;
+ -per difetto di competenza territoriale dell’Agenzia delle Entrate che emanato l'atto di contestazione.</claim>
+
+ Nel caso in esame, la società ricorrente nel 2010, anno in cui sono state
+ commesse le violazioni accertate, aveva il domicilio fiscale a XXX
+ come si evince dai dati anagrafici rilevati dalla anagrafe tributaria.
+
+ La controversia è stata sottoposta all'esame di questo Collegio, nel corso
+ dell'odierna udienza camerale, tenutasi in attuazione della normativa
+ emergenziale sopravvenuta (articolo-27, comma 2, del D.L.n.137/2020).
+ 
+
+ 
+ L'appello è fondato.
+
+ <mot ID="Mot2" G="2" O="Req1">Con atto di contestazione n. TYUCOB200233 vengono contestate solo ed
+ esclusivamente le violazioni formali relative alle norme intracomunitarie,
+ e non viene recuperata nessuna imposta.
+
+ Nel caso in esame non c'è alcun collegamento tra l'imposta accertata con
+ l’avviso di accertamento emesso esclusivamente sulla base degli studi di
+ settore e le sanzioni irrogate con l’atto di contestazione emesso a seguito
+ di verifica per violazioni formali alle norme intracomunitarie, metodo
+ legittimo così previsto dall’art.16 del d.lgs.472/97 al comma 1 e 2.
+
+ L’art. 6, co. 1, d.lgs. n. 471 del 1997 recita: "1. Chi viola gli obblighi
+ inerenti alla documentazione e alla registrazione di operazioni imponibili
+ ai fini dell'imposta sul valore aggiunto ovvero all'individuazione di
+ prodotti determinati è punito con la sanzione amministrativa compresa
+ fra il cento e il duecento per cento dell'imposta relativa all'imponibile non
+ correttamente documentato o registrato nel corso dell'esercizio. Alla
+ stessa sanzione, commisurata all'imposta, è soggetto chi indica, nella
+ documentazione o nei registri, una imposta inferiore a quella dovuta".
+
+ Recita l'art. 6, co. 9-bis, d.lgs. n. 471 del 1997 (Comma aggiunto dall'art. 1,
+ comma 455, L. 24 dicembre 2007, n. 244, a decorrere dai DD MM
+ 2008): "E' punito con la sanzione amministrativa compresa fra il 100 e il
+ 200 per cento dell'imposta, con un minimo di 258 euro, il cessionario o il
+ committente che, nell'esercizio di imprese, arti o professioni, non assolve
+ l'imposta relativa agli acquisti di beni o servizi mediante il meccanismo
+ dell'inversione contabile di cui agli articoli 17 e 74, commi settimo e
+ ottavo, del decreto del Presidente della Repubblica 26 ottobre 1972, n.
+ 633, e successive modificazioni. La medesima sanzione si applica al cedente o prestatore che ha irregolarmente addebitato l'imposta in fattura omettendone il versamento. Qualora l'imposta sia stata assolta, ancorché irregolarmente, dal cessionario o committente ovvero dal
+ cedente o prestatore, fermo restando il diritto alla detrazione ai sensi
+ dell'articolo 19 del decreto del Presidente della Repubblica 26 ottobre
+ 1972, n. 633, e successive modificazioni, la sanzione amministrativa è pari
+ al 3 per cento dell'imposta irregolarmente assolta, con un minimo di 258
+ euro, e comunque non oltre 10.000 euro per le irregolarità commesse nei
+ primi tre anni di applicazione delle disposizioni del presente periodo. Al
+ pagamento delle sanzioni previste nel secondo e terzo periodo, nonché al
+ pagamento dell'imposta, sono tenuti solidalmente entrambi i soggetti
+ obbligati all'applicazione del meccanismo dell'inversione contabile. E'
+ punito con la sanzione di cui al comma 2 il cedente o prestatore che non
+ emette fattura, fermo restando l'obbligo per il cessionario o committente
+ di regolarizzare l'omissione ai sensi del comma 8, applicando, comunque,
+ il meccanismo dell'inversione contabile".
+
+ Orbene, l'Ufficio, nel caso che ci occupa, ha operato non già escludendo il
+ diritto alla detrazione dell'IVA sulle operazioni oggetto delle irregolarità
+ contabili, per mancato perfezionamento del meccanismo dell'inversione
+ contabile (reverse charge) che consente di traslare l'onere impositivo
+ dall'acquirente al venditore, ma unicamente sanzionando tali condotte
+ per cui si può affermare, sul punto, che la violazione contestata alla
+ contribuente non ha carattere meramente formale poiché, anche quando
+ non determina in concreto l'omesso versamento dell'Iva od una indebita
+ detrazione, con il regime ordinario piuttosto che mediante inversione
+ contabile, arreca un evidente pregiudizio alle azioni di controllo da parte
+ dell'Amministrazione finanziaria che si trova a dover valutare la
+ correttezza delle operazioni e la loro effettività.
+
+ Soccorre la giurisprudenza della Corte di Cassazione, in tema di sanzioni
+ tributarie, la violazione ha carattere meramente formale quando
+ ricorrono due concorrenti requisiti, ovvero quello di non arrecare pregiudizio all'esercizio delle azioni di controllo e, al contempo, di non
+ incidere sulla determinazione della base imponibile dell'imposta e sul
+ versamento del tributo (Cass. n. 23352/2017; n. 14158/2018; n.
+ 21101/2018; n. 1830/2019). Trattandosi, altresì, di fattispecie
+ sanzionatorie diverse, per cui in difetto della "eadem ratio" non trova
+ applicazione, in via analogica, il principio del "favor rei".</mot>
+
+ Non possono trovare accoglimento le doglianze proposte dall’appellante incidentale, 
+ <mot ID="Mot3" G="2" O="Claim2|Claim3">dal momento che la Commissione Tributaria Provinciale di
+ XXX ha correttamente ed ampiamente argomentato le
+ motivazioni, con sentenza n.659/2016 depositata in segreteria il
+ DD/MM/2016.</mot>
+
+ <mot ID="Mot4" G="2" O="Claim4">Sulla questione relativa alla competenza territoriale degli Uffici Doganali
+ si è espressa recentemente la Corte di Cassazione con la sentenza n. 5167
+ del 1° marzo 2013, che confermando quanto già sancito dalla stessa
+ Suprema Corte con le sentenze n. 14786 e seguenti del 5 luglio 2011, ha
+ ribadito “non è corretto sostenere che la legislazione nazionale in materia
+ doganale prevede solo una competenza per materia e non attribuisce
+ alcuna importanza alla competenza per territorio”.
+
+ A conferma l’organizzazione per “territorio”, e non per “materia”,
+ dell’Amministrazione doganale è confermata anche dal successivo art.
+ 326 del TULD secondo il quale “i processi verbali contenenti le violazioni
+ del presente testo unico e di ogni altra legge nei casi in cui l'applicazione
+ di essa è demandata alle dogane, quando riguardino violazioni accertate
+ fuori dagli spazi doganali (....) sono trasmessi, a cura dei pubblici ufficiali
+ che li hanno redatti, alla dogana competente per territorio.”</mot>
+
+ La Commissione Tributaria Regionale di XXX sez. 07 osserva che
+ le spese come per legge seguono la soccombenza e vanno liquidate
+ secondo il seguente dispositivo
+ 
+
+ P.Q.M.
+
+ 
+ <dec ID="Dec2" G="2" E="0" O="Req1">In riforma della sentenza n.659/2016 della Commissione Tributaria
+ Provinciale di XXX depositata in cancelleria in data DD/MM/2016, dichiara legittimo l’atto di contestazione impugnato.</dec>
+ Condanna il soccombente alle spese del presente giudizio di appello che
+ liquida in €. 800,00 (ottocento/euro).
+
+ 
+ Così deciso in XXX addì DD MM 2021.
+ 
+
+ IL GIUDICE ESTENSORE giu2
+ IL PRESIDENTE giu1
+ 
+
+</body>

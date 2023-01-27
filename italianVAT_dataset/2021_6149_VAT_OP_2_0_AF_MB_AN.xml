@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+ 
+REPUBBLICA ITALIANA
+IN NOME DEL POPOLO ITALIANO
+
+ LA COMMISSIONE TRIBUTARIA REGIONALE DI SICILIA
+ SEZIONE N° 2
+
+ REG.GENERALE N° 664/2018
+
+ riunita con l'intervento dei Signori:
+ giu1 Presidente
+ giu2 Relatore
+ giu3 Giudice
+ 
+
+ ha emesso la seguente
+ SENTENZA
+
+ - sull'appello n. 664/2018
+ depositato il DD/MM/2018
+
+ - avverso la pronuncia sentenza n.16883/2017 Sez:1 emessa dalla Commissione Tributaria Provinciale di MESSINA
+
+ <part P="A">contro:
+ AG. ENTRATE DIREZIONE PROVINCIALE MESSINA
+ VIA SANTA CECILIA 15.104 N.45/C 98100 MESSINA</part>
+
+ <part P="B">proposto dall'appellante:
+ LG
+ XXX</part>
+
+ difeso da:
+ MVC
+ XXX
+
+ Atti impugnati:
+ AVVISO DI ACCERTAMENTO n° TYX01F400007/2014 IRPEF-ADD.REG. 2009
+ AVVISO DI ACCERTAMENTO n° TYX01F400007/2014 IRPEF-ADD.COM. 2009
+ AVVISO DI ACCERTAMENTO n° TYX01F400007/2014 IRPEF-IMPR.ORD. 2009
+ AVVISO DI ACCERTAMENTO n° TYX01F400007/2014 IVA-OP.IMPONIB. 2009
+
+
+IN FATTO E IN DIRITTO
+
+1 L'Agenzia delle Entrate Direzione Provinciale di Messina notificava al signor LG, titolare dell'omonima ditta esercente l'attività di “Alberghi e Hotel con ristorante”, l'Avviso di accertamento n. TYX01F400007/2014 con il quale per l'anno 2009 ai fini Irpef, Irap e Iva erano state accertate maggiori imposte per la complessiva somma di € 32.246,00 oltre interessi e sanzioni non essendo state accolte la giustificazione in sede di contraddittorio.
+
+
+ 
+ <req ID="Req1" G="1" P="B">Il contribuente impugnava tale avviso dinanzi alla CTP di Messina</req>
+ <claim ID="Claim1" G="1" P="B" PRO="Req1">deducendo che l'Ufficio aveva proceduto alla determinazione di maggiori imposte, mediante la mera applicazione degli studi di settore, senza che ne sussistessero i presupposti,</claim> 
+ <claim ID="Claim2" G="1" P="B" PRO="Req1">nonché il difetto di motivazione dell'atto impugnato.</claim>
+ 
+
+ 
+ <dec ID="Dec1" G="1" E="0" O="Req1">Con sentenza numero 6883/1/2017 la CTP rigettava il ricorso</dec> 
+ e condannava il ricorrente al pagamento delle spese liquidate in euro 550,00.
+ 
+
+
+
+ 
+ <req ID="Req2" G="2" P="B">Il signor L propone appello avverso tale sentenza chiedendone la riforma integrale e l'annullamento dell'avviso di accertamento</req> 
+ <claim ID="Claim3" G="2" P="B" PRO="Req2">ritenuto nullo per difetto di motivazione</claim> 
+ <arg ID="Arg1" G="2" P="B" PRO="Claim3">in quanto tale atto, basato sugli studi di settore, non può fondarsi è ‘esclusivamente sullo scostamento rispetto agli “standards” e quanto dichiarato a titolo di ricavi, ma tale differenza deve essere suffragata da ulteriori elementi di prova, mentre le presunzioni “gravi, precise e concordanti” indicate dall'articolo 39 del DPR 600/1973 devono essere individuate, volta per volta, sul caso concreto all' esito del contraddittorio con il contribuente.</arg> 
+ <arg ID="Arg2" G="2" P="B" CON="Claim3">L'Ufficio, invece, non ha contestato la validità e l'attendibilità delle scritture contabili e si è limitato a ritenere “generiche” le giustificazioni fornite, senza considerare che egli esercita un'attività di gestione alberghiera stagionale nell'isola di Salina e che lo scostamento è derivato dalla contrazione dei flussi turistici alle isole Eolie, come documentato da rassegna stampa depositata.</arg>
+
+ <claim ID="Claim4" G="2" P="B" PRO="Req2">Il contribuente, inoltre, contesta che l'Agenzia non abbia ritenuto prova idonea la documentazione già presentata, afferente il numero degli ospiti e i prezzi effettivamente praticati,</claim> 
+ <claim ID="Claim5" G="2" P="B" PRO="Req2">nonché la "grossolana” motivazione contenuta nell’ avviso di accertamento</claim>
+ <arg ID="Arg3" G="2" P="B" PRO="Claim4">secondo cui le reiterate perdite dichiarate si pongono in evidente contrasto con il comune buon senso e con le regole basilari della ragionevolezza in quanto egli "è un imprenditore che ha creduto in un progetto” in cui ha investito anche indebitandosi ma, preso atto del perdurare della crisi nel settore turistico, nel 2016 ha venduto l'azienda e gli immobili.</arg>
+
+ <claim ID="Claim6" G="2" P="B" PRO="Req2">Infine, circa quanto affermato dalla Commissione Tributaria Provinciale in relazione all'incongruenza del reddito complessivo dichiarato rispetto a significativi elementi di spesa deduce che la stessa non ha tenuto conto che gli immobili sono giunti alla moglie del ricorrente per successione ereditaria in morte del padre e del nonno, e che le due autovetture sono state immatricolate nel 1992 e nel 2001.</claim>
+
+ <claim ID="Claim7" G="2" P="A" PRO="Req3">Si costituisce l'Agenzia delle Entrate rilevando in primis che in questa sede di riesame il contribuente ripropone le argomentazioni già evidenziate dinanzi ai primi giudici circa l’inapplicabilità,</claim> 
+ <arg ID="Arg7" G="2" P="A" PRO="Claim7">nel caso concreto, degli studi di settore con conseguente inammissibilità dell'appello de quo stante l'assenza di specifici motivi di impugnazione giusto disposto di cui all'articolo 53, 1° c., D.lgs. 546/92.</arg>
+
+ <claim ID="Claim8" G="2" P="A" PRO="Req3">Nel merito, ribadisce la legittimità dell'accertamento</claim> 
+ <req ID="Req3" G="2" P="A">e chiede il rigetto dell'appello.</req>
+ All'udienza del 25/05/2021 la causa è decisa come da dispositivo.
+ 
+
+ 
+ L'appello non è fondato.
+
+ <mot ID="Mot1" G="2" O="Req2">Gli Uffici accertatori si servono di legittimi strumenti - ad esempio gli studi di settore - dai quali inferire l'esistenza di un presupposto d'imposta diverso da quello dichiarato dal contribuente operando un’etero-integrazione della fattispecie impositiva, il cui fondamento risiede, del resto, proprio nella possibilità riconosciuta al legislatore di prevedere, oltre alle norme che disciplinano le regole sostanziali per determinare l'ammontare dell' immobile, anche delle disposizioni che consentano il ricorso a prove indirette basate su criteri inferenziali.
+
+ Lo scostamento, tra i ricavi dichiarati dal contribuente per l'anno d'imposta 2009 e quelli determinati dallo studio di settore di riferimento, ha legittimato l'Ufficio all' avvio dell'azione accertatrice della quale, invero, lo studio rappresenta un supporto oggettivo e razionale che costituisce una presunzione legale relativa che sposta in capo al contribuente*Vonere di dimostrare le ragioni giustificatrici dello scostamento rilevato.
+
+ A tal fine, l'Ufficio ha attivato la procedura di contraddittorio con il contribuente, (giusta verbale prot. n. 92555/2014), conclusasi negativamente ed, inoltre, durante la fase istruttoria, sono state individuate delle situazioni significative di una condotta manifestamente antieconomica nella conduzione dell'attività e, precisamente, reiterate perdite dichiarate per gli anni 2008, 2009 e 2010 (anno 2008 € -88.280,00; anno 2009 €-42.312,00; anno 2010 €-20.980,00). In particolare, nell’anno di imposta 2009 i ricavi dichiarati dalla parte ricorrente sono stati di € 248.993,00, mentre quelli indicati dallo studio di settore sono di 336.781,00 con una differenza di € 87.700,00.
+
+ Anche nella dichiarazione dell'anno precedente, 2008, vi è stato uno scostamento di euro 51.867,00; inoltre, per il 2009 - anno del periodo d'imposta in considerazione - a fronte di una perdita dichiarata di euro 42.312,00 risultano spese per il personale per un ammontare di euro 94.784,00.
+
+ Dall'esame dei predetti elementi evidenzia incongruenze dei ricavi gravi e reiterate nel tempo. L'incoerenza gestionale ed economica configura, complessivamente, una gestione dell'attività di impresa incongruente in quanto la parte appellante avrebbe svolto l'attività alberghiera in perdita.</mot>
+
+ Ne risulta che l'appello deve essere rigettato con la conferma dell'atto impugnato.
+
+ Le spese del giudizio seguono la soccombenza e si determinano e liquidano in € 1.500,00
+ 
+
+ P. Q. M.
+ <dec ID="Dec2" G="2" E="0" O="Req2">la Commissione respinge l'appello e conferma la legittimità dell'avviso di accertamento oggetto del contendere.</dec>
+ Spese del grado secondo soccombenza.
+ Così deciso in Messina nella camera di consiglio del DD MM 2021
+ Il Relatore 
+ Il Presidente
+ 
+
+
+</body>

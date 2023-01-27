@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+
+
+ REPUBBLICA ITALIANA
+ IN NOME DEL POPOLO ITALIANO
+ 
+ REG.GENERALE N° 9628/2016
+ 
+
+ LA COMMISSIONE TRIBUTARIA REGIONALE DI LAZIO SEZ.STACCATA DI LATINA SEZIONE 18
+ riunita con l'intervento dei Signori:
+ giu1 Presidente 
+ giu2 Relatore
+ giu3 Giudice 
+ 
+ ha emesso la seguente 
+ SENTENZA
+ - sull'appello n. 9628/2016
+ depositato il DD/MM/2016
+ - avverso la pronuncia sentenza n. 335/2016 Sez:1 emessa dalla Commissione Tributaria Provinciale di FROSINONE
+
+ <part P="A">contro:
+ AG. ENTRATE DIREZIONE PROVINCIALE FROSINONE</part>
+
+ <part P="B"> proposto dall'appellante:
+ PF S.R.L.
+ XXX</part>
+
+ difeso da:
+ CP
+ XXX
+
+ Atti impugnati:
+ AVVISO DI ACCERTAMENTO n° TKQ032G00791/2015 IVA-OP.NON IMP. 2007
+ AVVISO DI ACCERTAMENTO n° TKQ032G00791/2015 IVA-OP.ESCLUSE 2007 
+ AVVISO DI ACCERTAMENTO n° TKQ032G00791/2015 IVA-OP.ESENTI 2007
+ AVVISO DI ACCERTAMENTO n° TKQ032G00792/2015 IVA-OP.IMPONIB. 2008
+ AVVISO DI ACCERTAMENTO n° TKQ032G00792/2015 IVA-OP.NON IMP. 2008
+ AVVISO DI ACCERTAMENTO n° TKQ032G00792/2015 IVA-OP.ESCLUSE 2008
+ AVVISO DI ACCERTAMENTO n° TKQ032G00792/2015 IVA-OP.ESENTI 2008
+
+FATTO
+ Società PF s.r.l. impugna la Sentenza N.335/01/2016 emessa dalla Commissione Tributaria Provinciale di Frosinone con la quale
+
+
+ 
+ <req ID="Req1" G="1" P="B">venivano respinti i ricorsi riuniti. Trattasi di avviso di accertamento.</req>
+ 
+
+ 
+ <dec ID="Dec1" G="1" E="0" O="Req1">I Primi Giudici, disattendendo le argomentazioni difensive della contribuente, hanno respinto il Ricorso.</dec>
+ 
+
+
+
+ 
+ <req ID="Req10" G="2" P="B">L’appellante propone appello</req>
+ <arg ID="Arg2" G="2" P="B" PRO="Claim1">e rileva di aver eseguito il pagamento delle somme a mezzo assegni tracciabili intestati alla MA. e che non vi era sospetto in ordine alla regolarità
+ delle, operazioni. e della documentazione contabile trasmessa; </arg>
+ <claim ID="Claim1" G="2" P="B" PRO="Req2">l’appellante eccepisce l'illegittimo comportamento dell’ Agenzia delle Entrate</claim> 
+ <arg ID="Arg1" G="2" P="B" PRO="Claim1">e rileva che il pagamento delle fatture era stato eseguito a mezzo assegni indirizzati alla ditta MA. e incassati.</arg>
+
+ <req ID="Req2" G="2" P="B">Conclude per l’accoglimento dell’appello</req> 
+ con vittoria delle spese di giudizio.
+
+ <req ID="Req3" G="2" P="A">Agenzia Entrate di Frosinone si costituisce in giudizio e contesta le motivazioni dell’appello ed
+ il rapporto commerciale e conclude per la legittimità dell’operato dell’Ufficio e chiede il rigetto
+ dell’appello</req> 
+ con vittoria delle spese di giudizio.
+ 
+
+ MOTIVI DELLA DECISIONE
+ La Commissione, esaminati gli atti, ritiene infondato l’appello proposto e non condivide le argomentazioni addotte a sostegno.
+ <mot ID="Mot1" G="2" O="Claim1">Il Collegio rileva che la contribuente non ha dato prova del contratto stipulato tra le parti avente
+ una data certa della scrittura autenticata e registrata al fine di rendere il contratto opponibile ai
+ terzi.
+ L’appellante non ha dato valida prova di aver intrattenuto rapporti commerciali per importi
+ rilevanti sulla base di un accordo con la Sig.ra R quale responsabile commerciale della
+ Ditta MA. senza mai peraltro intrattenere rapporti con il titolare Sig. F
+ M.
+ Il Collegio ritiene pertanto legittimi tutti i recuperi eseguiti dall'Ufficio mentre non appaiono
+ condivisibili le argomentazioni esposte dalla contribuente appellante.
+ Fa decisione e la motivazione di 1° Grado non meritano censura e vanno confermate mentre
+ l’appello va respinto.</mot>
+ Il Collegio ritiene di compensare le spese di giudizio tra le parti, tenuto conto della materia del contendere e delle rispettive tesi difensive.
+ 
+
+ P. Q. M.
+ <dec ID="Dec2" G="2" E="0" O="Req2"> Rigetta l’appello.</dec> 
+ Spese compensate.
+ 
+ Latina li,DD/MM/2018
+ 
+ IL RELATORE 
+ IL PRESIDENTE
+ 
+
+</body>

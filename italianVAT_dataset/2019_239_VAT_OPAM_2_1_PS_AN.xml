@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+
+REPUBBLICA ITALIANA
+
+IN NOME DEL POPOLO ITALIANO
+
+	REG.GENERALE N° 425/2016
+
+	LA COMMISSIONE TRIBUTARIA REGIONALE DI XXX
+
+	riunita con l'intervento dei Signori:
+		giu1 Presidente
+		giu2 Relatore
+		giu3 Giudice
+	
+
+	ha emesso la seguente
+	SENTENZA
+
+	REG. GENERALE N° 425/2016
+
+- sull'appello n. 425/2016
+spedito il DD/MM/2016
+
+- avverso la pronuncia sentenza n. 294/2015 Sez:2 emessa dalla Commissione Tributaria Provinciale di XXX
+
+<part P="A">contro:
+PA
+VIALE XXX</part>
+
+difeso da:
+PS
+C/O A
+P.LE XXX
+
+<part P="B">contro:
+PE A.D.
+RAPPR. PA
+VIALE XXX</part>
+
+difeso da:
+PS
+C/O A
+P.LE XXX
+
+<part P="C">contro:
+SNE
+VIA XXX
+C/O A
+P.LE XXX</part>
+
+<part P="D">proposto dall'appellante:
+AG. ENTRATE DIR. PROVIN. UFF. CONTROLLI-LEGALE XXX</part>
+
+Atti impugnati:
+AVVISO DI ACCERTAMENTO n° TI706SZ01953/13 IVA-OP.IMPONIB. 2011
+
+
+
+	
+		<req ID="Req1" G="1" P="A|B|C">Con ricorso alla CTP di XXX depositato il DD.MM.2014 la PE AD, rappresentata dalla Sig.ra AP, la Sig. AP stessa, in qualità di autrice della presunta violazione, ed il Sig. SNE, in qualità di autore della presunta violazione, impugnavano l’avviso di accertamento n. TI706SZ01953 emesso dall’Agenzia delle Entrate, Direzione Provinciale di XXX, per il mancato pagamento di euro 9.422,00 per Iva relativa al 2011, chiedendo che la Commissione Provinciale rideterminasse in euro 3,595,00 l’importo ancora dovuto per Iva 2011</req> 
+		<claim ID="Claim1" G="1" P="A|B|C" PRO="Req1">in considerazione del fatto che dai documenti allegati al ricorso risultavano giustificati i versamenti effettuati nel rapporto intrattenuto con la Bcc n. 33390 per 51.501,00 euro, i versamenti di euro 8.047,00 relativi al rapporto 000099071029 intestato alla Sig. P per far fronte alle esigenze familiari e quelli pari ad euro 1.500,00 relativi a tre ricariche telefoniche.</claim> 
+		<arg ID="Arg1" G="1" P="A|B|C" PRO="Claim1">Sottraendo questi tre importi all’imponibile accertato con l’avviso, si giungeva ad un imponibile di 32.363,00 su cui applicare l’aliquota Iva.</arg> 
+		<req ID="Req2" G="1" P="A|B|C">Nelle conclusioni i ricorrenti chiedevano il riconoscimento della P in questione come associazione sportiva dilettantistica.</req>
+
+		<req ID="Req3" G="1" P="D">Costituendosi in giudizio con controdeduzioni depositate il DD.MM.2014, l’Agenzia delle Entrate, Direzione Provinciale di XXX, ha chiesto il rigetto del ricorso,</req> 
+		<claim ID="Claim2" G="1" P="D" PRO="Req3">negando alla P il riconoscimento richiesto e sostenendo che l’utilizzo del conto intestato alla Sig. P era di tipo promiscuo, che vari versamenti effettuati sul conto Bcc n. 33390 erano già stati ritenuti giustificati, che altri, invece, continuavano ad essere privi di giustificazione.</claim> In seguito, tuttavia, l'Agenzia ha provveduto in autotutela ad un parziale annullamento dell’avviso, rideterminando l’Iva dovuta in euro 7.691,00, a seguito del riconoscimento della giustificazione del versamento in contanti dell’importo di euro 15.000,00 su cc Bcc n. 33390, come risulta dall’atto depositato all’udienza del DD.MM.2015.
+
+		<arg ID="Arg2" G="1" P="A|B|C" PRO="Claim1">Con atto depositato il DD.MM.2015 i ricorrenti hanno sostenuto di ridepositare i documenti già allegati al ricorso in un ordine diverso dal precedente, chiarendo quanto segue circa i bonifici ricevuti, dalla VV srl. L'importo di cui alla fattura n. 33/11 dd. 30.7.11, per euro 16.018,75, era stato pagato con due bonifici, prima di euro 7.000,00 e poi di euro 9.034,00, per un totale di euro 16.034,00 con un maggior incasso di euro 15,25. L’importo di cui alla fattura n. 34/11 dd. 6.8.11, pari ad euro 26.166,25, andava diminuito in virtù delle note di accredito dd. 17.8.11, pari ad euro 154,00, e dd. 27.8.11, pari ad euro 5.000,00, portando ad una differenza da saldare di euro 21.012,25, versata con bonifico del DD.MM.2011 di 6.000,00 e del DD.MM.2011 di 14.997,00, per un totale di 20.997,00. La differenza tra fattura e bonifici era di 15,25 euro di incasso in meno e la stessa era stata effettuata per recuperare l’importo corrispondente pagato in più. Si trattava di pagamenti frazionati delle fatture n. 33 e 34 emesse dalla P. Venivano poi giustificati una serie di movimenti in contanti con il fatto che la P riceveva molti pagamenti anche seguiti da ricevute e scontrini con versamento in banca del denaro in contanti presente in cassa.</arg>
+	
+
+	
+		Con sentenza n. 294/02/15 dd. 3.-17.12.2015, la Commissione Provinciale, ritenuta inammissibile la domanda di riconoscimento della natura non commerciale della P come associazione sportiva dilettantistica 
+		<mot ID="Mot1" G="1" O="Req2">per l’assenza nel ricorso dei motivi per cui doveva essere attribuita tale qualifica,</mot> 
+		ha affermato che “la lettura della documentazione prospettata dalla difesa con la memoria DD.MM.2015” era fondata, 
+		<mot ID="Mot2" G="1" O="Claim1">venendo “forniti elementi per ritenere ragionevolmente, almeno a livello di indizi seri e logici (sufficienti quindi a smontare la presunzione iuris tantum derivante dagli esiti degli accertamenti bancari), che i movimenti bancari in questione possano e debbano essere ricostruiti nel senso indicato nella memoria e cioè come pagamenti, frazionati di due fatture 33 e 34 emesse dalla ricorrente, tenendo conto che le somme coincidono in sostanza (vi è uno scarto in un caso in più e nell’altro in meno di 15,15 euro), con gli importi di tali fatture e che la giustificazione di detti pagamenti frazionati (clienti dell’est Europa che pagano poco e male e in ritardo, tramite agenzia turistica) appare ragionevole secondo l’id quod plerunque accidit”.</mot>
+	
+
+	
+		<dec ID="Dec1" G="1" E="1" O="Req1">L'avviso di accertamento è stato quindi annullato per la parte non già annullata in autotutela,</dec> 
+		con compensazione delle spese di giudizio.
+	
+
+
+
+	
+		<req ID="Req4" G="2" P="B">Questa sentenza è stata impugnata dall’ Agenzia delle Entrate con ricorso in appello depositato il DD.MM.2016, nel quale si chiede la conferma della decisione di primo grado quanto al riconoscimento della natura commerciale dell’ente ricorrente</req> 
+		<req ID="Req5" G="2" P="B">e la sua riforma quanto all’annullamento dell’avviso nella parte non già annullata in autotutela.</req> 
+		<arg ID="Arg3" G="2" P="B" PRO="Claim3">Circa quest’ultimo aspetto, l’appellante premette che la questione controversa concerne la giustificazione del maggior volume d’affari ricostruito sulla base di accertamenti bancari. Al riguardo, prosegue l’appellante, in base agli artt 32 DPR 600/73 e 51 DPR 633/72 gli uffici possono acquisire dati inerenti a movimentazioni bancarie sui conti dei contribuenti e porre le risultanze di tali acquisizioni a base degli accertamenti, senza dover provare che i prelevamenti e versamenti considerati si riferiscono ad operazioni imponibili, essendo, invece, onerati i contribuenti a provare che tali movimenti sono stati considerati nella determinazione dell’imponibile o sono irrilevanti circa quest’ultimo.</arg>
+
+		<claim ID="Claim3" G="2" P="B" CON="Req5">L’appellante ritiene che nel caso di specie la contribuente non abbia fornito la prova contraria rispetto alla considerazione che i suddetti movimenti facciano parte dell’imponibile, prova che, per giurisprudenza costante della Cassazione, deve essere specifica e riguardare ogni singola movimentazione.</claim>
+
+		
+		<arg ID="Arg4" G="2" P="B" CON="Claim3">L’Agenzia in proposito rileva che le fatture fatte valere non risultano registrate nel libro giornale sia alla data di emissione che nella data del bonifico, che gli importi indicati nelle fatture non corrispondono a quelli dei bonifici recuperati a tassazione, che le due fatture 33 e 34 relative ai due bonifici effettuati dalla VV non trovano riscontro nella contabilità e che di altri bonifici effettuati dalla parte non ha tenuto conto nel ricalcolo dell’imponibile, che è stato già diminuito tenendo conto delle note di accredito n. 36 e 38. Quanto al conto intestato alla Sig. P, l’appellante ritiene che i relativi movimenti non possano essere esclusi dalla ricostruzione dell’imponibile, dato che il conto veniva utilizzato in modo promiscuo e non solo per esigenze familiari.</arg>
+
+L’appellata non si è costituita.
+
+	
+		La sentenza di primo grado va confermata per quanto concerne l’inammissibilità della domanda di riconoscimento della natura non commerciale della P, inammissibilità affermata in primo grado e non impugnata. 
+		La pronuncia stessa va confermata anche per quanto concerne il riconoscimento dei bonifici ricevuti dalla VV srl, che corrispondono ai documenti prodotti (fatture e note di accredito) con una piccola differenza che è stata compensata e che è riconducibile ad un errore che può capitare. 
+		Non può, tuttavia, essere confermata per le altre questioni su cui non si è pronunciata. 
+
+		<mot ID="Mot3" G="2" O="Claim3">L’appellata, innanzitutto, non ha indicato quali movimenti di quelli indicati dall’ufficio in euro 8.047,00, relativi al rapporto intestato alla Sig. P, servivano per far fronte alle esigenze familiari e quali no e «quindi la ripresa, su cui hanno taciuto 1 primi giudici, a questa Commissione pare legittima, così come pare legittima la ripresa dei cospicui versamenti in contanti, rispetto ai quali non"vi sone giustificazioni documentali. In secondo luogo, va rilevato che su tutti gli altri aspetti della ripresa l’appellata si è limitata a depositare un gran numero di documenti senza specificare analiticamente il loro significato in termini di giustificazione richiesta al contribuente.</mot>
+
+		In conclusione l’appello dell'Agenzia va accolto per tutto ciò che non concerne i bonifici ricevuti dalla VV srl.secondo il conteggio proposto con l’atto dd. DD.MM.2015 e la pretesa dell’Agenzia andrà di conseguenza ricalcolata. 
+		La compensazione delle spese di primo grado va confermata per le ragioni già indicate dai primi giudici. 
+		La compensazione delle spese del secondo grado si impone per la reciproca soccombenza.
+	
+
+	PQM
+
+		<dec ID="Dec2" G="2" E="1" O="Req4">la Commissione Tributaria Regionale del XXX 1) in parziale riforma dell’impugnata decisione accoglie l’appello dell’Ufficio finanziario confermando l’avviso di accertamento come ridotto in autotutela con esclusione dalla base imponibile dei bonifici disposti dal contribuente a saldo delle fatture n. 34 e 33 del 2011 emesse dalla VV srl;</dec>
+		2) compensa integralmente tra le parti le spese del presente grado del giudizio.
+
+		
+			XXX, DD.MM.2019
+		
+
+		Il relatore 
+		Il presidente
+	
+
+
+</body>

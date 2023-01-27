@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+
+
+REPUBBLICA ITALIANA
+IN NOME DEL POPOLO ITALIANO
+
+	LA COMMISSIONE TRIBUTARIA DI SECONDO GRADO DI XXX SEZIONE 2
+
+	riunita con l'intervento dei Signori:
+		giu1 Presidente
+		giu2 Relatore
+		giu3 Giudice
+	
+
+	Ha emesso la seguente sentenza
+
+	REG. GENERALE N° 8/2020
+
+	- sull'appello n. 8/2020 depositato il DD/MM/2020
+
+	- avverso la pronuncia sentenza n. 68/2019 Sez:1 emessa dalla Commissione Tributaria di I GRADO DI XXX
+
+	<part P="A">contro:
+	AG. ENT. DIREZIONE PROVINCIALE DI XXX
+	VIA XXX</part>
+
+	<part P="B">proposto dall'appellante:
+	TS
+	VIA XXX</part>
+
+	difeso da:
+	TS
+	VIA XXX
+
+	Atti impugnati:
+	CONTESTAZIONE n° 32 IVA-ALTRO 2013
+
+FATTO
+	
+1.1.
+	
+		<req ID="Req3" G="2" P="B">L'avvocato ST, che agisce e si difende in proprio, ha impugnato un atto di contestazione relativo all'anno d'imposta 2013</req>
+	 
+
+col quale l'Agenzia delle Entrate di XXX gli contestava, a fini IVA, l'omessa registrazione di operazioni imponibili riferite a tre prelevamenti non giustificati (2 di euro 10.000,00 e 1 di euro 6.000,00) per un complessivo importo di euro 26.000,00.
+1.2. Per i detti prelevamenti l'interessato aveva fornite giustificazioni: l'acquisto di un orologio di pregio (successivamente oggetto di un furto regolarmente denunciato) e di una vacanza estiva.
+
+
+	
+		<dec ID="Dec1" G="1" E="0" O="Req3">Ma dette argomentazioni non sono state ritenute idonee né dall'Amministrazione finanziaria né dalla Commissione Tributaria di Primo Grado che, con sentenza n. 68 depositata il 20 giugno 2019, ha respinto il ricorso affermando:</dec>
+	
+
+	
+		<mot ID="Mot1" G="1" O="Req3">- "le giustificazioni fornite dal ricorrente in relazione ai prelievi in contestazione per complessivi euro 26.000 effettuati nel periodo 18.7/30.8.2013 non sono minimamente idonee a vincere la presunzione" di cui all'art. 51, comma 2, n. 2, del d.P.R. n. 633 del 1972, atteso che "la copia della garanzia relativa all'orologio prodotta dall'avv. ST riportante la data '03/08 nulla dimostra circa la data di effettivo acquisto del bene" e che "la pretesa riconducibilità del prelievo di euro 6.000 a spese per vacanze appare parimenti priva di qualsivoglia riscontro";</mot>
+
+		<mot ID="Mot2" G="1" O="Req3">-"la tesi difensiva attorea secondo cui la presunzione ex art. 32 d.P.R. n. 600 del 1973 non si applicherebbe ai professionisti non rileva nel caso qui in esame, visto e considerato che l'Ufficio ha qui applicato la diversa presunzione ex art. 51, comma 2, n. 2, del d.P.R. n. 633 del 1972".</mot>
+	
+
+
+
+	
+		2. <claim ID="Claim1" G="2" P="B">Questa è la pronuncia qui appellata dal Contribuente che ha introdotto i seguenti motivi: 
+		I "violazione e falsa applicazione del d.P.R. n. 600 del 1973, art. 32, comma 1;</claim> 
+		<claim ID="Claim2" G="2" P="B">irrilevanza del richiamo all'art. 51 del d.P.R. n. 633 del 1972",</claim> 
+		<arg ID="Arg1" G="2" P="B" PRO="Claim2">perché i prelevamenti in contanti effettuati dal professionista non possono essere considerati compensi da assoggettare a tassazione, salvo venga provato diversamente da parte dell'Amministrazione finanziaria; 
+		la Corte Costituzionale con sentenza n. 228 del 2014 ha escluso l'operatività della presunzione legale basata sugli accertamenti bancari nei confronti dei prelevamenti dei lavoratori autonomi;</arg>
+		<arg ID="Arg2" G="2" P="B" PRO="Claim1">l'appellante afferma, poi, di aver documentalmente giustificato i prelevamenti ed evidenziato le predette circostanze all'Agenzia delle Entrate chiedendo, invano, un provvedimento di annullamento in autotutela;</arg>
+		II <arg ID="Arg3" G="2" P="B" PRO="Claim1">sulle "giustificazioni ai prelievi contestati", ancora in sede procedimentale è stato prodotto: 
+		a) per l'acquisto dell'orologio da soggetto privato, il certificato di garanzia e copia della denuncia di furto; 
+		b) per le vacanze, a distanza di anni l'interessato afferma di non essere in grado di reperire la relativa documentazione;</arg>
+		III - <claim ID="Claim3" G="2" P="B">in via subordinata, "riduzione dell'importo indicato nella cartella nel limite di 5.000 euro mensili per i prelevamenti".</claim>
+		<req ID="Req1" G="2" P="B">L'appellante ha concluso chiedendo l'accoglimento dell'appello e l'annullamento dell'atto di contestazione.</req>
+
+		3. <claim ID="Claim4" G="2" P="A">L'Agenzia delle Entrate si è costituita in giudizio per:
+		- eccepire l'inammissibilità dell'appello</claim> 
+		<arg ID="Arg6" G="2" P="A" PRO="Claim4">perché notificato non con modalità telematica ma tramite il servizio postale, in violazione dell'art. 16 bis del d.lgs. n. 546 del 1992;</arg>
+		- <claim ID="Claim5" G="2" P="A">controdedurre, affermando che l'atto impositivo ha per oggetto una sanzione per omessa registrazione di operazioni imponibili ai fini IVA e che nessun maggior reddito è stato attribuito al Contribuente ai sensi dell'art. 32 del d.P.R. n. 600 del 1973;</claim> 
+		- <claim ID="Claim6" G="2" P="A">per sostenere, nel merito, che alla fattispecie di causa trova applicazione il disposto dell'art. 51, comma 2, n.2, del medesimo d.P.R.</claim> 
+		<arg ID="Arg4" G="2" P="A" PRO="Claim6">in quanto il contribuente non ha dimostrato che il denaro prelevato è stato utilizzato per finalità estranee alla sua attività professionale;</arg>
+		- <claim ID="Claim7" G="2" P="A">affermare che la domanda subordinata è infondata,</claim> 
+		<arg ID="Arg5" G="2" P="A" PRO="Claim7">perché il d.l. n. 193 del 2006 "incide sulla portata della presunzione solamente nei confronti degli imprenditori, limitandola ai prelevamenti di importi superiori a 1.000 euro giornalieri e, comunque, a 5.000 euro mensili ...restano esclusi lavoratori autonomi per l'ovvia ragione che i prelievi non si presumono compensi", e perché "la norma è entrata in vigore dal dicembre 2016 e pertanto non è applicabile agli anni di imposta precedenti, come nel caso in questione".</arg>
+		<req ID="Req2" G="2" P="A">L'Agenzia ha concluso chiedendo la reiezione dell'appello.</req>
+
+		4. Con l'atto di appello il Contribuente aveva anche chiesto la sospensione della "efficacia del provvedimento e quindi del pagamento di quanto dovuto". Con ordinanza n. 12, del 25% maggio 2020, questa Commissione ha accolto l'istanza cautelare.
+	
+		5. Alla pubblica udienza del 21 settembre 2020, udita la relazione del giudice relatore, i difensori delle parti hanno riassunto le loro pretese e le relative conclusioni. La causa è stata poi trattenuta per la decisione.
+	
+
+	DIRITTO
+
+		1.1. <claim ID="Claim40" G="2" P="A">In via pregiudiziale l'Amministrazione finanziaria ha eccepito la nullità della notifica dell'appello</claim>
+		<arg ID="Arg60" G="2" P="A" PRO="Claim4">perché effettuata non all'indirizzo pec ma tramite "servizio postale", e ciò in violazione del comma 3 dell'art. 16 bis del d.lgs. n. 546 del 1992 che, a seguito della novella di cui al d.l. n. 119 del 2018 (art. 16, comma 5), dispone che a decorrere dal 1° luglio 2019 i ricorsi e gli appelli siano notificati "esclusivamente con modalità telematiche". Pertanto la notifica cartacea dell'atto di appello dovrebbe considerarsi inesistente, con conseguente passaggio in giudicato della sentenza impugnata.</arg>
+
+		1.2. L'eccezione non può essere condivisa.
+
+		1.3. <mot ID="Mot3" G="2" O="Claim4">Per un verso, si deve osservare che se è vero che la novella del 2018 ha previsto che le predette disposizioni si applichino per i ricorsi e gli appelli notificati a decorrere dal 1° luglio 2019, è anche vero che nessuna disposizione di legge ha introdotto la sanzione dell'inammissibilità a carico di colui che non utilizzi l'innovativo strumento di notifica. 
+
+		Per altro ma correlato profilo, si deve rammentare che sul tema della notificazione è oramai assodato il dibattito giurisprudenziale e dottrinale nell'affermare che:
+
+		- l'inesistenza di una notificazione si concretizza quando la notifica fuoriesce dallo schema tipico legale, causando una discrepanza tale tra le modalità dispiegate e il destinatario dell'atto che non è possibile determinare alcun collegamento tra i due elementi;
+
+		-la nullità di una notificazione è invece disciplinata dall'art. 160 c.p.c., ove è previsto che può discendere esclusivamente dall'osservanza delle disposizioni circa la persona alla quale deve essere consegnata la copia, o dall'incertezza assoluta sulla persona a cui è fatta o sulla data, salva l'applicazione dei successivi articoli 156 e 157.
+
+		Più in particolare, "l'inesistenza della notificazione è configurabile, in base ai principi di strumentalità delle forme degli atti processuali e del giusto processo, oltre che in caso di totale mancanza materiale dell'atto, nelle sole ipotesi in cui venga posta in essere un'attività priva degli elementi costitutivi essenziali idonei a rendere riconoscibile un atto qualificabile come notificazione, ricadendo ogni altra ipotesi di difformità dal modello legale nella Categoria della nullità; tali elementi consistono: a) nell'attività di trasmissione, svolta da un soggetto qualificato, dotato, in base alla legge, della possibilità giuridica di compiere detta attività, in modo da poter ritenere esistente e individuabile il potere esercitato; b) nella fase di consegna, intesa in senso lato come raggiungimento di uno qualsiasi degli esiti positivi della notificazione previsti dall'ordinamento (in virtù dei quali, cioè, la stessa debba comunque considerarsi, ex lege, eseguita), restando, pertanto, esclusi soltanto i casi in cui l'atto venga restituito puramente e semplicemente al mittente, così da dover reputare la notificazione meramente tentata ma non compiuta, cioè, in definitiva, omessa" (Cass. Civ., sez. VI, 2.10.2018, n. 23903).
+
+		1.4. In base a tali principi, la notificazione in questione (regolarmente perfezionatasi tramite il servizio postale) può essere considerata (al più) nulla, ma non certo giuridicamente inesistente. E a questo punto soccorre l'art. 156 c.p.c. con il quale è stato codificato che la nullità per inosservanza delle forme processuali non può essere pronunciata se la nullità non è comminata dalla legge, che può essere comunque pronunciata quando l'atto manca dei requisiti formali indispensabili per il raggiungimento dello scopo, ma soprattutto - che non può mai essere pronunciata quando l'atto ha raggiunto lo scopo a cui è destinato.
+
+		1.5. La notificazione dell'appello tramite il servizio postale, difatti, ossia con uno strumento comunque disciplinato dalla legge, e nel luogo fisico della sede dell'Agenzia convenuta, ha determinato il raggiungimento dello stesso scopo perseguito dalla previsione legale del ricorso alla posta elettronica certificata con notifica nel luogo virtuale della sede della medesima Agenzia. Ed ancora, l'Amministrazione evocata ha sanato la detta nullità con la propria costituzione in giudizio, partecipando attivamente alle udienze sia camerale che pubblica (dove ha ampiamente argomentato nel merito), senza formulare, in tali sedi, rilievi o riserve in ordine al pregiudizio eventualmente determinatosi in ragione della modalità di notificazione adottata dall'appellante.</mot>
+
+		2.1. Nel merito, l'appello merita di essere valutato positivamente, essendo fondato e assorbente il primo motivo.
+
+		<mot ID="Mot4" G="2" O="Claim1">2.2. Dunque, a seguito di indagini bancarie l'Agenzia delle Entrate ha adottato nei confronti del contribuente, libero professionista, un avviso di accertamento contestando l'assenza di documentazione contabile e giustificativa in relazione a tre "prelievi", nonché l'insufficienza di quella esibita in sede procedimentale dall'interessato. 
+		Ebbene a fronte di detti tre "prelievi" non giustificati, l'Amministrazione:
+
+		- non ha contestato un maggior reddito, ai sensi dell'art. 32 del d.P.R. n. 600 del 1973, e ciò perché la sentenza della Corte costituzionale 6.10.2014, n. 228, ha dichiarato l'illegittimità costituzionale del citato art. 32, comma 1, numero 2), secondo periodo, limitatamente alle parole "o compensi", termine il cui ambito operativo sono i lavoratori autonomi;
+
+		- ha però contestato l'omessa registrazione di operazioni imponibili ai fini IVA perché "il contribuente non ha dimostrato che il denaro prelevato sia stato utilizzato per finalità estranee alla propria attività professionale" (avviso di accertamento e pag. 4 delle controdeduzioni).
+
+		E in sede di giudizio ha soggiunto che "l'atto impositivo non ha attribuito maggiori compensi in termini di maggior reddito, né la sentenza della Corte Costituzionale 228/2014, relativa all'art. 32 del d.P.R. 600/73 (in materia di imposte dirette) ha riflesso sull'applicazione dell'art. 51 del D.P.R. 633/72".
+
+		2.3. Questo Collegio reputa che la presunzione di cui al comma 2 dell'art. 51 del d.P.R. n. 633 del 1972 meriti una lettura costituzionalmente orientata in base all'univoco principio dettato dalla Corte costituzionale con la già menzionata pronuncia n. 228 del 2014. Infatti, in quell'occasione la Corte delle leggi, dopo aver distinto per specificità la figura del lavoratore autonomo da quella dell'imprenditore, ha affermato, testualmente, che è "arbitrario ipotizzare che i prelievi ingiustificati da conti correnti bancari effettuati da un lavoratore autonomo siano destinati ad un investimento nell'ambito della propria attività professionale".
+
+		Questo limpido ragionamento deve necessariamente trovare applicazione anche in sede di accertamento a fini IVA, atteso che la presunzione di cui al comma 2 dell'art. 51 ha la stessa matrice della presunzione dichiarata costituzionalmente illegittima: anche in questo caso, difatti, il contribuente è chiamato a dimostrare, con riferimento alle operazioni contestate, che ne ha "tenuto conto nelle dichiarazioni o che non si riferiscono a operazioni imponibili". Per cui da dette operazioni contestate debbono escludersi i prelievi, essendo arbitrario ipotizzare, per un libero professionista, che i prelievi ingiustificati da conti correnti bancari siano destinati a un investimento nell'ambito della sua attività professionale.
+
+		3. In senso conforme si è già pronunciata la Corte di legittimità ove - in presenza di un provvedimento dell'Amministrazione finanziaria basato su indagini bancarie che, in assenza di documentazione contabile, aveva accertato maggiori Irpef, Irap e IVA, e a fronte della doglianza con cui l'Ufficio lamentava che nel 2011"la C.T.R., con riferimento all'IVA, [aveva] totalmente annullato il recupero degli acquisti senza fattura, in mancanza della prova richiesta e non fornita dal contribuente, così esonerandolo dalla sanzione per omessa regolarizzazione degli acquisti senza fattura nonostante la sussistenza della violazione" - ha respinto tutte le censure di Parte pubblica "alla luce della sentenza costituzionale n. 228 del 2014", affermando che "in conseguenza della predetta pronuncia, pertanto, non è più proponibile l'equiparazione logica tra attività d'impresa e attività del lavoratore autonomo o dal professionista intellettuale... spostandosi, quindi, sull'Amministrazione finanziaria l'onere di provare che i prelevamenti ingiustificati dal conto corrente bancario e non annotati nelle scritture contabili siano stati utilizzati dal libero professionista per acquisti inerenti alla produzione del reddito, conseguendone dei ricavi" (Cass. Civ., sez. V, 4.10.2017, n. 23162).</mot>
+
+		4. In conclusione, alla luce delle esposte argomentazioni l'appello del contribuente deve essere accolto, con assorbimento, per mancanza di interesse, delle questioni non specificamente esaminate. Per l'effetto, in riforma della sentenza appellata, occorre dichiarare l'illegittimità dell'avviso di accertamento originariamente impugnato relativo all'anno d'imposta 2013.
+
+		5. Le spese di giudizio possono essere compensate tra le parti, 
+		in ragione della soluzione della presente vicenda fondata su di una lettura costituzionalmente orientata della disciplina di riferimento.
+	
+
+	P.Q.M.
+
+		<dec ID="Dec2" G="2" E="1" O="Req2">La Commissione Tributaria di Secondo Grado di XXX, Sezione II, - accoglie l'appello del contribuente.</dec>
+
+		Spese compensate.
+
+		
+			Così deciso in XXX nella camera di consiglio del DD MM 2020
+		
+	
+</body>

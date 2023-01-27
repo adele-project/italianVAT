@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+ 
+Documento firmato digitalmente Sentenza n. 25/2022
+
+Il Relatore Depositato il DD/MM/2022
+giu2
+
+Il Presidente
+giu1
+
+REPUBBLICA ITALIANA
+IN NOME DEL POPOLO ITALIANO
+
+ La Commissione Tributaria Regionale per il LAZIO Sezione 07, 
+ riunita in udienza il DD/MM/2021 alle ore HH:HH con la seguente composizione collegiale:
+
+ giu1 Presidente
+ giu2 Relatore
+ giu3 Giudice
+ 
+ in data DD/MM/2021 ha pronunciato la seguente
+
+ SENTENZA
+
+ - sull’appello n. 4175/2018 depositato il DD/MM/2018
+ <part P="A">proposto da SF Srl</part>
+ Difeso da
+ GNC
+ ed elettivamente domiciliato presso XXX
+
+ <part P="B">contro
+ Ag. Entrate Direzione Provinciale Roma 1</part>
+ elettivamente domiciliato presso dp. 1roma@pce.agenziaentrate.it
+
+ Avente ad oggetto l’impugnazione di:
+ - pronuncia sentenza n. 21226/2017 emessa dalla Commissione Tributaria Provinciale ROMA sez. 24
+
+ Atti impositivi:
+ - AVVISO DI ACCERTAMENTO n. TK3036504535 IVA-OPERAZIONI IMPONIBILI 2009
+
+
+Fatti di causa
+
+ 
+ <req ID="Req1" G="1" P="A">La societa SF srl, con ricorso del DD MM 2015, impugnava l'avviso di accertamento, meglio specificato in epigrafe,</req>
+ 
+
+ con il quale l'Agenzia delle Entrate contestava ricavi di esercizio nel 2009 non assoggettati ad IVA per un importo di €. 45.000, 00 e quindi omesso versamento di IVA dovuta pari ad € 9.000,00 e sanzioni per €. 1.032,00 oltre interessi ed altre spese.
+
+ Prima del ricorso è stato proposto reclamo con esito infruttuoso.
+
+ 
+ <claim ID="Claim1" G="1" P="A" PRO="Req1">La contribuente lamentava l'illegittimità dell'avviso di accertamento del quale chiedeva l'annullamento perché emesso sulla base dell'esame delle sole scritture contabili ed, in particolare, dei conti “fatture da emettere” e di quelli soci/finanziamento infruttifero.</claim> 
+ <claim ID="Claim2" G="1" P="B" CON="Req1">L'Agenzia delle Entrate ha ritenuto irregolare e non opponibile ai fini dell'assolvimento dell'imposta della sostanziale compensazione operata tra importi di servizi non pagati e rinuncia dei crediti dei Soci.</claim>
+
+ L'Agenzia delle Entrate non si costituiva
+ 
+
+ 
+ <dec ID="Dec1" G="1" E="0" O="Req1">La Commissione Tributaria Provinciale di Roma, con sentenza n. 21226 del 2017, rigettava il ricorso</dec> 
+ e condannava la ricorrente al pagamento delle spese del giudizio.
+ 
+ 
+ <mot ID="Mot1" G="1" O="Req1">Secondo la CTP di Roma, tenuto conto che i comportamenti contestati con l'atto impugnato erano da considerarsi illegittimi in base alle norme ed ai principi contabili che disciplinano la materia: Non sarebbe giustificabile alcuna deroga a tali criteri e, pertanto, l'atto impugnato era legittimo ed andava confermato</mot>
+ 
+
+
+
+ 
+ <req ID="Req2" G="2" P="A">Avverso questa sentenza ha interposto appello La società SF</req> 
+ <claim ID="Claim3" G="2" P="A" PRO="Req2">per due motivi: a) nullità dell’avviso di accertamento per difetto di allegazione all'avviso di accertamento e conseguente debita motivazione dell’autorizzazione allo svolgimento dell'indagine finanziaria.</claim> 
+ B) <claim ID="Claim4" G="2" P="A" PRO="Req2">Erronea motivazione in ordine alle c.d. “fatture da emettere”.</claim> 
+ <req ID="Req3" G="2" P="A">Ha chiesto la riforma della sentenza impugnata e l'annullamento dell'avviso di accertamento impugnato.</req>
+ <claim ID="Claim5" G="2" P="B" CON="Req2">Si è costituita l'Agenzia delle Entrate contrastando le eccezioni del contribuente e chiedendo la conferma della sentenza impugnata.</claim>
+ All'udienza del DD MM 2019 il Collegio su richiesta di parte il Collegio ha rinviato la causa a nuovo ruolo.
+ All'udienza del DD MM 2021 il Collegio ha riservato la decisione
+ 
+
+ Ragioni della decisione
+ Il Collegio, nella Camera di Consiglio, udito il relatore, esaminate e valutate le argomentazioni addotte dalla parte appellante e la documentazione prodotta in atti, verificando le circostanze di fatto e di diritto che legittimano o meno la pretesa erariale, sciogliendo la riserva, ritiene che l'appello proposto dalla La società SF sia infondato.
+ 1. Infondato è il primo motivo con il quale l’appellante denuncia la nullità dell'avviso di accertamento per mancanza dell’autorizzazione delle indagini finanziaria nonché per mancanza di motivazione dell'eventuale autorizzazione delle indagini finanziaria.
+ <mot ID="Mot2" G="2" O="Claim3">Giova osservare, come afferma la Corte di cassazione (sent. n. 14026 del 2012) che qui si condivide: in tema di accertamento delle imposte (IRPEF, I.V.A. ed I.R.A.P.), l'autorizzazione necessaria agli Uffici per l'espletamento di indagini finanziarie non deve essere corredata dall'indicazione dei motivi, non solo perché in relazione ad essa la legge non dispone alcun obbligo di motivazione, a differenza di quanto invece stabilito per gli accessi e le perquisizioni domiciliari, ma anche perché la medesima, nonostante il "nomen iuris" adottato, esplicando una funzione organizzativa, incidente esclusivamente nei rapporti tra uffici, e avendo natura di atto meramente preparatorio, inserito nella fase di iniziativa del procedimento amministrativo di accertamento, non è nemmeno qualificabile come provvedimento o atto impositivo, tipologie di atti per le quali, rispettivamente, l'art. 3, comma primo, della legge 7 agosto 1990, n. 241, e l'art. 7 della legge 27 luglio 2000, n. 212, prevedono l'obbligo di motivazione.</mot>
+
+ 2. Infondato è anche il secondo. motivo con il quale l’appellante lamenta la mancata ricostruzione dell'effettivo incasso delle fatture da emettere su prestazioni eseguite ma mai incassate.
+
+ <mot ID="Mot3" G="2" O="Claim4">Va qui osservato che, come già ha affermato la CTP di Roma con la sentenza impugnata che va confermata: il conto "fatture da emettere" poteva essere ridotto solo con l'emissione di fatture attive ai sensi dell'art. 6 del d.P.R. 633/1972, relative a ricavi che in base al principio della competenza economica hanno avuto manifestazione in esercizi precedenti. Così come il conto "soci finanziamento infruttifero" accreditato dell'importo di €. 45.000,00 poteva essere addebitato solo per copertura perdite di esercizio o per parziale restituzione ai SOCI.
+
+ Correttamente, dunque, l'ufficio, esaminata la documentazione esibita dalla stessa società a fronte di apposito invito, ha riscontrato a fine 2009 un giroconto contabile soci/finanziamenti infruttifero in dare e fatture da emettere in avere per € 45.000,00.</mot>
+ In definitiva, l'appello va rigettato e confermato l'avviso. di accertamento impugnato. 
+ Le spese seguono la soccombenza e.vengono liquidate con il dispositivo.
+ 
+
+ PQM
+ <dec ID="Dec2" G="2" E="0" O="Req2">La Commissione Tributaria Regionale del Lazio rigetta il ricorso</dec> 
+ e condanna l‘appellante a rimborsare alla parte appellata (Agenzia delle Entrate Dir. Prov. 1 di Roma) le spese del presente grado del giudizio che liquida in €. 1.500,00.
+ Così deciso in Roma il DD MM 2021
+
+ Il Relatore giu2 
+ Il Presidente giu2
+ 
+
+</body>

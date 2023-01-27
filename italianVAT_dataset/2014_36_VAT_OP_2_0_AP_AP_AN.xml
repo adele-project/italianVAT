@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+REPUBBLICA ITALIANA
+ IN NOME DEL POPOLO ITALIANO
+
+ LA COMMISSIONE TRIBUTARIA DI BOLOGNA SEZIONE 11
+ riunita con l'intervento dei Signori:
+ giu1 Presidente
+ giu2 Relatore
+ giu3 Giudice
+ 
+ ha emesso la seguente
+ SENTENZA
+
+ - dell'appello per revoca iscritto nel R.G.A. con n. 840/13
+ depositato il 22/03/2013
+ - avverso la sentenza n. 55/1/12
+ <part P="A">contro: AG.ENTRATE DIREZIONE PROVINCIALE FORLI' - CESENA</part>
+
+ <part P="B">proposto dal ricorrente:
+ F SRL
+ XXX</part> 
+ difeso da:
+ CC
+ XXX
+
+ Atti impugnati:
+ AVVISO DI ACCERTAMENTO n° 600077/01 IVA-OP.ESCLUSE 1997
+ REG.GENERALE N° 840/13
+
+
+FATTO
+
+ In ossequio a quanto statuito dalla sentenza della Suprema Corte di Cassazione la
+ n. 10419/2011 con la quale venivano rigettati i ricorsi dell’ Agenzia e confermate
+ le due sentenze dei due gradi di giudizio. Nello specifico si respingevano le
+ ipotesi di cessione di ramo d’azienda.
+
+
+ <dec ID="Dec1" G="1" E="1" O="Req1"><req ID="Req1" G="1" P="A">La Commissione Tributaria Regionale di Bologna con sentenza n. 55/01/2012,
+ successivamente al deposito della sentenza della Suprema Corte di Cassazione, si
+ riportava a quanto accertato dall'Ufficio accogliendo le sue pretese.</req></dec> 
+ 
+
+
+ 
+ <req ID="Req2" G="2" P="B">In data 29/03/2013 la società contribuente presentava ricorso per revocazione mediante la quale chiedeva l’annullamento della sentenza qui opposta</req> 
+ <claim ID="Claim1" G="2" P="B" PRO="Req2">per mera incongruenza ed in difetto con quanto stabilito dalla Suprema Corte con la sentenza passata in giudicato.</claim>
+ 
+ <req ID="Req3" G="2" P="A">In data 13/05/2013 L’Agenzia delle Entrate direzione Provinciale di Forlì-Cesena presenta proprie controdeduzioni chiedendo il rigetto</req> 
+ <claim ID="Claim2" G="2" P="A" PRO="Req3">per revocazione qui presentato</claim> 
+ con vittoria di spese di lite.
+ 
+
+ MOTIVI
+ 
+ La Commissione in seguito all’esame degli atti in suo possesso ritiene che l’appello presentato dalla società F srl riguardante la richiesta di
+ revocazione della sentenza n:55/01/2012 del 23 Febbraio 2012 Commissione
+ Tributaria Provinciale di Bologna sia da rigettare.
+
+ <mot ID="Mot2" G="2" O="Req2">
+ La Commissione ritiene che sull’eccepito errore di fatto qui contestato dalla
+ società contribuente, si osserva quanto segue; l’errore di fatto deve risultare dagli
+ atti e documenti delle causa e, perciò, non è ammesso produrre nuovi documenti.
+ Esso si risolve in una divergenza tra ciò che risulta dalla sentenza e la realtà basata
+ sugli atti della causa.
+
+ Si evidenzia quindi che si sta parlando di un errore di giudizio e non di un errore
+ di fatto come invece sostiene la società contribuente.
+
+ La Commissione evidenzia inoltre in base a quanto stabilito dall’ex art.395 n. 5
+ c.p.c. che una sentenza può essere impugnata per revocazione se è contraria ad
+ altra precedente sentenza avente autorità di cosa giudicata tra le parti.
+
+ Nel caso in esame, risulta invece inequivocabile la diversità dei soggetti e
+ dell’oggetto.
+ </mot>
+ 
+ P.Q.M.
+ <dec ID="Dec2" G="2" E="0" O="Req2">Rigetta la domanda di revocazione proposta dalla società contribuente</dec> 
+ e condanna al pagamento delle spese del grado che liquida in €1.000 (mille).
+
+ 
+ Bologna, DD/MM/2014
+ 
+ Il Presidente
+ Il Relatore
+ 
+
+</body>

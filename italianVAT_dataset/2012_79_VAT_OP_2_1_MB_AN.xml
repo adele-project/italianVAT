@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+
+REPUBBLICA ITALIANA
+IN NOME DEL POPOLO ITALIANO
+
+REG GENERALE
+N° 928/11
+
+LA COMMISSIONE TRIBUTARIA REGIONALE
+DI FIRENZE SEZIONE 9 
+
+riunita con l'intervento dei Signori:
+ giu1 Presidente e Relatore
+ giu2 Giudice
+ giu3 Giudice
+
+
+ha emesso la seguente
+SENTENZA
+
+- sull'appello n. 928/11
+depositato il GG/MM/2011
+- avverso la sentenza n. 135/5/10
+
+emessa dalla Commissione Tributaria Provinciale di LUCCA
+<part P="A">contro: AG.ENTRATE DIREZIONE PROVINCIALE LUCCA</part>
+
+proposto dal ricorrente:
+<part P="B">A SRL
+XXX</part>
+
+difeso da:
+PM
+XXX
+
+Atti impugnati:
+SILENZIO RIFIUTO ISTANZA RIMB. n° PROT.2008021443 / 2008 IVA-ALTRO 2006
+SILENZIO RIFIUTO ISTANZA RIMB. n° PROT.2008021443 / 2008 I.V.A. 2005
+
+
+IN FATTO IN DIRITTO
+
+Con rituale ricorso il signor LL, quale Amministratore Unico della A S.r.l. con
+sede in XXX, impugnava il silenzio rifiuto all’istanza di rimborso Iva, avanzata alla Agenzia
+delle Entrate di Lucca, relativa agli anni d'imposta 2005 e 2006.
+La ricorrente aveva emesso varie fatture nei confronti della società inglese L Ltd, per
+prestazioni di servizi nel settore calzaturiero, assoggettandole nel dubbio, prudenzialmente, ad
+imposta Iva, in effetti non dovuta, che era stata, direttamente o mediante compensazione, versata
+all’Erario.
+Nell’anno 2006 la L, per l’esercizio 2004, aveva richiesto ed ottenuto il rimborso dell’imposta
+da parte dell'Agenzia delle Entrate, Centro Operativo di Pescara, ai sensi e per gli effetti del
+disposto dell’art. 8 ter del DPR n° 633/72.
+Per i successivi anni 2005 e 2006 tali rimborsi erano stati invece negati, trattandosi di imposta
+relativa a prestazioni di consulenza tecnica, rese ad un soggetto residente all’estero, da considerarsi
+escluse dal campo di applicazione dell'Iva per carenza del requisito territoriale.
+E ciò a seguito della sentenza della Corte di Giustizia Europea del 15.03.2007 che sanciva che
+l'Iva, non dovuta ed erroneamente fatturata al destinatario delle prestazioni, non può formare
+oggetto di rimborso ai sensi dell’ VIII direttiva del Consiglio n° 79/1072/CEE.
+Successivamente anche la Commissione Tributaria Provinciale di Pescara, con sentenze n° I05 e
+n° 106 del 2008, rigettava i ricorsi presentati dalla L che riteneva di aver diritto al rimborso
+dell’Iva.sostenuta in Italia, avendo il cedente A S.r.l. assolto l’imposta addebitandola alla L
+stessa.
+Detta Commissione motivava che " le somme potranno invece formare oggetto di richiesta di
+rimborso all’Erario da parte del prestatore di servizi residente, mentre la cessionaria non residente,
+è legittimata a richiedere le somme indebitamente pagate al prestatore cedente, secondo le norme
+civilistiche in materia di ripetizione dell’indebito."
+
+
+
+ <req ID="Req1" G="1" P="B">Conseguentemente l’A S.r.l. aveva richiesto il rimborso della somma di € 105.600,00, relativa
+ agli importi dall’Iva esposti nelle fatture emesse nei confronti della L.</req>
+ <arg ID="Arg1" G="1" P="A" PRO="Claim1">Resisteva l’ Agenzia delle Entrate di Lucca evidenziando che la sentenza della Corte di Giustizia
+ alla quale faceva riferimento controparte nel ricorso, ha stabilito che il diritto di credito vantato per
+ l’assolvimento dell’Iva non dovuta vale solo nei confronti del prestatore dei servizi ed ha una
+ natura esclusivamente privatistica e che siffatto rapporto non rileva ai fini tributari.
+ Al cessionario va riconosciuto il diritto di agire contro il cedente per la ripetizione di quanto pagato
+ senza titolo ai sensi dell’art. 2033 del codice civile (Cass. n° 3602/1993), procedura questa che
+ avrebbe dovuto seguire la società L,</arg> 
+ <claim ID="Claim1" G="1" P="A" CON="Req1">mentre priva di fondamento appariva la pretesa di parte
+ ricorrente di ottenere il rimborso degli importi Iva esposti sulle fatture a carico della L per gli
+ anni in questione.</claim>
+
+
+ <mot ID="Mot1" G="1" O="Claim1">Il primo Giudice riteneva che, nel caso di specie, trattandosi indubitabilmente di errata fatturazione
+ per carenza del presupposto territoriale, il diritto di credito della L, di natura esclusivamente
+ privatistica, valeva solo nei confronti della A S.r.l. e che quest’ultima avrebbe dovuto invero
+ esercitare tale diritto entro il termine disposto dell’art. 21/2 del D. Lgs. 546/92 che impone in due
+ anni, a pena di decadenza, di proporre istanza per il rimborso di crediti tributari.</mot>
+ Riteneva per tale motivo non accoglibile la richiesta della A S.r.l. intesa ad ottenere il rimborso
+ Iva relativo alle fatture emesse negli anni 2005 e 2006
+
+
+ <dec ID="Dec1" G="1" E="0" O="Req1">e respingeva il ricorso </dec>
+ con spese compensate.
+
+
+
+
+ <req ID="Req4" G="2" P="B">Appellava tempestivamente quest’ultima</req>
+ <claim ID="Claim2" G="2" P="B" PRO="Req2">lamentando che la Commissione Tributaria Provinciale di Lucca aveva fondato il proprio convincimento solo ed esclusivamente sul presupposto della prescrizione biennale dell’istanza di rimborso, prescrizione applicabile a pena di decadenza ai sensi dell’art. 21, secondo comma, del D.Lgs. 546/92 che impone tale termine "per proporre istanza di crediti tributari."</claim>
+ <arg ID="Arg2" G="2" P="B" PRO="Claim2">Ed evidenziava che con tale motivazione i Giudici dimostravano di non aver neppure valutato la specialità del caso ove il diritto/la necessità di dover/poter richiedere il rimborso dell'Iva nasceva non da una condizione di normalità, ma da una sopravvenuta diversa impostazione/criterio che la Corte di Giustizia Europea (15.03.2007) ha ritenuto di dover adottare in ordine ai rimborsi resi ai sensi della direttiva citata.</arg>
+ <arg ID="Arg3" G="2" P="B" PRO="Claim2">Nè avevano considerato che l’istanza di rimborso presentata in data DD MM 2008 per l’importo complessivo di € 105.600,00 era afferente, quanto ad € 52800,00, a crediti maturati nel corso dell’anno 2005 la cui istanza di rimborso ben poteva essere presentata nell’anno 2006, a far data dal DD MM 2006 e fino al DD MM 2006, e quanto ad ulteriori € 52.800,00 a crediti maturati nell’esercizio 2006, la cui istanza/richiesta di rimborso poteva essere presentata solo nell’anno 2007 e cioè dal giorno DD MM 2007 al DD MM 2007.
+ E comunque in ogni caso il termine di decadenza biennale doveva decorrere dalla Sentenza della Corte di Giustizia Europea del 15.03.2007.
+ Con ciò appariva palese come, con l’istanza presentata in data DD MM 2008, erano stati interrotti i termini di prescrizione e/o decadenza, anche biennali.</arg>
+ <arg ID="Arg4" G="2" P="B" PRO="Claim2">Riteneva peraltro, data la specialità/la particolarità del caso, applicabile, in luogo del termine breve portato dall’art. 21 secondo comma D.Lgs. 546/1992, il più ampio termine decennale per la prescrizione portato dall’art. 30, comma 2° Dpr 633/72, come anche da giurisprudenza della Suprema Corte.</arg>
+ <req ID="Req2" G="2" P="B">Concludeva dunque per l'accoglimento dell’appello.</req>
+ <req ID="Req3" G="2" P="A"><claim ID="Claim3" G="2" P="A" PRO="Req3">Resisteva parimenti l'Ufficio riproponendo, approfondendoli, i temi già esposti innanzi al primo Giudice.</claim></req>
+
+
+ <mot ID="Mot2" G="2" O="Claim2">Questa Commissione rileva che non è controverso il fatto che la domanda di restituzione sia stata presentata dalla E S.r.l. in data DD MM 2008: ora anche volendo accedere alla tesi della prescrizione biennale sostenuta dal primo Giudice e dall'Ufficio, tale richiesta apparirebbe del tutto in sintonia con il relativo preciso disposto dell’art. 21 comma secondo D.Lgs. 546/92 e quindi perfettamente legittima. 
+ Infatti il termine di decadenza biennale doveva decorrere dalla Sentenza della Corte di Giustizia Europea del 15 marzo 2007 (“presupposto per la restituzione’), sentenza che ha mutato i parametri sulla base dei quali le società Estere che intrattenevano rapporti commerciali con il nostro Paese richiedevano ed ottenevano i rimborsi Iva; ed in conseguenza di tale Sentenza e delle successive decisioni della Commissione Tributaria di Pescara, cui la L Ltd vanamente si era rivolta, che era sorto il detto presupposto per la richiesta della E S.r.l.
+ Ma questo Consesso ritiene ancor più corretto giuridicamente oltre che logico, essendo, nella fattispecie che interessa, il diritto al rimborso conseguenza di un fatto sopravvenuto, ritenere non applicabile il termine decadenziale di cui al secondo comma dell’art. 21 D.Lgs. citato, in quanto il "presupposto per la restituzione" si è manifestato solo ed esclusivamente dopo l'intervento della Corte di Giustizia Europea del 15 marzo 2007 e non può rientrare pertanto nella normale casistica di riferimento del D.Lgs 546: si deve ritenere, in mancanza di una specifica disposizione sul punto, che sia applicabile il termine di prescrizione ordinario decennale che regola la più ampia normativa di cui all’art. 30, comma secondo, DPR 633/72, come da Sentenza della Suprema Corte n° 25318/2010.</mot>
+
+ L'appello deve comunque essere accolto.
+ La particolarità della questione trattata consente la compensazione delle spese di lite tra le parti.
+
+
+P.Q.M.
+ <dec ID="Dec2" G="2" E="1" O="Req2">Questa Commissione Tributaria Regionale accoglie l’appello della E S.r.l. 
+ riconoscendo legittima l’istanza di rimborso avanzata dalla stessa alla competente Agenzia delle Entrate di Lucca.</dec>
+
+ Spese compensate.
+
+ Il Presidente relatore
+ Dr. giu1
+
+
+</body>

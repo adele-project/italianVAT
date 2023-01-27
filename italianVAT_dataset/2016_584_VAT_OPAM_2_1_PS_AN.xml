@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+
+Sentenza del 
+	gg/mm/2016 n. 584 - 
+	Comm. Trib. Reg. XXX Sezione/Collegio 1
+
+Testo
+
+	Intitolazione:
+
+	IVA - operazioni non imponibili cessioni all'esportazione esportazioni extracomunitarie - prova dell'esportazione - documentazione doganale interpretazione estensiva - documentazione equipollente - non ammessa.
+
+	Massima:
+
+	In materia di prova dell'avvenuta esportazione extracomunitaria di merci, ai fini della qualificazione dell'operazione come cessione all'esportazione e dunque non imponibile ai sensi dell'art. 8, d.P.R. n. 633/72, non è ammessa interpretazione estensiva del dettato normativo dell'art. 8 laddove si richiede l'esibizione della documentazione doganale. Alla mancanza di esibizione del "DAU - documento amministrativo unico" non si può sopperire con documentazione di carattere privato, proveniente dalla contabilità o attestanti l'avvenuto pagamento a mezzo bancario della merce, al fine di poter rientrare nel regime di non imponibilità di cui all'articolo citato.
+
+
+Testo:
+
+Svolgimento del processo
+
+
+	
+		<dec ID="Dec1" G="1" E="1" O="Req1"><req ID="Req1" G="1" P="A">Con sentenza n. depositata il, la Commissione tributaria provinciale di XXX, Sez. V, ha accolto parzialmente il ricorso proposto dalla <part P="A">società X srl.,</part> avverso l'avviso di accertamento emesso dall'<part P="B">Agenzia delle Entrate-Direzione regionale per l'XXX,</part> in rettifica della dichiarazione Iva inerente l'anno 2004, per il recupero della maggiore imposta di euro 191.378, con la contestuale irrogazione di sanzioni.</req></dec>
+	
+	
+
+	
+		<mot ID="Mot1" G="1" O="Req1">In particolare, il Giudice di primo grado, esaminando i due ordini dei motivi di ricorso proposti dalla società contribuente, il primo relativo al difetto di prova dell'esportazione di merci destinati a clienti extra UE, il secondo relativo alle operazioni di cessione intracomunitarie in regime di non imponibilità Iva, in favore di soggetti privi dei requisiti prescritti dalla legislazione tributaria vigente (cod. ISO), ha ravvisato la fondatezza dell'impugnazione solo per la parte delle censure dedotte sull'accertamento delle operazioni intracomunitarie.
+
+		La motivazione adottata dal primo Giudice, ha dichiarato la insufficienza e la inidoneità della prova documentale prodotta sulle esportazioni extracomunitarie, poiché la società ricorrente ha omesso di produrre -nella specie- il documento doganale, o la vidimazione apposta dall'Ufficio doganale sugli esemplari di fattura (art. 8 co. 1 lett. a DPR 633/72); mentre -viceversa- ha ritenuto sufficiente ed idonea la documentazione alternativa prodotta sulle operazioni intracomunitarie, poiché la partita Iva attribuita al cliente polacco dopo un anno dalla transazione commerciale, coincide con numero di partita comunicato a mezzo fax, in tempo anteriore alla conclusione della medesima transazione, dimostrando -in tal modo- lo stato di buona fede della società ricorrente, e la non imputabilità della situazione di irregolarità contabile, ascrivibile nei confronti dell'amministrazione finanziaria polacca, per i ritardi connessi all'ingresso nel mercato UE.</mot>
+	
+
+
+
+	
+		<req ID="Req2" G="2" P="A">Avverso la sentenza della Commissione provinciale, la società X srl ha proposto appello,</req> 
+		e dopo avere descritto la fisionomia della fattispecie e la dinamica della verifica fiscale, relativa ad una parte modesta delle esportazioni prive della documentazione 3- DAU (nel 2004 euro 700.000 sul valore di complessivi 48 milioni di euro), 
+		<claim ID="Claim1" G="1" P="A" PRO="Req2">
+		ha dedotto l'errore di diritto nella interpretazione dell'art. 8 DPR 633/72,</claim> 
+		<arg ID="Arg1" G="1" P="A" PRO="Claim1">il quale nel suo significato precettivo renderebbe-nella tesi della parte appellante- ammissibile la prova dell'esportazione extracomunitaria con il ricorso e l'esibizione di documentazione d'impresa, alternativa, e/o equipollente al modello doganale 3-DAU.</arg>
+
+		<req ID="Req3" G="2" P="A">Nella costituzione in giudizio, la società contribuente ha proposto appello incidentale</req> 
+		<claim ID="Claim2" G="2" P="A" PRO="Req3">sulla debenza dell'Iva liquidata per le operazioni intracomunitarie,</claim> 
+		<arg ID="Arg2" G="1" P="A" PRO="Claim2">poiché la disciplina tributaria vigente (artt. 46 e 50 D.L. n.331/1993) prevede la contestualità tra l'uso del codice identificativo e la definizione della corrispondente operazione commerciale;</arg> 
+		<claim ID="Claim3" G="2" P="A" PRO="Req3">mentre, sui motivi dell'appello principale ha dedotto l'infondatezza degli argomenti posti a sostegno dell'interpretazione estensiva dell'art. 8 DPR 633/72,</claim> 
+		<arg ID="Arg3" G="1" P="A" PRO="Claim3">il cui tenore letterale attribuisce valore giuridico solo ed esclusivamente al sopravveniente rilascio del duplicato doganale, nella specie limitato ad una parte delle fatture contestate (fatture per euro 75.219.32, specificate a pag. 13 appello XXX).</arg>
+	
+
+Entrambe le parti hanno depositato memorie esplicative. Dopo l'adempimento dell'ordinanza istruttoria con la quale il Collegio ha chiesto chiarimenti documentali alle parti sulle tre tipologie di fatture indicate dalla X srl. nell'appello principale (fatture con richiesta di duplicato della bolletta doganale per complessivi euro 403.989; fatture rimaste prive di duplicato doganale per euro 103.424; fatture per operazioni cd. franco fabbrica), il giudizio è stato discusso nella pubblica udienza del 10/12/2015.
+
+Diritto
+
+	<mot ID="Mot2" G="1" O="Req2">Ciò premesso in fatto, all'esito di approfondito esame della controversia e di analitica discussione dei punti in contestazione, in ordine ai motivi dedotti dalla X srl. con l'appello principale, rileva il Collegio che il riesame degli atti, e la ricostruzione delle circostanze di fatto, poste in relazione alla disciplina vigente, ed all'interpretazione costantemente riscontrata nella giurisprudenza di legittimità, non consentono di riconoscere fondatezza agli argomenti d'ermeneutica giuridica, prospettati dalla parte appellante, della quale è palese la situazione soggettiva di buona fede, che non assume - comunque- alcuna rilevanza nella decisione della controversia tributaria.
+
+	Invero, contrariamente alla tesi sostenuta dalla società appellante, l'espressione letterale dell'art. 8 DPR 633/72 (Cessioni all'esportazione) non consente alcuno spazio all'interpretazione estensiva, poiché : "Costituiscono cessioni all'esportazione: a) le cessioni, anche tramite commissionari, eseguite mediante trasporto o spedizione di beni fuori del territorio della Comunità economica europea, a cura o a nome dei cedenti o dei commissionari, anche per incarico dei propri cessionari o commissionari di questi. I beni possono essere sottoposti per conto del cessionario, ad opera del cedente stesso o di terzi, a lavorazione, trasformazione, montaggio, assiemaggio o adattamento ad altri beni. L'esportazione deve risultare da documento doganale, o da vidimazione apposta dall'ufficio doganale su un esemplare della fattura".
+
+	Il significato letterale della disposizione normativa è recepito, con altrettanto rigore interpretativo, nella giurisprudenza della Corte di Cassazione, la quale ha anche di recente- annullato le decisioni di merito tendenti all'ampliamento delle fonti di prova documentale, dalle quali desumere l'effettività dell'esportazione.
+
+	In particolare, con giurisprudenza consolidata, il giudice di legittimità ha affermato che "ai fini del recupero di IVA per esportazioni al di fuori dei confini comunitari, la prova della destinazione della merce all'esportazione, nelle cessioni di cui all'art. 8. primo comma, lett. a), del d.P.R. 26 ottobre 1972, n. 633, il cui onere incombe sul cedente, deve essere fornita tramite la documentazione doganale e, quindi, -se la dichiarazione di esportazione è effettuata sulla base del Documento Unico Amministrativo (DAU), a mezzo dell'esemplare 3 DAU, munito di timbro e visto dell'ufficio doganale di uscita, ai sensi degli artt. 792, 793 e 795 del Regolamento CEE 2 luglio 1993, n. 2454.
+
+	In assenza di tale documentazione, non potendosi addebitare all'esportatore la mancata esibizione di un documento di cui egli non ha la disponibilità, la prova può essere fornita con ogni mezzo che abbia il requisito della certezza ed incontrovertibilità, quale l'attestazione di pubbliche amministrazioni del Paese di destinazione dell'avvenuta presentazione delle merci in dogana, mentre sono inidonei documenti di origine privata, quali le fatture o la documentazione bancaria attestante il pagamento " (cfr. ex multis Cassazione Sez. 5, sentenza n. 3 193 gg/mm/2015-Rv. 6345 15- Presidente: P- Est. V, P.M. Z. concl. conf./AgenEntrate-Avvocatura Generale Dello Stato, contro A Srl./Avv. N ed altro, cassa con rinvio, Comm. Trib. Reg. XXX, gg/mm/2008).
+
+	Dunque, il giudice di legittimità, ha inibito qualsiasi interpretazione di contenuto estensivo dell'art. 8 DPR 633/72 cit., poiché l'onere di fornire la prova dell'avvenuta esportazione incombe, comunque sul primo cedente, il quale deve dimostrare l'avvenuta uscita della merce dal territorio doganale della Comunità, senza che siano ammessi equipollenti diversi da quelli espressamente indicati dalla disciplina tributaria vigente, la quale ha un significato letterale e tassativo su tutti i profili di esenzione oggettiva e soggettiva d'imposta.
+
+	Il medesimo onere di prova si estende alle cessioni cd. "franco fabbrica" (con trasporto a cura e spese del cessionario estero), poiché la disciplina vigente, puntualmente richiamata dall'amministrazione finanziaria prevede il termine di novanta giorni per gli adempimenti documentali a cura del cessionario, decorso il quale il cedente non può ritenersi esonerato dagli obblighi previsti dalla disciplina tributaria (v. art. 8 DPR 633/72 cit. lett. b) "le cessioni con trasporto o spedizione fuori del territorio della Comunità economica europea entro novanta giorni dalla consegna, a cura del cessionario non residente o per suo conto, ad eccezione dei beni destinati a dotazione o provvista di bordo di imbarcazioni o navi da diporto, di aeromobili da turismo o di qualsiasi altro mezzo di trasporto ad uso privato e dei beni da trasportarsi nei bagagli personali fuori del territorio della Comunità economica europea; l'esportazione deve risultare da vidimazione apposta dall'ufficio doganale o dall'ufficio postale su un esemplare della fattura").
+
+	Pertanto, nonostante gli approfondimenti istruttori, ed i chiarimenti acquisiti dalla X, il Collegio non rinviene alcun profilo utile a riscontrare la fondatezza dell'appello principale, i cui motivi contrastano directis verbis con gli orienatamenti consolidati della Corte di Cassazione, dai quali il Giudice merito non può discostarsi, in considerazione delle regole della nomofilachia, poste a garanzia della certezza del diritto, e della ragionevole e costante prevedibilità della interpretazione delle norme di legge.
+
+	L'unico profilo di fondatezza dell'appello principale è riscontrabile per le operazioni di esportazione, sulle quali è sopravvenuto il rilascio del duplicato doganale, nella specie limitato solo ad una parte delle fatture contestate (fatture per euro 75.219,32, specificate a pag. 13 appello XXX).
+
+	Su tale punto, la stessa amministrazione finanziaria ha aderito all'interpretazione liberatoria, nell'interesse del contribuente.
+
+	Né dalla giurisprudenza comunitaria menzionata ed allegata all'appello principale, emergono argomenti decisivi per esonerare la X dall'onere tipico di esibizione documentale, il quale si affievolisce nell'ipotesi di detenzione della prova presso terzi, ma riprende piena efficacia nell'ipotesi di difetto della documentazione necessaria ed obbligatoria.
+
+	Quanto alle fatture per le quali è stato richiesto e non ottenuto il duplicato doganale 3-DAU per complessivi euro 403.989, non emergono dagli atti processuali profili di ingiustificata inerzia procedimentale imputabili all'amministrazione finanziaria, né dai motivi dell'appello principale si desumono significative anomalie nei doverosi adempimenti riservati alla parte pubblica.</mot>
+
+	In conclusione di sintesi, l'appello principale è parzialmente accolto, nei limiti delle operazioni di esportazione giustificate dal rilascio del duplicato della bolletta doganale (fatture per euro 75.2 19,32, specificate a pag. 13 appello XXX).
+
+	E' infondato l'appello incidentale, <mot ID="Mot3" G="1" O="Req3">poiché la motivazione adottata dal Giudice di primo grado è esente da vizi di logica giuridica, essendo certa la oggettiva sussistenza dei requisiti soggettivi di esenzione Iva al tempo del compimento delle operazioni di esportazione intracomunitaria, anche se la regolarità formale del possesso di tali requisiti soggettivi intestati al cliente polacco, è stata conseguita in tempi successivi, con modalità esenti da qualsiasi intento fraudolento, e da fatti imputabili al soggetto esportatore.
+
+	Sul punto, è significativa la circostanza che la partita Iva attribuita al cliente polacco, dopo un anno dalla transazione commerciale, coincide con il numero di partita comunicato a mezzo fax, in tempo anteriore alla conclusione della transazione.</mot>
+
+	La complessità dell'interpretazione della disciplina tributaria, e la soccombenza reciproca sui motivi di gravame, giustificano la compensazione integrale anche delle spese del giudizio d'appello, in corrispondenza dell'omologa regolazione disposta dalla Commissione provinciale per il primo grado del processo.
+
+
+PQM
+	<dec ID="Dec2" G="2" E="1" O="Req2">La Commissione tributaria regionale, Sez. I, reiectis adversis, accoglie parzialmente l'appello principale, nei limiti delle operazioni di esportazione extracomunitaria specificate in motivazione;</dec> 
+	<dec ID="Dec3" G="2" E="0" O="Req3">rigetta l'appello incidentale.</dec> 
+	Compensa integralmente le spese del giudizio.
+
+
+
+</body>

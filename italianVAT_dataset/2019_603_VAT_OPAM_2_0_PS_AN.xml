@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+REPUBBLICA ITALIANA
+IN NOME DEL POPOLO ITALIANO
+
+	LA COMMISSIONE TRIBUTARIA REGIONALE DI XXX SEZ. STACCATA DI XXX 
+	SEZIONE 7
+
+	riunita con l'intervento dei Signori:
+		giu1 Presidente
+		giu2 Relatore
+		giu3 Giudice
+	
+
+	ha emesso la seguente
+	SENTENZA
+
+	REG.GENERALE N° 729/2016
+
+	- sull'appello n. 729/2016
+	depositato il DD/MM/2016
+
+	- avverso la pronuncia sentenza n. 738/2015 Sez:2 emessa dalla Commissione Tributaria
+	Provinciale di XXX
+
+	<part P="A">contro:
+	P LTD
+	XXX</part>
+
+	difeso da:
+	FB
+	XXX
+
+	e da
+	MP
+	XXX
+
+	e da
+	TGEM 
+	XXX
+
+	<part P="B">proposto dall'appellante:
+	AG. ENTRATE CENTRO OPERATIVO DI XXX</part>
+
+	Atti impugnati:
+	DINIEGO RIMBORSO n° 18800 IVA-ALTRO 2010
+
+
+
+	
+		<req ID="Req1" G="1" P="A">
+		La società Pfizer LTD, con sede in XXX, impugnava il diniego di rimborso IVA ai sensi dell'art. 38 bis 2 DPR 633/72 per il periodo dal 1° gennaio al DD MM 2010.</req> 
+		<arg ID="Arg0" G="1" P="A" PRO="Claim1">Deduceva che: 
+		- in data DD.MM.2011 aveva presentato istanza di rimborso IVA pagata in Italia per € 894.386,10; 
+		- successivamente la socicià rinunciava al rimborso dell'IVA su alcune fatture e riduceva la richiesta prima ad € 825.175,26 e poi ad € 716.298,60; 
+		- l'istanza era stata tempestiva;</arg>
+		- <claim ID="Claim1" G="1" P="A" PRO="Req1">l'oggetto delle fatture emesse era riconducibile all'interno delle prestazioni scientifiche che arricchiscono il bagaglio di conoscenze attuali con un quid novi dato dalla scoperta scientifica stessa.</claim>
+
+		<claim ID="Claim6" G="1" P="B" CON="Req1">Si costituiva in giudizio ii COP ribadendo la legittimità dell'atto impugnato</claim> 
+		<req ID="Req2" G="1" P="B">chiedendo il rigetto del ricorso.</req>
+		<claim ID="Claim2" G="1" P="B" CON="Req1">Contestava la tardività dell'invio telematico dell'istanza di rimborso, trasmessa il DD.MM.2011.</claim>
+	
+
+	
+		<dec ID="Dec1" G="1" E="1" O="Req1">La Commissione adita, con sentenza n. 738 del DD.MM.15, depositata il DD.MM.15. accoglieva il ricorso.</dec>
+	 
+
+	
+		<mot ID="Mot1" G="1" O="Claim1">Rilevava che: 
+		- dalla documentazione in atti si rilevava che l'istanza era stata inviata telematicamente dallo Stato membro in data DD.MM.2011; 
+		- lo scarto elettronico, dovuto ad un mero errore formale, aveva reso necessaria una rettifica effettuata in data DD.MM.2011, e perfezionata il giorno successivo; 
+		- come osservato dalla stessa Amministrazione Finanziaria, le istanza scartate dal servizio telematico e rinviate entro 5 giorni dovevano considerarsi tempestive; 
+		- le prestazioni ricevute dalla società erano tutte da ricondursi a servizi aventi natura scientifica e non tecnica; 
+		- la committente non aveva chiesto pareri o giudizi ma sperimentazioni concretizzate in un'attività di ricerca innovativa ai fini di un riscontro scientifico per l'utilizzo dei prodotti; 
+		- la società, prima di immettere sul mercato i prodotti, doveva procedere a sperimentazioni effettuate da enti abilitati e riconosciuti 1 cui servizi rientravano nell'attività di carattere scientifico; 
+		- trovava applicazione la disciplina di cui all'art. 7 quinguies DPR 633/72 secondo cui le prestazioni s; consideravano effettuate nel territorio dello stato italiano e l'IVA versata, se richiesta, andava rimborsata nel rispetto e secondo le modalità delle leggi di riferimento; 
+		- anche in presenza di servizi aventi caratteri non distinguibili scientifico e di consulenza, l'intera attività andava assoggetta all'IVA italiana ed era interamente rimborsabile;
+		- le attività di consulenza si fondavano su giudizi mentre quelle scientifiche sull'analisi di campioni di prodotti farmaceutici.</mot>
+	
+
+
+
+	
+		<req ID="Req3" G="2" P="B">Avverso tale decisione proponeva appello l'Ufficio chiedendo la riforma della sentenza impugnata.</req> 
+		<arg ID="Arg3" G="2" P="B" PRO="Claim3">Deduceva che: 
+		- la società aveva presentato l'istanza di rimborso IVA avvalendosi della procedura di cui all'art. 38 bis 2 DPR 633/72; 
+		- l'istanza era tardiva in quanto era stata inoltrata in data DD.MM.2011 mentre il termine fissato per le richieste relative al 2010 era quello del DD.MM.2011; 
+		- detto termine era perentorio e di decadenza; 
+		- l'istanza presentata all'autorità fiscale inglese in data 28.09.2011, per cui tempestivamente, non cera stata accettata per errori relativi al doppio inserimento di fatture; 
+		- il competente ufficio dell'Amministrazione finanziaria inglese aveva comunicato tale irregolarità alla società solo in data 6.11.2011 per cui la stessa aveva ripresentato l'istanza in data DD.MM.2011:;
+		- questa era l'unica istanza pervenuta al COP e rigettata perché tardiva; 
+		- l'istanza del DD.MM.11 non era mai pervenuta al COP perche scartata dal sistema; 
+		- l'errore era stato comunicato all'Amministrazione Finanziaria in tempo reale, ossia lo stesso giorno in cui il portale web dell'amministrazione inglese aveva inviato l'istanza all'operatore; 
+		- l'amministrazione inglese avrebbe dovuto informare Immediatamente la società in modo da permetterle di correggere l'errore ed inviare un'istanza formaimente corretta; 
+		- nell'istanza trasmessa in data DD.MM.2011 non si faceva alcun riferimento a quella trasmessa in precedenza dall'autorità inglese;
+		- circa la natura delle prestazioni per cui era stato richiesto il rimborso IVA, dalle fatture emesse dalle società coinvolte emergeva che si era in presenza di attività varie di consulenza e assistenza tecnica svolte dai fornitori e, comunque, vi era un'eterogeneità dei servizi non riconducibile alle prestazioni scientifiche; 
+		- le fatture allegate all'istanza si riferivano tutte a prestazioni diverse e forse solo marginalmente ad attività di carattere scientifico; 
+		- rientrando le prestazioni fatturate nell'ambito delle consulenze tecniche, l'IVA era stata erroneamente addebitata in fattura, non realizzandosi. per applicazione dell'art. 7 DPR 633/72, il requisito della territorialità;</arg> 
+		<claim ID="Claim4" G="2" P="B" PRO="Req3">- l'imposta quindi non poteva essere rimborsata secondo le modalità di cui all'art. 38 ter.</claim>
+
+		<req ID="Req4" G="2" P="A">Si costituiva in giudizio la società contribuente chiedendo il rigetto dell'appello.</req>
+
+		<arg ID="Arg4" G="2" P="A" CON="Claim3">Osservava che: 
+		- aveva eseguito correttamente tutta la procedura prevista dalla Direttiva comunitaria sui rimborsi IVA; 
+		- le dichiarazioni trasmesse nei termini di iegge ma scariate per motivi formali e ritrasmesse entro 5 giorni erano a tutti gli effetti tempestive; 
+		- lo scarto dell'istanza era stato determinato dall'erroneo duplice inserimento di una stessa fattura c tale errore, se l'istanza fosse stata presentata in formato cartaceo come in passato, non avrebbe comportato alcuno scarto; 
+		- già inserita le prestazioni ricevute erano relative ad attività scientifica svolta in Italia con l'obiettivo di scoprire e dare origine a preparati farmaceutici considerati potenzialmente utili alla prevenzione e cura delle malattie, con un intenso processo di ricerca e sviluppo; 
+		- la società ricorrente faceva parte di un gruppo farmaceutico globale basato sulla ricerca e che scopriva, sviluppava, fabbricava e commercializzava i più importanti farmaci per esseri umani ed animali nonché molti prodotti di consumo noti in tutto il mondo; 
+		- soprattutto per i medicinali, le preparazioni richiedevano un intenso processo di ricerca e sviluppo che poteva essere svolto da varie aziende del gruppo; 
+		- tali prestazioni di carattere scientifico erano soggette ad IVA italiana che poteva essere chiesta a rimborso da parte della società straniera; 
+		- non si trattava di semplici prestazioni accessorie ma di un'unica operazione i cui elementi o atti erano così strettamente connessi da formare, oggettivamente, una sola prestazione economica carattere scientifico indissociabile.</arg>
+	
+
+	
+		Questo Collegio ritiene di dover respingere l’appello
+		
+		<mot ID="Mot2" G="2" O="Claim3">in quanto la sentenza ha motivato correttamente sui vari aspetti oggetto di discussione.
+
+		Risulta incontestata per gran parte la vicenda sotto il profilo fattuale, mentre sussiste contrasto tra le parti circa la interpretazione delle circostanze e de: comportamenti tenuti nella fattispecie di che trattasi.
+
+		L'Ufficio ha censurato il presunto ritardo nel deposito dell’istanza di rimborso ritenendo il termine perentorio e di decadenza, ma non ha affrontato la questione, esposta nella motivazione della sentenza impugnata, relativa agli effetti del rimedio prestato nel riproporre l’istanza nel termine successivo, come previsto nei casi in cui in presenza di uno scarto del sistema, la parte poneva rimedio nel termine di gg. 5.
+
+		L'istanza presentata all’autorità inglese due giorni prima della scadenza del termine previsto poteva quindi ritenersi tempestiva considerando che poi la stessa era stata riproposta poco dopo la comunicazione dello scarto da parte del sistema.
+
+		Trattasi di una problematica formalistica conseguente alla trasmissione telematica che non tiene conto che in alcuni casi il sistema richiede del tempo per informare il richiedente dello scarto dell’istanza e giustamente, il presentatore non ha strumenti visibili immediati (come accade nei casi di deposito cartaceo presso gli Uffici abilitati) per poter rimediare immediatamente , mentre può legittimamente essere rimesso in termini per poter ripresentare l’istanza con un termine decorrente dalla intervenuta comunicazione dell’avvenuto scarto.
+
+		Il comportamento tenuto dal contribuente appare in sintonia con la procedura adottata per il rimborso IVA che è stata tempestivamente proposta medianie il rimedio previsto.</mot>
+
+		<mot ID="Mot3" G="2" O="Claim3">Un ulteriore profilo di censura alla sentenza per il comportamento del contribuente riguarda il richiamo al comportamento dell'amministrazione ingiese che avrebbe dovuto informare immediatamente la società in modo da permetterle di correggere l'errore ed inviare un'istanza formalmente corretta.
+
+		E’ evidente che il contribuente, che non era a conoscenza dell’evento, non era stato posto in condizione per poter intervenire tempestivamente e porre rimedio allo scarto.
+
+		La vicenda sotto il profilo temporale è stato pacificamente ricostruito e può essere riconosciuta giustificata la riproposizione dell’istanza poiché le dichiarazioni trasmesse nei termini di legge ma scartate per motivi formali e ritrasmesse entro 5 giorni erano da ritenersi a tutti gli effetti tempestive.
+
+		In sostanza, il fatto che ha portato al superamento dei termine non può essere addebitato al contribuente, come incidentalmente deve riconoscere lo stesso Ufficio quando attribuisce una qualche responsabilità da parte dell’amministrazione inglese. Che avrebbe tardato nella risposta.</mot>
+
+		<mot ID="Mot4" G="2" O="Claim4">L’appellante ritiene che la natura dell’attività non può considerarsi scientitica poiché sarebbero state svolte varie attività di consulenza e di servizi non connesse ad attività scientifiche e quindi verrebbe meno il diritto al rimborso.
+
+		Le argomentazioni prospettate dall'Ufficio in termini alquanto generici non possono trovare condivisione posto che nell’ambito della ricerca scientifica non può procedersi ad una parcellizzazione delle varie attività nonostante siano coordinate e necessarie per il raggiungimento di detto scopo.
+
+		Certamente corretta ed immune da vizi logici la affermazione dei primi giudici nel ritenere che le attività di consulenza si fondavano su giudizi mentre quelle scientifiche sull'analisi di campioni di prodotti farmaceutici.
+
+		Invero, il contribuente ha documentato adeguatamente che il recupero riguardava l’attività scientifica intesa nel complesso delle attività di ricerca e di sperimentazione e che in tale contesto venivano ad inserirsi i relativi servizi.
+
+		Di conseguenza il contribuente ha correttamente applicato la disciplina di cui all'art. 7 quinquies DPR 633/72 secondo cui le prestazioni si consideravano effettuate nel territorio dello stato italiano ed ha richiesto in rimborso l'IVA versata.</mot>
+
+		Pertanto, va respinto l'appello.
+
+		Le spese seguono la soccombenza e si liquidano in € 9.000,00, oltre accessori come per legge.
+	
+
+	PQM
+
+		<dec ID="Dec2" G="2" E="0" O="Req3">Respinge l’appello.</dec> 
+		Condanna l’appellante al pagamento delle spese del grado che liquida in € 9.000,00, oltre oneri accessori come per legge.
+
+		
+				XXX, DD.MM.2017
+		
+
+		IL RELATORE
+		giu2
+
+		IL PRESIDENTE
+		giu1
+	
+
+</body>

@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+
+REPUBBLICA ITALIANA 
+ IN NOME DEL POPOLO ITALIANO
+
+ REG.GENERALEN° 1296/2015
+
+ LA COMMISSIONE TRIBUTARIA REGIONALE DI BOLOGNA SEZIONE 4
+ riunita con l'intervento dei Signori:
+ giu1 Presidente
+ giu2 Relatore 
+ giu3 Giudice 
+ 
+ ha emesso la seguente
+ SENTENZA
+
+ - sull'appello n. 1296/2015
+ depositato il DD/MM/2015
+ - avverso la sentenza n. 440/2014 Sez:1 emessa dalla Commissione Tributaria Provinciale di REGGIO NELL'EMILIA
+
+ contro:
+ <part P="A">AG. ENTRATE DIREZIONE PROVINCIALE REGGIO EMILIA</part>
+
+ proposto dall'appellante:
+ <part P="B">IMMOBILIARE D SRL
+ XXX</part>
+
+ difeso da:
+ FA
+ XXX
+
+ Atti impugnati:
+ AVVISO DI ACCERTAMENTO n° THS035102219 IVA-ALTRO 2007
+
+
+SVOLGIMENTO DEL PROCESSO
+
+ 
+ <req ID="Req10" G="1" P="B">IMMOBILIARE D srl presentava ricorso contro I’ avviso di accertamento
+ emesso dall'Agenzia delle Entrate di Reggio Emilia</req>
+ 
+ 
+con il quale si accertava per l’anno 2007 l’indebita detrazione di imposta pari ad euro 22.680,00 non indetraibile per violazione dell'art. 19 DPR n. 633/72.
+In particolare, tale somma risultava relativa a fatture per operazioni inesistenti emesse da GD srl, risultava essere società cartiera- 
+
+ 
+ 
+ <claim ID="Claim1" G="1" P="B" PRO="Req1">La contribuente eccepiva in via preliminare la nullità dell'avviso per violazione degli articoli 7 e 12 l. 12/2000 e dell'art. 56 del DPR 633/72 non essendo stata posta a è stato posto a conoscenza del processo verbale di constatazione emesso nei confronti di GD</claim>
+ <claim ID="Claim2" G="1" P="B" PRO="Req1">Nel merito, contestava all'Ufficio di non aver fornito prove circa l'asserita inesistenza delle operazioni contestate,</claim> 
+ <arg ID="Arg1" G="1" P="B" PRO="Claim2">richiamando al contrario richiama il contratto di appalto in essere con GD, la dichiarazione di inizio lavori eseguita da quest’ultima nonché verbale della Direzione Provinciale de Lavoro di Reggio Emilia attestante la presenza di personale dipendente GD nel cantiere interessato.</arg>
+ <claim ID="Claim3" G="1" P="B" PRO="Req1"> Escludeva, infine, la fondatezza dell’assunto relativo all'assenza di buona fede del legale rappresentante.</claim>
+ <arg ID="Arg2" G="1" P="B" PRO="Claim3">In ricorso è infine affermato che il Sig. FA, legale rappresentante della Società ricorrente, era ignaro della frode operata dalla Società GD contrariamente a quanto sostenuto nell'impugnato avviso.</arg>
+ <req ID="Req1" G="1" P="B">Alla luce di quanto sopra esposto in ricorso è richiesto l'annullamento dell'atto impugnato ed in via subordinata la non applicazione delle sanzioni.</req>
+ <req ID="Req2" G="1" P="A">Si costituiva in giudizio l'Agenzia delle Entrate resistendo al ricorso e chiedendone la reiezione.</req>
+ <claim ID="Claim4" G="1" P="A" PRO="Req2">Rilevava, in via preliminare, l’inconsistenza dell’eccezione preliminare,</claim>
+ <arg ID="Arg3" G="1" P="A" PRO="Claim4">essendo stato riportato in sede di avviso il contenuto essenziale del p.v.c. posto a base dello stesso, in modo tale da consentire alla contribuente il diritto alla difesa.</arg>
+ <claim ID="Claim5" G="1" P="A" PRO="Req2">Quanto al merito, ribadiva la legittimità dell'operato.</claim>
+ 
+
+ 
+ <dec ID="Dec1" G="1" E="0" O="Req1">La Commissione Tributaria Provinciale di Reggio Emilia con sentenza 26.9.2014 respingeva il ricorso.</dec>
+ 
+
+ 
+ <mot ID="Mot1" G="1" O="Claim1">In particolare, rilevava l'insussistenza della violazione dei diritti informative del contribuente, dal momento che l'avviso impugnato riportava gli elementi essenziali del processo verbale di constatazione, funzionali alla difesa del contribuente.</mot>
+
+ <mot ID="Mot2" G="1" O="Req1">Quanto al merito, rimarcava la circostanza, indubbia alla luce del contenuto del
+ p.v.c., che Immobiliare Dolcecasa avesse utilizzato fatture emessa da una società
+ affatto priva di organizzazione, quindi destinata alla emissione di fatture per
+ operazioni inesistenti, in una situazione di totale assenza di buona fede da parte del
+ legale rappresentante della società, avuto riguardo ai rapporti di cointeressenza
+ societaria con il legale rappresentante della società emittente.</mot>
+ 
+
+
+
+ 
+ <req ID="Req3" G="2" P="B">Contro la sentenza interposto appello l’IMMOBILIARE D.</req>
+ 
+ <claim ID="Claim6" G="2" P="B" PRO="Req3">Con il primo motivo eccepisce la carenza motivazionale della sentenza</claim>
+ <arg ID="Arg4" G="2" P="B" PRO="Claim6">che ha omesso di pronunciarsi su punti rilevanti ai fini deila decisione della controversia, non essendosi soffermata a valutare in alcun modo i riscontri documentali offerti dalla contribuente.</arg>
+
+ <claim ID="Claim7" G="2" P="B" PRO="Req3">Con il secondo motivo deduce l'erronea valutazione dell’insussistenza della nullità dell'avviso di accertamento per violazione degli artt. 7 l. 212/2000 e 56 DPR 633/1972,</claim> 
+ <arg ID="Arg5" G="2" P="B" PRO="Claim7">dal momento che il ricorso alla motivazione c. d. per relationem, pur previsto in via generale dalla legge nel caso di specie non poteva dirsi assolto, risolvendosi in una mero richiamo alle conclusioni del p.v.c. che non consentivano al contribuente di avere diretto riscontro delle conclusioni formulate dalla Guardia di Finanza in ordine alla qualificazione dell'emittente come società cartiera.</arg>
+
+ <claim ID="Claim8" G="2" P="B" PRO="Req3">Con il terzo motivo, attinente al merito, la appellante contestava la ricostruzione operata dalla sentenza impugnata,</claim>
+ <arg ID="Arg6" G="2" P="B" PRO="Claim8">evidenziando che dalla documentazione prodotta, proveniente anche da soggetti terzi, emergevano indizi dell'effettivo svolgimento da parte di GD delle prestazioni fatturate.</arg>
+
+ <claim ID="Claim9" G="2" P="B" PRO="Req3">Da ultimo, rilevava la natura meramente congetturale del giudizio di assenza di buona fede in capo al legale rappresentante.</claim>
+ 
+
+ All'udienza del DD.MM.2015 la Commissione accoglieva la richiesta incidentale di sospensione dell'esecutività della sentenza impugnata e all'udienza odierna, esaurita la discussione, tratteneva la causa per la decisione.
+
+
+ MOTIVI DELLA DECISIONE.
+ 
+ L'appello è fondato e come tale merita accoglimento.
+
+ <mot ID="Mot3" G="2" O="Req3">E’ da premettere che non vi è chiarezza assoluta sull'oggetto della contestazione elevata in sede di accertamento alla contribuente.
+ Difatti, mentre il p.v.c. facendo espresso riferimento alla natura di società cartiera di GD assume che le operazioni dedotte nelle fatture utilizzate da Immobiliare Dolcecasa siano oggettivamente inesistenti, nell'avviso di accertamento si esplicita che tali fatture siano soggettivamente inesistenti, tanto da escludere la deducibilità dei relativi costi in difetto di prova della buona fede dell’utilizzatore in ordine alla simulazione soggettiva.
+ La questione non muta essendo comprovati in ogni caso, i presupposti per la deducibilità dell'imposta.
+ Torna utile, sul punto, richiamare i consolidati approdi del giudice di legittimità in merito al riparto dell'onere della prova in tema di operazioni soggettivamente inesistenti:
+ 1) l'iva pagata per l'operazione soggettivamente inesistente non è detraibile;
+ 2) è onere del contribuente dimostrare la fonte legittima della detrazione qualora l'Amministrazione gli contesti l'indebita detrazione di fatture, in quanto relative ad operazioni inesistenti; 
+ 3) il contribuente committente-cessionario, al quale sia contestata la detrazione dell'iva relativa ad operazioni soggettivamente inesistenti, ha il diritto di detrarre l'iva se, a prescindere dal pagamento dell'imposta, dimostra che non sapeva e non poteva sapere di partecipare ad una operazione che si iscriveva in una frode all'imposta; con una formula più rigorosa il medesimo principio può esser formulato così: il contribuente committente-cessionario, al quale sia contestata la detrazione dell'IVA, anche se pagata, relativa ad operazioni soggettivamente inesistenti, ha l'onere di conoscere che il venditore-prestatore è autore di un'operazione in frode all'IVA e, se vuole vedersi riconosciuto il diritto di detrarre l'IVA, ha l'onere di dimostrare che è incolpevole la sua ignoranza di aver partecipato
+ ad una operazione in frode dell'IVA» (Cass. Sez. T 11.4.2011 n. 8132; tali principi risultano confermati anche dalla giurisprudenza successiva).</mot>
+ 
+ <mot ID="Mot4" G="2" O="Claim6|Claim8">Ciò posto, si osserva che la sentenza impugnata non ha preso in alcuno modo in considerazione la documentazione fornita dalla contribuente.
+
+ Si tratta, in particolare, non solo del contratto di appalto ma, soprattutto, della documentazione dell'attività ispettiva della Direzione Provinciale del Lavoro di Reggio Emilia che a) ha svolto accessi sul cantiere oggetto di appalto; b) ha accertato la regolarità delle posizioni contributive l’esistenza del relativo Durc; c) ha raccolto le dichiarazioni di numerosi dipendenti, affatto concordi nel dichiarare di essere stati assunti e di lavorare per conto della GD; d) ha accertato l’esistenza di una sede sociale; e) ha elevato verbale di contravvenzione per una posizione lavorativa.
+ Dunque, non può essere priva di significato la circostanza per cui l'ufficio periferico del Ministero del lavoro ha accertato non soltanto l'effettivo svolgimento dell'attività lavorativa in cantiere, ma anche l'esistenza di regolari rapporti lavorativi e contributivi da parte dell’appaltante-emittente.
+ Dunque cade con tutta evidenza uno dei presupposti argomentativi dedotti dal p.v.c. per l'assunzione della natura soggettivamente fittizia delle operazioni.
+ Difatti, a meno di non voler ipotizzare - peraltro sul piano della mera suggestione - un clamoroso errore da parte dell'ufficio ministeriale nell’apprezzamento di tali circostanze, si deve osservare che la Direzione Provinciale del lavoro non ha avuto dubbio alcuno nel riferire le prestazioni lavorative alla GD , con ciò sancendo l'assenza di profili di simulazione soggettiva.</mot>
+
+ <mot ID="Mot5" G="2" O="Claim9">In tale quadro ricostruttivo non v'è alcun elemento che contraddica la buona fede della società in ordine alla effettuazione delle prestazioni da parte del soggetto emittente, fatta salva la presenza nella stessa società (affatto terza) dei legali rappresentanti di emittente ed utilizzatore.
+ Si tratta, tuttavia, di un dato di inconsistente valenza euristica in quanto afferente a vicende personali delle due persone fisiche organi di vertice, non involgente la società appellante.</mot>
+ Di conseguenza, l'appello va accolto.
+ 
+ Le spese, liquidate come da dispositivo in ordine ad entrambi i gradi di giudizio, seguono la soccombenza e sono liquidate come da dispositivo.
+ 
+
+ P.Q.M.
+ <dec ID="Dec2" G="2" E="1" O="Req3">visto l'art. 59 D. Igs. 546/92, in riforma dell’impugnata, sentenza dichiara illegittimo l'avviso di accertamento.</dec>
+ Condanna l'Agenzia delle Entrate a rifondere le spese di entrambi i gradi di giudizio, liquidate in € 2500, oltre IVA e CAP.
+ 
+ Bologna, li DD.MM.2016 
+ 
+ Il giudice est. (dr. giu2)
+ Il Presidente (dr.ssa giu1)
+ 
+
+</body>

@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+
+
+
+REPUBBLICA ITALIANA
+IN NOME DEL POPOLO ITALIANO
+
+	LA COMMISSIONE TRIBUTARIA REGIONALE DI XXX SEZIONE 19
+
+	riunita con l'intervento dei Signori:
+		giu1 Presidente
+		giu2 Relatore
+		giu3 Giudice
+	
+
+	Ha emesso la seguente sentenza
+
+	REG. GENERALE N° 172/13	
+
+- sull'appello n. 172/13 depositato il DD/MM/2013
+- avverso la sentenza n. DD/MM/12 emessa dalla Commissione Tributaria Provinciale di XXX
+
+
+<part P="A">proposto dall'ufficio: AG.ENTRATE DIREZIONE PROVINCIALE XXX</part>
+
+<part P="B">controparte:
+IA SRL 
+XXX</part>
+
+difeso da:
+AVV. FD
+XXX
+
+Atti impugnati:
+AVVISO DI ACCERTAMENTO n° THH03TA04616 IRES-ALTRO 2003 
+AVVISO DI ACCERTAMENTO n° THH03TA04616 IVA-ALTRO 2003
+AVVISO DI ACCERTAMENTO n° THH03TA04616 IRAP 2003
+ 
+
+RITENUTO IN FATTO 
+
+Con ricorso del 20/12/2011, la società IA S.R.L. impugnava tempestivamente l'avviso di accertamento n. THH03TA04616/2011 con il quale l'Agenzia delle Entrate di Modena recepiva il P.V.C. notificato in data 23/12/2009 dalla Guardia di Finanza Compagnia di XXX a carico della società ricorrente, cui veniva contestata l'indeducibilità di costi per violazione dell'art. 109 del TUIR, pari ad € 342.500,00, e altri costi quali spese di manutenzione e rimborsi spese pari a € 30.055,84 e spese di rappresentanza pari ad € 53.941,27, in quanto indebitamente dedotti rispettivamente in violazione dell'art. 109 e dell'art. 108 TUIR.
+
+Il controllo veniva condotto nell'ambito del procedimento penale n. 9251/06, per il delitto di cui all'art. 2 del D.lgs. n. 74/2000. Il Nucleo di Polizia Tributaria di Modena, infatti, all'interno del processo medesimo, segnalava che la società ricorrente aveva intrattenuto rapporti commerciali con le imprese facenti capo al sig. CL, dedite prettamente all'emissione di fatture relative ad operazioni inesistenti.
+
+Nel procedimento penale medesimo, il G.I.P., in accoglimento della richiesta di archiviazione del Pubblico Ministero, emetteva nei confronti del sig. Cavani Vittorio, legale rappresentante della società odierna ricorrente, decreto di archiviazione per il reato di cui all'art. 2 D.lgs. n. 74/2000 poiché "la notizia di reato è infondata".
+
+In virtù di ciò, la Guardia di Finanza di XXX rettificava quanto riportato nel verbale del 23/12/2009, precisando con nota prot. n. 69975/10 del 18/02/2010 che "i rilievi formulati non sono più da ritenersi scaturenti da utilizzo di fatture per operazioni inesistenti".
+
+L'Ufficio, stante il disposto dell'art. 43, comma del DPR 600/73, emetteva l'avviso di accertamento impugnato recependo integralmente le risultanze del PVC della Guardia di Finanza di Carpi, asserendo di "ritenere applicabile alla presente fattispecie il raddoppio dei termini per l'accertamento previsto dall'art. 43, comma 3 del DPR 600/73", recuperando i costi ritenuti afferenti ad operazioni inesistenti e la relativa IVA oltre ad alcuni costi ritenuti non inerenti e non deducibili interamente.
+
+
+	
+		<req ID="Req1" G="1" P="B"><claim ID="Claim1" G="1" P="B" PRO="Req1">Parte ricorrente eccepiva l'intervenuta decadenza dell'Ufficio dal potere accertativo e applicabilità del raddoppio dei termini di cui all'art. 43, comma 3 del DPR n. 600/73,</claim></req> 
+		<claim ID="Claim2" G="1" P="B" PRO="Req1">nonché l'infondatezza nel merito della contestazione relativa alle fatture per operazioni inesistenti.</claim> 
+		<arg ID="Arg1" G="1" P="B" PRO="Claim2">Evidenziava, altresì, che la Guardia di Finanza, con nota del 18/02/2010 intervenuta successivamente alla redazione del PVC, aveva precisato che i rilievi formulati non erano da considerarsi scaturenti da utilizzo di fatture per operazioni inesistenti.</arg>
+
+		<claim ID="Claim3" G="1" P="B" PRO="Req1">Si costituiva l'Agenzia delle Entrate - Ufficio di XXX contestando tutto quanto ex adverso dedotto</claim> <req ID="Req2" G="1" P="A">e chiedendo il rigetto del ricorso.</req> La società ricorrente depositava memoria illustrativa nella quale ribadiva le doglianze espresse nel ricorso.
+	
+
+	
+		<dec ID="Dec4" G="1" E="1" O="Req1">La Commissione Tributaria Provinciale di Modena, con sentenza n. 218/02/2012 accoglieva il ricorso</dec>
+	
+	 
+		<mot ID="Mot1" G="1" O="Req1">riconoscendo la tardività dell'accertamento in quanto "...nel caso in esame, nel momento in cui viene esercitato il potere di accertamento da parte dell'Ufficio non sussisteva la violazione di carattere penale in quanto, a seguito dell'informativa di reato effettuata dalla Guardia di Finanza, l'Autorità Giudiziaria aveva già escluso qualsiasi ipotesi di violazione dell'art. 2 del D.lgs. n. 74/2000. Ha altresì ritenuto il Collegio che l'avviso di accertamento impugnato fosse infondato nel merito, sulla base di quanto affermato dalla stessa Guardia di Finanza.</mot>
+	
+
+
+
+	
+		<req ID="Req3" G="2" P="A">Con ricorso depositato in data 17/01/2013, l'Ufficio proponeva appello avverso la sopracitata sentenza, riproponendo le doglianze avanzate in primo grado e chiedendo l'annullamento della decisione impugnata, confermando integralmente l'operato dell'Ufficio, e dando atto in ogni caso dell'acquiescenza prestata dalla parte ai rilievi spese di manutenzione e rimborsi € 30.055,84 e spese di rappresentanza €53.941,27.</req> 
+		Con vittoria di spese e competenze di giudizio. 
+		Chiedeva altresì L'Ufficio la discussione della vertenza in pubblica udienza.	
+
+		<claim ID="Claim4" G="1" P="B" PRO="Req4">Si è costituita la società IA S.R.L., con le proprie controdeduzioni, attraverso le quali ha reiterato le argomentazioni già svolte nel precedente grado di giudizio, continuando a sostenere la legittimità del proprio operato</claim> 
+		<req ID="Req4" G="2" P="B">e chiedendo, pertanto, il rigetto dell'appello e la conseguente conferma della sentenza impugnata,</req> 
+		con la condanna dell'appellante alle spese di entrambe i gradi di giudizio. Anche l'appellata chiedeva la discussione della vertenza in pubblica udienza.
+	
+
+	In data 17/05/2013, la IA S.R.L. depositava richiesta di sollecita fissazione di udienza poiché, stanti gli elevati valori di causa, si imponeva l'accantonamento in bilancio di rilevanti somme, tali da non consentire la regolare prosecuzione dell'attività.
+
+	All'udienza del DD/MM/2013, le parti esponevano le proprie tesi riportandosi ai rispettivi atti ed insistendo come in essi.
+
+	La Commissione
+
+	OSSERVA
+
+		 La sentenza di primo grado appare condivisibile nella sue conclusioni seppure con integrata motivazione. 
+	
+		<mot ID="Mot2" G="2" O="Req3"> Non esiste dubbio agli atti che la sequenza temporale degli accadimenti sia stata:
+		notizia di reato;
+		decreto di archiviazione;
+		inizio azione tributaria basata su quanto contenuto in p.v.c. costituente notizia di reato.
+
+		Il dato che qui rileva principalmente è che nel momento in cui si dava inizio all'azione tributaria la magistratura ordinaria, in sede penale, aveva già espresso una valutazione relativa alla sussistenza o meno della ipotesi delittuosa sottostante ritenendo non sussistere gli elementi per dare corso al processo penale.
+
+		La ratio del prolungamento dei termini per l'accertamento è finalizzata a dare alla amministrazione uno spazio istruttorio più ampio di quello ordinario.
+
+		 Questo spazio più ampio ha senso quando si prospetti una indagine penale complessa dalla quale la attività tributaria possa trarre elementi ulteriori e soprattutto quando esista un dibattimento nel quale possano essere raccolti elementi che debbano essere utilizzati poi nel processo tributario. 
+
+		 Deriva che la stessa cosa non può dirsi quando la stessa autorità giudiziaria penale abbia sancito la insussistenza di elementi che giustifichino anche il solo tenersi del processo penale. 
+
+		 Nel momento in cui l'autorità penale ha statuito che non sussistono i presupposti per dare corso alla attività dibattimentale e/o di ulteriore indagine, cosa questa che avrebbe giustificato appieno il raddoppio dei termini, non può più darsi corso al raddoppio stesso che viene privato della sua stessa ragione di essere.
+
+		 In diverso maniera potrebbe profilarsi un uso strumentale della denuncia alla autorità giudiziaria penale fatta, magari, al solo scopo di avere termini maggiori.</mot>
+
+		<mot ID="Mot3" G="2" O="Req3"> La seconda considerazione nel merito da fare è che è dato acquisito che non ci sia stata attività istruttoria ulteriore da parte dell'agenzia rispetto a quella sulla base della quale fu effettuata la denuncia. 
+
+		 Tale attività è stata sottoposta al vaglio della magistratura penale la quale la ha valutata come priva di elementi idonei a far dar corso al processo. 
+
+		 In una siffatta situazione la agenzia avrebbe dovuto, ove avesse ritenuto che esistessero elementi idonei a comprovare i suoi assunti, fornirli in questo giudizio tributario, cosa che non è stata fatta. 
+
+		 In altre parole è ben vero che il decreto di archiviazione ha natura processuale, ma esso produce effetti sulla realtà giuridica. 
+
+		 Si confronti sul punto Comm. trib. reg. XXX XXX sez. XX, 28 gennaio 2013, n. 11, Riv. dir. trib.2013,3,I1,168(s.m.) (nota di: giu4) per cui il decreto di archiviazione pronunciato dal g.i.p., sul fatto che costituisce l'innesco dell'accertamento fiscale riverbera i suoi effetti anche nei procedimenti derivati e, quindi, anche su quello tributari. 
+
+		 Deve quindi ritenersi comunque superata la questione del raddoppio dei termini che rimane assorbita nella mancanza di elementi di prova ulteriori rispetto a quelli contenuti nell'atto posto a base della agenzia per il suo accertamento.</mot>
+
+		La complessità della vicenda giustifica la integrale compensazione delle spesse di causa.
+	
+
+	P.Q.M.
+
+		<dec ID="Dec5" G="2" E="0" O="Req3">Rigetta l'appello formulata dalla agenzia</dec> 
+		e compensa integralmente le spese di giudizio. 
+		
+			xxx DD MM 2013
+		
+	
+
+</body>

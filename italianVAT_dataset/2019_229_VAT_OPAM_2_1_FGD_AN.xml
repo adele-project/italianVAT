@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+
+
+
+	Sentenza del DD/MM/2019 n. 229 - 
+		Comm. Trib. Reg. XXX
+
+	Intitolazione:
+
+	Nessuna intitolazione presente
+
+	Massima:
+
+	Nessuna massima presente
+
+
+Testo:
+
+SVOLGIMENTO DEL PROCESSO
+
+	
+		<req ID="Req10" G="1" P="A|B">La <part P="A">società ..... s.r.l.</part> e <part P="B">le socie...................</part> impugnavano con distinti ricorsi gli avvisi di accertamento</req>
+	
+ 
+		
+con i quali l'<part P="C">Ufficio</part> recuperava, per l'anno 2009, 2010 e 2011 l'imposta IVA in relazione a fatture emesse con il titolo di non imponibilità ex art. 9, co. 1 punto 6) DPR 633/72 per prestazioni di servizi di security all'interno del Porto di XXX.
+
+		Preliminarmente si rappresenta che l'Ufficio nell'atto di appello chiedeva la riunione per ragioni di connessione soggettiva ed oggettiva dei procedimenti relativi ai distinti ricorsi e pertanto, all'udienza del 12 novembre 2019, veniva disposta la riunione al procedimento sub RG 510/2016, anno d'imposta 2009, quello pendente sub RG 388/2016, anno d'imposta 2010 e quello sub RG 633/2016 relativo all'anno d'imposta 2011.
+
+	
+		<claim ID="Claim1" G="1" P="A|B" PRO="Req1">Le ricorrenti, con medesime motivazioni per i suddetti procedimenti, lamentavano innanzitutto la presunta nullità del provvedimento per violazione dell'art. 12, co. 7 L. 212/2000,</claim> 
+		<claim ID="Claim2" G="1" P="A|B" PRO="Req1">nonché violazione dell'art. 9 co. 1 punto 6) DPR 633/72, in relazione a fatture emesse con il titolo di non imponibilità ex art. 9, co. 1 punto 6) DPR 633/72 per prestazioni di servizi di security all'interno del Porto di XXX.</claim>
+
+		<arg ID="Arg1" G="1" P="A|B" PRO="Claim2">Ritenevano, infatti, che la non imponibilità delle prestazioni scaturisse dall'essere le stesse direttamente connesse al funzionamento dell'impianto portuale di XXX nel cui ambito erano erogate.</arg>
+
+		<req ID="Req2" G="1" P="A|B">Chiedevano altresi la non irrogazione delle sanzioni e la non debenza degli interessi ai sensi dell'art. 10, co. 2 L. 212/2000.</req>
+
+		<req ID="Req1" G="1" P="A|B">Concludevano per l'annullamento degli impugnati avvisi con vittoria delle spese di lite.</req>
+
+		<req ID="Req3" G="1" P="C">Si costituiva l'Ufficio</req> 
+		<claim ID="Claim3" G="1" P="C" PRO="Req3">evidenziando che le prestazioni erogate dalla società rientravano in quelle di vigilanza, con conseguente imponibilità delle stesse.</claim> 
+		<claim ID="Claim4" G="1" P="C" PRO="Req4">Relativamente alle sanzioni, rappresentava l'intervenuto annullamento parziale delle stesse</claim>
+		<req ID="Req4" G="1" P="C">con richiesta di cessazione parziale della materia del contendere.</req>
+	 
+
+	
+		<dec ID="Dec1" G="1" E="1" O="Req1|Req2">La Commissione Tributaria Provinciale di XXX, sostanzialmente con medesime argomentazioni, accoglieva ricorsi di parte con tre distinte sentenze: n. 4/2016 del 19/1/2016, anno 2009, sentenza n.348/2015 del 24/11/2015 anno 2010 e sentenza n.149/2016 del 05/04/2016, anno 2011, spese compensate.</dec>
+
+		<dec ID="Dec2" G="1" E="0" O="Req1">Preliminarmente riteneva gli atti impugnati compiutamente motivati e rigettava quindi tutte le altre questioni pregiudiziali.</dec>
+	
+
+	
+		<mot ID="Mot1" G="1" O="Req1">Accoglieva nel merito osservando che l'attività svolta società ricorrente ha natura obbligatoria ed è finalizzata al corretto e sicuro funzionamento dell'impianto portuale di XXX, come si evince dalla nota della capitaneria di Porto offerta in comunicazione dalla società.
+		In sostanza, l'attività in oggetto deve essere valutata in stretta e diretta correlazione con il funzionamento del terminal e con i traffici internazionali, evidenziando che ove tale funzione non venisse svolta, i terminalisti potrebbero subire sanzioni amministrative pecuniarie, nonché la revoca dell'autorizzazione all'attività determinandone fatto il blocco del terminal.</mot>
+	
+
+
+
+	
+		<req ID="Req5" G="2" P="C">L'Ufficio appella tutte e tre le sentenze chiedendo preliminarmente la riunione dei procedimenti come in premessa giá rappresentato.</req>
+
+		<claim ID="Claim5" G="2" P="C" PRO="Req5">L'Ufficio evidenzia di avere provveduto al parziale annullamento degli avvisi in questione limitatamente alle sanzioni irrogate, mentre nel merito osserva che la norma di cui all'art. 9 co. 1 punto 6) DPR 633/72 è di stretta interpretazione e pertanto non consente un'estensione della non imponibilità IVA ai soli servizi prestati nei porti che siano obbligatori ma, al contrario, fa riferimento a tutti quei servizi che, obbligatori o meno, si caratterizzano per l'esigenza del nesso funzionale diretto ed immediato.</claim>
+
+		<arg ID="Arg2" G="2" P="C" PRO="Claim5">Ciò significa che l'attività di security, anche se obbligatoria, non per questo diventa essa stessa servizio o attività portuale, né diventa un'attività direttamente connessa al funzionamento dell'impianto portuale, rimanendo un'attività di vigilanza che serve per rendere sicuro lo svolgimento dell'attività portuale, quindi finalizzata a prevenire azioni illecite per la conservazione degli impianti portuali.
+
+		Quindi, il nesso richiesto dalla norma, manca con riferimento all'attività di security in oggetto che, seppure obbligatoria, si pone al di fuori delle attività portuali ed al di fuori del funzionamento stesso dell'impianto portuale.</arg>
+
+		<claim ID="Claim6" G="2" P="C" PRO="Req5">Sull'asserita applicazione distorta dei documenti di prassi, in particolare sul richiamo fatto dalla ricorrente alla risoluzione n.322/2008, punto sul quale nulla dice la sentenza di primo grado, l'Ufficio evidenzia che detto richiamo non è corretto</claim> 
+		<arg ID="Arg3" G="2" P="C" PRO="Claim6">in quanto la risoluzione affronta un caso differente da quello in questione riferendosi ad un operatore che prestava servizi di movimentazione di passeggeri, ossia attività obbligatoriamente connessa alle operazioni di sbarco/imbarco di passeggeri e come tale non imponibile.
+
+		Nulla invece viene detto circa le modalità di fatturazione dei servizi a monte acquistati dall'operatore terminal, cioè per quei servizi resi da un terzo prestatore nei confronti i terminalisti, né tanto meno viene indicato che i servizi di vigilanza rientrano nel beneficio di non imponibilità.
+
+		Sul punto, l'Ufficio richiama la risoluzione n. 406963 dell'8/9/1984.</arg> 
+
+		<req ID="Req6" G="2" P="C">Conclude per la dichiarazione di cessazione parziale della materia del contendere limitatamente all'annullamento delle sanzioni per entrambi gli anni d'imposta in discussione e nella conferma dell'operato dell'Ufficio</req> 
+		con la rifusione delle spese di lite di entrambi i gradi di giudizio per entrambi i procedimenti.
+
+		<claim ID="Claim7" G="2" P="A|B" PRO="Req5">Contro deducono le ricorrenti che richiamano quanto già dedotto in primo grado, in particolare ribadendo che le prestazioni svolte dalla ricorrente non sono assimilabili all'attività di vigilanza,</claim> 
+		<arg ID="Arg4" G="2" P="A|B" PRO="Claim7">giacché la finalità ed il bene tutelato sono differenti.
+
+		Esse infatti sono svolte nell'ambito del porto internazionale di XXX a favore di differenti terminalisti in ottemperanza al piano di sicurezza, al programma nazionale di sicurezza marittima, al codice ISPS, ed alla normativa nazionale e comunitaria. 
+
+		Pertanto, risulta indubbia ed inequivocabile la stretta e diretta correlazione di tale attività sia rispetto al funzionamento del Terminal, che ai traffici internazionali di merci svolti dallo stesso.
+
+		E comunque, pur volendo assimilare le port security svolte all'attività di vigilanza, in ogni caso trattasi di attività obbligatorie per legge e comunque non imponibili, e ciò in coerenza con le stesse indicazioni fornite, nel tempo, dall'Ufficio, vedi la risoluzione n. 322 del 29/7/2008.</arg>
+
+		Richiamano quanto già dedotto in relazione agli altri punti dell'appello, tutti peraltro toccati, seppure in maniera molto stringata, dalle sentenze di primo grado.
+
+		<req ID="Req7" G="2" P="A|B">Le ricorrenti propongono altresi appello incidentale in relazione alla dichiarazione di compensazione delle spese di lite ed alla mancata dichiarazione di violazione ed errata applicazione dell'art. 12, co, 7 L. 212/2000.</req>
+
+		<req ID="Req8" G="2" P="A|B">Concludono quindi per la conferma delle impugnate sentenze relazione all'applicazione in materia di Iva dell'art. 9 co. 1 punto 6) DPR 633/1972,</req> 
+		<req ID="Req9" G="2" P="A|B">la riforma delle stesse per mancata dichiarazione di violazione ed errata applicazione dell'art. 12, co, 7 L. 212/2000</req> 
+		e per la compensazione delle spese di giudizio del primo grado, con vittoria delle spese di entrambi i gradi giudizio.
+	
+
+	MOTIVI DELLA DECISIONE
+
+		Innanzitutto occorre esaminare la questione relativa alla presunta nullità del provvedimento per violazione dell'art. 12, co. 7 L. 212/2000 denunciata da parte ricorrente e motivo di appello incidentale, in particolare sul fatto che l'Ufficio avrebbe emesso l'atto impositivo impugnato "sulla base delle risultane del PVC notificato... facendo propri i rilievi e le considerazioni in esso contenuti...", nonché sulla circostanza che non sarebbero state debitamente valutate le argomentazioni della ricorrente stessa ai sensi della normativa in questione e, da ultimo, sul fatto che nella motivazione dell'avviso non sarebbe stata fatta alcuna menzione dell'esistenza di chiarimenti forniti dalla Capitaneria di Porto e prodotti nel corso del contraddittorio.
+
+		Si ritengono prive di fondamento le argomentazioni di controparte 
+		<mot ID="Mot2" G="2" O="Req8">in quanto la validità dell'avviso di accertamento non può in alcun caso essere subordinata al mancato riferimento nella motivazione dell'atto alle considerazioni contenute nella memoria della ricorrente ex art. 12 L. 212/2000, così come all'ulteriore documentazione presentata nella fase amministrativa antecedente l'emissione dell'atto impugnato.
+
+		Peraltro, nell'atto, l'Ufficio replica punto per punto a quanto dedotto ed alla documentazione presentata, enunciando, in tal modo, le ragioni per le quali l'Ufficio non ha ritenuto idonee le argomentazioni difensive.
+
+		Invero, sulla materia in questione, è opportuno prendere atto della rilettura giurisprudenziale sul tema del contraddittorio endoprocedimentale, nel senso se esista o meno un diritto generalizzato al contraddittorio preventivo, un tema sicuramente a lungo dibattuto che è stato nuovamente riesaminato dalla Corte di Cassazione a Sezioni Unite con la sentenza n. 24823 deposita il DD/MM/2015.
+
+		Infatti, la Suprema Corte, rispetto a quanto statuito con la precedente sentenza del 2014, n. 19667, ha stabilito che allo stato attuale non vi è nell'ordinamento tributario nazionale, in particolare tra le norme dello Statuto dei diritti del contribuente (L. 212/2000, art. 12, comma 7) un obbligo generalizzato di contraddittorio endoprocedimentale a carico dell'Amministrazione finanziaria.
+
+		La Corte di Cassazione ha dunque mutato indirizzo fomendo una nuova interpretazione circa l'instaurazione della fase difensiva nel procedimento tributario, nel senso che le garanzie fissate nella citata normativa (art. 12, co 7) trovano applicazione esclusivamente in relazione agli accertamenti conseguenti ad accessi, ispezioni e verifiche effettuate nei locali ove si esercita l'attività imprenditoriale o professionale del contribuente.
+
+		Un tanto trova conferma anche in considerazione della peculiarità di dette verifiche, in quanto caratterizzate dall'intromissione dell'amministrazione nei luoghi di pertinenza del contribuente alla diretta ricerca di elementi valutativi a lui sfavorevoli e che giustificano, quale contro bilanciamento, il contraddittorio al fine di correggere, adeguare e chiarire nell'interesse del contribuente e della stessa amministrazione gli elementi acquisiti presso i locali dell'azienda.
+
+		Quindi, per l'atto adottato "a tavolino", cioè sulla base di documenti, non operano le garanzie di cui all'art. 12 e non sussiste, in riferimento ai tributi non armonizzati, nella specie l'IVA, a carico dell'amministrazione un obbligo generale di contraddittorio endoprocedimentale, in quanto non rinvenibile un analogo generalizzato vincolo sussistente solo per le ipotesi in cui risulta specificamente sancito.
+
+		Merita segnalare sul punto le pronunce più recenti che hanno confermato tale interpretazione: sentenza n.13227/2016, ordinanza 10/7/2018 n. 18092, ordinanza del 7/3/2018 n. 5408.</mot>
+
+		Nel merito, si conferma l'impugnata sentenza ritenendo che i servizi di vigilanza resi dalla società ricorrente, sono perfettamente in linea con le finalità di controllo della sicurezza dell'area portuale così come delineate dalla direttiva comunitaria n. 2005/65/CE che prevede che l'attività di security sia per tutta l'area e per tutta l'attività portuale.
+
+		<mot ID="Mot3" G="2" O="Claim5">Preme evidenziare che i porti, spesso situati in prossimità delle città, assumono un ruolo essenziale nel sistema logistico di trasporto, in quanto consentono il collegamento fra le rotte marittime e terrestri del commercio e del traffico passeggeri.
+
+		Appare, quindi, evidente l'esigenza di salvaguardare la sicurezza del porto, potenziali obiettivi di attività illecite se non addirittura i azioni terroristiche, organizzando un sistema di protezione efficace, fattore importante anche per la crescita ed incremento del volume di merci e passeggeri, poiché tanto più un porto è sicuro, tanto più sarà prediletto nella scelta di un porto invece che un altro.
+
+		La citata direttiva europea ha dunque contribuito ad ampliare i concetti di security portuale emanando una serie di prescrizioni che coinvolgono l'intero sistema di approdo di navi, la movimentazione di persone e di merci provenienti dal mare e non solo, prevenendo difatti un controllo più accurato e selettivo anche per gli accessi al terminal stesso. Tale procedura presuppone l'applicazione di strumenti di valutazione del rischio e di pianificazione dei piani di sicurezza in un'area molto estesa e complessa, caratterizzata da spazi comuni, aree di transito e viabilità, depositi, parcheggi, sosta di container sia vuoti che pieni.
+
+		Premesso un tanto, si deve procedere con la valutazione in particolare della natura dell'attività svolta dalla ricorrente, ossia se i servizi di "security" stipulati con vari terminalisti del Porto di XXX sono prestazioni, secondo la ricorrente. non soggetti ad imposizione IVA, ex art. 9, co. 1, punto 6 del DPR 1972/633 avendo tutti presupposti per essere considerati "servizi prestati nei porti... che riflettono direttamente il funzionamento e la manutenzione degli impianti ovvero il movimento di beni o mezzi di trasporto.
+
+		Trattasi, a ben vedere, di specifica attività qualificata come obbligatoria dalla citata 2005/65/CE) e dal D.lgs. n. normativa europea (direttiva n. 200/2007 che riguarda specificamente il funzionamento degli impianti portuali, che, come già evidenziato in premessa, sono diventati nel corso del tempo, obiettivi particolarmente sensibili di attività illecite ed altro ancora.
+
+		Non si condivide l'assunto dell'Ufficio che l'attività di security non è obbligatoria in assenza della nave, e sul punto merita richiamare la nota dell'Autorità Portuale di XXX diretta all'Agenzia delle Entrate che a sua volta fa riferimento ad alcune precisazioni formulate dalla Capitaneria di Porto di XXX in merito all'attività di port security, concludendo che detta attività è da considerare a tutti gli effetti obbligatoria, in quanto diretta a garantire il corretto e sicuro funzionamento di un impianto portuale.
+
+		E ciò in quanto i porti, in aderenza con la normativa europea e quella del legislatore nazionale, devono potere operare in condizioni di sicurezza attraverso l'applicazione di misure previste in specifici piani e regolamenti (Programma nazionale di sicurezza Marittima contro eventuali azioni internazionali (PNSM) ed il Piano di sicurezza (PFSP) e dirette a prevenire l'ingresso negli impianti portuali di persone non autorizzate, nonché, come già enunciato, a prevenire ogni azione illecita atta a proteggere tutta l'area portuale e le navi presenti.
+
+		Ciò presuppone che l'attività di security debba essere mantenuta per tutto il tempo di sosta della nave, ma anche in assenza della nave in quanto il terminalista deve potere garantire un adeguato sistema di sicurezza e meglio ancora una continuità operativa del terminale in condizioni di prevenzione di qualsiasi attività illecita.
+
+		In conclusione, è di tutta evidenza che l'attività di security posta in essere dalla ricorrente ha tutti i presupposti dei "servizi prestati nei porti... che riflettono direttamente il funzionamento e la manutenzione degli impianti ovvero il movimento di beni o mezzi di trasporto" e pertanto tutte le caratteristiche previste dall'art. 9, comma 6 del DPR 60 O 17 3 per essere esente dall'imposta IVA, considerando la complessità delle attività portuali che comprendono non solo le operazioni di imbarco e sbarco delle merci ma anche, come appena detto, le attività di controllo degli accessi.</mot>
+
+		Infine, si accoglie l'appello incidentale della ricorrente in relazione alla dichiarazione di compensazione delle spese di lite spese, 
+		considerato che i motivi svolti nel merito nel ricorso introduttivo sono stati tutti ritenuti meritevoli di accoglimento.
+	
+
+	P.Q.M.
+
+		<dec ID="Dec3" G="2" E="1" O="Req1">La commissione nelle cause riunite r.g. n. 388/2016, n. 510/2016 e n. 633/2016 in parziale riforma delle sentenze appellate, conferma l'annullamento degli avvisi di cui è causa;</dec> 
+		condanna l'Agenzia alla rifusione delle spese di lite di entrambi i gradi di giudizio che liquida in complessivi euro 12.000,00 (dodicimila) di cui € 6.000,00 (seimila) per ogni grado di giudizio, oltre IVA ed accessori di legge e rimborso del contributo unificato assolto.
+	
+
+</body>

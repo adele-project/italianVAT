@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+REPUBBLICA ITALIANA
+ IN NOME DEL POPOLO ITALIANO
+
+ REG GENERALE
+ N° 246/11
+
+ LA COMMISSIONE TRIBUTARIA REGIONALE
+ DI FIRENZE SEZIONE 17
+
+ riunita con l'intervento dei Signori:
+ giu1 Presidente e Relatore
+ giu2 Giudice
+ giu3 Giudice
+ 
+ ha emesso la seguente
+ SENTENZA
+
+ - sull'appello n. 246/11
+ depositato il DD/MM/2011
+
+ - avverso la sentenza n. 210/2/09
+ emessa dalla Commissione Tributaria Provinciale di PISA
+ proposto dall'ufficio: 
+ <part P="A">AG.ENTRATE DIR. PROVIN. UFF. CONTROLLI PISA</part>
+
+ <part P="B">controparte:
+ GT S.P.A.
+ XXX</part>
+
+ difeso da:
+ AVV.TI MM, FP E RAG. FF
+ XXX
+
+ Atti impugnati:
+ AVVISO DI ACCERTAMENTO n° RC6030100312 IRES-ALTRO 2004
+ AVVISO DI ACCERTAMENTO n° R6C030100236 IRES-ALTRO 2002
+ AVVISO DI ACCERTAMENTO n° R6C030100311 IRES-ALTRO 2003
+
+
+RITENUTO IN FATTO E DIRITTO
+
+L'Agenzia delle Entrate notificava alla società GT tre distinti avvisi di
+accertamento, relativi agli anni 2002, 2003 e 2004.
+
+ 
+ <req ID="Req1" G="1" P="B">La contribuente proponeva ricorso alla
+ Commissione Tributaria Provinciale di Pisa,</req> che decideva con unica sentenza, esaminando le singole poste.
+ 
+
+
+Per l'anno 2002, la GT aveva ricevuto dalla
+società controllata PB l'importo di € 801.074 ed in conseguenza di detto
+introito aveva dedotto un credito d'imposta di € 375.000. Dalla contabilità della controllata
+non era risultata la distribuzione di dividendi e la stessa società contribuente, che aveva
+contabilizzato quelle somme in parte come rimborso di azioni ad opera della controllata, in
+parte come dividendi, rispondendo successivamente ad un quesito postole dall'Ufficio, aveva definito quell'importo come derivante da liberalità;l'Agenzia delle Entrate qualificava quell'importo come sopravvenienze attive in quanto non v'erano elementi che ne potessero consentire la qualificazione come corrispettivo ovvero come dividendi o come rimborso di azioni.
+
+
+ 
+ <mot ID="Mot1" G="1" O="Req1"> La C.T.P. Riteneva invece che si trattasse di un finanziamento e che dunque fosse legittimo il credito d'imposta che la contribuente aveva ritenuto di dedurne.
+ Sempre per l'anno 2002 l'Agenzia contestava la mancata fatturazione di un acconto pari ad € 309.000, percepito dalla contribuente in relazione ad un contratto preliminare di compravendita di un immobile.
+
+ L'Ufficio recuperava conseguentemente l'IVA sulla fattura non emessa; la C.T.P. riteneva invece che la somma di € 309.000 fosse stata percepita come caparra confirmatoria e dunque da imputarsi, per il profilo di anticipo del prezzo che essa conteneva, alla futura prestazione,cosicché l'IVA non fosse dovuta.
+ Per l'anno 2003, rilevata l'emissione di fatture per operazioni inesistenti,l'Ufficio aveva ritenuto che la relativa IVA non potesse venir detratta.</mot>
+ 
+
+ 
+ <dec ID="Dec1" G="1" E="1" O="Req1"><req ID="ReqX" G="1" P="Y">La C.T.P. accoglieva il ricorso della contribuente in ordine a questa voce,</req></dec>
+ 
+ 
+ <mot ID="Mot3" G="1" O="Req1">ritenendo che dovesse prestarsi adesione alla giurisprudenza comunitaria (che era di segno contrario rispetto a quella della cassazione) che ammetteva la liceità dell'emissione di note di credito emesse pur in carenza di effettive operazioni, allorché non si avrebbe alcun danno per l'erario in quanto i destinatari delle fatture inesistenti, non avendole in realtà mai ricevute, non avevano detratto alcuna imposta.</mot>
+
+
+
+
+
+ <req ID="Req3" G="2" P="A">Proponeva appello l'Ufficio,</req> 
+ <arg ID="Arg3" G="2" P="A" PRO="Claim4">deducendo che dal riconoscimento del fatto che non si trattava di una distribuzione di utili non avrebbe potuto pervenirsi alla conclusione che l'operazione non fosse influente sul risultato economico</arg> 
+ <claim ID="Claim4" G="2" P="A" PRO="Req3">ma che quelle somme avrebbero dovuto considerarsi come sopravvenienze attive.</claim>
+ <claim ID="Claim5" G="2" P="A" PRO="Req3">Per quanto afferiva alla caparra confirmatoria, deduceva l'appellante che la relativa somma doveva considerarsi anche come parte del corrispettivo pattuito e dunque essere assoggettata ad IVA, in quanto infine all'emissione di fatture per operazioni inesistenti,</claim>
+ <arg ID="Arg4" G="2" P="A" PRO="Claim5">ribadiva l'appellante il principio di cartolarità, formulato dalla cassazione, secondo cui l'IVA era dovuta per intero sulle operazioni riportate in fattura.</arg> 
+ <claim ID="Claim6" G="2" P="B" PRO="Req4">Si costituiva l'appellata, contestando le ragioni del gravame principale, ribadendo le eccezioni che essa aveva sollevato in primo grado e che erano rimaste assorbite nella motivazione della C.T.P.</claim>
+ <req ID="Req5" G="2" P="B">e proponendo in via incidentale appello</req> 
+ <arg ID="Arg5" G="2" P="B" PRO="Claim6">avverso quelle parti della decisione della C.T.P. che avevano rigettato il ricorso relativo alla ripresa a tassazione dell'importo di € 133.000, ricevuto dalla PB per annullamento di azioni ed avevano ritenuto indeducibili una serie di costi: per una persona di servizio, per sponsorizzazioni, per pubblicità su di un quotidiano.</arg>
+ <claim ID="Claim7" G="2" P="B" PRO="Req5">in relazione al primo profilo, deduceva che la sentenza non aveva motivato la valenza reddituale del rimborso di azioni; inoltre, la carenza di una deliberazione formale di annullamento di azioni non giustificava la qualificazione della relativa somme come provento imponibile.</claim> 
+ <arg ID="Arg6" G="2" P="B" PRO="Claim7">Per quanto attiene al secondo motivo si doleva perché non erano state riconosciute deducibili una
+ serie di voci derivanti da costi effettivamente sostenuti nell'interesse della società contribuente.</arg>
+
+
+ <mot ID="Mot4" G="2" O="Claim4">Osserva questa Commissione, con riguardo al primo motivo, che tra le parti non è controverso che le somme corrisposte dalla società controllata all'odierna appellata non costituiscano dividendi. 
+ Anche a voler prescindere dalle differenti ed a volte contraddittorie definizioni che quel trasferimento di denaro ha ricevuto ad opera della contribuente, il fatto che non si tratti di dividendi (e ne fa fede la collocazione della voce nel conto economico) interdice la possibilità di effettuare la detrazione del credito d'imposta.</mot>
+ <mot ID="Mot5" G="2" O="Claim5">Con riguardo al secondo motivo ed alla definizione della somma prevista nel preliminare a titolo di caparra, va ritenuto (conformemente a ciò che è stato già deciso dalla Commissione Provinciale) che si tratti di una somma che, fino al momento in cui, con la stipula del contratto definitivo, assuma la natura di parte del corrispettivo pattuito, mantiene l'esclusiva finalità di rafforzamento dell'obbligazione predeterminando l'importo del danno eventuale.</mot>
+ Su detta somma non doveva dunque venir versata l'IVA.
+
+ <mot ID="Mot6" G="2" O="Claim7">In quanto all'appello incidentale e per quanto concerne l'anno d'imposta 2004, v'è sostanziale concordia tra le parti in ordine alla circostanze che l'ammontare complessivo delle riprese debba venir determinato in € 23.227,05, anziché in € 25.581,43; 
+ non essendosi sul punto pronunciata la Commissione Provinciale, della circostanza, dedotta dall'appellante incidentale, dovra darsi atto nella presente sede.
+
+ Per ciò che attiene alle singole voci, oggetto di gravame ad opera della contribuente, va ritenuto che il servizio svolto dal giornale “La Nazione”, che ha pubblicizzato nell'interesse dalla contribuente una vendita all'asta, sia coerente con l'attività d'impresa e debba dunque venir riconosciuto come costo.
+ Parimenti come costo, in quanto destinato a fare pubblicità all'impresa, va riconosciuto l'importo versato dalla contribuente in occasione del torneo di tennis organizzato dal Tennis Club SC.
+ Non meritano viceversa di venir riconosciuti come costi quelli addotti per il pagamento di personale di servizio la cui presenza nei locali dell'azienda non è stata mai riscontrata.</mot>
+ La parziale soccombenza reciproca giustifica la compensazione delle spese.
+
+
+P.Q.M.
+ <dec ID="Dec2" G="2" E="1" O="Req3">In parziale accoglimento sia dell'appello principale che dell'appello incidentale ed
+ inconseguente parziale riforma della decisione impugnata, dichiara la legittimità del
+ recupero a tassazione della somma portata a credito d'imposta;</dec> 
+ <dec ID="Dec4" G="2" E="1" O="Req3">determina in complessivi €23.227,05 i recuperi per l'anno 2004;</dec> 
+ <dec ID="Dec3" G="2" E="1" O="Req3">dichiara la illegittimità dei recuperi effettuati per i
+ servizi svolti ad opera della “Tennis Club SC” e del giornale “LN”.</dec>
+
+ Compensa le spese.
+
+ Così deciso in Firenze il DD MM 2012.
+
+ Il presidente est.
+ giu1
+
+
+</body>

@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+
+REPUBBLICA ITALIANA
+IN NOME DEL POPOLO ITALIANO
+
+LA COMMISSIONE TRIBUTARIA REGIONALE DI LAZIO SEZ.STACCATA DI LATINA — SEZIONE 18
+N° 5740/2021
+
+riunita con l'intervento dei Signori:
+giu1 Presidente
+giu2 Relatore
+giu3 Giudice
+
+REG.GENERALE N° 586/2019
+
+ha emesso la seguente
+
+SENTENZA
+
+- sull'appello n. 586/2019
+depositato il DD/MM/2019
+
+- avverso la pronuncia sentenza n. 423/2018 Sez:3 emessa dalla Commissione
+
+Tributaria Provinciale di FROSINONE
+<part P="A">contro:
+
+CVSS
+XXX</part>
+
+difeso da:
+RS
+XXX
+
+<part P="B">proposto dall'appellante:
+AG. ENTRATE DIREZIONE PROVINCIALE FROSINONE</part>
+
+Atti impugnati:
+
+AVVISO DI ACCERTAMENTO IVA-OP.ESENTI
+
+
+FATTO
+
+	<req ID="Req10" G="2" P="B">L’Agenzia Entrate di Frosinone impugna la Sentenza N.423/03/2018 emessa dalla Commissione Tributaria Provinciale di Frosinone,</req> 
+
+	
+	
+		<dec ID="Dec1" G="1" E="1" O="Req1"><req ID="Req1" G="1" P="B">con la quale veniva accolto il Ricorso.</req></dec>
+	
+		Trattasi di avviso di accertamento anno 2012 tributi I.V.A.. L’ Ufficio accertava nei confronti del CVSS l’omessa fatturazione delle operazioni imponibili intercorse con la società AL S.p.A. da cui scaturiva una maggiore EVA. pari ad €1.525,00.
+
+
+	
+	<arg ID="Arg1" G="2" P="B" PRO="Claim1"> L'Agenzia impugna la decisione di 1° Grado e rileva che la concessione di uso delle infrastrutture di proprietà degli Enti Locali in favore dei gestori dei servizi idrici non è gratuita bensì prevede un canone accessorio cui si aggiunge il rimborso delle attività pregresse;</arg> <claim ID="Claim1" G="2" P="B" PRO="Req2">ribadisce che l’accollo delle attività pregresse costituisce una modalità di pagamento assunta dal Comune che concorre a determinare il corrispettivo della concessione;</claim> <arg ID="Arg2" G="2" P="B" PRO="Claim1">richiama Sentenza C.T.R. N.877/19/2017 del 28/02/2017 coperta dal giudicato.</arg>
+
+<req ID="Req2" G="2" P="B">Conclude e chiede l’accoglimento dell’appello.</req>
+
+Il CVSS si costituisce in giudizio; <arg ID="Arg3" G="2" P="A" CON="Req2">contesta l’appello e richiama favorevoli Sentenze della C.T.R. Latina,</arg> <req ID="Req3" G="2" P="A">per cui conclude per il rigetto dell’appello</req> 
+con vittoria delle spese di giudizio.
+
+
+MOTIVI DELLA DECISIONE
+
+La Commissione, esaminati gli atti, ritiene infondato l’appello proposto e non condivide le argomentazioni addotte a sostegno dell’appello.
+
+<mot ID="Mot1" G="2" O="Claim1">
+La Sentenza dei Primi Giudici è condivisibile e corretta. 
+La Concessione di uso delle infrastrutture idriche di proprieta degli Enti Locali al Gestore del
+Servizio Idrico integrato è imposta dall’art. 153 del D.Lgs. N.152/2006.
+Risulta pertanto evidente che il fenomeno del trasferimento delle infrastrutture e la gestione del
+servizio idrico integrato trova la propria fonte in una norma di legge e non nella volontà delle parti.
+Va aggiunto che il titolo di assunzione del pagamento delle passività relative al servizio del servizio
+idrico integrato, compreso gli oneri connessi all’ammortamento dei mutui o ai mutui stessi, è
+costituito dalla legge e non certo dalla volontà delle parti.
+Va precisato infine che l’appellante trascura inoltre la circostanza che non sono considerate cessioni
+di beni le cessioni che hanno ad oggetto denaro o crediti in denaro, per cui l’avviso di accertamento
+non può apparire giustificato.
+La Decisione e la Motivazione di 1° Grado non meritano censura e vanno confermate mentre l’appello va respinto.</mot>
+
+I Collegio, tenuto conto della complessità della controversia dimostrata da altre sentenze di segno
+opposto in ulteriori giudizi attinenti la medesima fattispecie azionati da altri Comuni, ritiene opportuno disporre la compensazione delle spese.
+
+
+P.Q.M.
+
+<dec ID="Dec2" G="2" E="0" O="Req2">Rigetta l’appello dell’ Ufficio.</dec> Spese compensate.
+
+Latina li, DD/MM/2021
+
+IL RELATORE giu2
+IL PRESIDENTE giu1</body>

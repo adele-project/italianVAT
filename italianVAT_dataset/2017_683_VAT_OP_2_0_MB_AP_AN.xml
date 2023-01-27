@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+REPUBBLICA ITALIANA
+IN NOME DEL POPOLO ITALIANO
+
+ REG.GENERALE N° 429/2016
+
+ LA COMMISSIONE TRIBUTARIA REGIONALE DI VENETO SEZIONE 10
+
+ riunita con l'intervento dei Signori:
+ giu1 Presidente
+ giu2 Relatore
+ giu3 Giudice
+ 
+ ha emesso la seguente
+ SENTENZA
+
+ - sull'appello n. 429/2016
+ depositato il DD/MM/2016
+
+ - avverso la sentenza n. 557/2015 Sez:1 emessa dalla Commissione Tributaria
+ Provinciale di PADOVA
+
+ <part P="A">contro:
+ AG. CURATE DIREZIONE PROVINCIALE PADOVA</part>
+
+ <part P="B">contro:
+ AG. R PADOVA E SDR S.P.A.</part>
+
+ difeso da:
+ RR
+ DIF DI EN SPA
+ XXX
+
+ <part P="C">proposto dall'appellante:
+ GG
+ XXX</part>
+
+ difeso da:
+ GM
+ XXX
+
+ Atti impugnati:
+ AVVISO DI INTIMAZIONE n° 07720149011824652000 IVA-ALTRO 1996
+ AVVISO DI INTIMAZIONE n° 07720149011824753000 IVA-ALTRO 1996
+ AVVISO DI INTIMAZIONE n° 07720149011824854000 IVA-ALTRO 1996
+ AVVISO DI INTIMAZIONE n° 07720149011824955000 IVA-ALTRO 1996
+ AVVISO DI INTIMAZIONE n° 07720149011825056000 IVA-ALTRO 1996
+ AVVISO DI INTIMAZIONE n° 07720149011825258000 TRIB.ERARIALI 1995
+ AVVISO DI INTIMAZIONE n° 07720149011825460000 TRIB.ERARIALI 1996
+ AVVISO DI INTIMAZIONE n° 07720149011826167000 IRAP 2000
+ INTIMAZ PAGAMEN n° 07720149011825157000 IVA-ALTRO 1996
+ INTIMAZ PAGAMEN n° 07720149011825157000
+
+
+ATTO E SVOLGIMENTO DEL RAPPORTO
+CONTENZIOSO
+
+La contribuente GG, quale responsabile in solido della società
+GE.SE.A. Sas di GG C. cessata il 22/08/2003, veniva raggiunta da
+una serie di intimazioni (11) di pagamento afferenti diversi periodi d'imposta (1995,
+1996, 1998, 2000).
+
+
+
+ 
+ <req ID="Req1" G="1" P="C">
+ Avverso detti atti la contribuente presentava tempestivi ricorsi</req> 
+ <claim ID="Claim0" G="1" P="C" PRO="Req1">denunciando l'avvenuta
+ decadenza della possibilità di riscossione.</claim>
+
+ <req ID="Req2" G="1" P="A">Si costituiva la concessionaria per la riscossione che cercava di dimostrare
+ documentalmente la correttezza del proprio operato</req>
+ <req ID="Req3" G="1" P="A">e chiedeva l'integrazione del
+ contraddittorio con la chiamata in causa anche della Agenzia delle Entrate che aveva
+ emesso i ruoli.</req>
+ 
+
+ 
+ <dec ID="Dec1" G="1" E="1" O="Req1">
+ La Commissione adita con dettagliata motivazione accoglieva le argomentazioni della
+ contribuente limitatamente a 2 cartelle notificate alla società successivamente alla sua
+ cessazione,</dec>
+ <dec ID="Dec2" G="1" E="0" O="Req1">confermava le altre 9,</dec>
+ e condannava la ricorrente alla rifusione delle spese.
+ 
+
+
+
+ 
+ <req ID="Req4" G="2" P="C">Presentava quindi appello la GG che ribadiva:</req>
+
+ <claim ID="Claim1" G="2" P="C" PRO="Req4">Preliminarmente la tardività della costituzione in giudizio di EN e
+ conseguente inammissibilità delle prove presentate.</claim>
+
+ <claim ID="Claim2" G="2" P="C" PRO="Req4">Intervenuta decadenza</claim> 
+ <arg ID="Arg1" G="2" P="C" PRO="Claim2">perché le cartelle che hanno originato le attuali
+ intimazioni sarebbero state emesse oltre i termini previsti dalle norme allora vigenti.</arg>
+
+ <claim ID="Claim3" G="2" P="C" PRO="Req4">Intervenuta estinzione del credito per decadenza dell'iscrizione a ruolo (art. 25
+ DPR 602/1973 e/o prescrizione per supposto superamento del termine
+ prescrizionale quinquennale.</claim>
+
+ lamentava infine la sua condanna, ingiustificata, al pagamento delle spese processuali.
+
+ <req ID="Req5" G="2" P="B">Si costituiva EN che, dopo aver prestato acquiescenza al verdetto dei primi
+ giudici, rispondeva puntualmente alle critiche di parte contribuente.</req>
+
+ <req ID="Req6" G="2" P="A">Parimenti l'Agenzia delle Entrate replicava per le parti in cui risultava essere
+ interessata.</req>
+ 
+
+ 
+
+ La Commissione oggi riunita per risolvere il caso sottoposto alla propria attenzione,
+ sentite le parti che si rifanno a quanto già dedotto e presente in atti, presa visione della
+ documentazione riversata nel fascicolo di causa decide di respingere la richiesta
+ preliminare presentata dalla contribuente 
+ <mot ID="Mot1" G="2" O="Claim1">
+ in quanto l'art. 32 D. Lgs 546/1992 consente
+ ‘alla parte resistente il deposito di documenti sino a 20 giorni prima dell'udienza di
+ trattazione (la costituzione di EN ed il deposito dei documenti è avvenuto il
+ ‘10/04/2015, mentre la trattazione nel merito è avvenuta il 6/07/2015) e comunque nel
+ corso del secondo grado di giudizio è ammesso il ricorso a nuove prove.
+ </mot>
+
+ <mot ID="Mot2" G="2" O="Claim2"> Va subito accertato che le residue 9 cartelle rimaste in discussione sono tutte state
+ regolarmente notificate alla società, come è stato illustrato nelle motivazioni della
+ sentenza di primo grado che qui si richiama, e per le quali non è stato proposto ricorso,
+ motivo per il quale sono divenute definitive.
+
+ Dette cartelle inoltre sono state rinotificate tutte alla Signora GG il 23/11/2005
+ ed anche in questo caso non è stato presentato alcun ricorso per cui deve assumersi
+ come gli atti presupposti delle intimazioni di pagamento siano definitivi e non più
+ impugnabili.</mot>
+
+ <mot ID="Mot3" G="2" O="Claim3"> Non resta quindi che esaminare se il credito erariale si prescriva in 5 anni, come pretenderebbe la contribuente o in 10 anni, come rappresentato dalla concessionaria.
+
+ La Suprema Corte è intervenuta in più occasioni sull'argomento affermando che essendo la Cartella esattoriale un titolo esecutivo la sua prescrizione non può che essere decennale. 
+ In tal senso si è espressa anche Corte di Cassazione, Sezione Lavoro (4338/2014) per la quale “una volta divenuta intangibile la pretesa contributiva per effetto della mancata proposizione dell'opposizione alla cartella esattoriale ... e ciò che può prescriversi è soltanto l'azione diretta all'esecuzione del titolo così definitivamente formatosi; riguardo al quale, in difetto di diverse disposizioni, trova applicazione il termine prescrizionale decennale ordinario di cui all'art. 2496 c.c..”.</mot>
+
+ Per quanto riguarda, infine, la condanna alle spese essa è ampiamente giustificata dalla sostanziale soccombenza della ricorrente.
+
+ Le altre questioni sollevate e non trattate debbono intendersi assorbite.
+
+ Le spese del presente grado di giudizio sono poste a carico della contribuente, parte soccombente, e liquidate come da dispositivo.
+ 
+
+ P.Q.M
+
+ <dec ID="Dec3" G="2" E="0" O="Req4">Respinge l'appello e conferma la sentenza impugnata.</dec>
+
+ Le spese poste a carico della parte soccombente sono liquidate in € 2.000,00 a favore dell'Agenzia delle Entrate ed € 4,500,00, oltre agli oneri come per legge, a favore di EN
+
+ 
+ Venezia DD MM 2017
+ 
+
+ Il Presidente GIU1
+ Il Relatore Estensore giu2
+ 
+
+</body>

@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+REPUBBLICA ITALIANA
+IN NOME DEL POPOLO ITALIANO
+
+	LA COMMISSIONE TRIBUTARIA REGIONALE DI XXX 
+	SEZIONE 2
+
+	
+		riunita con l'intervento dei Signori:
+
+		giu1 Presidente
+		giu2 Relatore
+		giu3 Giudice
+	
+
+	REG.GENERALE N° 616/2018
+
+	ha emesso la seguente
+	SENTENZA
+
+	- sull'appello n. 616/2018
+	depositato il DD/MM/2018
+
+	- avverso la pronuncia sentenza n. 122/2018 Sez:2 emessa dalla Commissione Tributaria Provinciale di XXX
+
+	<part P="A">contro:
+	AG. ENTRATE DIREZIONE PROVINCIALE DI XXX</part>
+
+	<part P="B">proposto dall'appellante:
+	DM
+	XXX</part>
+
+	difeso da:
+	TM
+	XXX
+
+	Atti impugnati:
+	AVVISO DI ACCERTAMENTO n° TC501CB00141 IRPEF-ADD.REG. 2012
+	AVVISO DI ACCERTAMENTO n° TC501CB00141 IRPEF-ADD.COM. 2012
+	AVVISO DI ACCERTAMENTO n° TC501CB00141 IRPEF-IMPR.ORD. 2012
+	AVVISO DI ACCERTAMENTO n° TC501CB00141 IVA-OP.IMPONIB. 2012
+
+
+
+	
+		<req ID="Req1" G="1" P="B">
+		Avverso l’avviso di accertamento n. TC501CB00141 emesso dall’Agenzia delle Entrate — Direzione Provinciale di XXX — notificato in data DD.MM.2017 con il quale l’Ufficio intimava il pagamento di IRPEF ed IVA proponeva tempestivo ricorso alla Commissione Tributaria Provinciale di XXX la Sig.ra DM</req>
+		<claim ID="Claim1" G="1" P="B" PRO="Req1">sulla scorta dei seguenti motivi:
+		1) nullità dell’atto per violazione del principio di imposizione di annualità di imposta e per difetto di motivazione</claim> 
+		<arg ID="Arg10" G="2" P="B" PRO="Claim1">a causa del parziale travisamento delle dichiarazioni di terzi acquisite all’istruttoria;</arg> 
+		2) <claim ID="Claim2" G="1" P="B" PRO="Req1">nullità dell’atto impugnato per difetto di contraddittorio preventivo;</claim>
+		3) <claim ID="Claim3" G="1" P="B" PRO="Req1">nullità dell’atto impugnato per inutilizzabilità delle prove acquisite in violazione dell’art.12, comma 2,Legge n. 212/2000;</claim>
+		4) <claim ID="Claim4" G="1" P="B" PRO="Req1">nullità dell’atto impugnato per infondatezza nel merito della pretesa assunta in forza di una inesistente attività di impresa.</claim> 
+		<arg ID="Arg11" G="2" P="B" PRO="Claim4">Con le consequenziali pronunce e statuizioni e, in specie, con la condanna al rimborso di quanto in denegata ipotesi l’odierno esponente fosse costretto a pagare nelle more del giudizio al solo fine di evitare gli atti esecutivi o di quanto venisse ad essa coattivamente prelevato con rivalutazione ed interessi, come per legge.</arg>
+		Con vittoria di spese, diritti ed onorari del grado di giustizia.
+
+		<claim ID="Claim5" G="1" P="A" CON="Req2">Con controdeduzioni depositate in data DD.MM.2017 si costituiva in giudizio l’Agenzia delle Entrate — Direzione Provinciale di XXX — la quale, nel ribadire la legittimità del proprio operato,</claim> 
+		<req ID="Req2" G="1" P="A">concludeva per il rigetto del ricorso</req> 
+		e la condanna del ricorrente alle spese di giudizio.
+	
+
+	
+		<dec ID="Dec1" G="1" E="0" O="Req1">La Commissione Tributaria Provinciale di XXX con Sentenza n. 122/2018 emessa in data DD.MM.2017 rigettava il ricorso</dec> 
+		e condannava la ricorrente alla rifusione delle spese di giudizio a favore dell’Agenzia delle Entrate — Direzione Provinciale di XXX, liquidate in euro 500,00 (cinquecento).
+	
+ 
+
+
+	<req ID="Req5" G="2" P="B">Avverso tale decisione proponeva appello la Sig.ra DM</req> 
+		<claim ID="Claim11" G="2" P="B" PRO="Req3|Req4|Req5">per i seguenti motivi: 1) nullità della Sentenza impugnata per difetto di motivazione circa la lamentata nullità dell’atto impugnato in primo grado per violazione del principio di imposizione di annualità di imposta e per travisamento di parte di materiale acquisito all’istruttoria;</claim>
+		2) <claim ID="Claim6" G="2" P="B" PRO="Req3|Req4|Req5">nullità della Sentenza impugnata per difetto di motivazione circa l’omessa attivazione delcontraddittorio preventivo;</claim> 
+		3) <claim ID="Claim7" G="2" P="B" PRO="Req3|Req4|Req5">nullità della Sentenza impugnata per difetto assoluto di motivazione circa la nullità dell’atto impugnato per l’inutilizzabilità delle prove acquisite in violazione dell’art. 12, comma 2, Legge n.212/2000, nonché per violazione dell’art.112 del c.p.c.;</claim>
+		4) <claim ID="Claim8" G="2" P="B" PRO="Req3|Req4|Req5">nullità dell’atto impugnato per l’inutilizzabilità delle prove acquisite in violazione dell’art. 12, comma 2, Legge n. 212/2000;</claim>
+		5) <claim ID="Claim9" G="2" P="B" PRO="Req3|Req4|Req5">nullità della Sentenza impugnata per difetto di motivazione circa l’infondatezza nel merito della pretesa assunta</claim> 
+		<arg ID="Arg9" G="2" P="B" PRO="Claim9">in forza di una inesistente attività di impresa.</arg>
+		<req ID="Req3" G="2" P="B">Nelle conclusioni chiedeva che fosse dichiarata la nullità della Sentenza impugnata sulla scorta delle motivazioni enunciate nell’atto di appello;</req> 
+		<req ID="Req4" G="2" P="B">in via subordinata la riduzione della pretesa a quanto ritenuto di giustizia;</req> 
+		<req ID="Req7" G="2" P="B">e per l’effetto la riforma della Sentenza impugnata con dichiarazione di nullità dell’atto impositivo impugnato in primo grado.</req>
+
+		<claim ID="Claim10" G="2" P="A" CON="Req3|Req4|Req5">Con controdeduzioni depositate in data DD.MM.2018 si costituiva in giudizio l’Agenzia delle Entrate — Direzione Provinciale di XXX per ribadire la legittimità e la fondatezza del proprio operato</claim> 
+		<req ID="Req6" G="2" P="A">chiedendo il rigetto dell’appello</req> 
+		e la condanna del ricorrente alle spese di giudizio.
+	
+
+		All’udienza del DD.MM.2019 il Collegio, sulle conclusioni delle parti, ha deciso come da dispositivo.
+
+	MOTIVI DELLA DECISIONE
+
+		La Sentenza n.122/2018 emessa dalla Commissione Tributaria Provinciale di XXX in data DD.MM.2017 non merita censure e va, quindi confermata.
+
+		L’iter logico giuridico seguito dai primi giudici è corretto ed adeguatamente argomentato.
+
+		<mot ID="Mot1" G="2" O="Claim7|Claim8">Preliminarmente, deve rilevarsi come l’Ufficio ha legittimamente utilizzato le prove acquisite a seguito del PVC eseguito dalla Guardia di Finanza, giusta autorizzazione dell’ Autorità Giudiziaria competente; pertanto, non vi è stata alcuna violazione dell’Art. 12, Comma II, Legge 212/2000, avendo avuto la contribuente piena conoscenza del PVC.</mot>
+
+		<mot ID="Mot2" G="2" O="Claim5|Claim6|Claim9">Nel merito, la Guardia di Finanza, a seguito dell’accesso eseguito presso l’abitazione della contribuente ha accertato la presenza di attrezzature, ancorché minimali, oltre ad un attiguo bagno di servizio, elementi idonei all’esercizio di attività professionale non dichiarata, nella specie attività di parrucchiera. Di conseguenza l’Ufficio ha correttamente eseguito gli accertamenti per i redditi percepiti e non dichiarati dalla contribuente, come emergenti dalle somme versate sul proprio conto corrente, senza validi giustificativi.</mot>
+
+		Le spese di giudizio sono poste a carico della contribuente secondo il principio della soccombenza.
+	
+
+	P.Q.M.
+
+		<dec ID="Dec2" G="2" E="0" O="Req3|Req4|Req5">Rigetta l'appello</dec> 
+		e condanna a rifondere all’appellata Agenzia le spese del presente grado che liquida in € 200,00=/ oltre accessori come per legge se dovuti.
+
+		
+			XXX, DD MM 2019
+		
+
+		IL RELATORE 
+		giu2
+
+		IL PRESIDENTE
+		giu1
+	
+
+</body>

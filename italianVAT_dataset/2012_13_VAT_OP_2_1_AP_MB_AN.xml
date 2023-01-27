@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+REPUBBLICA ITALIANA 
+ IN NOME DEL POPOLO ITALIANO
+
+ REG. GENERALE N. 1922/10
+
+ LA COMMISSIONE TRIBUTARIA REGIONALE Di BOLOGNA SEZIONE 9 
+ riunita con l'intervento dei Signori: 
+
+ giu1 Presidente e Relatore
+ giu2 Giudice 
+ giu3 Giudice 
+ 
+ ha emesso la seguente SENTENZA
+
+ - sull'appello n. 1922/10
+ depositato il DD/MM/2010
+
+ - avverso la sentenza n. 18/1/09
+ emessa dalla Commissione Tributaria Provinciale di PIACENZA
+
+ <part P="A">proposto dall'ufficio: AG.ENTRATE DIREZIONE PROVINCIALE DI PIACENZA</part>
+
+ <part P="B">
+ I DI LG e C. S.N.C.
+ XXX</part>
+
+ difeso da:
+ FP
+ XXX
+
+ <part P="C">I O E A SRL
+ XXX</part>
+
+ difeso da:
+ FP
+ XXX
+
+ Atti impugnati:
+ AVVISO DI ACCERTAMENTO n° 868023T00380/2006 IVA + IRAP 2003
+ AVVISO DI ACCERTAMENTO n° 868032T00003/2007 I.V.A. 2003
+
+
+L'Agenzia delle Entrate Ufficio di Piacenza, con avvisi di accertamento notificati alle
+società I s.n.c. e I O E A s.r.l., ha contestato per
+l'anno 2003 l'omessa dichiarazione di canoni di affitto d'azienda, che la Snc avrebbe
+riscosso dalla Srl. 
+
+
+ 
+ <req ID="Req1" G="1" P="B|C">Le due società e i soci della società accertata [per aver il collegio disposto l'integrazione del contraddittorio con la chiamata in causa anche dei soci per quanto deciso con sentenza Sezioni Unite della Cassazione] hanno proposto ricorso alla CTP,</req> 
+ <claim ID="Claim1" G="1" P="B|C" PRO="Req1"> deducendo che la somma di euro 102.758,00, corrisposta dalla srl alla snc era da ritenere normale operazione di finanziamento.</claim>
+ 
+
+
+ 
+ <dec ID="Dec1" G="1" E="1" O="Req1"> La CTP ha accolto il ricorso</dec> 
+ 
+ 
+ <mot ID="Mot1" G="1" O="Claim1"> per carenza di motivazione nell’accertamento 
+ e per aver ritenuto non del tutto
+ comprensibile le ragioni per le quali le due imprese avrebbero dovuto simulare un
+ affitto di azienda con erogazione di prestiti considerato che i soci sono poi gli stessi
+ nelle due società e ritenuto anche che il canone di affitto considerato ricavo per la
+ Snc è un costo deducibile per la Srl.</mot> 
+ 
+
+ 
+ <dec ID="Dec2" G="1" E="0" O="Req2"><req ID="Req2" G="2" P="A">La Commissione di 1°Grado ha respinto anche l’eccezione dell’ufficio di assenza di delibera di finanziamento anteriore alla concessione del prestito</req></dec>
+ 
+
+ 
+ <mot ID="Mot2" G="1" O="Req2">perché ritenuta non risolutiva per trasformare il
+ finanziamento in canone di affitto non dichiarato. Nel decidere, la CTP ha ritenuto
+ anche che la Srl di fatto ha chiuso l'esercizio 2003 con un reddito in perdita di
+ 142.744,00 euro , di conseguenza la stessa avrebbe ottenuto un risparmio d’ imposta
+ se avesse trattato i finanziamenti in questione (non deducibili) quali costi deducibili
+ perché canoni di affitto.
+ In fine in sentenza la CTP ha osservato che se le società
+ ricorrenti avessero voluto porre in essere un contratto di affitto d'azienda con canone
+ di 162.768,00 euro per l’anno 2003 parrebbe incomprensibile il motivo per il quale
+ in data DD.MM.2006 e in data DD.MM.2007 la Srl abbia ricevuto, quale parziale rimborso
+ del finanziamento concesso, le somme di € 20.000,00 ed € 13.000.00 dalla I
+ S.n.c.Considera la CTP che se effettivamente le società avessero posto in essere un
+ contratto di affitto d'azienda con canone di euro 162.768,00 nel 2003, non si
+ conoscerebbe il motivo perchè nel corso dei 2003 la società I S.n.c. abbia potuto
+ emettere fatture nei confronti della ricorrente oltre a quelle della locazione
+ dell'immobile, come quelle allegate nel processo per un importo complessivo di euro
+ 201.611,62.Afferma in sentenza la CTP anche che la società I SNC nel 2003
+ risulta aver ricevuto dalla Srl la complessiva somma di euro 364. 379,.62 e se come
+ ritenuto dall'Ufficio, si fosse trattato di un affitto d'azienda, considerato che nel
+ contratto di locazione stipulato per la durata 6 anni con un canone annuo di euro
+ 50.000,00 più IVA, detto affitto sarebbe stato estremamente oneroso se calcolato in
+ 364.379,62 euro + 50.000,00 euro per 5 anni.Il finanziamento per la CTP è stato
+ operato con una vera e propria dazione in denaro come contabilizzata nei bilanci
+ delle società interessate e come da delibera della società I O e
+ A srl di ratifica del finanziamento precedentemente concesso alla società
+ I.C.O.P. S.n.c., anche parte del finanziamento restituito.</mot> 
+ 
+
+
+
+ 
+ <req ID="Req3" G="2" P="A"> L'ufficio appella la sentenza n. 18/01/09 CTP di Piacenza Sez 14</req> 
+
+ <claim ID="Claim10" G="2" P="A" PRO="Req3">e afferma che gli argomenti addotti dalle società, condivisi dai primi giudici, non sono stati supportati da valide prove documentali.</claim>
+ 
+ <arg ID="Arg1" G="2" P="A" PRO="Claim3"> L'importo in contestazione ritenuto quale finanziamento di una società di capitali a
+ favore della società di persone, ai sensi dell'art. 46 del T.U.I.R., per l'identità
+ cietaria riscontrata avvalora da una parte la possibilità che sia stato simulato un
+ affitto d'azienda e dall'altro di poter di dichiarare si minori costi deducibili ma anche
+ minori componenti positivi di reddito.
+ Secondo la tesi dei contribuenti, a parere
+ dell’ufficio, condivisa dalla CTP , porta ad affermare che una società di capitali può
+ in qualunque momento e senza l'approvazione dell'assemblea concedere
+ finanziamenti : ciò pare non possa essere ritenuta possibile anche per aver l’appellata
+ sanato la irregolarità con due anni in ritardo e in data successiva alla notifica del
+ processo verbale di constatazione. La delibera, quindi, del finanziamento da parte
+ della Srl, stipulata successivamente alla data di notifica del processo verbale di
+ constatazione elevato nei confronti della "I.CO.P. di LG e RM Snc in data DD/MM/2003, di fatto conferma , per l'Ufficio, che non si è trattato di un vero finanziamento.</arg>
+
+ <claim ID="Claim3" G="2" P="A" PRO="Req3"> L’Ufficio riscontra nella sentenza il difetto
+ assoluto di motivazione per non aver chiarito, i primi giudici, le ragioni per le quali
+ siano state ritenute condivisibili le argomentazioni delle appellate.</claim>
+ 
+
+ 
+ <mot ID="Mot4" G="2" O="Claim3">Osserva questo collegio che dalla lettura degli atti del processo e da quanto
+ affermato dalle parti in udienza, come afferma l’appellata in primo grado, le
+ operazioni finanziarie che hanno tratto motivo di contrasti familiari non possono
+ essere ritenute finanziamenti da parte di una società di capitali ad una società di
+ persone, ma è da ritenere un costo per il trasferimento delle attività della società di
+ persone a quella di capitali per svuotare le attività della Snc con trasferimento a
+ quella di capitali.
+ Il simulato finanziamento è da considerare quale operazione
+ finanziaria per riconoscere canoni di affitto di ramo d’azienda per aver la Srl,
+ nell'anno 2002, preso in carico l'intero personale dipendente, i macchinari in leasing,
+ il portafoglio clienti, il know how della Snc., rendendo di fatto inattiva sotto l'aspetto
+ produttivo la Snc. È del tutto evidente, come afferma l'appellante, che l'utilizzo
+ dell'immobile e di tutti i beni mobili e immobili, materiali ed immateriali organizzati
+ per la produzione di beni e servizi giustificano gli importi corrisposti dalla Srl alla
+ Snc. Nel caso in discussione si è trattato di continuità nell'esercizio d’impresa con
+ passaggio gestionale tra il soggetto locatore ed il soggetto locatario al fine di
+ estromettere uno dei soci della Snc. per motivi familiari.
+ 
+ L’operazione finanziaria ha
+ avuto per oggetto l’utilizzo del complesso di beni organizzati a titolo oneroso con
+ riconoscimento di un canone di affitto.
+ 
+ I fatti esaminati sono qualificabili quali
+ presunzioni diversamente valutate in primo e secondo grado, per tale motivo corrono
+ giustificati motivi per compensare le spese.</mot>
+ 
+
+ PQM
+ 
+ <dec ID="Dec3" G="2" E="1" O="Req3"> La Commissione, in totale riforma della sentenza appellata, accoglie l’appello dell’ufficio</dec> 
+ 
+ e compensate spese.
+ Così deciso in
+ 
+ Bolgna il DD MM 2012. 
+ 
+ 
+ Il Presidente-relatore-estensore giu1
+ 
+
+</body>

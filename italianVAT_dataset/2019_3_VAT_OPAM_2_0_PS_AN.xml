@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+REPUBBLICA ITALIANA
+IN NOME DEL POPOLO ITALIANO
+	LA COMMISSIONE TRIBUTARIA REGIONALE DI XXX
+	SEZIONE 4
+	Riunita con l'intervento dei signori:
+		giu1 Presidente
+		giu2 Relatore
+		giu3 Giudice
+	
+
+	REG. GENERAL N° 111/2016
+
+	ha emesso la seguente 
+	SENTENZA
+	- sull'appello n. 111/2016 spedito il DD/MM/2016
+	- avverso la pronuncia sentenza n. 387/2015 Sez:2 emessa dalla Commissione Tributaria Provinciale di XXX
+
+	<part P="A">contro:
+	AG. ENTRATE DIREZIONE PROVINCIALE XXX</part>
+	<part P="B">proposto dall'appellante:
+	QT S.P.A.</part>
+	XXX
+
+	difeso da:
+	MG
+	XXX
+
+	Atti impugnati:
+	AVVISO DI ACCERTAMENTO n° TI9030303828/2013 IRES-ALTRO 2008
+	AVVISO DI ACCERTAMENTO n° TI9030303828/2013 IVA-OP.IMPONIB. 2008 
+	AVVISO DI ACCERTAMENTO n° T19030303828/2013 IRAP 2008
+
+
+	- sull'appello n. 189/2017 spedito il DD/MM/2017
+	- avverso la pronuncia sentenza n. 36/2017 Sez:2 emessa dalla Commissione Tributari Provinciale di XXX
+	contro:
+
+	AG. ENTRATE DIREZIONE PROVINCIALE XXX
+	proposto dall'appellante:
+	QT S.P.A.
+	XXX
+	difeso da:
+	MG
+	XXX
+
+	Atti impugnati:
+	AVVISO DI ACCERTAMENTO n° TI9030303020/2014 IVA-ALTRO 2009
+	AVVISO DI ACCERTAMENTO n° TI9060302966/2015 IVA-ALTRO 2010
+	AVVISO DI ACCERTAMENTO n° T19060303285/2015 IVA-ALTRO 2012 
+	AVVISO DI ACCERTAMENTO n° TI9060303302/2015 IVA-ALTRO 2013
+ 
+
+
+	
+		Con ricorso in appello depositato il DD.MM.2016 la QT strl, in fallimento, in persona del proprio legale rappresentante sig. DV, ha impugnato <dec ID="Dec1" G="1" E="0" O="Req1">la sentenza della CTP di XXX n. 387/2/2015, dd. DD.MM.2015- DD.MM.2015, che aveva respinto il ricorso della società,</dec> condannandola alle spese, avverso un avviso di accertamento per IVA, Ires ed Irap 2008, con il quale l’ Agenzia delle Entrate, Direzione Provinciale di XXX, aveva contestato la partecipazione della società ad un meccanismo di frode in ambito IVA, ricostruito mediante l’analisi dei rapporti commerciali intrattenuti con vari fornitori e clienti, giungendo a recuperare una maggior imposta IVA per 2.999.721,82 euro ed a ritenere indeducibili alcuni costi, con rideterminazione del reddito e recupero a tassazione di maggiori imposte Ires ed Irap.
+	
+	
+		<req ID="Req1" G="1" P="B">Nel ricorso di primo grado la società aveva chiesto la dichiarazione di nullità o l'annullamento dell’avviso di accertamento,</req> 
+		<claim ID="Claim1" G="1" P="B" PRO="Req1">contestando:1) la sottoscrizione dell’avviso di accertamento da parte di un soggetto privo dei relativi poteri poiché incaricato di funzioni dirigenziali e non dirigente;</claim> 
+		2) <claim ID="Claim2" G="1" P="B" PRO="Req1">la mancata notifica dell’avviso al legale rappresentante della srl;</claim> 
+		3) <claim ID="Claim3" G="1" P="B" PRO="Req1">il mancato rilascio del pvc alla società ed il mancato rispetto del termine dilatorio di 60 giorni per la presentazione delle difese;</claim> 
+		4) <claim ID="Claim4" G="1" P="B" PRO="Req1">l'infondatezza dell’avviso nel merito, invocando la propria buona fede relativamente ad episodi di frode all’IVA che si sarebbero potuti verificare a valle ed a monte del proprio operato, e negando, comunque, la sussistenza di prove circa la sua partecipazione al sistema frodatorio.</claim>
+		
+		<req ID="Req2" G="1" P="A">L’Agenzia delle Entrate aveva resistito a queste domande, chiedendo la dichiarazione di inammissibilità del ricorso</req>
+		<req ID="Req3" G="1" P="A">ed in subordine la conferma della legittimità dell’avviso.</req> 
+		<claim ID="Claim5" G="1" P="A" PRO="Req2">Premesso di aver notificato l’avviso sia all'ex legale rappresentante della società sia al curatore fallimentare, l'Agenzia aveva eccepito il difetto di legittimazione processuale della società, in persona dell’ex rappresentante legale,</claim> 
+		<arg ID="Arg1" G="1" P="A" PRO="Claim5">essendo legittimato il solo curatore, il quale, in relazione all’avviso di accertamento relativo al 2008, si era attivato presentando istanza di accertamento con adesione e, non essendosi raggiunto l'accordo, aveva poi rinunciato a proporre ricorso.</arg> 
+		<claim ID="Claim6" G="1" P="A" PRO="Req3">L'Agenzia aveva, inoltre, sostenuto la piena validità della sottoscrizione dell’avviso di accertamento impugnato e la non necessità di emissione del processo verbale di contestazione,</claim> 
+		<arg ID="Arg2" G="1" P="A" PRO="Claim6">dato che nella fattispecie la verifica si era svolta sulla base di documenti acquisiti dalla contribuente e di informazioni tratte da autorità estere; nel merito 1’Agenzia aveva comunque sostenuto la fondatezza della pretesa fiscale con particolare riferimento alla partecipazione della società contribuente ad una c.d. frode carosello Iva.</arg>
+	
+
+	
+		I giudici di primo grado hanno ritenuto fondata l’eccezione di carenza di legittimazione attiva della società contribuente dopo la dichiarazione del suo fallimento. 
+		<mot ID="Mot1" G="1" O="Claim5">Al riguardo hanno ribadito che, secondo i principi generali desumibili dall’art. 43 r.d. 267/1942, il fallito, dalla data del fallimento, perde la legittimazione processuale con riferimento ai rapporti patrimoniali compresi nel fallimento ed hanno precisato che nella fattispecie di causa il fallimento della società è stato dichiarato il DD.MM.2013 e l’atto impositivo impugnato è stato notificato sia al sig. DG, quale legale rappresentante della QT prima del fallimento, sia al curatore della società fallita. Ha poi aggiunto che al fallito la giurisprudenza riconosce una eccezionale legittimazione di carattere suppletivo nelle ipotesi di inerzia del curatore (Cass. 10146/1998; Cass. 15369/2005; Cass. 4076/2013), facendo valere, tuttavia, anche la giurisprudenza che precisa che la mancata proposizione del ricorso da parte del curatore fallimentare non può, di per sé sola, essere interpretata come inerzia del curatore medesimo tale da fondare la (eccezionale) legittimazione processuale suppletiva del fallito, essendo anche la rinuncia a proporre ricorso, in difetto di contrari elementi di giudizio, una possibile espressione della legittimazione processuale riconosciuta al curatore, laddove egli ritenga non proficuo agire in giudizio (Cass. 11572/2007; Cass. 7308/1996). Secondo i primi giudici l’attuale appellante non aveva allegato e provato elementi tali da configurare una situazione di inerzia della curatela fallimentare con conseguente insorgenza della eccezionale legittimazione processuale della società fallita, anzi, risultava documentato che il curatore della QT in fallimento, dott.ssa DP, aveva presentato istanza di accertamento con adesione avverso l'avviso di accertamento, dando avvio ad un procedimento che, tuttavia, non si è concluso positivamente, sicché la mancata proposizione del ricorso in sede giurisdizionale andava riferita ad una valutazione di non convenienza ad agire in giudizio da parte del curatore medesimo. Per la decisione impugnata questa conclusione trovava conferma nella sentenza della Commissione Tributaria Regionale di XXX n. 470/10/14, che aveva accolto il ricorso in appello presentato dalla QT in persona del curatore dott.ssa DP, tale pronuncia dimostrando che il curatore fallimentare, lungi dal manifestare un atteggiamento di inerzia nella tutela degli interessi della società, nei casi in cui ha ritenuto la sussistenza di fondati motivi di impugnazione ha proposto ricorso nell’interesse della società medesima.</mot>
+	
+
+
+
+	
+		<req ID="Req4" G="1" P="B">Con il ricorso in appello a questa Commissione Regionale la QT s.r.l. in fallimento ha chiesto la riforma della sentenza impugnata</req>
+		<claim ID="Claim7" G="2" P="B" PRO="Req5">e la dichiarazione che l’avviso di cui è causa è inesistente o nullo per illegittima sottoscrizione,</claim> 
+		<claim ID="Claim8" G="2" P="B" PRO="Req5">ovvero nullo per non essere stato notificato alla società,</claim> 
+		<claim ID="Claim9" G="2" P="B" PRO="Req5">ovvero nullo per omissione della redazione e consegna del pvc,</claim> 
+		<claim ID="Claim10" G="2" P="B" PRO="Req5">ovvero nullo per mancato rispetto del termine dilatorio di 60 giorni,</claim> 
+		<claim ID="Claim11" G="2" P="B" PRO="Req5">ovvero, infine, illegittimo per totale travisamento dei dati e dei fatti, con vittoria di spese del doppio grado.</claim>
+		
+		<claim ID="Claim12" G="2" P="B" CON="Req5">L’appellante contesta l'affermazione dei primi giudici nel senso del difetto di legittimazione attiva della società fallita,</claim> 
+		<arg ID="Arg3" G="1" P="A" PRO="Claim12">ritenendo che da nessun elemento possa essere tratta una valutazione del curatore in termini di non opportunità di presentare il ricorso giurisdizionale, vertendosi, di conseguenza, in quella situazione di inerzia che riattribuisce legittimazione attiva al fallito.</arg>
+		<req ID="Req5" G="2" P="B">Ripropone, poi, gli argomenti già fatti valere in primo grado a sostegno della richiesta di dichiarazione di nullità o illegittimità dell’avviso.</req>
+		
+		<req ID="Req6" G="2" P="A">L’appello ha dato vita al procedimento sub RGA 111/2016, nel quale l’Agenzia delle Entrate si è costituita in giudizio con controdeduzioni depositate il DD.MM.2016, nelle quali si chiede il rigetto dell’appello</req> 
+		con vittoria di spese. 
+		<claim ID="Claim13" G="2" P="A" PRO="Req6">Circa l’eccezione di carenza di legittimazione attiva, l’appellata, oltre a difendere il fondamento della sentenza di primo grado, ha censurato gli argomenti fatti valere ex novo dall’appellante circa l’eccezione stessa;</claim> 
+		<claim ID="Claim14" G="2" P="A" PRO="Req6">circa gli altri motivi d’appello l’Agenzia si riporta alle difese presentate in primo grado e ribadisce il fondamento nel merito delle pretese fiscali.</claim>
+		
+		Il procedimento era stato assegnato alla Sezione quarta di questa Commissione e la discussione della causa era stata fissata al DD.MM.2017. Con nota depositata il DD.MM.2017 l’ Agenzia delle Entrate ha chiesto un rinvio della discussione per dar modo alla Commissione di riunire a questo procedimento quello rubricato sub RGA n. 189/2017, instaurato tra le stesse parti davanti a questa Commissione ed iniziato con il ricorso in appello della QT spa avverso la sentenza della CTP di XXX n. 36/02/2017, dd. DD.MM.2016-25,1.2017, che aveva respinto il ricorso della società nei confronti di cinque avvisi di accertamento relativi alle annualità dal 2009 al 2013 e basati sempre sull’ipotesi di frode fiscale finalizzata all'evasione dell'IVA.
+		Anche quest’ultima sentenza ha dichiarato inammissibile il ricorso per difetto di legittimazione attiva con condanna del ricorrente alle rifusione delle spese. L’appello nei confronti della medesima contesta tale pronuncia adducendo gli stessi motivi già fatti valere contro quella n. 387/2/2015, dd. DD.MM.2015- DD.MM.2015; si ripropongono, poi, i motivi di censura, già fatti valere in primo grado nei confronti degli avvisi, che porterebbero alla dichiarazione della loro nullità o illegittimità per infondatezza dell’ipotesi di frode fiscale.
+		L’Agenzia si è costituita in giudizio con controdeduzioni depositate il DD.MM.2017, nelle quali si chiede la riunione del procedimento n. 189/2017 a quello n. 111/2016 e la reiezione dell’appello con Vittoria di spese.
+		
+		All’udienza odierna la Commissione riunisce il procedimento rubricato sub n. 189/2017 RGAaquello rubricato sub n. 111/2016 RGA, vista l’identità delle parti e delle questioni giuridiche da affrontare.
+
+	
+		Gli appelli sono infondati e vanno respinti.
+		La Commissione deve ribadire, in vero, la fondatezza dell’eccezione di carenza di legittimazione attiva della società contribuente dopo la dichiarazione del suo fallimento. 
+		<mot ID="Mot2" G="2" O="Claim10">L’appellante, in entrambe le impugnazioni, fa valere l’inerzia del curatore nel proporre ricorso contro gli avvisi di accertamento, ma la tesi è insostenibile, perché dai vari elementi indicati dai giudici di primo grado risulta con estrema chiarezza che il curatore è sempre stato molto attento a difendere gli interessi del fallimento, a volte presentando ricorso in sede giurisdizionale, a volte presentando istanza di accertamento con adesione. Se il procedimento conseguente a questa istanza non si è concluso positivamente, la mancata proposizione del ricorso in sede giurisdizionale non può essere considerata, per sé sola, in assenza di altri elementi che era onere dell’appellante allegare e provare, comportamento negligente ed omissivo del curatore, cui la società fallita poteva sopperire con un proprio ricorso, e non, invece, frutto di una valutazione di non convenienza ad agire in giudizio da parte del curatore medesimo. Una volta negata la legittimazione attiva, gli appelli devono essere dichiarati inammissibili e nessun’altra questione può essere esaminata e decisa.</mot> 
+		Le spese seguono la soccombenza e vengono liquidate come in dispositivo.
+	
+
+	PQM
+		<dec ID="Dec2" G="2" E="-1" O="Req4">la Commissione Tributaria Regionale XXX, dichiara inammissibili i due appelli riuniti, così confermando le sentenze di primo grado.</dec> 
+		Condanna la società appellante a rifondere all’ Agenzia delle Entrate, Direzione Provinciale di XXX, le spese del secondo grado del giudizio, che liquida in compelssive euro 10.000,00.
+		
+			XXX, DD.MM.2018
+		
+		Il Relatore
+		Il Presidente
+	
+
+</body>

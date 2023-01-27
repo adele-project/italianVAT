@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+
+REPUBBLICA ITALIANA
+IN NOME DEL POPOLO ITALIANO 
+
+ LA COMMISSIONE TRIBUTARIA REGIONALE
+ DI SICILIA SEZIONE 1
+ riunita con l'intervento dei Signori:
+ giu1 Presidente
+ giu2 Relatore
+ giu3 Giudice
+
+ ha emesso la seguente
+ SENTENZA
+
+ sull'appello n. 8183/2013
+ depositato il DD/MM/2013
+
+ <part P="A">contro:
+
+ AG. ENTRATA Direzione Provinciale di AGRIGENTO</part>
+
+ <part P="B">proposto dagli apppellanti:
+ M G</part>
+
+ difeso da:
+
+ MP
+
+ C/O AVV.GM
+
+ XXX
+
+ difeso da:
+
+ TS
+
+ C/O STUDIO DOTT. MP
+ XXX
+
+ <part P="C">altre parti coinvolte:
+ AG. RISCOSSIONE AGRIGENTO RISCOSSIONE SICILIA S.P.A. PIAZZA METELLO 28 92100 AGRIGENTO AG</part>
+
+ difeso da:
+ CMC
+ XXX
+
+ Atti impugnati:
+
+ CARTELLA DI PAGAMENTO n° 2912006001459066000 IVA-OP.IMPONIB. 1998
+ CARTELLA DI PAGAMENTO n° 2912006001459066000 IVA-OP.IMPONIB. 1999
+ CARTELLA DI PAGAMENTO n° 2912006001459066000 IVA-OP.IMPONIB. 2000
+ CARTELLA DI PAGAMENTO n° 2912006001459066000 IVA-OP.IMPONIB. 2001
+ CARTELLA DI PAGAMENTO n° 2912006001459066000 IVA-OP.ESENTI 1998
+ CARTELLA DI PAGAMENTO n° 2912006001459066000 IVA-OP.ESENTI 1999
+ CARTELLA DI PAGAMENTO n° 2912006001459066000 IVA-OP.ESENTI 2000
+ CARTELLA DI PAGAMENTO n° 2912006001459066000 IVA-OP.ESENTI 2001
+
+
+ REG.GENERALE
+
+ N° 8183/2013
+
+
+
+FATTO E SVOLGIMENTO DEL PROCESSO
+
+
+<req ID="Req1" G="1" P="B">Con ricorso r.g.n. 139/12 alla C.T.P. di Agrigento, il Dott. M
+G ha impugnato l’intimazione di pagamento n. 20119002501577/00,
+riferita alla cartella di pagamento n. 261 2006 000 1459/000.</req>
+
+
+L’intimazione riguardava il pagamento dell’IVA per gli anni dal 1998 al 2002,
+oltre ad interessi e sanzioni.
+
+
+<claim ID="Claim1" G="1" P="B" PRO="Req1">Le censure del contribuente afferivano la decadenza degli effetti‘della cartella di
+pagamento,</claim> <claim ID="Claim2" G="1" P="B" PRO="Req1">nonché il difetto di motivazione.</claim>
+
+<claim ID="Claim3" G="1" P="A|C" CON="Req1">Si costituivano in giudizio sia l’Ufficio Finanziario, sia l’Agente della
+Riscossione che eccepivano “l’intempestività del ricorso proposto dal
+contribuente, oltre i termini fissati dalla normativa tributaria”.</claim>
+
+<dec ID="Dec1" G="1" E="-1" O="Req1">Con sentenza n. 336/4/2013, depositata il DD/MM/2013, la Commissione
+Tributaria Provinciale di Agrigento dichiarava inammissibile il ricorso e
+condannava il ricorrente alle spese.</dec>
+
+ 
+<req ID="Req2" G="2" P="B">Con atto di appello del DD/MM/2013, regolarmente depositato il DD/MM/2013, il
+Dott. M G impugnava la sentenza emessa dal Giudice di prime cure,</req>
+<claim ID="Claim4" G="2" P="B" PRO="Req2">evidenziando che la cartella era stata notificata alla sig.ra SA in via
+XXX</claim>
+
+Nell’atto di appello argomenta, assume un riferimento assolutamente generico al
+ricorso di primo grado.
+
+<claim ID="Claim5" G="2" P="A" CON="Req2">Si costituisce con controdeduzioni prot. n. 6800/2014 del DD/MM/2014 1° Agenzia
+delle Entrate di Agrigento eccependo, in primis, il difetto di legittimazione
+passiva,</claim> <arg ID="Arg20" G="2" P="A" CON="Claim4">confermando, però, la regolarità della notifica al contribuente
+dell’intimazione al pagamento.</arg>
+
+<claim ID="Claim6" G="2" P="C" CON="Req2">Si costituisce Riscossione Sicilia spa con controdeduzioni del DD/MM/2014, che
+chiede il rigetto del ricorso per “inammissibilità del ricorso di primo grado, in
+quanto intempestivamente prodotto”.</claim>
+
+
+Il Collegio ritiene condivisibile la motivazione del Giudice di prime cure, in ordine alla notifica del ricorso introduttivo, <mot ID="Mot1" G="2" O="Claim5bis">in quanto la notifica dell’atto
+impugnato in quella fase, doveva essere effettuato il DD/MM/2011 mentre il su citato
+ricorso era stato notificato il DD/MM/2011 e depositato il DD/MM/2012, e quindi oltre
+il termine perentorio previsto dall’art. 21 del d.lgs. n. 546/1992 e cioè entro
+sessanta giorni dalla data di notificazione dell’atto impugnato.
+
+Al riguardo, la Commissione ha accertato che l’atto di intimazione era stato
+regolarmente notificato nella sede dello studio dentistico, dove il contribuente
+prestava la propria opera, evidenziando che tale dato era rimasto incontestato, sia
+nel ricorso di primo grado, sia nell’atto di appello.
+
+ Con istanza depositata a questa Commissione in data DD/MM/2019, l’appellante chiedeva il rinvio dell’udienza in quanto intendeva avvalersi dalla definizione; agevolata della somma di cui all’intimazione di pagamento impugnata.
+
+ La Commissione prende atto che il contribuente non ha mai provveduto a tale.
+definizione, per cui deve essere proseguita la fase decisoria, relativamente 
+all’appello interposto.
+
+Per quanto precede, la Commissione Tributaria Regionale di Palermo, rigetta l’atto di appello e conferma la sentenza di primo grado.
+
+Dichiara il difetto di legittimazione passiva dell’Agenzia delle Entrate di
+Agrigento.
+
+Le spese della presente fase del giudizio, seguono la soccombenza.</mot>
+
+P. Q. M.
+
+<dec ID="Dec2" G="2" O="Req2" E="0">La Commissione Tributaria Regionale per la Sicilia — Sez. I, rigetta l’appello del
+contribuente e conferma la sentenza di primo grado impugnata e dichiara il difetto
+di legittimazione passiva dell’ Agenzia delle Entrate.</dec>
+
+- Condanna il Sig. M G al pagamento delle spese della presente fase
+del giudizio, in favore di Riscossione Sicilia S.p.a., che si liquidano in € 8.000,00,
+oltre oneri ed accessori come per legge, se dovuti.
+
+- Condanna il Sig. M G al pagamento delle spese della presente fase
+del giudizio, in favore dell’ Agenzia delle Entrate di Agrigento, che si liquidano in
+€ 3.000,00, oltre oneri ed accessori come per legge, se dovuti.
+
+Così deciso in Palermo, nella camera di consiglio del DD MM 2021.
+
+IL GIUDICE ESTENSORE
+(giu2)</body>

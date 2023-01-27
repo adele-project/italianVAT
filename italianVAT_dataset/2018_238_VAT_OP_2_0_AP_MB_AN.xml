@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+
+REPUBBLICA ITALIANA
+ IN NOME DEL POPOLO ITALIANO
+
+ REG.GENERALE N° 2108/2016
+
+ LA COMMISSIONE TRIBUTARIA REGIONALE DI VENETO SEZIONE 5
+ riunita con l'intervento dei Signori:
+ giu1 Presidente 
+ giu2 Relatore 
+ giu3 Giudice
+ 
+ ha emesso la seguente
+ SENTENZA
+
+ - sull'appello n. 2108/2016
+ spedito il DD/MM/2016
+ - avverso la pronuncia sentenza n. 419/2016 Sez:2 emessa dalla Commissione
+ Tributaria Provinciale di VICENZA
+
+ <part P="A">contro:
+ AG. ENTRATE DIREZIONE PROVINCIALE VICENZA</part>
+
+ <part P="B"> proposto dall'appellante:
+ PI
+ XXX</part>
+
+ difeso da:
+ CF
+ XXX
+
+ Atti impugnati:
+ AVVISO ISCRIZIONE IPOTECARIA n° 12476201500001117000 IRPEF-ADD.REG. 20(
+ AVVISO ISCRIZIONE IPOTECARIA n° 12476201500001117000 IRPEF-ADD.REG. 20(
+ AVVISO ISCRIZIONE IPOTECARIA n° 12476201500001117000 IRPEF-ADD.REG. 20(
+ AVVISO ISCRIZIONE IPOTECARIA n° 12476201500001117000 IRPEF-ADD.REG. 20(
+ AVVISO ISCRIZIONE IPOTECARIA n° 12476201500001117000 IVA-ALTRO 2003
+ AVVISO ISCRIZIONE IPOTECARIA n° 12476201500001117000 IVA-ALTRO 2005
+ AVVISO ISCRIZIONE IPOTECARIA n° 12476201500001117000 IVA-ALTRO 2006
+ AVVISO ISCRIZIONE IPOTECARIA n° 12476201500001117000 IVA-ALTRO 2008
+ AVVISO ISCRIZIONE IPOTECARIA n° 12476201500001117000 IRAP 2003
+ AVVISO ISCRIZIONE IPOTECARIA n° 12476201500001117000 IRAP 2005
+ AVVISO ISCRIZIONE‘IPOTECARIA n° 12476201500001117000 IRAP 2006
+ AVVISO ISCRIZIONE IPOTECARIA n° 12476201500001117000 IRAP 2008
+
+
+
+ SVOLGIMENTO DEL PROCESSO
+ 
+ 
+ <req ID="Req1" G="1" P="B">Con ricorso presentato in data DD/MM/15, il contribuente PI impugnava la comunicazione preventiva di iscrizione ipotecaria, notificata da Equitalia Nord S.p.a. in data DD.MM.15.</req>
+ 
+
+ Tale comunicazione conseguiva alla notifica di cartelle esattoriali emesse dall’ Agente della riscossione, a fronte di crediti tributari insoluti, riferiti in parte (€ 21.580,00) all’ Agenzia delle Entrate ed in parte (€ 4.124,03) ad altri enti. 
+ L’impugnativa veniva esercitata solo nei confronti dell’ Agenzia e pertanto relativa solo ai crediti di pertinenza pari ad € 21.580,00.
+ 
+ 
+ <claim ID="Claim1" G="1" P="B" PRO="Req1">Con il ricorso introduttivo avverso la comunicazione preventiva di iscrizione ipotecaria, la parte assumeva la non debenza degli importi iscritti a ruolo</claim>
+ <arg ID="Arg1" G="1" P="B" PRO="Claim1">sulla base delle seguenti motivazioni: a) nullità delle cartelle esattoriali, quali atti presupposti dell’atto impugnato, per vizi di sottoscrizione, di notifica, di motivazione, di omessa indicazione delle modalità di calcolo degli interessi, nonché di omessa notifica del c.d. avviso bonario;</arg> 
+ b) <arg ID="Arg2" G="1" P="B" PRO="Claim1">carenza di valida sottoscrizione degli estratti di ruolo;</arg> 
+ c) <arg ID="Arg3" G="1" P="B" PRO="Claim1">intervenuta decadenza del diritto alla riscossione;</arg>
+ d) <arg ID="Arg4" G="1" P="B" PRO="Claim1">intervenuta prescrizione del credito.</arg>
+ 
+
+ 
+ <dec ID="Dec1" G="1" E="-1" O="Req1">Con decreto presidenziale d’inammissibilità del ricorso n. 419/02/2016 del DD.MM.2016 veniva dichiarata l’inammissibilità del ricorso,</dec>
+ 
+
+ 
+ <mot ID="Mot1" G="1" O="Req1"> in quanto proposto contro la sola Agenzia delle Entrate e non contro l’ Agente della riscossione, cui era riferibile l’atto impugnato.</mot>
+ 
+
+
+APPELLO DEL CONTRIBUENTE
+
+ 
+ <req ID="Req2" G="2" P="B">L’appellante si oppone alla motivazione del decreto di inammissibilità,</req>
+ <arg ID="Arg5" G="1" P="B" PRO="Claim1">sostenendo
+ che, qualora si impugni un atto del concessionario successivo alla notifica della cartella di pagamento e si deduca l’omessa notifica della cartella, l’opposizione “può essere promossa dal contribuente indifferentemente nei confronti dell’ente creditore o
+ del concessionario e senza che fra costoro si realizzi un’ipotesi di litisconsorzio necessario”.</arg>
+ <claim ID="Claim3" G="2" P="B" PRO="Req2">L’appellante ripropone quindi i motivi del ricorso introduttivo assorbiti nella decisione di primo grado.</claim>
+
+ CONTRODEDUZIONI DELL'UFFICIO
+ <claim ID="Claim4" G="2" P="A" CON="Req2"> In via preliminare si eccepisce l’inammissibilità dell’appello proposto avverso il decreto presidenziale di inammissibilità del ricorso.</claim>
+ <arg ID="Arg15" G="2" P="A" PRO="Claim4">Ai sensi dell’art. 27 del D.Lgs. 546/92, infatti, i provvedimenti con cui il presidente di sezione dichiara la manifesta inammissibilità del ricorso hanno forma di decreto e sono soggetti a reclamo davanti alla commissione.
+ L’art. 28, co. 1 del D.Lgs. 546/92 stabilisce che contro i provvedimenti del presidente è ammesso reclamo da notificare alle altre parti costituite entro il termine perentorio di trenta giorni dalla loro comunicazione da parte della segreteria.
+ Che il provvedimento de quo abbia natura di decreto emerge chiaramente dalle seguenti circostanze: a) il nomen iuris “decreto d’inammissibilità del ricorso”; b) l’attribuibilità della decisione al Presidente anziché al Collegio; c) l'estrema sinteticita della motivazione propria appunto dei decreti. Ebbene, nel caso in esame, il reclamo non è stato proposto e quindi non sono stati rispettati 1 termini previsti, di modo che consegue la definitività del decreto e l’inammissibilità dell’appello.</arg>
+ 
+
+ 
+ Sull’inammissibilita del ricorso introduttivo per mancanza di chiamata in causa
+ dell’ Agente della Riscossione e sulla conseguente inammissibilità delle eccezioni avverso vizi propri degli atti di sua competenza
+
+ L’inammissibilità del ricorso introduttivo decisa con la sentenza impugnata va confermata.
+ <mot ID="Mot2" G="2" O="Claim4"> Parte ricorrente, infatti, pur lamentando irregolarità riconducibili all’attività di riscossione, non ha sollevato censure nei confronti dell’Agente della Riscossione in quanto ha ritenuto di non chiamarlo in causa.
+ Di conseguenza, per quanto attiene sia al presunti vizi delle cartelle esattoriali che ai presunti vizi della comunicazione preventiva di iscrizione ipotecaria, le relative eccezioni avanzate nel ricorso proposto avverso l’ Agenzia delle Entrate si rivelano inammissibili in quanto l’ Agente della riscossione, soggetto responsabile dei suddetti atti non risulta chiamato in causa. Si rileva altresì la mancanza di legittimazione passiva in capo all’ Agenzia delle Entrate sui vizi propti della comunicazione impugnata, che fa capo esclusivamente all’ Agente della Riscossione.</mot> 
+
+ Sull’inammissibilità del ricorso introduttivo in ragione della non impugnabilita della comunicazione preventiva di iscrizione ipotecaria.
+
+ <mot ID="Mot3" G="2" O="Claim4"> Si rileva che la comunicazione d’iscrizione ipotecaria non rientra fra gli atti impugnabili, sicchè alcuna doglianza afferente alla medesima potrà essere valutata dall’On. Commissione adita.
+ Infatti l’art. 19 del D.Lgs. 546/92 prevede, alla lettera e-bis, che il ricorso possa essere proposto avverso “l’iscrizione di ipoteca sugli immobili di cui all’art. 77, co. 1 del D.P.R. 602/73” e non avverso la comunicazione preventiva di iscrizione, prevista dal co. 2 bis dello stesso art. 77.</mot>
+ 
+ L’Ufficio procede poi alla disamina, in termini di controdeduzione, di tutti i motivi del ricorso introduttivo, riproposti con il presente appello dal contribuente.
+
+ MOTIVI DELLA DECISIONE
+ <claim ID="Claim1o" G="1" P="B" PRO="Req1">Il ricorso introduttivo propone motivi attinenti a vizi propri dell’atto impugnato, cioè la comunicazione preventiva di iscrizione ipotecaria di cui al co. 2 bis dell’art. 77 del D.P.R. 602/73.</claim>
+ <mot ID="Mot5" G="2" O="Claim3">L’Agente della Riscossione, in quanto Ente esattore preposto alla formazione e notifica della suddetta comunicazione, è l’effettivo contradditore e l’unico soggetto tenuto a rispondere in ordine ai vizi propri di tale atto. Per contro l’ Agenzia delle Entrate, contro la quale è stato rivolto il ricorso è, sul punto, del tutto priva di legittimazione passiva.
+ Il ricorso introduttivo propone anche censure relative alle cartelle esattoriali, quali atti presupposti all’atto impugnato, per vizi di sottoscrizione, di notifica, di motivazione di omessa indicazione delle modalità di calcolo degli interessi, nonché di omessa notifica del c.d. avviso bonario. La responsabilità per tali vizi ricade prevalentemente in capo all’Agente della Riscossione, che ha emesso le cartelle e solo per certi aspetti in capo all’ Agenzia delle Entrate.
+ In ogni caso è indubitabile che la mancata chiamata in causa dell’Esattore in riferimento all’atto impugnato (comunicazione preventiva di iscrizione ipotecaria), determinando carenza assoluta di contradditorio, è motivo di inammissibilità del ricorso introduttivo.
+ Altrettanto vale per i vizi delle cartelle esattoriali riconducibili alla responsabilita dell’Esattore.</mot>
+
+ Comunque il ricorso proposto contro la sola Agenzia delle Entrate è inammissibile.
+ 
+ <mot ID="Mot6" G="2" O="Claim3"> Ulteriore motivo di inammissibilità del ricorso introduttivo è costituito dalla non impugnabilità della comunicazione preventiva di iscrizione ipotecaria.
+ Infatti, nell’elencazione degli atti impugnabili espressa dall’art. 19 del D.Lgs. 546/92 appare, alla lettera e-bis, il solo atto di iscrizione di ipoteca sugli immobili e non la comunicazione suddetta. L’atto indicato nell’art. 19 è riconducibile al co. 1 dell’art. 77 D.P.R. 602/73, mentre la comunicazione prevista al co. 2 bis è solo un atto preparatorio dell’atto di iscrizione vero e proprio, previsto a tutela dei contribuenti.</mot>
+ 
+ Assorbiti gli altri motivi di appello.
+ 
+
+ La Commissione,
+ 
+ P.Q.M.
+
+ <dec ID="Dec2" G="2" E="0" O="Req2">respinge l’appello del contribuente e conferma la sentenza della C.T.P. di Vicenza n. 419/2/16, depositata il DD.MM.2016.</dec>
+ Condanna parte appellante alle spese di lite per € 2.000,00, omnicomprensive.
+ 
+ Venezia,DD.MM.2018
+ 
+
+ IL RELATORE 
+ IL PRESIDENTE
+ 
+
+</body>

@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+
+REPUBBLICA ITALIANA
+IN NOME DEL POPOLO ITALIANO
+
+	REG.GENERALE N° 521/10
+	SENTENZA N° 3/11/12
+
+	LA COMMISSIONE TRIBUTARIA REGIONALE DI TRIESTE
+	SEZIONE 11
+	riunita con l'intervento dei Signori:
+		giu1 Presidente
+		giu2 Relatore
+		giu3 Giudice
+	
+
+	ha emesso la seguente
+	SENTENZA
+
+	- sull’ appello n° 521/10
+	depositato il DD/MM/2010
+	- avverso la sentenza n° 22/02/2009
+	emessa dalla Commissione Tributaria inciale di TRIESTE
+
+	<part P="A">proposto dall'ufficio: AG.ENTRATE DIR. PROVIN. UFF. CONTROLLI TRIESTE</part>
+
+	<part P="B">controparte:
+	U S.P.A.
+	XXX</part>
+
+	difeso da:
+	RD-ZG-CCC
+	XXX
+
+	Atti impugnati:
+	AVVISO DI ACCERTAMENTO n° R56030300883-2006 1.V.A. 2001
+
+	Svolgimento del processo, richieste delle parti, motivi della decisione
+	Appello dell’Agenzia Entrate-Ufficio di Trieste avverso la sentenza n. 220/02/2009 retro-indicata.
+	Controversia: IVA 2001 — Avviso di accertamento retro-indicato
+
+
+IN FATTO
+
+	
+		<req ID="Req1" G="1" P="B">U SpA, quale incorporante della CRTrieste, ricorreva avverso l’avviso con cui l’ Agenzia delle Entrate di Trieste aveva accertato, a seguito di verifica condotta dalla GdF della Lombardia, maggiore Iva per l’annualità 2001 in relazione a fatture emesse dalla CRTrieste, senza esposizione di imposta ex art. 1 dpr 633/72 e art. 8 comma 35 legge n. 67/1988, per addebiti dovuti a “recupero di spese personale distaccato” presso strutture del gruppo U Spa, nel primo semestre 2001.</req>
+
+		Nel detto periodo, nella fase di concentrazioni bancarie svolgentisi nel Paese, U SpA era impegnata in operazioni di ridefinizione dell’assetto organizzativo del gruppo e in particolare delle strutture dei servizi informatici e, in tale contesto, la CRTrieste, come altre banche poi incorporate, aveva distaccato proprio personale dipendente presso altra struttura del gruppo bancario, la USI SpA. (di seguito, U.S.I.).
+
+	
+		<dec ID="Dec1" G="1" E="1" O="Req1">Sulle richieste formulate dalle parti nei rispettivi atti difensivi, la C.T.P. di Trieste con l’epigrafata sentenza accoglieva il ricorso e annullava l’impugnato avviso,</dec> 
+	 
+	
+		<mot ID="Mot1" G="1" O="Req1">osservando e ritenendo che, pur nella riconosciuta sussistente e sufficiente motivazione dell’avviso di accertamento, nel merito doveva invece ritenersi applicabile il regime di esclusione dell’Iva ai sensi del richiamato art. 8 comma 35 della legge n. 67/1988, dato che il distacco del personale munito delle rispettive dotazioni strumentali informatiche individuali era stato conteggiato come rimborso del solo costo del lavoro distaccato, comprensivo degli oneri previdenziali e assistenziali, rigettandosi pertanto la tesi dell’Ufficio secondo cui il detto distacco di personale avrebbe configurato una prestazione complessa di servizi, assoggettabile ad Iva.
+
+		In proposito, si evidenziava che le dotazioni strumentali informatiche individuali, utilizzate dal personale distaccato dalla CdR nel primo semestre 2001, si ponevano in rapporto di accessorietà rispetto alla prestazione principale, prevalente e costituita dal distacco del personale, tanto che per le dette dotazioni informatiche del personale distaccato non era previsto, né corrisposto alcun compenso, restando quindi l’intera prestazione contenuta nel mero distacco del personale, come tale non assoggettabile ad Iva.</mot>
+	
+
+
+
+	
+		<req ID="Req2" G="2" P="A">Con ricorso in appello a questa C.T.R., l'Ufficio chiedeva, con vittoria delle spese di lite di entrambi i gradi del giudizio, l’integrale riforma della sentenza impugnata,</req>
+		<claim ID="Claim1" G="2" P="A" PRO="Req2">sostenendo che in essa vi fosse erronea e falsa applicazione dell’art. 8 comma 35 della legge n. 67/1988,</claim> 
+		<claim ID="Claim2" G="2" P="A" PRO="Req2">nonché errata, contraddittoria e carente motivazione.</claim>
+
+		<arg ID="Arg1" G="2" P="A" PRO="Claim1">In particolare, eccependo acritica adesione del primo giudice alla tesi di controparte sulla prevalenza del distacco di personale rispetto agli strumenti informatici individuali, 
+		richiamava il principio assunto nella stessa norma secondo cui l’Iva non opera allorchè il corrispettivo per distacchi o prestiti di personale corrisponda esattamente al costo sopportato, come peraltro precisato nelle richiamate pronunce della C.T.C. n. 3253/2001 e della Corte di Cassazione n. 1789/1996, sottolineando che nel caso in esame la configurazione della prestazione di servizi imponibile era data dalla sussistenza di tre elementi distinti: risorse umane, risorse strumentali e l’interfacciarsi degli stessi con il sistema operativo centrale.</arg>
+
+		<arg ID="Arg2" G="2" P="A" PRO="Claim2">Veniva altresì lamentata la carente motivazione esplicativa dell’iter logico-giuridico seguito nell’impugnata sentenza e la considerazione non marginale svolta dal primo giudice sulla inesistenza di corrispettivo (ossia, sulla non onerosità) in ordine alla messa a disposizione del personale distaccato, della dotazione strumentale individuale, 
+		ritenendola incoerente con la tesi del contribuente e illogica nel tentativo di separare parti o componenti di una prestazione complessa, dato che siffatta separatezza non risultava dalla documentazione di cui alle “fatture esaminate dai militari verbalizzanti”.</arg>
+
+		<req ID="Req2bis" G="2" P="B">In opposizione alle richieste Ufficio, la società controdeduceva formulando anche appello incidentale</req> 
+		<req ID="Req3" G="2" P="B">e chiedeva, con vittoria di tutte le spese, il rigetto dell’appello di controparte e la conferma dell’annullamento integrale dell’avviso di accertamento,</req> 
+		<req ID="Req4" G="2" P="B">o in subordine, di dichiararne l’annullamento parziale.</req>
+
+		<claim ID="Claim5" G="2" P="B" PRO="Req2bis">Con l’appello incidentale, il contribuente lamentava ai sensi dell’art.12, comma 7 della legge 212/2000, il rigetto del motivo di ricorso sulla nullità/illegittimità dell’avviso di accertamento per difetto/carenza di motivazione sulle proprie considerazioni esposte nella fase istruttoria, (comunicazioni del contribuente nel termine di 60 giorni, tra la chiusura delle operazioni di verifica e l'emanazione dell’avviso di accertamento).</claim>
+
+		<claim ID="Claim6" G="2" P="B" PRO="Req3|Req4">Con le controdeduzioni, venivano riproposti i motivi di ricorso rimasti assorbiti e/o non esaminati nell’appellata decisione e relativi all’applicabilità del regime dell’esenzione Iva</claim> 
+		<claim ID="Claim7" G="2" P="B" PRO="Req3|Req4">e all’illegittima irrogazione di sanzioni per essere le violazioni conseguenti ad errore sul fatto e/o sul diritto.</claim>
+
+	La controversia, come da richiesta del contribuente di data 3/10/11 debitamente notificata a controparte, è trattata in pubblica udienza, con la presenza delle parti.
+	
+
+	IN DIRITTO
+
+		<mot ID="Mot2" G="2" O="Claim5">
+			 La Commissione, letti gli atti tutti di causa e sentite le parti nel corso della pubblica udienza, rigetta, in via preliminare, l’appello incidentale del contribuente, osservando -a conferma dell’impugnata decisione sul punto- che l’invocato art. 12 della legge 212/2000, secondo cui nel rispetto del principio di cooperazione tra amministrazione e contribuente, ..... questi puo' comunicare ..... osservazioni e richieste che sono valutate dagli uffici impositori, nel fissare un ulteriore specifico momento di cooperazione tra le parti in vista della migliore ponderazione e definizione dell’avviso di accertamento, non contiene in sé obblighi aggiuntivi di relativa specifica motivazione su atti interni alla fase istruttoria, dato che la motivazione dell’avviso di accertamento, sussistente nel caso in esame, ne è elemento essenziale necessario e sufficiente, comprensivo e riassuntivo di tutti gli aspetti della vicenda oggetto di controversia.
+		</mot>
+
+		 <mot ID="Mot3" G="2" O="Claim3">
+			Nel merito, il Collegio ritiene di non poter concordare con la tesi difensiva esposta dall’appellante Ufficio, in quanto per l’individuazione della fattispecie concreta occorre avere riguardo al contesto nel quale il distacco di personale ha avuto luogo e in esso non hanno pregio le considerazioni teoriche sull’enucleazione dei tre elementi, individuati nelle risorse umane, nelle risorse strumentali (c.d. “dotazioni strumentali individuali, consistenti in computer, fax, stampanti, modem e arredi relativi”) e nel loro interfacciarsi con il sistema operativo centrale di U.S.I., che avrebbero dato luogo ad una prestazione complessa.
+
+			 Appare evidente che nel breve periodo del primo semestre del 2001 in cui il distacco ha avuto luogo (infatti, dal successivo 1° luglio 2001, sia il personale distaccato che le dette dotazioni strumentali venivano trasferite alla USI spa, con la cessione del ramo d’azienda), risulta difficile ipotizzare, e comunque non risulta provata se non per illazioni, l’effettuazione di prestazioni di servizi, autonome ed imponibili Iva, rese da personale distaccato da parte della distaccante CRTrieste, di li a poco poi incorporata nella società USI spa.
+
+			 Giova ricordare che nella dichiarazione del 7/3/2006 (riportata in allegato 4 del pcv), il responsabile negoziale di U spa precisava che “il personale dipendente di CRTrieste, distaccato in USI spa, operava solo in ambito di outsourcing ... di attività di gestione di natura ...informatica” e che l’accordo (contratto di appalto tra USI e CRTrieste) fissava forfettariamente il corrispettivo di lire 9.885.000.000, che era relativo ai soli costi del servizio di outsoursing; mentre, il costo relativo al personale di CRTrieste distaccato presso USI nel primo semestre 2001 veniva addebitato direttamente alla distaccataria USI ed ammontava a lire 959.502.411 (euro 495.541,64).
+
+			 Si osserva che le argomentazioni svolte dall’Ufficio sul concetto di prestazione complessa per ricavarne la sussistenza nel caso in esame di una prestazione di servizi imponibile Iva risulta del tutto teorica, così come l’invocazione delle pronunce della Corte di Giustizia Europea, secondo cui prestazione composta da più elementi, ove costituita da un unico servizio sotto il profilo economico, non deve essere artificialmente suddivisa in più parti per non alterare la funzionalità del sistema Iva, non sembra che nel caso de quo faccia rilevare la sussistenza di diverse attività, strumentali e finalizzate ad un risultato finale costituente la prestazione di un servizio reso.
+
+			 Quale potrebbe essere stato il servizio autonomamente reso dal personale distaccato, nel contesto della fase delle incorporazioni e della riorganizzazione e concentrazione del nuovo ampio organismo bancario, non è dato individuare nelle argomentazioni dell’Ufficio, le quali nella loro teoricità non concludono l’individuazione del servizio reso, tanto che si soffermano sulla teorizzazione del servizio complesso, non individuato però se non per mera illazione, insufficiente a darne prova nel concreto contesto infra-strutturale del nuovo gruppo.
+
+			 Infatti l’appellante, per spiegare la sussistenza di prestazione di servizi imponibile iva, finisce con il riconoscere, come in una petizione di principio, che “nel caso in esame ...... pur in presenza di prestazioni complesse, il metodo interpretativo della prevalenza non è sempre applicabile, come invece erroneamente ritenuto dal collegio di primo grado .... dato che la concorrenza fisica dell’operazione accessoria ... rappresenta il limite implicito all'omologazione del trattamento fiscale .... e all’estensione del principio di unicità della base imponibile alle prestazioni definite complesse, come quella del caso de quo”, nella conclusione che “in sostanza U in qualità di incorporante della CRTrieste .... ha rivestito il ruolo di commissionaria e non di committente del rapporto” dato che “distaccando a USI spa .... personale e dotazioni strumentali informatiche individuali .... è U che rende il servizio a UST”.</mot>
+
+			 Il richiamato principio di diritto secondo cui l’Iva non opera allorchè i distacchi o prestiti di personale siano remunerati esattamente al costo sopportato dalla società distaccante trova applicazione nel caso in esame, per la descritta modalità operativa posta in essere e pertanto devesi rigettare l'appello dell’Ufficio siccome infondato.
+
+		La peculiarità della situazione fattuale della controversia giustificano la compensazione delle spese.
+	
+
+PQM
+	<dec ID="Dec2" G="2" E="0" O="Req2">la Commissione Tributaria Regionale del Friuli-Venezia Giulia — Sezione XI, rigetta l’appello dell’Ufficio e conferma l’impugnata sentenza.</dec>
+	Spese compensate.
+
+	
+		Così deciso in Trieste, in camera di consiglio, il giorno DD MM 2011
+	
+
+	 Il Giudice Estensore 
+	giu2
+
+	 Il Presidente
+	giu1
+
+</body>

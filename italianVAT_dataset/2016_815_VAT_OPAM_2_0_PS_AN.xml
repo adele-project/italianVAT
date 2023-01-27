@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+
+
+REPUBBLICA ITALIANA
+IN NOME DEL POPOLO ITALIANO
+
+LA COMMISSIONE TRIBUTARIA REGIONALE DI XXX
+SEZIONE 25
+
+riunita con l'intervento dei Signori:
+	giu1 Presidente
+	giu2 Relatore
+	giu3 Giudice
+
+
+REG.GENERALE N° 2515/2014
+
+ha emesso la seguente SENTENZA
+- sull'appello n. 2515/2014 depositato il DD/MM/2014
+- avverso la sentenza n. 82/2014 Sez:1 emessa dalla Commissione Tributaria
+
+Provinciale di XXX
+<part P="A">contro:
+S SRL
+LEG. RAPPR. PRO-TEMPORE MGM XXX</part>
+
+difeso da:
+AVV. BM
+XXX
+e da
+AVV. PLJ
+E AVV. MB XXX
+<part P="B">proposto dall'appellante:
+AG. ENTRATE DIR. PROVIN. UFF. CONTROLLI XXX</part>
+
+Atti impugnati:
+AVVISO DI ACCERTAMENTO n° T8T03T300246/2013 IVA-ALTRO 2008
+AVVISO DI ACCERTAMENTO n° T8T03T301364/2012 IVA-ALTRO 2007
+
+
+
+	
+		<req ID="Req1" G="1" P="A">La società SL srl, esercente l’attività di valorizzazione e promozione immobiliare, proponeva separati ricorsi avverso l’avviso di accertamento relativo agli anni 2007 e 2008,</req>
+		<claim ID="Claim1" G="1" P="A" PRO="Req1">sostenendone la illegittimità e la infondatezza.</claim>
+		<claim ID="Claim2" G="1" P="B" CON="Req1">L’Ufficio ribadiva la legittimità del proprio operato.</claim>
+	
+
+La vicenda traeva origine da una analisi effettuata dall’ AdE. Di XXX al termine della quale riteneva che la società avesse svolto la sua attività in maniera antieconomica.
+Deduceva ciò dall’assenza di vendite di unità immobiliari nel tempo acquistate o ristrutturate e dal fatto che alcuni beni erano stati concessi in comodato gratuito a socie della stessa o a soggetti legati da vincoli di parentela.
+I ricorsi riguardavano un immobile dato nel 2011 in comodato gratuito alla socia signora VFM, moglie del legale rappresentante della società, dove i coniugi avevano trasferito la loro residenza nell’anno 2009e della figlia nell’anno 2010.
+- Nell’anno 2007 e 2008 la società contabilizzavai costi sostenuti per detto immobile per un importo Sa Tispettivamente pari ad € 112.849,01 e € 244.271,64.
+Per-tali ragioni l’Ufficio recuperava l’Iva sulle spese di ristrutturazione, in ragione della condotta antieconomica rivolta non al conseguimento dei ricavi, ma al godimento della moglie del legale rappresentante, sig. MMG.
+La società eccepiva che la stessa aveva sempre superato il test di operatività e come nel 2006 avesse è ceduto beni per € 870.736,00 e quasi un milione per gli anni 2007, 2008 e 2013.
+Riteneva contraddittorio l’operato dell’Ufficio il quale aveva riconosciuto la deducibilità dei costi e contemporaneamente la indeducibilità dell’Iva.
+
+	
+		<dec ID="Dec1" G="1" E="1" O="Req1">La CTP di XXX, con sentenza n. 82/1/14 del DD.MM.14 dep. il DD.MM.14, accoglieva i ricorsi riuniti</dec>
+	
+	 
+		<mot ID="Mot1" G="1" O="Claim1">ritenendo che la condotta della società non era da considerarsi antieconomica.</mot>
+	
+
+
+
+	
+		Appella l'Ufficio 
+		<claim ID="Claim3" G="2" P="B" PRO="Req2">sottolineando che la sentenza appare completamente errata nel presupposto normativo, nella valutazione dei fatti di causa e, infine, nelle conclusioni.</claim>
+		<arg ID="Arg1" G="2" P="B" PRO="Claim3">Sottolinea che gli avvisi di accertamento riportavano nelle prime 2 pagine una sorta di quadro generale di antieconomicità della società e nelle due successive il motivo fondante del recupero impositivo (Iva illegittimamente portata in detrazione per violazione del principio di inerenza.
+		Il superamento del test di operatività e le vendite effettuate nel 2006 e 2013 non hanno attinenza nel caso di specie riguardante, invece, il recupero dell’Iva detratta illegittimamente per la costruzione del villino di XXX.
+		Ribadisce che negli anni 2000/2010, la società ha venduto nel 2006 un terreno acquistato precedentemente, e le uniche operazioni attive effettuate dalla società sono rappresentate da tre contratti di locazione conclusi con tre società rappresentate dal M o da soggetto riconducibile al suo nucleo familiare.
+		L’antieconomicità è stata ravvisata nella costruzione del villino di via XXX, oggetto della lite.
+		Pertanto il recupero dell’imposta Iva illegittimamente detratta dalla società in relazione a tali costi risulta un atto dovuto, ai sensi dell’art. 19 DPR 633/72.</arg>
+		<arg ID="Arg2" G="2" P="B" PRO="Claim3">Infine, l’affermazione che l'immobile è rimasto nella piena proprietà della società che può decidere di alienarlo in qualsiasi momento, è contraria non solo a quanto previsto dall’art. 19 DPR 633/72 e 109 del TUIR, ma anche sotto il profilo della ragionevolezza.</arg>
+		<arg ID="Arg3" G="2" P="B" PRO="Claim3">Per ultimo sottolinea che l'Ufficio non ha mai riconosciuto la detraibilità dei costi di costruzione perché la società ha inserito i medesimi tra le rimanenze finali e non ha operato alcuna deduzione degli stessi ai fini reddituali, sia per l’anno 2007 che per l’anno 2008.</arg>
+		<req ID="Req2" G="2" P="B">Chiede la riforma della sentenza.</req> 
+		Con condanna alle spese.
+		<req ID="Req3" G="2" P="A">Si costituisce la S srl chiedendo il rigetto dell’appello.</req> 
+		Con vittoria di spese.
+	
+
+	MOTIVI DELLA DECISIONE 
+		 Dall’analisi dei documenti in atti e dalle argomentazioni poste dalle parti, la Commissione ritiene non fondato l’appello dell’Ufficio.
+		<mot ID="Mot2" G="2" O="Claim3">L'accertamento in lite trae origine dal fatto che l’Ufficio ha ritenuto che fin dalla sua costituzione la Società San Luca srl abbia svolto la sua attività di valorizzazione e promozione immobiliare in maniera antieconomica.
+		Esso deduceva l’assenza di vendite immobiliari nel tempo acquistate dalla Società e che alcuni beni erano stati ceduti in comodato gratuito.
+		In riferimento all’accertamento a seguito della condotta antieconomica si è espressa la Corte di Cassazione con sentenze non univoche.
+		Questa Commissione si pone sull’orientamento giurisprudenziale che ritiene di riconoscere all’imprenditore la libertà di impostare la sua strategia dell’impresa.
+		Sì ritiene, perciò, che non si possa introdurre un generico potere di sindacare il valore delle operazioni o determinati comportamenti sol perché, secondo la ricostruzione dell’ufficio, condurrebbero ad una ripresa a tassazione di materia imponibile e/o ad un mancato riconoscimento della deduzione Iva su costi sostenuti.
+		Se l’imprenditore ritiene di cedere immobili con ricavi bassi o nulli, questo riguarda la sua strategia d’impresa. L'Ufficio non potrà impedire ad un imprenditore, per esempio, di cedere immobili con prezzi bassi onulli per ricavare liquidità a fronte di nuovi impegni, ma dovrà rilevare la condotta antieconomica dello stesso sulla base dell’utile di esercizio
+		Nel caso di specie, l’ufficio ha ritenuto di sindacare il comportamento antieconomico della Società per la cessione in comodato gratuito di un immobile, localizzato in XXX, alla socia VFM, moglie di MM, legale rappresentante della società SL srl. II rilievo di antieconomicità da parte dell’ufficio non è sostenuto dai fatti. E0 bene evidenziare che, anche se non è determinante per la valutazione della lite, la suddetta Società ha sempre superato il test relativo alle società di comodo, ex art. 30 della L. 724/2004.
+		Tra l’altro la Società ha operato alcune operazioni finalizzate alla realizzazione del massimo profitto attraverso la cessione nell’anno 2006 di immobili per € 1.216.822,00, con un prelievo fiscale di € 306.907,00, e nell’anno 2013 con una cessione di un fabbricato “grezzo” per circa un milione di euro, maturando un utile di euro 180.000,00.
+		Si deve rilevare che l'immobile ceduto nell’anno 2013 è attiguo all’immobile ceduto in comodato gratuito e oggetto del mancato riconoscimento della detrazione dell’Iva sui costi di costruzione. Essendo detti immobili facenti parte di un unico fabbricato, appare illegittimo ritenere indetraibile l’iva sostenuta per i costi sostenuti anche per l’immobile venduto.
+		La cessione in comodato di un immobile a titolo gratuito alla socia della Società e coniuge del legale rappresentante della stessa, non può essere considerato come elemento antieconomico dell’attività, poiché tale comportamento, per quanto sopra detto, è una scelta che spetta alla Società, ha optato di concederlo in comodato ad uso gratuito sapendo che secondo gli aspetti civilistici del contratto di comodato, il comodante, in mancanza di alcun termine di durata del comodato, ha il diritto di esigere in qualsiasi momento la restituzione della cosa qualora sopraggiunga un bisogno urgente ed imprevisto (art. 1810 c.c.).</mot>
+	
+
+	P.Q.M.
+		<dec ID="Dec2" G="2" E="0" O="Req2">Respinge l’appello dell'Ufficio</dec>
+		e condanna alle spese di giudizio per € 2.000,00.
+		
+			XXX, DD.MM.2016
+		
+		IL RELATORE giu2
+		IL PRESIDENTE giu1
+	
+
+</body>

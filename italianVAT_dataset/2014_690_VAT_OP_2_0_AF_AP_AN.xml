@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+REPUBBLICA ITALIANA
+IN NOME DEL POPOLO ITALIANO
+
+	REG. GENERALE N° 2196/11
+	SENTENZA N. 690/2014
+
+	LA COMMISSIONE TRIBUTARIA REGIONALE DI BOLOGNA 
+	SEZIONE 9
+
+	riunita con l'intervento dei Signori:
+		giu1 Presidente e Relatore
+		giu2 Giudice
+		giu3 Giudice
+	
+
+	ha emesso la seguente
+	SENTENZA
+
+	- sull'appello n. 2196/11
+	depositato il DD/MM/2011
+
+	- avverso la sentenza n. 154/10/10
+	emessa dalla Commissione Tributaria Provinciale di BOLOGNA
+	<part P="A">proposto dall'ufficio: AG.ENTRATE DIREZIONE PROVINCIALE BOLOGNA</part>
+
+	<part P="B">controparte:
+	FB F B SPA
+	GIA' F S.R.L.
+	XXX</part>
+
+	difeso da:
+	MM
+	E LL C/O STUDIO LS L
+	XXX
+
+	Atti impugnati:
+	AVVISO DI ACCERTAMENTO n° THB03B102795/2009 I.V.A. 2005
+
+
+
+	
+		<req ID="Req1" G="1" P="B">La FB F B SPA ha proposto ricorso alla CTP di Bologna contro l'avviso di accertamento notificato dalla Agenzia delle Entrate - Direzione Provinciale di Bologna - per l’imposta IVA 2005-.</req>
+	 
+
+		L'atto ha tratto origine dalla verifica svolta dalla Agenzia delle Entrate ex art. 87 (plusvalenze esenti) del Testo Unico Imposte sui Redditi per l’anno d’imposta 2004.
+		Per la fattura emessa il 31/12/2004 registrata nel 2005 con avviso di accertamento THB03B102795/2009 l’ufficio ha recuperato l’imposta ritenuta indebitamente detratta. La lite verte sulla qualificazione delle spese per una prestazione di servizio.
+		La ricorrente ha stipulato un contratto, come in atti, con la F H per un corrispettivo annuo di €103.000,00 avente per oggetto l’attività lavorativa di un dirigente della stessa FB F B SPA qualificata quale la prestazione di servizio con obbligo del versamento della imposta IVA. L'Ufficio di diverso avviso ha qualificato la prestazione come svolta da persona distaccata rientrante nel regime di esenzione I.V.A.
+
+	
+		<dec ID="Dec1" G="1" E="1" O="Req1">La Commissione di primo grado con sentenza n. 154/10/2010 del 20/09/2010 ha accolto il ricorso</dec>
+		<mot ID="Mot1" G="1" O="Req1">per aver ritenuto non provata la pretesa dell’ufficio non essendo stato dimostrato che per la prestazione del dirigente sia stato effettuato il solo rimborso del trattamento economico e degli oneri previdenziali ed assistenziali dovuti.</mot>
+
+
+
+	
+		<req ID="Req2" G="2" P="A">Propone appello l’ufficio</req> 
+		<claim ID="Claim1" G="2" P="B" PRO="Req2">ed eccepisce che la Commissione di primo grado ha errato</claim> <arg ID="Arg1" G="2" P="A" PRO="Claim1">nel non considerare che:
+		1) le prestazioni in questione sono state fatturate dalla F H Spa e non dal M, quale professionista;
+		2) ll corrispettivo pattuito tra le società contraenti corrisponde all’incirca alla retribuzione lorda complessiva corrisposta nello stesso anno da F H Spa al dott. M;
+		3) nella scrittura privata del 03/03/2003, la F H Spa metteva a disposizione della F Srl la capacità professionale di un proprio dirigente.
+
+		L’ufficio pertanto deduce in appello che i compensi corrisposti al M esulano dall’applicazione IVA.</arg>
+	
+
+	
+		 Questo Collegio nel respingere tutte le eccezioni proposte 
+		<mot ID="Mot2" G="2" O="Claim1">
+			 osserva che per giurisprudenza e prassi amministrativa consolidata per qualificare la prestazione resa quale distacco è necessario provare che la somma del trattamento economico- normativo e dei contributi previdenziali ed assistenziali non sia superiore o inferiore alla somma liquidata e riconosciuta dal datore di lavoro distaccante.
+			 In forza dell’art.30, comma 2, del d.lgs. n. 276/2003, in caso di distacco, il datore di lavoro distaccante rimane responsabile del trattamento economico e normativo a favore del lavoratore distaccato, anche se si ritiene ammesso il rimborso da parte del distaccatario che non potrà però superare in più o in meno di quanto effettivamente corrisposto al lavoratore dal datore di lavoro distaccante.
+
+			 L’obbligo contributivo, così come per l’assicurazione obbligatoria contro gli infortuni sul lavoro e le malattie professionali, sono a carico del datore di lavoro distaccante, mentre i premi INAIL andranno calcolati sulla base della tariffa applicata al distaccatario e non dal datore di lavoro distaccante, come precisato dallo stesso Ministero con la risoluzione del 1973, n.502712 e successivamente confermata.
+			 In mancanza di tale prova la prestazione resa deve essere qualificata di servizio.
+
+			 Per il caso in discussione l’ufficio ha affermato nel processo che il corrispettivo pattuito tra le società contraenti corrisponde all’incirca alla retribuzione lorda complessiva corrisposta nello stesso anno da F H Spa al dott. M.
+
+			 È del tutto evidente per quanto affermato dallo stesso ufficio che non vi è prova della precisa corrispondenza tra la retribuzione liquidata dal datore di lavoro e la somma richiesta alla ditta ricevente la prestazione del dott. M, pertanto la fattispecie in esame deve essere qualificata fiscalmente quale prestazione di servizio assoggettata ad imposta IVA.
+		</mot>
+	
+
+	P.Q.M.
+		<dec ID="Dec2" G="2" E="0" O="Req2">La Commissione respinge l’appello dell’ufficio</dec> 
+		con condanna alle spese che si quantificano in euro 1.000,00 ( mille,00).
+
+		
+			Così deciso in Bologna il DD.MM.2014
+		
+
+		Il Presidente relatore estensore
+		giu1
+	
+ 
+</body>

@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+
+REPUBBLICA ITALIANA
+ IN NOME DEL POPOLO ITALIANO
+ 
+ LA COMMISSIONE TRIBUTARIA REGIONALE DI XXX
+ 
+ riunita con l'intervento dei Signori:
+ giu1 Presidente
+ giu2 Relatore
+ giu3 Giudice
+ 
+ 
+ Ha emesso la seguente sentenza
+ 
+ REG. GENERALE N° 1852/14
+ 
+ - sull'appello n. 1852/14 depositato il DD/MM/2014
+ - avverso la sentenza n. 371/36/13 emessa dalla Commissione Tributaria Provinciale di XXX 
+ 
+ <part P="A">proposto dal ricorrente:
+ CR S.R.L. DIFESA DALL'AVV ABP
+ VIALE XXX</part>
+ 
+ <part P="B">contro: 
+ AG.ENTRATE DIREZIONE PROVINCIALE XXX</part>
+ 
+ difeso da:
+ AVV. PAR PRESSO STUDIO M
+ VIA XXX
+ 
+ Atti impugnati: AVVISO DI ACCERTAMENTO n° TK3034000043-TK3C04000044 IVA-ALTRO 2005
+
+
+ 
+ SUCCINTA ESPOSIZIONE DEI FATTI
+ 
+ 
+ 
+ <dec ID="Dec1" G="1" E="0" O="Req1"><req ID="Req1" G="1" P="B">Con sentenza n. 371/36/13, depositata il 27 settembre 2013, la Commissione Tributaria Provinciale di XXX, ha rigettato, compensando le spese, il ricorso proposto dalla CR s.r.l. avverso gli avvisi di accertamento nn. TK3034000043-2010 e TK3C04000044 2010.</req></dec>
+ 
+
+ 
+Con tali atti, emessi a seguito di verbale di constatazione della Guardia di Finanza, l'Amministrazione ha accertato, in relazione a lavori di restauro e risanamento conservativo dell'Edificio di PP in XXX del porto di XXX, il mancato versamento dell'IVA per complessivi € 13.682,00 applicando, altresi, la sanzione di € 258,00 per la correlativa, omessa tenuta regolare delle scritture contabili (anno 2005).
+
+
+ 
+ <mot ID="Mot1" G="1" O="Req1">Nella motivazione della sentenza il primo giudice disattende la tesi della contribuente, secondo cui i lavori non sarebbero imponibili a fini IVA ai sensi dell'art. 9, comma 1, n. 6) del D.P.R. 633/72, ritenendo che nel caso di specie si tratti di lavori di restauro e risanamento conservativo di un antico edificio di interesse storico ed artistico, come tali non finalizzati all'adeguamento tecnico-funzionale della struttura portuale esistente, e dunque non riconducibili alle ipotesi di esenzione dall'IVA, come individuabili anche alla luce della norma interpretativa di cui all'art. 3, comma 13, D.L. 90/90.</mot>
+ 
+
+ 
+
+ 
+ <req ID="Req3" G="2" P="A">Con atto notificato il DD MM 2014 e depositato il 3 aprile 2014 ha proposto appello la contribuente.</req>
+ 
+ <claim ID="Claim1" G="2" P="A" PRO="Req2">Nell'atto d'impugnazione, dopo aver evidenziato che l'esclusione dall'IVA era prevista nell'art. 3 del contratto stipulato con l'Autorità Portuale di XXX all'esito di procedura ad evidenza pubblica, si sostiene che la C.T.P. non avrebbe adeguatamente considerato la documentazione prodotta in allegato al ricorso introduttivo da cui si evincerebbe che la struttura oggetto del risanamento conservativo non avrebbe una funzione meramente ornamentale ma sarebbe ubicata "in un punto strategicamente rilevante dell'area portuale".</claim>
+ 
+ <arg ID="Arg1" G="2" P="A" PRO="Claim1">Al riguardo si produce, inoltre, una lettera dell'ente pubblico committente, datata 6 marzo 2014, in cui si afferma che l'intervento avrebbe avuto ad oggetto la messa in sicurezza dell'antico tratto di muro interessato ai lavori, dislocato lungo la viabilità interna del porto, nella darsena romana che collega le banchine del porto storico e croceristiche con la restante parte del sedime portuale, dove sono ubicati i varchi di uscita ed il collegamento con la superstrada.</arg>
+ 
+ <arg ID="Arg2" G="2" P="A" PRO="Claim1">Nel gravame si evidenzia, altresi, come in detta nota l'Autorità Portuale precisi che il mancato risanamento del muro in questione avrebbe determinato il crollo dell'antico edificio con la conseguente ostruzione dell'unica strada di collegamento tra le due parti del porto pregiudicando irrimediabilmente la circolazione stradale e tutte le attività portuali.</arg>
+ 
+ <claim ID="Claim3bis" G="2" P="A" PRO="Req2">Ciò posto, secondo parte appellante anche i lavori finalizzati alla sicurezza del porto e degli operatori rientrerebbero nelle ipotesi di esenzione dall'IVA di cui all'art. 9, comma 1, n. 6) del D.P.R. 633/72.</claim>
+ 
+ <arg ID="Arg4" G="2" P="A" PRO="Claim3bis">Si richiamano, infine, le circolari n. 66/88 e n. 26/90 e le risoluzioni n. 470124/90, n. 450230/93 e n. 257/94 dell'Amministrazione finanziaria da cui si evincerebbe che la tipologia dei lavori effettuati rientrerebbe tra quelle ammesse all'esenzione e che, agli stessi fini, il muro in questione rientrerebbe nel concetto di porto.</arg>
+ 
+ <req ID="Req2" G="2" P="A">In definitiva, si chiede l'accoglimento del ricorso introduttivo</req> 
+ con vittoria di spese. 
+ 
+ <claim ID="Claim2" G="2" P="B" PRO="Req2">Con atto depositato il DD MM 2014 ha controdedotto l'Ufficio sostenendo la correttezza dell'azione accertatrice</claim> 
+ <arg ID="Arg5" G="2" P="A" PRO="Claim2">in quanto il muro in questione non avrebbe una funzione tecnica direttamente connessa con le operazioni portuali.</arg>
+ 
+ <claim ID="Claim3" G="2" P="B" PRO="Req3">Si eccepisce, inoltre, l'inammissibilità della nota dell'Agenzia Portuale allegata all'appello trattandosi di prova nuova.</claim>
+ 
+ <req ID="Req3bis" G="2" P="B">Si chiede, pertanto, il rigetto dell'appello</req> 
+ con vittoria di spese.
+ 
+ <arg ID="Arg7" G="2" P="B" CON="Claim1">In data DD MM 2014 l'Ufficio ha altresi prodotto, a supporto delle precedenti controdeduzioni, una memoria nella quale si espone che, ai sensi dell'art. 14 Preleggi, le norme agevolative tributarie non possono essere sottoposte "a lettura analogica" e che, con riferimento al caso di specie, "il mero passaggio nella zona portuale non comporta la realizzazione di quelle prestazioni e di quei servizi che sono l'oggetto della detrazione".</arg>
+ 
+ 
+ All'udienza del DD MM 2014 la parte appellante, avendo ricevuto tardivamente l'avviso di trattazione, ha chiesto un rinvio; l'Ufficio non si è opposto e la richiesta è stata accolta dando comunicazione alle parti della nuova data di trattazione.
+ 
+ MOTIVI DELLA DECISIONE
+ 
+ 1.Infondata è l'eccezione d'inammissibilità che l'Ufficio ha sollevato in relazione alla lettera dell'ente pubblico committente datata DD MM 2014 e prodotta dalla parte appellante con il gravame.
+ 
+ <mot ID="Mot2" G="2" O="Claim3">In materia di produzione di documenti nel grado di appello del processo tributario la Corte di cassazione ha infatti affermato che "alla luce del principio di specialità espresso dal D.Lgs. 546 del 1992, art. 1, comma 2, - in forza del quale, nel rapporto fra norma processuale civile ordinaria e norma processuale tributaria, prevale quest'ultima non trova applicazione la preclusione, di cui all'art. 345 c.p.c., comma 3, alla produzione di documenti nel secondo grado del giudizio. La materia è - per vero regolata in via speciale dall'art. 58, comma 2, del citato D.Lgs., che consente alle parti di produrre liberamente documenti anche in sede di gravame, sebbene preesistenti al giudizio svoltosi in primo grado (Cass. 18907/11), ed a nulla rilevando neppure l'eventuale irritualità della loro produzione in prime cure (Cass. 23616/11, 2019/12)" (Sez. 5, 27 marzo 2013, n. 7714, Rv. 6262192).</mot>
+ 
+ 2. Nel merito, l'appello merita accoglimento.
+ 
+ <mot ID="Mot3" G="2" O="Claim1">L'art. 9, comma 1,, n. 6) del D.P.R. 633/72 stabilisce che costituiscono servizi internazionali o connessi agli scambi Internazionali non imponibili "i servizi prestati nei porti, autoporti, aeroporti e negli scali ferroviari di confine che riflettono direttamente il funzionamento e la mamutenzione degli impianti ovvero il movimento di beni o mezzi di trasporto, nonché quelli resi dagli agenti marittimi raccomandatari".
+ 
+ Con l'art. 3. comma 13, del d.l. 90/90 è stato ulteriormente precisato che "Tra i servizi prestati nei porti, aeroporti, autoporti e negli scali ferroviari di confine riflettenti direttamente il funzionamento e la manutenzione degli impianti ovvero il movimento di beni o mezzi di trasporto, di cui all'articolo 9, n. 6), del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, intendono compresi anche quelli di rifacimento, completamento, ampliamento, ammodernamento, ristrutturazione e riqualificazione degli impianti già esistenti, pur se tali opere vengono dislocate, all'interno dei predetti luoghi, in sede diversa dalla precedente; si intendono compresi altresi, purché resi nell'ambito dei luoghi come sopra qualificati, i servizi relativi al movimento di persone e di assistenza ai mezzi di trasporto e quelli di cui al numero 5) dello stesso articolo, prescindendo dalla definitiva destinazione doganale dei beni".
+ 
+ La prassi ministeriale ha costantemente interpretato la norma citata nel senso che il beneficio in questione non possa essere concesso per la realizzazione di un'opera ex novo e con la risoluzione n. 470124 del 19 novembre 1990 si è precisato che, in linea di massima, possono ritenersi non imponibili le riparazioni e le manutenzioni; i lavori, anche di costruzione, che attengono il rifacimento o l'ampliamento di impianti già esistenti; i lavori di edilizia demaniale; i lavori relativi al disinquinamento degli specchi acquei, nei modi chiariti nella risoluzione n. 415043 del 21 aprile 1986.
+ 
+ 'ambito di applicabilità del regime di non imponibilità è stato poi esteso dall'art. 1, comma 992 della L. 27 dicembre 2006, n. 296, secondo cui "Ai sensi e per gli effetti dell'articolo 3, comma 13, del decreto-legge 27 aprile 1990, n. 90, convertito, con modificazioni, dalla legge 26 giugno 1990, n. 165, la realizzazione in porti già esistenti di opere previste nel piano regolatore portuale e nelle relative varianti ovvero qualificate come adeguamenti tecnico-funzionali sono da intendersi quali attività di ampliamento, ammodernamento e riqualificazione degli stessi".
+ 
+ In definitiva, come è stato riassunto nella risoluzione 118/E del DD MM 2008, dal quadro normativo si evince che "i servizi in esame devono presentarsi come complessi interventi strutturali da realizzare su impianti già esistenti, aventi come fine immediato il loro funzionamento e la loro manutenzione ovvero il loro ammodernamento, ampliamento, etc. (tra le altre, risoluzione 16 novembre 1987, n. 505309)".
+ 
+ La Corte di Cassazione ha confermato la giustezza di tale impostazione affermando che il requisito imprescindibile è rappresentato dalla circostanza che i lavori siano effettuati all'interno degli aeroporti e degli altri impianti indicati dall'art. 9, primo comma, n. 6), del d.P.R. 26 ottobre 1972, n. 633 conseguentemente rilevando, in una vicenda relativa ad un aeroporto, che non possano usufruire del beneficio "quei servizi e quelle prestazioni che, pure effettuati in funzione dello svolgimento delle attività aeroportuali, siano tuttavia localizzati all'esterno" (Sez. Trib., 12 maggio 2003, n. 7250, Rv. 562908; conf. Sez. Trib., 17 giugno 2013, n. 15067, Rv. 627168).
+ 
+ Ciò posto, va innanzitutto rilevato che, nel caso di specie, è pacifico che l'intervento sia stato effettuato all'interno dell'area portuale e su una costruzione preesistente; l'Ufficio, inoltre, non contesta la sussistenza di una concreta situazione strutturale del manufatto che rendesse effettive le necessità dell'intervento in questione.
+ 
+ Quanto, poi, alla natura dei lavori ed al loro collegamento funzionale con le attività portuali, va osservato che nella già richiamata nota dell'Autorità Portuale di XXX prodotta da parte appellante e di cui lo stesso Ufficio non contesta la veridicità (v. memoria depositata il 9 settembre 2014) è testualmente affermato, all'esito di una particolareggiata descrizione dell'intervento, che "un eventuale crollo del muro dell'antico edificio, oltre al danno del patrimonio artistico, avrebbe pregiudicato la circolazione stradale e bloccato tutte le attività portuali".
+ 
+ Deve dunque ritenersi che i lavori di restauro e di risanamento in questione, in quanto finalizzati a prevenire possibili crolli che avrebbero potuto pregiudicare la circolazione stradale e bloccare "tutte" le attività portuali, rientrino nelle attività di rifacimento e di ristrutturazione aventi un diretto riflesso sia sul funzionamento degli impianti, sia sui "servizi relativi al movimento di persone e di assistenza ai mezzi di trasporto" (sull'applicabilità dell'art. 9, comma 1,, n. 6) del D.P.R. 633/72 anche a prestazioni finalizzate alla tutela delle esigenze di sicurezza all'interno dell'impianto, cfr. risoluzione n. 253 del 14 settembre 2007) e, come tali, possano beneficiare del regime di non imponibilità.</mot>
+ 
+ <mot ID="Mot4" G="2" O="Req3">Né merita accoglimento l'eccezione dell'Ufficio secondo cui la riconducibilità del caso di specie alla disciplina di cui all'art. 9, comma 1, n. 6) del D.P.R. 633/72 integrerebbe un'ipotesi di applicazione analogica, preclusa dall'art. 14 delle Preleggi per le leggi che facciano eccezione a regole generali o ad altre leggi.
+ 
+ Rileva infatti la Commissione che il riconoscimento di applicabilità del regime di non imponibilità consegue ad un procedimento interpretativo rimasto all'interno dell'ambito semantico delle parole utilizzate dal legislatore nello stabilire la regola eccezionale per cui non si tratta di estendere a casi non previsti la disciplina derogatoria di non imponibilità; può, tutt'al più, parlarsi di interpretazione estensiva che, secondo la Corte di Cassazione, è certamente ammissibile nella materia tributaria, in quanto interpretazione finalizzata "a comprendere nella portata concreta della norma tutti i casi da essa anche implicitamente considerati, quali risultanti non solo dalla lettera ma anche dalla "ratio" della disposizione" (Sez. Trib., 30 dicembre 2011, n. 30722, Rv. 621046).</mot>
+ 
+ 3. <mot ID="Mot5" G="2" O="Req2">Le suesposte conclusioni assorbono ogni ulteriore considerazione in termini di buona fede della contribuente che pure, in assenza di specifici elementi che depongano in senso contrario, sembrerebbe poter trovare fondamento sia nella natura pubblica del soggetto committente, sia nella circostanza che nel contratto stipulato (art. 3, comma 4) è testualmente precisato che i lavori "interessano opere inerenti l'ampliamento e l'ammodernamento di quelle già esistenti all'interno del porto come tali rientrano nel regime di non imponibilità IVA ai sensi dell'art. 9, comma 1, n. 6) del D.P.R. 633/72 e successive modificazioni ed integrazioni".</mot>
+ 
+ 4. Il diverso esito dei due gradi di giudizio induce alla compensazione delle spese.
+ 
+ 
+ 
+ <dec ID="Dec2" G="2" E="1" O="Req2">La Commissione accoglie l'appello.</dec> 
+ Spese compensate.
+ 
+ XXX, DD MM 2014
+ 
+ 
+ 
+</body>

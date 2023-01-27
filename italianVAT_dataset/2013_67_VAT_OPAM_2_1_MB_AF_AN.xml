@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+
+REPUBBLICA ITALIANA
+IN NOME DEL POPOLO ITALIANO
+
+REG. GENERALE
+N. 1708/11
+
+LA COMMISSIONE TRIBUTARIA REGIONALE
+DI BOLOGNA SEZIONE 15
+
+riunita con l'intervento dei Signori:
+ giu1 Presidente
+ giu2 Relatore
+ giu3 Giudice
+
+ha emesso la seguente
+SENTENZA
+
+- sull'appello n. 1708/11
+- avverso la sentenza n. 227/3/10
+
+emessa dalla Commissione Tributaria Provinciale di MODENA
+contro: <part P="A">AG.ENTRATE DIREZIONE PROVINCIALE MODENA</part>
+
+proposto dal ricorrente:
+<part P="B">IMH S.P.A.
+XXX</part>
+
+difeso da:
+PA CM
+FG BD
+XXX
+
+Atti impugnati:
+AVVISO DI ACCERTAMENTO n° R7Q037M01831 IVA + IRAP 2003
+AVVISO DI ACCERTAMENTO n° R7Q037M01831 IRES 2003
+
+FATTO
+
+ 
+ <req ID="Req10" G="1" P="B">Con apposita istanza la contribuente proponeva ricorso avverso l'avviso di accertamento n. R7Q037M01831/2008, relativo all'anno 2003,</req> 
+ con il quale l'agenzia contestava alla società appellante le seguenti infrazioni:
+ 1) Omessa comunicazione di variazione della sede amministrativa;
+ 2) Indebita detrazione di quote di ammortamento;
+ 3) Indebita deduzione di costi;
+ 4) irregolare e ritardate emissione e registrazione di autofatture ai fini Iva;
+ 5) Emissione di fatture irregolari senza addebito di Iva.
+ 
+ <claim ID="Claim2" G="1" P="B" PRO="Req1">Per quanto riguarda i punti 4 e 5 connessi tra loro la contribuente eccepiva che le prestazioni afferenti alle fatture contestate rientravano in prestazioni di servizi di consulenza forniti alla proprio capogruppo con sede negli Usa,</claim> 
+ <arg ID="Arg1" G="1" P="B" PRO="Claim2">sulla base di un regolare contratto, di conseguenza le fatture non dovevano essere assoggettate ad Iva ai sensi dell'art. 7, comma 4, lettera d) del dpr 633/72, per difetto del requisito della territorialità, ed anche ai sensi dell’art. 3, comma 4, lettera a), dpr 633/72, laddove si determina che non costituiscono prestazioni di servizi le cessioni, concessioni, licenze e simili relativi a diritti d’autore effettuate dall'autore.</arg>
+
+ <req ID="Req1" G="1" P="B">Chiedeva anche l'annullamento dell’avviso di accertamento</req> 
+ <claim ID="Claim1" G="1" P="B" PRO="Req1">perché l'ispezione da cui era scaturito l’avviso di accertamento aveva superato il limite temporale di cui all'art. 12, comma 5, L. 212/2000.</claim>
+ 
+ 
+ La Commissione adita accoglieva parzialmente il ricorso confermando tutti i punti oggetto del contenzioso,
+ <mot ID="Mot1" G="1" O="Claim1">in quanto ha ritenuto che l’attività svolta dalla contribuente non è una consulenza tecnica, bensì la realizzazione di progetti finalizzati ad essere impiegati per scopi produttivi, in quanto a suo parere vi è una progettazione e produzione di nuova tecnologia, disapplicando, però, l’irrogazioni delle sanzioni in riferimento alla normativa prevista nell’art. 10 L. 212/2000,</mot> 
+ compensando le spese di giudizio 
+ per l’indubbia incertezza interpretativa.
+ 
+
+
+
+ 
+ <req ID="Req4" G="2" P="B">Propone appello la contribuente</req>
+ <claim ID="Claim5" G="2" P="B" PRO="Req3">sostenendo la non debenza dell’iva in quanto ai sensi dell’art. 7, comma 4, lettera d), dpr 633/72 si è in presenza del difetto di territorialità,</claim>
+ <claim ID="Claim3" G="2" P="B" PRO="Req3">ed ai sensi dell’art. 3, comm4, lettera a), dpr 633/72 per carenza dei requisiti soggettivi ed oggettivi,</claim>
+ <claim ID="Claim4" G="2" P="B" PRO="Req4">ribadisce, altresì, tutte le motivazioni addotte nel primo grado di giudizio compreso la violazione dell'art. 12L. 212/2000.</claim>
+
+ <req ID="Req2" G="2" P="B">Chiede pertanto di dichiarare illegittima la sentenza impugnata per carenza di motivazione,</req>
+ <req ID="Req3" G="2" P="B">riconoscere legittimo il comportamento seguito nel non assoggettare ad Iva le consulenze fornite nei confronti della propria capogruppo avente sede legale negli Usa ai sensi dell’art. 7 dpr 633/72,</req> 
+ di disporre il rimborso delle somme già pagate a causa di questo contenzioso, 
+ chiede altresì la condanna dell'agenzia al risarcimento del danno per instaurazione di lite temeraria ai sensi dell’art. 96 cpc e la condanna al rimborso delle spese di entrambi i gradi giudizio.
+
+ <claim ID="Claim6" G="2" P="A" PRO="Req4">Resiste la agenzia delle entrate con proprie contro deduzioni ribadendo la legittimità del proprio operato riconfermando nella sua totalità quanto già sostenuto nella motivazione dell’avviso di accertamento e nelle deduzioni del primo grado di giudizio,</claim>
+ <arg ID="Arg6" G="2" P="A" PRO="Claim5">puntualizzando che però la materia del contendere rimane aperta solo per i punti 4 e 5 delle contestazioni afferenti all'avviso di accertamento in quanto la contribuente nell’appello nulla eccepisce in riferimento ai punti 1, 2 e 3, per i quali ritiene si sia concretizzato il giudicato.</arg>
+
+ <req ID="Req5" G="2" P="A">Chiede pertanto il rigetto dell'appello e la conferma delle sanzioni irrogate</req> 
+ con vittoria delle spese di giudizio.
+ 
+
+DIRITTO
+
+ Questa Commissione visti gli atti e la documentazione allegata, nonché la normativa di riferimento, ritiene che l'appello della contribuente sia meritevole di accoglimento.
+
+ <mot ID="Mot2" G="2" O="Claim4">In via preliminare in riferimento all’eccezione inerente alla violazione dell’art. 12 L. 212/2000, questa Commissione in assonanza con la sentenza n. 17002/2012 della Suprema Corte di Cassazione rileva che in tema di verifiche tributarie, il termine di permanenza degli operatori civili o militari dell'Amministrazione finanziaria presso la sede del contribuente è meramente ordinatorio, in quanto nessuna disposizione lo dichiara perentorio, o stabilisce la nullità degli atti compiuti dopo il suo decorso, né la nullità di tali atti può ricavarsi dalla “ratio” delle disposizioni in materia, apparendo sproporzionata la sanzione del venir meno del potere di accertamento fiscale a fronte del disagio arrecato al contribuente dalla più lunga permanenza degli agenti dell'Amministrazione, ciò anche in ossequio ad una interpretazione costituzionalmente orientata.</mot>
+
+ <mot ID="Mot3" G="2" O="Claim6">Sempre in via preliminare si concorda con la tesi dell’agenzia che i punti 1, 2 e 3, dell’avviso di accertamento sono da considerarsi definiti, in quanto non appellati.</mot>
+
+ <mot ID="Mot4" G="2" O="Claim5">Per quanto riguarda invece i recuperi Iva, questa Commissione ritiene che, sulla base della documentazione allegata sia dalla contribuente sia dall'agenzia delle entrate, le prestazioni di consulenza fornite dalla contribuente alla sua capogruppo avente sede legale negli Usa, siano da ricondurre nell’ambito della previsione dell’art. 7, comma 4, lettera d, dpr 633/72, cioè si devono definire come prestazioni di servizi e di consulenza fornite a committente estero, di ‘conseguenza tali prestazioni di mera consulenza effettuate in favore di soggetti che hanno sede in territorio estraneo alla Comunità europea sono disciplinate dall'art. 7, comma 4, lett. d), del dpr 633/72, ciò anche in conformità alla sentenza della Suprema Corte di Cassazione n. 18072/2008.</mot>
+
+ Per cui in riforma della sentenza impugnata dichiara non dovuta l’Iva in riferimento alle prestazioni di servizi di cui all’addebito dell'avviso di accertamento n. R70037M01831/2008, (punto 5), relativamente all'anno 2003 per mancanza della territorialità di cui all'art. 7, comma 4, lettera d, dpr633/72, con la conseguenza che viene annullato anche l'addebito afferente alla irregolare e ritardata emissione e registrazione di autofatture ai fini Iva (punto 4), in quanto direttamente dipendente, si dispone l'immediata restituzione delle somme indebitamente pagate in relazione a questo contenzioso.
+
+ Le spese seguono la soccombenza
+ che però nel caso di specie è parziale in quanto alcuni punti (1, 2 e 3) dell'avviso di accertamento rimangono definiti a favore dell’agenzia di conseguenza si ritiene equa la compensazione delle spese di giudizio.
+
+
+P.Q.M.
+
+ <dec ID="Dec1" G="2" E="1" O="Req2"> Commissione in riforma della sentenza impugnata accogliendo l’appello della contribuente annulla l’avviso di accertamento per i punti 4 e 5 afferenti alla non assoggettabilità ad Iva delle prestazioni di servizio fornite a soggetto estero,</dec> 
+ dispone la restituzione delle somme indebitamente corrisposte dalla contribuente in ordine al presente contenzioso. Spese compensate.
+
+ Così deciso in Bologna il DD MM 2013
+
+ (Il Relatore)
+ giu2
+
+ (Il Presidente)
+ giu1
+
+
+</body>

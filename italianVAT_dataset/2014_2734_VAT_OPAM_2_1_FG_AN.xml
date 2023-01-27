@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+
+
+
+	REPUBBLICA ITALIANA
+	IN NOME DEL POPOLO ITALIANO
+
+	LA COMMISSIONE TRIBUTARIA REGIONALE DI XXX
+
+	riunita con l'intervento dei Signori:
+		giu1 Presidente
+		giu2 Relatore
+		giu3 Giudice
+	
+
+	Ha emesso la seguente sentenza
+
+	REG. GENERALE N° 4244/12
+
+	sull'appello n. 4244/12 depositato il DD/MM/2012
+
+	avverso la sentenza n. DD/MM/12
+
+	emessa dalla Commissione Tributaria Provinciale di XXX
+
+
+	<part P="A">proposto dall'ufficio: AG.ENTRATE DIR. PROVIN. UFF. CONTROLLI XXX</part>
+
+	<part P="B">controparte: BP</part>
+
+	difeso da:
+	Dott. EL
+	VIA XXX
+	Atti impugnati:
+
+	AVVISO DI ACCERTAMENTO n° COME DA N.I.R TK5011M03542 IVA-ALTRO 2005
+
+
+SVOLGIMENTO DEL PROCESSO
+
+L'AGENZIA DELLE ENTRATE-Direzione Provinciale II° di XX emetteva a carico del sig. BP, per l'anno d'imposta 2005, l'avviso di accertamento n.TK5011M03542/2010 con cui provvedeva alla rettifica dell'annuale dichiarazione.
+
+L'accertamento scaturiva da una verifica della Guardia di Finanza-Nucleo Polizia Tributaria di XXX, nel corso della quale i militari rinvenivano tre contratti di subappalto (allegati al pvc) fra due aziende amministrate dal sig. B, la I srl e la Ditta B, aventi per oggetto lavori da effettuarsi sulle navi da crociera. Venivano rinvenute anche tre fatture emesse dalla I srl per un importo di € 1.710.000,00 ciascuna e quindi per un totale di € 5.130.000,00 dalle quali emergeva che le stesse si riferivano alle commesse "Volerdam", "Amsterdam" e "Veendam", navi da crociera di proprietà della HAL Inc. (USA) che aveva appaltato alla ditta B l'esecuzione dei lavori di rifacimento sulle predette navi. Per le commesse in questioni, la Ditta B aveva fatturato alla HAL Inc. senza addebito IVA come previsto dall'art.8 DDPR 633/72.
+
+Le fatture rinvenute risultavano, quindi, emesse a fronte di un contratto di appalto stipulato fra la Ditta B e la I srl.. Allegati ai contratti risultavano allegati i capitolati di spesa che, benché scritti in inglese, riportavano in modo dettagliato i lavori da eseguire a bordo delle navi per importi pari a € 1.710.000,00.
+
+Alla luce di quanto reperito in sede di verifica, l'Ufficio deduceva che i lavori innanzi descritti erano da assimilare alle cessioni all'esportazione ex art.8 DPR 633/72 in quanto lavori eseguiti su territori extra UE. Riguardo i contratti di subappalto, l'Ufficio riteneva che agli stessi si estende il trattamento fiscale applicato all'appaltante, in questo caso la HAL Inc., considerato che essi concorrono alla realizzazione dell'opera finale. Quindi, anche le fatture emesse dalla I srl nei confronti della Ditta B non dovevano essere assoggettate ad Iva ex art.8 DPR 633/72.
+
+Ai sensi degli artt. 38 e 39 DPR 600/73, l'Ufficio, con l'accertamento in questione, provvedeva a rideterminare il reddito d'impresa della Ditta B ed a recuperare l'Iva, ai sensi dell'art.54 del DPR 633/72, pari ad € 1.026.000,00 indebitamente detratta, contestando al contribuente le seguenti violazioni di legge:
+
+1- indebita deduzioni di costi per € 9.628,14 pari alla quota eccedente la misura del quinto di un terzo dell'ammontare complessivo delle spese sostenute per spese di rappresentanza eccedenti la quota deducibile; 2- indebita detrazione relativa alle fatture emesse dalla I srl nei confronti della ditta B per un IVA pari a € 1.026.000,00 posto che le prestazioni riferendosi a prestazioni da assimilare alle cessioni alle esportazioni ex art.8 DPR 633/1972 perché lavori eseguiti fuori UE non dovevano essere assoggettate ad IVA.
+
+
+	
+		<req ID="Req1" G="1" P="B">Avverso tale atto la parte presentava ricorso chiedendone l'annullamento</req> 
+		<claim ID="Claim1" G="1" P="B" PRO="Req1">per i seguenti motivi:
+		1-sul rilievo relativo alle spese di rappresentanza, si sosteneva che le stesse si riferivano a spese sostenute dal titolare;</claim>
+		2-<claim ID="Claim2" G="1" P="B" PRO="Req1">sul rilievo riguardante l'indebita detrazione all'IVA relativa alle fatture della I srl, la parte contestava il recupero affermando che le operazioni passive contestate erano state svolte da proprio personale senza nessun subappalto alla I srl;</claim>
+		<arg ID="Arg3" G="1" P="B" PRO="Claim2">che nelle fatture si parlava di produzione e non di prestazioni o simili.</arg>
+	
+
+	
+		<mot ID="Mot1" G="1" O="Claim1|Claim2">Il giudice di prime cure, ravvisando che nel caso si trattava non di prestazioni di servizi ma di cessioni di beni, riteneva corretto sia l'assoggettamento ad Iva effettuato dalla cedente sia la detrazione eseguita dal ricorrente;</mot>
+	 
+	
+		<dec ID="Dec1" G="1" E="1" O="Req1">accoglieva, dunque, il ricorso con la sola esclusione delle spese di rappresentanza non sufficientemente documentate.</dec>
+	
+
+
+
+	
+		<req ID="Req2" G="2" P="A">L'Ufficio appella la decisione in epigrafe,</req> 
+		<claim ID="Claim3" G="2" P="A" PRO="Req2">reiterando la circostanza di come la parte non abbia mai fornito documentazione alcuna, né contabile né extracontabile che smentisca quanto affermato, ovvero che le prestazioni desumibili dalle fatture nn.106-107 e 108, anch'esse allegate al pvc della G.di F. non sono state effettuate ex art.8 bis comma 1, DPR 633/1972.</claim> 
+		<claim ID="Claim4" G="2" P="B" CON="Req2">La contribuente resiste, ribadendo ancora una volta le immotivate ragioni dell'Ufficio generate da un supporto, i tre contratti di subappalti, non veritieri</claim> 
+		<arg ID="Arg4" G="2" P="B" PRO="Claim4">perché recanti firme contraffatte tant'è che sono stati oggetti di denuncia penale.</arg> 
+		<req ID="Req3" G="2" P="B">Nel resto chiede la conferma della decisione di primo grado.</req>
+	
+
+	
+		MOTIVI DELLA DECISIONE
+
+		<mot ID="Mot2" G="2" O="Req2"> Per l'esame della controversia giova premettere quanto previsto dall'art. 8-bis del DPR 633/72, che alla lettera e) stabilisce che sono assimilate alle cessioni all'esportazione, se non comprese nell'art.8: "le prestazioni di servizi compreso l'uso di bacini di carenaggio, relativi trasformazione, assiemaggio, allestimento, arredamento, locazione e noleggio delle navi e degli aeromobili di cui alle lettere a), a-bis),. B) e c), degli apparati motori e loro componenti e ricambi e delle dotazioni di bordo, nonché le prestazioni di servizi relativi alla demolizione delle navi di cui alle lettere a), a-bis) eb)".
+
+		 Quindi, nel caso di specie, si tratta di verificare se le prestazioni desumibili dalle fatture nn.106, 107 e 108, allegate al p.v.c., rientrino o meno tra le previsioni di non assoggettabilità all'imposizione IVA ex art.8 bis, comma 1 del DPR 633/72.
+
+		 Ritiene la Commissione che in base alla previsione dell'art.8 bis DPR 633/72, pur prescindendo dalla esistenza dei tre contratti di subappalto, la cui invalidità non è stata peraltro dedotta nei modi e nei termini di legge, sia del tenore delle commesse che da documenti di trasporto che, infine, dalle fatture, le operazioni ivi descritte rientrino nella non imponibilità ai fini IVA.
+
+		Innanzi tutto, occorre sottolineare come sia proprio l'unicità della direzione e gestione di impresa, e della ditta BP e della I srl, ad evidenziare e confermare come per entrambe fosse ben nota la destinazione dei beni che l'una aveva commissionato all'altra, vale a dire che avrebbero dovuto costituire operazioni inerenti tre navi estere (costruzioni o manutenzioni ovvero riparazioni, modificazioni trasformazioni assiemaggio, allestimento, arredamento di tre navi da crociera).
+
+		 Ha recentemente rilevato la Corte di Cassazione (sentenza n. 20575 del 07.10.2011) che in tema d'IVA l'esenzione di imposta attribuita dall'art.8-bis, comma 1, lett.d) DPR 633/72, in riferimento alle cessioni dei beni destinati a dotazioni di bordo, poiché la citata disposizione riconosce la non imponibilità alle operazioni relative a specifiche ed individuate cessioni di beni e prestazioni di servizi, senza porre alcuna ulteriore condizione per ottenere il beneficio, né è ad essa sovrapponibile la disciplina posta dall'art.8, comma 1, lett. a), del medesimo DPR, che, regolando le esportazioni extracomunitarie, richiede invece la prova dell'avvenuta esportazione del bene, in quanto l'art.8 e l'art.8-bis citati hanno ambiti di applicazione distinti e non sovrapponibili e tra dette norme vi è un rapporto di genus ad speciem, desumibile dall'incipit di quest'ultima previsione normativa, secondo cui le operazioni ivi contemplate non costituiscono "cessioni alla esportazione", ma sono soltanto assimilate a quelle. Ne deriva che la cessione di beni destinati alla "dotazione di bordo" ricade nella disciplina di cui all'art.8, comma 1, lett.a) citato nel solo caso in cui l'operazione venga attuata mediante il trasporto o la spedizione di essi fuori della Comunità europea, mentre si applica la previsione di cui al menzionato art. 8-bis, comma 1, lett.d), quando la consegna dei beni avvenga nello spazio comunitario.
+
+		 Mutatis muntandis vale a dire considerando nella fattispecie la lettera e), invece della lettera d) dell'art. 8 citato, è innegabile che i beni oggetto delle commesse, peraltro significativamente solo genericamente riportati nelle tre fatture, anche a cagione della corrispondenza di importi, erano relativi ad operazioni di lavorazione da eseguirsi su navi da crociera al di fuori dell'ambito comunitario, come tali non imponibili.
+
+		 Consegue, quindi, che erroneamente la contribuente ha detratto l'IVA in quanto l'imposta non può essere detratta per il solo fatto che sia indicata in fattura, laddove la detrazione non è dovuta perché inserita (erroneamente) nella fattura del cedente, ma ne va verificata la detraibilità secondo i principi di legge vigenti (cfr. in tal senso Cassazione sentenza n. 13222/2001).
+
+		 Ha esattamente rilevato l'appellante Ufficio come sia errato il rilievo dei giudici dell'impugnata sentenza secondo cui le prestazioni non dovrebbero essere qualificate quali prestazioni di servizi ma cessioni di beni, posto che l'attività svolta dalla I srl. stata erroneamente assoggettata ad IVA, visto che rientra nell'ambito di un appalto più ampio riguardante l'esecuzione di prestazioni da parte dell'appaltatore generale, ditta B, a favore del committente HAL INC. In riferimento all'ambito applicativo dell'art.8-bis, con la Risoluzione del 18 aprile 1986, n. 356560 il Ministero ha precisato che "...la citata disposizione...(prevede) la non imponibilità sia nei confronti del contratto principale (quello stipulato dal committente con il cantiere o altro assuntore) che di quelli immediatamente derivati (stipulati cioè tra il cantiere o altro assuntore e una o più imprese subcontraenti).
+
+		 L'agevolazione in parola ha assunto carattere meramente oggettivo, giacchè il primo comma, lettera e), dell'art.8-bis non fa più alcuna menzione dei soggetti che effettuano i lavori.
+
+		 Anche alla luce della sopra citata risoluzione va rilevato, quindi, che tutte le prestazioni di servizi necessarie, come mezzo al fine, per la costruzione, manutenzione, riparazione delle navi di cui alla lettera a) e b) dell'art. 8 bis sottostanno al regime IVA della non inopponibilità, a prescindere da particolari requisiti soggettivi degli assuntori di lavori o dagli schemi contrattuali posti in essere per la realizzazione dell'opera, essendo rilevante l'oggetto della prestazione-cessione di beni o assimilata - che l'I srl non poteva non sapere (e ciò a prescindere dalla esistenza del contratto di subappalto) essere destinato ad operazioni rientranti nelle previsioni di non imponibilità di cui alla lettera e), del primo comma, dell'art. 8-bis del DPR 633/72. </mot>
+
+		 Va quindi riformata in parte l'impugnata sentenza e, in conseguenza, respinto tutto il ricorso del contribuente 
+		che va condannato alle spese del grado che liquida come in dispositivo.
+	
+
+	P.Q.M.
+
+		<dec ID="Dec2" G="2" E="1" O="Req2">Accoglie l'appello dell'Ufficio</dec> 
+		e condanna il contribuente al pagamento delle spese che liquida in € 6.854,62 (seimila854,62).
+		Così deciso in XXX l'DD MM 2013.
+	
+
+
+</body>

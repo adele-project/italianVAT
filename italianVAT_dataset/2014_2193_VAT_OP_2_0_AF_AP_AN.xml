@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+
+REPUBBLICA ITALIANA
+IN NOME DEL POPOLO ITALIANO
+
+	REG. GENERALE N° 958/13
+	SENTENZA N° 2193/14
+
+	LA COMMISSIONE TRIBUTARIA REGIONALE DI FIRENZE 
+	SEZIONE 8
+
+	riunita con l'intervento dei Signori:
+		giu1 Presidente
+		giu2 Relatore
+		giu3 Giudice
+	
+
+	ha emesso la seguente
+	SENTENZA
+
+	- sull'appello n. 958/13
+	depositato il DD/MM/2013
+
+	- avverso la sentenza n. 59/5/12 emessa dalla Commissione Tributaria Provinciale di PRATO
+
+	<part P="A">proposto dall'ufficio: AG.ENTRATE DIREZIONE PROVINCIALE DI PRATO</part>
+
+	<part P="B">controparti:
+	CREAF SRL
+	XXX</part>
+
+	difeso da:
+	GDAG
+	XXX
+
+	difeso da:
+	PF
+	XXX
+
+	Atti impugnati:
+	AVVISO DI ACCERTAMENTO n° T8T06T200901/2011 IVA-ALTRO 2007
+
+
+
+	
+		<req ID="Req1" G="1" P="B">La società CREAF SRL, proponeva ricorso avverso l’accertamento, notificato il 30.6.2011, emesso dall’A.d.E di Prato, con il quale veniva recuperato, ai sensi del’art. 54 DPR 633/72, l’Iva detratta nel terzo trimestre 2006 e nel successivo anno 2007 per € 180.955,00 oltre sanzioni.</req>
+		Il recupero dell’imposta era scaturito dall’attività di controllo dalla quale era emerso che la società non era da considerarsi quale soggetto Iva in quanto non perseguiva un fine di lucro ma solo finalità di tipo istituzionale.
+		<claim ID="Claim1" G="1" P="B" PRO="Req1">La ricorrente eccepiva la carenza di motivazione dell’atto notificato</claim> 
+		<claim ID="Claim2" G="1" P="B" PRO="Req1">e l’infondatezza dell’assunto sostenuto dall’Ufficio</claim> 
+		<arg ID="Arg1" G="1" P="B" PRO="Claim2">poiché l’immobile acquistato era stato oggetto di ingenti ristrutturazioni per un lungo periodo. Trattandosi della fase di avvio dell’attività , tali costi e relativa Iva, erano interamente rimborsabili.</arg>
+		<arg ID="Arg2" G="1" P="A" CON="Claim1|Claim2">Si costituiva l’Ufficio osservando che dalla data della sua costituzione fino alla data dell’accertamento, la società non aveva mai posto operazioni attive in attuazione dell’oggetto sociale e per quanto dichiarato in sede di apertura della partita Iva.</arg>
+	
+
+	
+		<dec ID="Dec1" G="1" E="1" O="Req1">La CTP di Prato, con sentenza n. 59/5/12 dep. il 9.10.2012, accoglieva il ricorso compensando le spese.</dec>
+	
+
+
+
+	
+		<claim ID="Claim3" G="2" P="A" PRO="Req2">Appella l’Ufficio contestando le motivazioni esposte nella sentenza impugnata, in riferimento all’art. 4,comma 2, DPR 633/72.</claim>
+		<arg ID="Arg3" G="2" P="A" PRO="Claim3">Ribadisce che la detta società si era costituita con atto del 20.10.2005 e iscritta al registro delle imprese in data 26.102005 presso la CCIA di Firenze. Il corpo sociale era stato costituito dalla Provincia di Prato e dai Comuni di Prato, Montemurlo, Carmignano, Vaiano, Poggio a Caiano, Vernio e Cantagallo, con lo scopo di svolgere di promozione, iniziative di ricerca, innovazione e formazione finalizzate ad accrescere la competitività del sistema economico della Provincia di Prato. 
+		La società aveva sostenuto soltanto costi iniziali per l'acquisto e la ristrutturazione dell’immobile, ma dopo sei anni dalla costituzione e cinque dall’acquisto dell’immobile, essa non aveva né iniziato alcuna attività economica, né era stato utilizzato tale immobile.
+		L’assenza di fine lucrativo era stata confermata anche dalla disamina del Piano Economico e Finanziario nel quale era stato scritto che le attività che la società andrebbe a svolgere erano funzionali agli scopi istituzionali degli enti soci, Le fonti di finanziamento per la realizzazione del centro erano costituite principalmente da fonti non onerose (capitale sociale sottoscritto dagli enti pubblici, fondi erogati a fondo perduto dal CIPE e dalla Regione Toscana).
+		A seguito del disposto dell’art. 4 DPR 633/72 e dell’art. 4 della VI Direttiva Comunitaria, il mancato compimento di operazioni Iva attive, costituisce elemento su cui fondare l’inesistenza soggettiva Iva di CREAF srl. Tra l’altro, siamo in presenza di un difetto di inerenza del costo poiché la società non aveva mai prodotto la dovuta prova.</arg>
+		
+		<req ID="Req2" G="2" P="A">Chiede la riforma della sentenza,</req> con condanna alle spese. Inoltre, presenta istanza per la discussione in pubblica udienza.
+
+		<arg ID="Arg5" G="2" P="B" PRO="Claim3">Nelle controdeduzioni all’appello, la società contesta le motivazioni addotte dell’Ufficio poiché la norma tributaria prevista dall’art. 4, comma 2, punto 1, ha ritenuto di attribuire in modo diretto a fiori la qualifica di soggetto Iva a determinati soggetti giuridici. 
+		I requisiti sono stati verificati dal Notaio, il Conservatore del Registro delle Imprese e il Giudice del Registro.
+
+		Nel Piano 2010 è stato detto che la Società compirà in prevalenza operazioni di locazione, ricerca e a sviluppo e produzione/cessione di energia elettrica. Tra l’altro, come stabilito dall’ AdE con la circolare n. 46/E del 19.7/2007 e la risoluzione n. 32 del 4/4/2012, la cessione di energia di impianto fotovoltaico superiore a 20K W rappresenta attività commerciale ai sensi dell’art. 2195 c.c.</arg>
+
+		<arg ID="Arg6" G="2" P="B" PRO="Claim4">Circa la mancata inerenza dei costi sostenuti, ribadisce che tali costi sono stati sostenuti nella fase recedente l’inizio dell’attività vera e propria, senza le quali l’attività non avrebbe potuto essere avviata. Spese che sono state regolarmente previste e riscontrate nei piani economici/finanziari redatti: nella fase progettuale e programmatica dell’operazione e revisionate nella fase attuativa dei lavori.</arg>
+
+		<claim ID="Claim5" G="2" P="B" PRO="Req3">Con appello incidentale, la società impugna la sentenza per mancato accoglimento della domanda sul difetto di motivazione dell’avviso impugnato.</claim>
+
+		<req ID="Req3" G="2" P="B">Chiede l’accoglimento dell’appello incidentale e respingere l’appello dell’Ufficio,</req> con condanna alle spese.
+
+		<arg ID="Arg7" G="2" P="B" CON="Claim3">Con ampie memorie illustrative parte appellata fornisce un aggiornamento sulla situazione concreta in cui si trova la Società e lo stadio attuale dell’attività svolta dalla medesima.
+
+		In particolare fa presente che l’attività si è ormai avviata in più direzioni e campi d’azione. A conferma, allega la prima fattura emessa in data 17.2.2014 a T- Consorzio Italo Cinese, costituito nel 2013 tra la CREAF e WSV Srl., per l’imponibile di € 18.273,71 relativo al progetto per la creazione del centro di ricerca sul tessile e nuovi materiali.</arg>
+	
+
+	MOTIVI DELLA DECISIONE
+
+		 L’appello dell’Ufficio non è fondato.
+
+		<mot ID="Mot1" G="2" O="Claim3">
+			 Dalla documentazione in atti si rileva che la Società ricorrente è stata costituita nel 2005 con il corpo sociale costituito da vari enti locali quali Provincia di Prato, Comune di Prato ed altri Comuni limitrofi, avente per oggetto l’attività di promozione e realizzazione di iniziative di ricerca, innovazione e formazione ad accrescere la competitività del sistema economico della Provincia di Prato, con particolare riferimento alle imprese del distretto tessile.
+
+			 Per lo svolgimento della suddetta attività aveva posto in essere, nell’anno 2006, l’acquisto e la ristrutturazione di un fabbricato per destinarlo a centro congressuale coerente con il progetto industriale perseguito.
+
+			 Dal 20.9.2005 fino all’ottobre 2010, l’organo amministrativo aveva redatto annualmente il Piano Economico Finanziario in riferimento agli interventi necessari per la sua ristrutturazione e/o al loro avanzamento.
+
+			 Tale stato di avanzamento lavori è stato aggiornato dalla Società alla data di emissione dell’avviso di accertamento del 21.6.2011.
+
+			E' chiaro che negli anni precedenti l’avviso di accertamento, l’attività non era stata ancora messa in essere, nonostante che nel Piano 2010 fossero indicate le varie attività dalle quale ottenere dei ricavi per far fronte al costo sostenuto per l’investimento effettuato.
+
+			La Società, negli anni suddetti, ha portato sempre a credito l’Iva pagata nelle fatture emesse per i lavori effettuati dai vali soggetti.
+
+			L’Ufficio, però, non ha ritenuto la Società quale soggetto passivo IVA non esercente attività d’impresa,ex art. 4, comma 1 DPR 633/72 e, conseguentemente, recuperava il credito dell'IVA in quanto indetraibile.
+
+			 Dobbiamo osservare che, contrariamente alla tesi dell’ Ufficio, il successivo comma 2 considera in ogni caso effettuate nell’esercizio d’impresa, le cessioni e i servizi fatti anche dalle società di capitale.
+
+			Questa presunzione di legge non ammette verifiche posteriori da parte dell’ Ufficio,” poiché la società di capitali rappresenta sempre un valido soggetto IVA.
+
+			 Tra l'altro nelle attività previste nel ciclo attivo dell’attività era prevista la produzione/cessione di energia elettrica, la quale rientra nel novero delle attività commerciali ai sensi dell’art. 2195, come confermato anche dalla circolare n. 12/E del 9.4.2009.
+
+			 Appare evidente che le spese sostenute per la predisposizione dei pannelli fotovoltaici devono essere considerate inerenti all’attività, cosi come le altre spese per la ristrutturazione e predisposizione dei locali.
+
+		 	 La detraibilità dell’Iva per i beni e Servizi acquistati © importati, spetta anche SE NON sono state effettuate a valle operazioni imponibili, come disposto dalla sentenza della Corte di Giustizia Europea del 15.7.09, causa C-368/09.
+
+			Quanto sopra detto trova conferma dalla lettura delle memorie illustrative depositate dalla Società e dalla documentazione allegata.
+
+			 Dalla loro disamina, emerge che, una volta completato il II Lotto di lavori e della riconosciuta abilità dei locali, come da domanda del 23.9.2013, e a seguito di una sottoscrizione del 7.10.2010 tra la Presidenza del Consiglio dei Ministri della Repubblica Italiana e il Ministero della Scienza e Tecnologia della Repubblica Popolare Cinese, era stato costruito un consorzio tra la Società ricorrente ed un Consorzio Italo Cinese di ricerca sul tessile e nuovi materiali, con l’obiettivo di rafforzare la collaborazione nel campo della ricerca € innovazione in ambito tessile tra Italia e Cina, con sede presso i locali della suddetta società per una superficie di 150 mq.
+
+			 Successivamente veniva sottoscritto un similare accordo tra la Regione Toscana € il Ministero della Scienza e Tecnologia delle Repubblica Popolare Cinese.
+
+			In ragione di tale accordo la Società in data 17.2.2014 ha emesso la sua prima fattura di € 18.273,71 oltre Iva relativa al progetto per la creazione del Centro di ricerca sul tessile e nuovi materiali. 
+			 L’attività appare già avviata, come dalla pubblicazione del programma e della brochure informativa del corso di formazione (all. 5 e 6).
+
+			Tra l’altro la Società è prossima alla formalizzazione di un contratto di locazione con il Consorzio per € 24.000,00 annuali.
+
+			 In conclusione, riteniamo che fin dalla sua origine la Società si era costituita per svolgere le varie attività in esercizio d’impresa, conferma avvenuta, anche se tardivamente, con l’emissione della prima fattura, e, quindi, l’ Iva indicata a credito è legittima.</mot>
+
+		 Per ultimo, riteniamo non fondato l’appello incidentale.
+
+		<mot ID="Mot2" G="2" O="Req3">
+			 Come rilevato dai primi giudici, l’obbligo di motivazione degli atti tributari viene assolto quanto il ricorrente sia in grado di conoscere le ragioni in fatto e in diritto che hanno determinato la rettifica dell’atto impugnato.
+			 Dalla disamina dell’avviso di accertamento si rileva che l’Ufficio ha ben esplicato le ragioni per non riconoscere la detrazione dell’Iva, mettendo il contribuente in grado di difendersi in modo adeguato e esplicare le ragioni dell’Ufficio in fase contenziosa.
+		</mot>
+	
+
+	P.Q.M.
+
+		<dec ID="Dec2" G="2" E="0" O="Req2">La Commissione respinge l’appello dell’Ufficio</dec> 
+		&gt;che condanna alla refusione delle spese in favore della contribuente liquidate in € 1.000,00.
+
+		
+			Firenze,
+			DD.MM.2014
+		
+
+		Il Presidente 
+		giu1
+
+		Il Relatore 
+		giu2
+	
+</body>

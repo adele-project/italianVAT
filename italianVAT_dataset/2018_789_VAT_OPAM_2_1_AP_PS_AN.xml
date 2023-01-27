@@ -1,0 +1,197 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+
+REPUBBLICA ITALIANA
+ IN NOME DEL POPOLO ITALIANO
+ REG.GENERALE N° 2775/2015
+
+ LA COMMISSIONE TRIBUTARIA REGIONALE DI E. ROMAGNA
+ 
+ giu1 Presidente e Relatore.
+ giu2 Giudice 
+ giu3 Giudico 
+ 
+ ha emesso la seguente
+ SENTENZA
+
+ - sull'appello n. 2775/2015
+ depositato il DD/M/2015
+ - avverso la pronuncia sentenza n. 280/2015 Sez:3 emessa dalla Commissione Tributaria Provinciale di MODENA
+ <part P="A">contro:
+ IT S.R.L.
+ XXX</part>
+
+ difeso da:
+ BM
+ XXX
+ e da
+ FP
+ XXX
+
+ <part P="B">proposto dall'appellante:
+ AG. ENTRATE DIREZIONE PROVINCIALE MODENA</part>
+
+ Atti impugnati:
+ AVVISO DI ACCERTAMENTO n° THH038Q01160/2013 IRPEF-IMPR.ORD.
+ AVVISO DI ACCERTAMENTO n° THH038Q01160/2013 IVA-ALTRO 2007
+
+SVOLGIMENTO DEL PROCESSO
+
+ 
+ <req ID="Req20" G="2" P="B">La Direzione Provinciale di Modena dell’Agenzia delle Entrate propone appello alla sentenza n.280/03/2015 della Commissione Tributaria Provinciale di Modena</req>
+ 
+ 
+
+ 
+ <dec ID="Dec1" G="1" E="1" O="Req1">che ha dichiarato illegittimo l'avviso di accertamento
+ n.THH038001160/2013 per l'anno d'imposta 2007</dec>
+ 
+ 
+ 
+ <mot ID="Mot1" G="1" O="Req1">perchè notificato oltre il termine ordinario di decadenza
+ non sussistendo i presupposti per il raddoppio dei termini previsto dall'art.37 del d.I.n.223/2006,atteso che
+ il decreto di archiviazione evidenzia il fatto che non ha mai assunto rilevanza penale da ciò il venir meno
+ dell'obbligo di denuncia e conseguentemente l'operatività del maggior termine di decadenza per
+ l'accertamento.
+ L’Ufficio,infatti,ha notificato gli accertamenti per gli anni 2004/2007 utilizzando il
+ raddoppio dei termini perchè la società appellata ha dedotto negli anni costi per sponsorizzazioni effettuate
+ da parte di una società di pallamano denominata AVS che sono state oggetto di controllo e
+ verifica da parte della Guardia di Finanza che ha riscontrato che le fatture emesse dalla AVS
+ erano in realtà riferite a prestazioni eseguite da altre società satelliti e facenti capo ad un unico soggetto
+ che così evitava di superare il limite di euro 250.000,00 per conservare il regime fiscale agevolato delle
+ società sportive con la conseguenza che tali fatture sono state ritenute per operazioni inesistenti che per gli
+ anni 2004/2008 sono ammontate ad euro 125.000 oltre IVA euro 25.000.
+ Per l’anno 2004/5/6/7 il Primo Giudice riteneva non sussistenti i termini per il raddoppio dei termini per
+ l'accertamento utilizzato dall’ufficio non essendo stata effettuata alcuna denuncia penale ed ha ritenuto
+ che la sopraggiunta archiviazione penale facesse stato sul raddoppio dei termini</mot>
+ 
+ 
+ <dec ID="Dec10" G="1" E="1" O="Req1"><req ID="Req1" G="1" P="A">accogliendo il ricorso</req></dec>
+ 
+ e compensando le spese.
+ 
+
+
+ 
+ <req ID="Req10" G="2" P="B">Con l'appello,</req>
+ <claim ID="Claim1" G="2" P="B" PRO="Req3"> l'Ufficio contesta il fatto che in sede di mediazione non è stato depositato l’atto impugnato contravvenendo la circ.n.9/13 ed il comma 6 dell’art.17-bis del D.Lgs.n.546/92 con rinvio al comma 4 dell’art.22 </claim>
+ <req ID="Req3" G="2" P="B"> e chiede l’inammissibilità del ricorso</req> 
+ <claim ID="Claim2" G="2" P="B" PRO="Req3">e chiarisce di non aver violato l’art.7 comma primo della legge 27/7/2000 n.212</claim>
+ <arg ID="Arg1" G="2" P="B" PRO="Claim2">perché ha riportato negli avvisì il contenuto essenziale del p.v.c. della Guardia di Finanza che ha dato la stura agli accertamenti </arg>
+ <claim ID="Claim3" G="2" P="B" PRO="Req3">e,quanto al raddoppio dei termini,chiarisce che il procedimento penale non ha alcuna influenza sul medesimo</claim> 
+ <arg ID="Arg2" G="2" P="B" PRO="Claim3">in quanto la Corte Costituzionale,con l'ordinanza n.247/2011,ha stabilito che unica condizione affinchè operi la normativa sul raddoppio dei termini è l'esistenza di una violazione per la quale sussista l'obbligo di denuncia di un reato tributario ai sensi dell'art.331 c.p.p.,indipendentemente dalla circostanza che tale obbligo sia stato o meno adempiuto,per cui le risultanze del p.v.c. della Guardia di Finanza sono state integralmente trascritte nell'avviso impugnato che deve essere dichiarato legittimo </arg>
+ <req ID="Req2" G="2" P="B">con richiesta di riforma della sentenza impugnata</req> 
+ e rifusione delle spese di giudizio.
+
+ <claim ID="Cliam4" G="2" P="A" PRO="Req4">Si costituisce in giudizio la società appellata,come rappresentata e difesa,per eccepire la nullità dell'avviso impugnato per mancata sottoscrizione da parte del direttore provinciale di Modena LA,</claim>
+ <arg ID="Arg3" G="2" P="A" PRO="Claim4"> ma sottoscritto dal Capo Team Controlli SG di cui non è allegata alcuna delega di firma</arg> 
+ <claim ID="Claim5" G="2" P="A" PRO="Req4">e per eccepire la nullità dell'atto di appello sottoscritto da VP </claim>
+ <arg ID="Arg4" G="2" P="A" PRO="Claim5">in quanto il dipendente delegato è privo della qualifica di dirigente risultando,'per tabulas',che il direttore provinciale è ZP,con la conseguenza che la sentenza impugnata dall'ufficio è passata in giudicato per nullità del gravame.</arg>
+
+ <arg ID="Arg5" G="2" P="A" CON="Claim3">Quanto al raddoppio dei termini,la notizia di reato per le annualità 2004/2006 è stata trasmessa da parte della Guardia di Finanza con P.P.915/13 R.G.n.r.,ma in data DD/MM/2013,il Sostituto Procuratore della Repubblica titolare delle indagini ha presentato al G.I.P. nel P.P.2913/13 R.G.GIP,MT, richiesta di archiviazione condivisa con la formula piena “il fatto non sussiste”, per cui non è ammissibile tale raddoppio.</arg>
+
+ <claim ID="Claim6" G="2" P="A" CON="Req2"> Quanto ai merito,l'entità delle sponsorizzazioni negli anni pari ad euro 125.000,rapportate al volume di
+ affari della società pari ad euro 15.932.221 dimostrano la veridicità delle sponsorizzazioni effettuate e
+ fatturate non dalle società satelliti accertate dalla Guardia di Finanza ma dalla AVS
+ effettivamente esercitante l'attività sportiva,tranne una fattura di euro 3.000 rilasciata dalla APD nell'anno 2005.</claim>
+
+ <req ID="Req4" G="2" P="A"> Conclude con la richiesta di conferma della decisione impugnata</req> 
+ e rifusione delle spese di giustizia.
+ All'odierna trattazione in Pubblica Udienza,le parti si rimettono agli atti.
+ 
+ indi la causa viene posta in decisione.
+
+ MOTIVI DELLA DECISIONE
+ L'appello è fondato e va accolto.
+
+ <mot ID="Mot2" G="2" O="Claim3"> in punto del raddoppio dei termini per l'accertamento,la Corte di Cassazione n.3264 dei DD/MM/2018 in
+ relazione alie precedenti sentenze n.16728/2016 e 26037/2016,rifacendosi alla sentenza della Corte
+ Costituzionale n.247 del 25/7/2011,ha precisato che i termini di accertamento sono raddoppiati in presenza
+ di seri indizi di reato che facciano insorgere l'obbligo di presentazione di denuncia penale anche se questa
+ sia stata archiviata o presentata oltre i termini di decadenza,in quanto non si tratta di raddoppio dei termini
+ bensì di un nuovo termine di decadenza applicabile sulla base della mera sussistenza di seri indizi di reità
+ che è un dato obbiettivo non lasciato alla discrezionalità dell'ufficio ma che deve essere accertato dal
+ giudice,con la conseguenza che il raddoppio non è escluso per il fatto dell'intervenuta archiviazione della
+ denuncia non rilevando né l'esercizio dell'azione penale da parte del pubblico ministero,nè la successiva
+ emanazione di una sentenza di condanna o di assoluzione da parte del giudice penale proprio in virtù del
+ doppio binario tra giudizio penale e procedimento tributario,così come statuito dalla Corte di Cassazione
+ con l'ordinanza n.16262 del 28/06/2017.
+ Pertanto,è del tutto indifferente la data in cui viene effettuata la comunicazione di notizia di reato,perchè
+ quello che invece assume rilevanza ai fini del raddoppio dei termini dio accertamento è la circostanza che le
+ violazioni tributarie accertate integrino fatti anche penalmente rilevanti.
+ Conseguentemente,nella fattispecie,risulta evidente che l'avvenuta archiviazione della denuncia presentata
+ dalla Guardia di Finanza non è di per se stessa d'impedimento all'applicazione del termine raddoppiato per
+ l'accertamento,proprio perchè non rileva né l'esercizio dell'azione penale da parte del P.M.,ai sensi
+ dell'art.405 c.p.p.,mediante la formulazione dei capi di imputazione ,nè la successiva emanazione di una
+ sentenza di condanna o di assoluzione da parte del giudice penale,atteso il regime del doppio binario tra
+ giudizio penale e procedimento e processo tributario.</mot>
+
+ <mot ID="Mot3" G="2" O="Req2"> Poichè la Consulta ha anche affermato il principio che il giudice tributario dovrà controllare ta sussistenza
+ dei presupposti dell'obbligo di denuncia compiendo una valutazione ora per allora,l'esame del quadro
+ indiziario compiessivo quale emerge dalle ispezioni,verifiche e controlli effettuati dalla Guardia di
+ Finanza,organo fiancheggiatore e di supporto all'azione degli uffici finanziari,le cui risultanze hanno fede
+ privilegiata sino a querela di falso che non è entrata a far parte del presente procedimento, è evidente che il
+ quadro probatorio scaturito dal processo verbale di constatazione della Guardia di Finanza del
+ DD/MM/2013,ha messo in luce un'attività fraudolenta ai danni dell'erario consistente nella inesistenza
+ soggettiva ovvero quella relativa alla diversità tra soggetto che ha effettuato la prestazione e quello
+ indicato in fattura e l'indicazione di un soggetto diverso da quello che ha effettuato la fornitura non è
+ circostanza indifferente ai fini dell'IVA,dal momento che la qualità del venditore può incidere sulla misura
+ dell'aliquota e,conseguentemente, sull'entità dell'imposta che l'acquirente può legittimamente detrarre.
+ Per l'anno 2007,l'entità del recupero IVA è pari ad euro 6.000,00 perchè le prestazioni oggetto dei contratti
+ sono state effettuate da un altro soggetto in quanto la AVS non partecipava ad alcun campionato
+ e,quindi,le sponsorizzazioni non erano da essa effettuate.</mot>
+
+ <mot ID="Mot4" G="2" O="Claim4|Claim5"> Quanto alle eccezioni di parte appellata sul difetto di delega di firma dell'atto impugnato e dell'atto di
+ appello,la giurisprudenza di legittimità è concorde nello statuire che,nel processo tributario,la nullità
+ dell'avviso di accertamento per vizi propri non è rilevabile d'ufficio e la relativa eccezione,se non formulata
+ nel giudizio di primo grado,non è ammissibile qualora venga proposta nelle successive fasi del giudizio.
+ Con l'eccezione relativa all'atto impugnato,non si evince se posta in primo grado e riproposta in
+ appello,tuttavia,poichè la questione riguarda il fatto che il delegato del direttore provinciale non avrebbe la
+ qualifica di dirigente-vincitore di concorso,soccorrono le sentenze della Corte di Cassazione n.22800,22803
+ e 22810 del 09/11/2015 che hanno stabilito che la delega di firma al funzionario incaricato che quindi non
+ ha sostenuto un concorso da dirigente,non è di per sé motivo di nullità dell'atto perchè l'art.42 del DPR
+ n.600/73 impone,sotto pena di nullità,che l'atto sia sottoscritto dal capo dell'ufficio o da altro impiegato
+ delia carriera direttiva da lui delegato senza richiedere che il capo ufficio o il funzionario delegato abbia a
+ rivestire anche una qualifica dirigenziale.</mot>
+
+ Pertanto,sul punto,le controdeduzioni di parte appellata che non costituiscono nemmeno appello
+ incidentale,devono essere rigettate.
+
+ <mot ID="Mot5" G="2" O="Claim4|Claim5">Quanto all'eccezione sulla firma dell'appello,ia Corte di Cassazione,con la sentenza n.706 del 13/01/2017,
+ ha affermato il principio di diritto che “in relazione alla ritenuta necessità della delega del Direttore
+ Provinciale per la sottoscrizione dell'atto di appello,nel caso sottoscritto dal funzionario dell'Ufficio,dal
+ Capo Team Legale e dal Capo Ufficio Legale,sulla base del principio,secondo cui 'in tema di contenzioso
+ tributario,gli artt.10 e 11,comma 2,del D.Lgs.n.546/92,riconoscono la qualità di parte processuale e
+ conferiscono la capacità di stare in giudizio all'ufficio locale dell'agenzia delle entrate nei cui confronti è
+ proposto il ricorso,organicamente rappresentato dal direttore o da altra persona preposta al reparto
+ competente,da intendersi con ciò stesso delegata in via generale,sicchè è validamente apposta la
+ sottoscrizione dell'appello dell'ufficio finanziario da parte del preposto al reparto competente,anche ove
+ non sia esibita in giudizio una corrispondente specifica delega,salvo che non sia eccepita e provata la non
+ appartenenza del sottoscrittore all'ufficio appellante o,comunque,l'usurpazione del potere d'impugnare la
+ sentenza”,così come anche la Corte di Cassazione n.6691/2014.
+ Pertanto,nei sensi anzidetti,che assorbono evidentemente entrambe le eccezioni sull'atto impugnato e
+ sull'atto di appello,ribadito che la Corte di legittimità ha fatto chiarezza sulla vicenda degli atti firmati dai
+ funzionari dichiarando validi gli atti emessi dai dirigenti dell'Agenzia delle Entrate decaduti a seguito della
+ sentenza della Corte Costituzionale n.37 del 2015,purchè trattasi di capi dell'ufficio fiscale che non devono
+ essere necessariamente dirigenti,le deduzioni della società appellata sul punto devono essere anch'esse
+ rigettate.</mot>
+
+ Per le motivazioni suesposte ed ogni altra eccezione disattesa restando assorbita da quanto 
+ prefatto, l'appello dell'ufficio dev'essere accolto 
+ ed,alla soccombenza della parte appellata,deve seguire la condanna al pagamento delle spese del doppio grado di giudizio che vengono complessivamente liquidate come da dispositivo.
+ 
+ P.Q.M.
+ <dec ID="Dec2" G="2" E="1" O="Req2">La Commissione Tributaria Regionale dell'Emilia Romagna di Bologna,sezione n.9,definitivamente
+ pronunciando,accoglie l'appello dell'ufficio</dec> 
+ e condanna la società appellata al pagamento delle spese del
+ doppio grado di giudizio che liquida complessivamente in euro 3.800,00.
+
+ 
+ Così deciso in Bologna,lì DD/MM/2018
+ 
+ 
+ Il RELATORE - PRESIDENTE
+ 
+
+</body>

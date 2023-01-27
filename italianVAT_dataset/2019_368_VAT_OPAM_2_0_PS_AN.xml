@@ -1,0 +1,171 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+REPUBBLICA ITALIANA
+IN NOME DEL POPOLO ITALIANO
+
+	LA COMMISSIONE TRIBUTARIA REGIONALE
+	DI XXX SEZIONE 3
+
+	riunita con l'intervento dei Signori:
+
+	giu1 Presidente
+	giu2 Relatore
+	giu3 Giudice
+
+	REG.GENERALE
+
+	N° 225/2019
+
+	ha emesso la seguente
+	SENTENZA
+
+	- sull'appello n. 225/2019
+	depositato il DD/MM/2019
+
+	- avverso la pronuncia sentenza n. 592/2018 emessa dalla Commissione Tributaria
+	Provinciale di XXX
+
+	<part P="A">contro:
+	AG. ENTRATE DIREZIONE PROVINCIALE XXX</part>
+
+	<part P="B">proposto dagli apppellanti:
+	PS DI CF E C. SNC
+	XXX</part>
+
+	difeso da:
+	CCG
+	XXX
+
+	<part P="C">CF1
+	XXX</part>
+
+	difeso da:
+	CCG
+	XXX
+
+	<part P="D">CF2
+	XXX</part>
+
+	difeso da:
+
+	CCG 
+	XXX
+
+	<part P="E">MC
+	XXX</part>
+
+	difeso da:
+	CCG
+	XXX
+
+	<part P="F">CM
+	XXX</part>
+
+	difeso da:
+	CCG
+	XXX
+
+	Atti impugnati:
+
+	AVVISO DI ACCERTAMENTO n° T3N010703094/2017 IRPEF-ADD.REG. 2012
+	AVVISO DI ACCERTAMENTO n° T3N010703094/2017 IRPEF-ADD.COM. 2012
+	AVVISO DI ACCERTAMENTO n° T3N010703094/2017 IRPEF-ALTRO 2012
+	AVVISO DI ACCERTAMENTO n° T3N010703096/2017 IRPEF-ADD.REG. 2012
+	AVVISO DI ACCERTAMENTO n° T3N010703096/2017 IRPEF-ADD.COM. 2012
+	AVVISO DI ACCERTAMENTO n° T3N010703096/2017 IRPEF-ALTRO 2012
+	AVVISO DI ACCERTAMENTO n° T3N010703131/2017 IRPEF-ADD.REG. 2012
+	AVVISO DI ACCERTAMENTO n° T3N010703131/2017 IRPEF-ADD.COM. 2012
+	AVVISO DI ACCERTAMENTO n° T3N010703131/2017 IRPEF-ALTRO 2012
+	AVVISO DI ACCERTAMENTO n° T3N010703136/2017 IRPEF-ADD.REG. 2012
+	AVVISO DI ACCERTAMENTO n° T3N010703136/2017 IRPEF-ADD.COM. 2012
+	AVVISO DI ACCERTAMENTO n° T3N010703136/2017 IRPEF-ALTRO 2012
+	AVVISO DI ACCERTAMENTO n° T3N020703085/2017 IVA-OP.IMPONIB. 2012
+	AVVISO DI ACCERTAMENTO n° T3N020703085/2017 IRAP 2012
+
+
+OGGETTO DELLA DOMANDA E SVOLGIMENTO DEL PROCESSO
+
+	
+		<req ID="Req1" G="1" P="B|C|D|E|F">La società PS Di CF e C SNC ed i soci CF, MC e CM con sede in XXX ed in concordato, hanno interposto tempestivo appello avverso la sentenza della Commissione Tributaria Provinciale di XXX del DD/MM/18</req>
+	
+	
+		<dec ID="Dec1" G="1" E="0" O="Req1">che ha respinto i ricorsi riuniti avverso gli avvisi di accertamento emessi per IRES IRPEF IRAP e IVA anno 2012.</dec>
+	
+
+
+Con tali atti veniva ricalcolato l’imponibile societario e le imposte per complessivi euro 146.852 trattandosi di costi indebitamente dedotti dal reddito per fatture emesse a fronte di prestazioni oggettivamente inesistenti della ditta LT e, per i soci, per reddito di partecipazione.
+
+
+	
+		<req ID="Req10" G="1" P="B|C|D|E|F">La società ed i soci, restando negativa la richiesta di accertamento con adesione, impugnavano gli atti eccependo varie illegittimità</req>
+	 
+	
+		<dec ID="Dec10" G="1" E="0" O="Req1">ma i primi giudici rigettavano il ricorso</dec> 
+		con condanna alle spese.
+		
+
+
+
+	
+		<req ID="Req2" G="2" P="B|C|D|E|F">Ora la società ed i soci appellano la sentenza ritenuta errata:</req> 
+		<claim ID="Claim10" G="2" P="B|C|D|E|F" PRO="Req2">deducono anzitutto l’erroneità del capo della sentenza</claim> 
+		<arg ID="Arg5bis" G="2" P="B|C|D|E|F" PRO="Claim10">che ha ritenuta infondata la censura circa l’obbligo di allegazione agli atti della delega del dirigente-direttore dell’ufficio al funzionario firmatario degli atti impositivi.</arg> 
+		<claim ID="Claim1" G="2" P="B|C|D|E|F" PRO="Req2">Rilevano quindi la carente motivazione della sentenza</claim> 
+		<arg ID="Arg1" G="2" P="B|C|D|E|F" PRO="Claim1">in quanto, in caso di contestazione, spetta all’ufficio dare prova della corretta delega che non è stata documentata neppure in corso di giudizio cosicchè la stessa è irregolare.</arg>
+
+
+		<claim ID="Claim2" G="2" P="B|C|D|E|F" PRO="Req2">Come secondo motivo d’impugnazione deducono illegittimità degli atti per non essere stato attivato, prima della loro emissione, il contraddittorio preventivo con i contribuenti</claim> 
+		<arg ID="Arg2" G="2" P="B|C|D|E|F" PRO="Claim2">e ciò ha di fatto violato il loro diritto di difesa non avendo potuto dimostrare la correttezza del loro operato.
+		Rilevano che l’ufficio non abbia mai disconosciuto l’esistenza dei cantieri e lo svolgimento dei lavori essendosi limitato a dubitare che il LT non avesse mai effettuato le prestazioni fatturate e si trattasse quindi di operazioni soggettivamente inesistenti. In punto di diritto, pur discostandosi da quanto asserito dalla Cassazione con sent. 24823/15,gli appellanti deducono sussistere l’obbligo di contraddittorio preventivo endo procedimentale: se questo fosse stato attivato la società avrebbe dimostrato che la snc avesse un credito nei confronti della omonima srl e tale credito era stato ceduto a favore del sig. LT e questo è l’errore commesso dall’ufficio in quanto dimostra il pagamento del debito nei confronti del LT; erronea quindi la sentenza laddove evidenzia che i ricorrenti non abbiano fornito prova del pagamento in quanto la società ha documentato i rapporti commerciali con il LT intercorrenti da molti anni.</arg>
+
+		<arg ID="Arg3" G="2" P="B|C|D|E|F" PRO="Claim3">Circa la ritenuta inesistenza oggettiva delle operazioni gli appellanti evidenziano che la PS Di CF e C SNC sia cosa diversa dalla omonima srl e dalla sas e criticano la sentenza che non ha preso in considerazione i documenti prodotti senza motivare sul punto; circa la prima fattura n.1/12 argomenta trattarsi di lavori eseguiti in due cantieri a XXX e a XXX mentre per le fatture 18 e 26/12 rilevano trattarsi di affitto di un capannone alla soc. EI (documentazione chiesta ma non ottenuta da tale società); diverse invece le lavorazioni della fattura n.28/12 di cui produce rilievi fotografici dei lavori eseguiti dalla ditta LT;</arg> 
+
+		<claim ID="Claim3" G="2" P="B|C|D|E|F" PRO="Req2">dopo aver evidenziato che la società era costretta a fruire della manodopera esterna a causa della riduzione del 50% delle sue maestranze, gli appellanti deducono che non sussista la prova della fondatezza dei rilievi accertati dai verificatori in quanto riferiti al LT e alla sua impresa.</claim>
+
+		<claim ID="Claim4" G="2" P="B|C|D|E|F" PRO="Req2">Da ultimo deducono l’erroneità della sentenza per aver dichiarato inammissibili i ricorsi dei soci CF2, MC e CM </claim> 
+		<arg ID="Arg4" G="2" P="B|C|D|E|F" PRO="Claim4">in quanto estranei alla gestione della società e conclusivamente chiedono la completa riforma della sentenza</arg> 
+		con vittoria di spese. 
+
+		<req ID="Req3" G="2" P="A">L'Agenzia delle Entrate di XXX si è regolarmente costituita in giudizio presentando contro deduzioni all’appello chiedendone il rigetto;</req> 
+		<arg ID="Arg5" G="2" P="A" CON="Claim10">dopo aver richiamato i fatti di causa deduce che gli appellanti abbiano riproposto le censure già respinte in primo grado e, circa la delega di firma, definiscono la impugnazione errata e pretestuosa stante la copiosa giurisprudenza di cassazione in materia;</arg> 
+		<arg ID="Arg6" G="2" P="A" CON="Claim2">anche la ritenuta violazione del contraddittorio endo procedimentale è infondata trattandosi di accertamento “a tavolino” né gli appellanti hanno dimostrato la c.d. prova di resistenza e cioè che l’eventuale svolgimento del contraddittorio avrebbe fatto arrivare l’ufficio a diverse conclusioni circa il recupero;</arg> 
+		<arg ID="Arg7" G="2" P="A" CON="Claim2">dopo aver definito fantasiosa la tesi della inesistenza soggettiva delle operazioni, l’ufficio deduce che la documentazione prodotta in appello sia inidonea a fornire la prova dell’esistenza delle operazioni fatturate e, a tal fine, reitera le motivazioni dell’accertamento basate soprattutto sul mancato pagamento del debito alla ditta LT, trattandosi di presunzioni gravi, precise e concordanti cui gli appellanti non hanno fornito prova contraria come era loro specifico onere; da ciò consegue la richiesta di conferma della sentenza </arg>
+		con vittoria di spese.
+	
+La causa era trattenuta in decisione all’udienza pubblica odierna dopo aver sentito i rappresentanti delle parti costituite.
+
+	MOTIVI DELLA DECISIONE
+
+		L’appello è infondato e merita di essere rigettato in quanto non risulta condivisibile nessuna delle censure mosse alla decisione dei primi giudici:
+
+		<mot ID="Mot1" G="2" O="Claim1">infondato anzitutto il primo motivo della censura circa l’obbligo di allegazione agli atti della delega di firma del dirigente al funzionario che ha sottoscritto l’atto atteso che l’art. 42 DPR 600/73 “non contiene alcuna specificazione in ordine alla modalità di rilascio della delega, alla sua funzione ed ai requisiti di validità”. Non sussiste pertanto alcun obbligo di allegare agli atti impositivi la delega di firma del dirigente - direttore dell’ufficio e tale principio è stato affermato costantemente dalla Corte di Cassazione e, da ultimo, con sentenze nn. 11013 e 19190/19 cosicchè la motivazione degli appellanti risulta pretestuosa anche in considerazione del fatto che l’ufficio ha prodotto in giudizio la documentazione comprovante l’esistenza della delega avente data certa ed anteriore alla sottoscrizione degli atti da parte dei funzionari che, quali appartenenti alla ex carriera direttiva (ora terza area funzionale), hanno ed avevano la piena rappresentanza dell’ufficio e del suo potere impositivo.</mot>
+
+		<mot ID="Mot2" G="2" O="Claim2">Anche il secondo motivo d’appello riguardante una asserita violazione del principio del contraddittorio endo-procedimentale risulta infondato: sul tema si è espressa la Corte di Cassazione SS.UU. con sentenza 24823/15 stabilendo il principio che nell’ordinamento tributario non sia previsto un obbligo generalizzato di contraddittorio endo procedimentale se non nei casi espressamente previsti dalla legge (art.12 comma 7 legge 212/00) e quindi in caso di accertamenti conseguenti ad accessi, ispezioni e verifiche fiscali effettuate nei locali ove si esercita l’attività imprenditoriale o professionale del contribuente. Nella specie di causa il controllo è stato solo documentale cioè effettuato dall’ufficio “a tavolino” trattandosi in gran parte di imposte c.d. “non armonizzate” (IRPEF,IRAP,IRES); invece per quanto concerne l’IVA, per la quale, secondo la sopracitata sentenza delle SS.UU. sussiste invece obbligo di contraddittorio preventivo endo-procedimentale confermato dall’ormai consolidato orientamento della Corte di Cassazione (cfr. sent. 17782/18), gli appellanti non hanno comunque fornito la c.d. prova di resistenza cioè la prova che dall’esito dell’eventuale contraddittorio preventivo sarebbero potute derivare conclusioni diverse, da parte dell’Agenzia, in relazione alla recuperata tassazione, prova che la Cassazione ritiene essenziale al fine di sanzionare l’atto con la invalidità. In ogni caso ritiene il collegio che il principio di difesa dei contribuenti non sia stato violato in quanto il rappresentante legale della PS Di CF e C SNC era socio anche delle due società PST e D srl e sas e poiché gli accertamenti scaturiscono proprio dai controlli effettuati presso quest’ultime società il sig. CF1 era ben consapevole di tutto quanto era accaduto avendo per altro reso sul tema espresse dichiarazioni in sede di contraddittorio.</mot>
+
+		<mot ID="Mot3" G="2" O="Claim3">Circa la censura sulla errata interpretazione dei fatti da parte dei primi giudici in relazione alla confermata inesistenza oggettiva delle operazioni fatturate dal sig. LT, il collegio evidenzia che la documentazione prodotta dagli appellanti tendente a smentire la presunzione dell’ufficio è inidonea a provare che il debito della PS Di CF e C SNC nei confronti del sig. LT sia stato pagato; la società non ha infatti esibito alcun contratto di appalto né altri documenti equipollenti nonostante si trattasse di lavori per somme ingenti e le quattro fatture in contestazione per i cantieri di XXX e XXX non riguardano solo prestazioni di posa in opera ma soprattutto forniture di beni e ciò in totale assenza di documenti di trasporto mai prodotti in giudizio (lavori del capannone).
+
+		Anche senza voler mettere particolarmente in risalto il fatto che il sig. LT fosse un evasore totale e avesse effettuato acquisti di materiale non congrui con il volume delle fatture emesse per un importo di quasi 300.000,00 euro senza avere dipendenti(come documentato dall’ Agenzia), resta il fatto che i pagamenti da parte della PS Di CF e C SNC nei suoi confronti non sono stati effettuati, come vorrebbero confermare gli appellanti, tramite la cessione del credito in quanto la documentazione contabile delle due società PS Di CF e C SNC e T e D srl e sas non fa emergere l’esistenza documentale di pagamenti di cessione del debito al sig. LT.</mot>
+
+		<mot ID="Mot4" G="2" O="Claim4">Infine per quanto concerne i ricorsi dei soci CF2, MC e CM gli stessi sono tardivi e, in quanto tali, inammissibili.</mot>
+
+		Per questi motivi la sentenza dei primi giudici merita ampia conferma con rigetto dell’appello 
+		e condanna alle spese di giudizio secondo il principio della soccombenza.
+	
+
+	P.Q.M.
+
+		<dec ID="Dec2" G="2" E="0" O="Req2">la Commissione Tributaria Regionale rigetta l’appello</dec> 
+		e condanna gli appellanti al pagamento delle spese del grado liquidate complessivamente in euro 3.000,00
+		
+			Così deciso in XXX il DD/MM/2019.
+		
+
+		IL RELATORE
+		giu2
+
+		IL PRESIDENTE
+		giu1
+	
+
+</body>

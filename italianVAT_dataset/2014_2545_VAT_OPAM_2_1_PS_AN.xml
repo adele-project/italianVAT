@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+
+
+	REPUBBLICA ITALIANA
+	IN NOME DEL POPOLO ITALIANO
+
+	LA COMMISSIONE TRIBUTARIA REGIONALE DI XXX
+
+	riunita con l'intervento dei Signori:
+		giu1 Presidente
+		giu2 Relatore
+		giu3 Giudice
+	
+
+	Ha emesso la seguente sentenza
+
+	REG. GENERALE N° 1673/13
+
+	- sull'appello n. 1673/13
+	depositato il DD/MM/2013
+
+	- avverso la sentenza n. 254/51/12
+	emessa dalla Commissione Tributaria Provinciale XXX
+
+
+	<part P="A">contro:
+	AG.ENTRATE DIREZIONE PROVINCIALE XXX</part>
+
+	<part P="B">proposto dal ricorrente:
+	MMDNES SPA
+	XXX</part>
+
+	difeso da:
+	PLDP
+	VIA XXX
+
+	Atti impugnati:
+	AVVISO DI ACCERTAMENTO n° RC8030301000 COME DA N.I.R IVA-OP.IMPONIB. 2004
+
+
+
+FATTO
+L’atto impugnato concerne la rettifica ai sensi dell'art. 54 dpr. 633/72 della dichiarazione IVA anno 2004 e irrogazione sanzioni, con il quale Ufficio ritiene che le forniture effettuate dalla contribuente alla TE, non rientrano nel regime agevolativo di cui all’art.8 bis dpr.633/72, perché non riferibili in modo diretto alla società armatrice, ma ad un altro soggetto.
+
+
+	
+		<dec ID="Dec1" G="1" E="1" O="Req1"><req ID="Req1" G="1" P="A">La CTP di XXX con sentenza n.254/51/12 depositata il DD/MM/2012 accoglieva parzialmente il ricorso avverso l'avviso di accertamento con il quale l'Ufficio rettificava ai sensi dell'art. 54 dpr 633/72 la dichiarazione IVA per l’anno 2004, accertando maggiori operazioni imponibili e relativa imposta, sanzioni ed interessi.</req></dec>
+	
+		<dec ID="Dec1bis" G="1" E="1" O="Req1">I primi giudici hanno accolto il ricorso limitatamente alle sanzioni</dec>
+	 
+	
+		<mot ID="Mot0" G="1" O="Req1">ritenendo sussistere incertezza normativa in materia.</mot>
+	
+
+
+
+	
+		<req ID="Req2" G="2" P="B">Con appello proposto nei termini, la contribuente chiede in riforma della sentenza impugnata, dichiarare nulla la pretesa dell'Ufficio e annullare l'atto impositivo;</req>
+		<req ID="Req3" G="2" P="B"> in via subordinata confermare la disapplicazione delle sanzioni per obiettive condizioni di incertezza sulla portata e sull’applicazione della norma.</req>
+		<claim ID="Claim1" G="2" P="B" PRO="Req2|Req3"> Censura la CTP che limita l'esenzione IVA alle navi che effettuano prevalentemente trasporti internazionali, ossia che navigano in alto mare,</claim> <arg ID="Arg1" G="2" P="B" PRO="Claim1">rilevando che detta limitazione è disposta dalla legge 217/2011, successiva ai fatti contestati.</arg>
+		<arg ID="Arg2" G="2" P="B" PRO="Claim2">Rileva altresì che la sentenza impugnata individua la figura dell'armatore in colui,che ha preventivamente resa la dichiarazione all’ufficio preposto ai sensi dell’art. 265 codice della navigazione e non avendo la TE, reso tale dichiarazione, non può considerarsi armatore,</arg> <claim ID="Claim2" G="2" P="B" PRO="Req2|Req3">con la conseguenza che le vendite effettuate dalla M avrebbero dovuto essere assoggettate ad IVA.</claim>
+		<arg ID="Arg3" G="2" P="B" PRO="Claim1">Alle argomentazioni della CTP ribadisce che le merci sono state trasportate fisicamente a bordo delle navi della compagnia di navigazione T direttamente dalla M come da bollette doganali all'esportazione.</arg>
+		<arg ID="Arg4" G="2" P="B" PRO="Claim1">Richiama decisioni di merito delle CTP di XXX e di XXX sulla stessa fattispecie e come riprova che non è affatto rilevante la circostanza che la merce sia ceduta direttamente all'armatore cita la sentenza della Corte di Giustizia UE del DD/MM/2012.</arg>
+		<arg ID="Arg5" G="2" P="B" PRO="Claim1">Con successiva memoria produce consulenza giuridica rilasciata dalla stessa Agenzia delle Entrate, Direzione Centrale normativa che sulla base della sentenza della Corte di Giustizia UE C-33/11 del AZ DD/MM/2012, per la quale l'applicazione del regime di non imponibilità di cui all'art. 8 bis L'c.lett.d) dpr.633/72 anche alle cessioni di provviste a bordo effettuate dal provveditore nei confronti dell'appaltatore, tracciabili mediante documentazione doganale, deve ritenersi compatibile con le esigenze di cautela fiscale che hanno indotto la Corte UE a limitare detto regime alle cessioni dirette dell'armatore.</arg>
+
+		<req ID="Req4" G="2" P="A">L'Agenzia delle Entrate controdeduce per il rigetto dell'appello e la conferma della sentenza impugnata.</req> 
+		<claim ID="Claim3" G="2" P="A" CON="Req2|Req3">Ribadisce che le forniture di beni effettuate dall’appellante nei confronti della TE non possono beneficiare del regime di non imponibilità IVA,</claim> <arg ID="Arg6" G="2" P="A" PRO="Claim3">poiché la M non cede i beni destinati a provvista di bordo direttamente all’armatore, la TN, ma bensì alla TE, cui l’armatore ha affidato in appalto la preparazione e la somministrazione, a bordo delle navi di sua proprietà, di alimenti e bevande per.i passeggeri ed i membri dell'equipaggio.</arg>
+	
+
+	All'udienza di trattazione i rappresentanti della contribuente e dell'Ufficio si riportano alle difese in atti.
+
+	DIRITTO
+		<mot ID="Mot1" G="2" O="Req2|Req3">La CTP, richiamando le sentenze del MM/DD/1990 E MM/DD/2012 della Corte di Giustizia CEE, ha ritenuto non applicabile nel caso in esame, l'incentivo della non imponibilità IVA per la cessione dei beni a bordo delle navi, rilevando che la contribuente non ha effettuato forniture all’armatore la TN spa, ma alla società appaltatrice dell'armatore, la TE. 
+		Secondo i primi giudici le vendite di cui alle fatture contestate, configurerebbero uno stadio commerciale anteriore all'imbarco. 
+		<arg ID="Arg7" G="2" P="B" PRO="Claim1">Con il gravame la contribuente censura le argomentazioni della sentenza impugnata, affermando che le merci sono state consegnate “a bordo” sulla base di una bolletta doganale all'esportazione.</arg>
+		<arg ID="Arg8" G="2" P="B" PRO="Claim1">Deduce che la ratio dell'art. 8 bis 1°co lett d) dpr. 633/72 è quella di escludere il non assoggettamento ad Iva in fasi commerciali anteriori all'imbarco, a nulla rilevando la circostanza che l'acquirente sia o meno il proprietario delle navi.</arg>
+		La Commissione osserva che in base all’art.8 bis, primo comma, lett.d) dpr.633/72 sono considerate operazioni assimilate alle cessioni all'esportazione, non imponibili ai fini IVA, le cessioni di beni destinati a loro dotazione di bordo e le forniture destinate al loro rifornimento e vettovagliamento, comprese le amministrazioni di alimenti e di bevande a bordo.
+		In ordine all'ambito applicativo del regime di non imponibilità, la Corte di Giustizia Europea ha espresso con la sentenza 26/6/1990 un orientamento restrittivo, in base al quale sono imponibili le cessioni provviste e dotazioni di bordo che non siano effettuate direttamente nei confronti dell'armatore della nave. Le argomentazioni sono confermate nelle sentenze DD/MM/2006 e DD/MM/2012.
+		L’Amministrazione finanziaria ha assunto diverse posizioni nel corso degli anni.
+		Aderendo alla prima pronuncia della Corte di Giustizia Europea, la consulenza giuridica richiamata nell'avviso di accertamento impugnato, afferma che la non imponibilità ai fini IVA, si applica esclusivamente alle cessioni dirette all’armatore, con successivo utilizzo perl rifornimento della nave, con esclusione, quindi, delle cessioni intermedie.
+		In data 6/2/2014, in risposta a richiesta di consulenza giuridica dell’APPN, concernente l’interpretazione dell’art. 8 bis dpr. 633/72, la Direzione Centrale Normativa, premesso, che l’art.8bis, 1° co lett.d) dpr.633/72-(con il quale è stato recepito nell'ordinamento interno l’art.15, co.4 e 7, della IVA direttiva CEF 77/388, trasfuso nell'art. 148 lett.a) e lett. e) della direttiva n.2006/112 CE), estende il regime di non imponibilità, previsto per le cessioni alle esportazioni (e per le prestazioni di servizi internazionali), alle operazioni “interne” ivi elencate connesse al comparto delle costruzioni navali e aereonautiche, nel presupposto che sia le navi sia gli aerei possono essere impiegati in ambito internazionale (al di fuori del territorio comunitario).
+		Osserva che La Corte di Giustizia ha espresso il proprio orientamento nella sentenza nel 1990 e lo ha ribadito con le sentenze del 2006 e del 2012, e cioè ha statuito che nel caso di operazioni all'esportazione, l’esenzione/imponibilità si applica esclusivamente alla cessione di beni spediti o trasportati dal venditore o per suo conto al di fuori della Comunità, così come l'esenzione prevista per le operazioni di rifornimento di navi si applica unicamente alle cessioni di beni effettuate direttamente nei confrenti dell’armatore, che utilizzerà i beni medesimi per il rifornimento.
+		Osserva ancora la Direzione Generale che seguendo l’iter logico seguito dalla Corte di Giustizia nelle recenti sentenze del 2006 ne del 2012, nella interpretazione della norma di esenzione/non imponibilità, l'orientamento restrittivo già espresso nelle precedenti sentenze, potrebbe essere superato se fosse garantita e verificabile la “tracciabilità” delle merci, cedute dal provveditore all’appaltatore della nave, fino alla destinazione finale e, quindi, al loro “consumo” a bordo delle navi (e/o aereomobili).
+		Tanto premesso, la Direzione Generale, afferma che, l'applicazione del regime di non imponibilità di cui all'art. 8 bis, primo comma, lett.d) dpr 633/72 anche alle cessioni di provviste di bordo effettuate dal provveditore nei confronti dell'appaltatore, tracciabili mediante la documentazione doganale relativa all'imbarco diretto della merce da parte del provveditore, deve ritenersi compatibile con le esigenze di cautela fiscale che hanno indotto la Corte UE a limitare detto regime alle cessioni dirette all'armatore o proprietario della nave.
+		Ha altresi precisato che resta fermo che l'ambito applicativo del regime di non imponibilità di cui al citato art. 8 bis è limitato alle cessioni di beni e alle prestazioni di servizi effettuate in relazione alle navi effettivamente destinate alla navigazione in alto mare.
+		Nella fattispecie le transazioni tra la MM e la TE avvengono con la consegna dei beni direttamente a bordo delle navi, come, risulta dalle bolle doganali, prodotte in atti, regolarmente vistate dagli uffici doganali che documentano l'effettivo imbarco della merce.</mot>
+		L'appello pertanto merita accoglimento. 
+
+		
+		La particolarità della materia controversa giustifica la compensazione delle spese.
+	
+
+	PQM
+		<dec ID="Dec2" G="2" E="1" O="Req2|Req3">Accoglie l'appello.</dec> 
+		Spese compensate.
+		
+			Così deciso in XXX il DD/MM/2014.
+		
+	
+
+</body>

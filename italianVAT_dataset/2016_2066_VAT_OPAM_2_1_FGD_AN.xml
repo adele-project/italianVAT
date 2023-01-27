@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+
+
+REPUBBLICA ITALIANA
+IN NOME DEL POPOLO ITALIANO
+
+	LA COMMISSIONE TRIBUTARIA REGIONALE DI XXX
+
+	riunita con l'intervento dei Signori:
+		giu1 Presidente
+		giu2 Relatore
+		giu3 Giudice
+	
+
+	Ha emesso la seguente sentenza
+
+	REG. GENERALE N° 2038/2015
+
+	- sull'appello n. 2038/2015 depositato il DD/MM/2015
+
+	- avverso la sentenza n. 498/2014 Sez:4 emessa dalla Commissione Tributaria Provinciale di XXX
+
+	<part P="A">contro:
+	AG. ENTRATE DIREZIONE PROVINCIALE XXX</part>
+
+	<part P="B">proposto dagli appellanti:
+	TFA SRL
+	VIA XXX</part>
+
+	difeso da:
+	GM
+	VIA XXX
+
+	difeso da:
+	VF
+	VIA XXX
+
+	Atti impugnati:
+	AVVISO DI ACCERTAMENTO n° T9K030402288 IRES-NON REDIS. 2007 
+	AVVISO DI ACCERTAMENTO n° T9K030402288 IVA-OP.IMPONIB. 2007
+	AVVISO DI ACCERTAMENTO n° T9K030402288 IVA-OP.NON IMP. 2007
+	AVVISO DI ACCERTAMENTO n° T9K030402288 IVA-SCAMBI COM. 2007
+
+
+Svolgimento del processo
+
+
+	
+		<req ID="Req1" G="2" P="B">Con atto pervenuto presso questa Commissione (R.G.A. n° 2038/15), la ricorrente TFS s.r.l., propose, ricorso in appello contro la sentenza della Commissione Tributaria Provinciale di XXX n° 498/04/14, pronunciata in riferimento all'avviso di accertamento emesso dall'Agenzia delle Entrate - Ufficio di XXX in relazione alle ii.dd. ed iva per l'anno 2007,</req>
+	 
+
+	
+avendo la stessa Agenzia contestato l'esterovestizione della soc. ricorrente, ritenendo che la stessa avesse sede, ai fini fiscali, in Italia e non in Francia, in quanto la stessa sarebbe controllata da due soc. estero vestite, quali la T s.a., con sede Svizzera e la BKE s.a., con sede in Lussemburgo e tutta la gestione amministrativa veniva svolta, di fatto, dalla sede italiana della soc. T s.r.l., da dipendenti di quest'ultima soc..
+
+
+	
+		<req ID="Req10" G="2" P="B">la soc. ricorrente contestò l'operato dell'Ufficio, proponendo ricorso avanti la CTP di XXX</req>
+	
+
+
+
+	
+		<dec ID="Dec1" G="1" E="0" O="Req1">che, con la sentenza impugnata, lo respinse,</dec> 
+		condannando alle spese,
+	 
+	
+		<mot ID="Mot4" G="1" O="Claim1">sul presupposto, fra gli altri, che nel corso della verifica svolta presso la soc. T s.r.l. venne rinvenuta della documentazione, contenuta in files, relativa alla composizione del gruppo, dal quale risultò quanto sopra esposto in merito al controllo societario, in collaborazione con alcuni dipendenti che operavano in territorio francese, con mansioni di impiegati e trasportatori.</mot>
+
+		<mot ID="Mot5" G="1" O="Claim1">Emerse altresì che il contratto di locazione della stessa ricorrente venne sottoscritto in Italia dall'amm.re Sig. M, venendo anche date disposizioni per il pagamento del corrispettivo; anche l'apertura del conto corrente presso banca P risultò gestita direttamente dail'italia e, sempre dall'Italia, venivano intrattenuti rapporti direttamente con i dipendenti della stessa banca francese.</mot>
+
+		<mot ID="Mot3" G="1" O="Claim1">La documentazione di parte prodotta in giudizio al fine di provare che le decisioni societarie venivano prese a XXX con l'azionista di riferimento, venne ritenuta priva ogni valenza probatoria, in quanto risultò firmata dal solo Sig. M, quale rappresentante dell'azionista ed amm.re della TF, che, inverosimilmente, sarebbe recato a XXX per incontrare se stesso e sottoscrivere i documenti.</mot>
+	
+
+
+
+	
+		<req ID="Req2" G="2" P="B">A fronte di ciò il ricorrente propose ricorso in appello,</req> 
+		<claim ID="Claim2" G="2" P="B" PRO="Req2">eccependo che documentazione, rappresentata da e-mail, sulla quale si fonda tutto l'accertamento, non si riferiscono al periodo di imposta contestato (2007), ma ad altri periodo non inerenti con l'accertamento.</claim>
+		<claim ID="Claim3" G="2" P="B" PRO="Req2">Inoltre la Commissione di primo grado omise di esaminare le deduzioni e le produzioni della ricorrente, non contestate dall'Agenzia, con conseguente applicazione dell'art. 115 c.p.c., a dimostrazione della continuata gestione all'estero della soc..</claim> 
+		<arg ID="Arg1" G="2" P="B" PRO="Claim3">Ancora la soc. ricorrente fece presente che il proprio bilancio venne regolarmente approvato e sottoposto alla revisione contabile del revisore francese GB, inoltre l'amm.re M si recò regolarmente in Francia come risulta dalle ricevute contabili dei biglietti aerei.</arg>
+		<arg ID="Arg2" G="2" P="B" PRO="Claim3">Anche gli immobili per lo svolgimento dell'attività sono ubicati in Francia, viene utilizzato un conto corrente bancario in Francia e gli adempimenti fiscali ed il versamento delle imposte avviene in Francia.</arg> 
+
+		<claim ID="Claim4" G="2" P="A" CON="Req2">L'Agenzia contro deduce sostenendo quanto statuito con la sentenza impugnata,</claim> 
+		<arg ID="Arg3" G="2" P="B" PRO="Claim4">precisando che relativamente al problema della individuazione della sede amm.va, il commentario dell'art. 4 del mod. ocse, precisa che la determinazione del luogo di direzione effettiva è una questione di fatto, nella quale occorre far prevalere la sostanza sulla forma.</arg>
+	
+
+La dottrina ha evidenziato come ciò che rileva sia il dato di fatto legato alla effettiva attività operativa della soc. ed alle modalità del suo concreto svolgimento, essendo che la sede dell'amm.ne venne definita come il luogo in cui effettivamente si organizza e si dirige la gestione sociale.
+
+Nel caso di specie risultò che gli amm.ri fossero soggetti residenti in Italia; le decisioni venivano assunte in Italia, presso la sede della T italiana; la TF utilizzava personale della T italiana e svizzera; il contratto di locazione per l'imm.le sede della TF venne sottoscritto in italia e così di seguito; a dimostrare che ogni attività direttiva e decisionale avveniva in Italia.
+
+Per altre contestazioni/eccezioni, le parti si riportano agli atti ed alle altre argomentazioni e giurisprudenza in essi contenuti e concludono come nel rispettivi scritti difensivi depositati.
+
+La trattazione del ricorso avviene in pubblica udienza, essendo pervenuta richiesta in tal senso ed al termine della esposizione dei fatti da parte del Relatore e della audizione delle parti presenti, il Presidente dichiara chiusa la discussione ed il Collegio si ritira in Camera di Consiglio e decide come da separato dispositivo.
+
+	Motivi della decisione
+
+	 Il Collegio così riunito, esaminati gli atti ed i documenti di causa, nonché le ragioni in fatto e in diritto addotte dalle parti, ritiene il ricorso in appello fondato e quindi da accogliere per quanto di ragione. 
+
+		<mot ID="Mot1" G="2" O="Claim3"> La Commissione osserva che la questione assorbente e determinante, ai fini del decidere, portata alla sua attenzione, riguarda la determinazione della ubicazione della sede della soc. ricorrente, in particolare se questa si trovi Italia o in Francia.
+
+		 Ebbene in tal senso ritiene che la soc. ricorrente abbia fornito valide prove al fine di confutare le presunzioni dell'Ufficio in ordine alla residenza, tenuto conto inoltre che la soc. ricorrente non detiene alcuna partecipazione in Italia e quindi in questo paese non vi è materia imponibile e, conseguentemente, non può venire assoggettata ad alcun tipo di tassazione e quindi non sussiste alcuna estero vestizione.
+
+		 Inoltre fatto che la sede amministrativa e legale si trovi in Francia, impedisce che si possa considerare la soc. residente ai fini fiscali in Italia, venendo così a decadere le considerazioni e presunzioni svolte dall'Ufficio in tal senso, in particolare il fatto che la soc. fosse controllata totalmente dall'Italia, che gli amm.re fossero residenti in Italia e che le decisioni venissero prese in Italia.
+
+		 Infine la soc. ricorrente dimostrò, al fine di confutare la presunzione dell'Ufficio, che esperi l'adempimento degli obblighi fiscali in Francia, con conseguente versamento delle imposte in quel Paese; l'attività logistica venne localizzata in Francia ed i dipendenti della TF erano assunti ed operanti in territorio francese.
+
+		 Per quanto non contestato dall'Ufficio e per quanto la Commissione di primo grado si è astenuta dall'esaminare, rimane valido il disposto del citato art. 115 c.p.c., pertanto anche detta documentazione, comprovante come la soc. sia interamente gestita all'estero, dimostra, senza ombra di dubbio alcuno, la non sussistenza della contestata estero vestizione. </mot>
+
+		Quanto sopra esposto porta all'accoglimento del ricorso in appello, 
+		essendo assorbente la questione trattata.
+
+		Pertanto le considerazioni che precedono sono assorbenti e rendono irrilevante ogni altra eccezione sia di diritto che di merito,
+		quindi alla luce di quanto sopra esposto ed allo stato dei fatti, null'altro emergendo e nessun altro atto risultando, il Collegio ritiene di poter aderire alle ragioni addotte dalla parte ricorrente, quindi, accoglie l'appello e riforma la sentenza impugnata; 
+		la peculiarità dell'argomento trattato giustifica la compensazione fra le parti delle spese di lite, il tutto come risulta dal seguente dispositivo.
+	
+
+	P.Q.M.
+
+		<dec ID="Dec2" G="2" E="1" O="Req2">La Commissione Tributaria Regionale di XXX accoglie l'appello.</dec> 
+		Spese compensate.
+
+		
+			Così deciso in XXX il DD.MM.2015.
+		
+	
+
+</body>

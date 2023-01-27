@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+
+REPUBBLICA ITALIANA
+IN NOME DEL POPOLO ITALIANO
+
+ REG.GENERALE
+ N° 7468/2015
+
+ LA COMMISSIONE TRIBUTARIA REGIONALE
+ DI MILANO SEZIONE 12
+
+ riunita con l'intervento dei Signori:
+ giu1 Presidente
+ giu2 Relatore
+ giu3 Giudice
+ 
+
+ ha emesso la seguente
+ SENTENZA
+
+ - sull'appello n. 7468/2015
+ depositato il DD/MM/2015
+
+ - avverso la sentenza n. 3100/2015. Sez:44 emessa dalla Commissione Tributaria Provinciale di MILANO
+
+ <part P="A">contro:
+ CC S.P.A.
+ XXX</part>
+
+ difeso da:
+ CCC
+ XX
+ e da
+ MM
+ XXX
+ e da
+ ZG
+ XXX
+
+ <part P="B">proposto dall'appellante:
+ DIREZIONE REGIONALE LOMBARDIA UFFICIO CONTENZIOSO</part>
+
+ Atti impugnati:
+ AVVISO DI ACCERTAMENTO n° TMB067H01036/2011 IVA-OP ESCLUSE 2006
+
+
+
+FATTO
+
+ 
+ <req ID="Req5" G="1" P="A">In seguito alla ricezione di un avviso di accertamento per l’anno 2006 la società proponeva ricorso.</req>
+ <claim ID="Claim1" G="1" P="A" PRO="Req1">La parte sosteneva l’illegittimità dell’atto impugnato sotto molteplici punti:
+ 
+ Per non aver tenuto in considerazione la memoria istruttoria del contribuente in sede di contraddittorio preventivo;</claim>
+
+ <claim ID="Claim2" G="1" P="A" PRO="Req1">Per essere radicalmente viziato nella parte motiva,</claim> 
+ <arg ID="Arg2" G="1" P="A" PRO="Claim1">laddove recepisce in modo acritico il contenuto del pvc e fonda la rettifica sulla base di atti riguardanti soggetto diverso dalla ricorrente;</arg>
+
+ <claim ID="Claim3" G="1" P="A" PRO="Req1">Per essere la pretesa fiscale del tutto infondata ,</claim> 
+ <arg ID="Arg3" G="1" P="A" PRO="Claim1">poiché i compensi corrisposti ad AEGIS hanno natura di corrispettivi di servizio e dunque sono stati correttamente assoggettati ad Iva;</arg>
+
+ <claim ID="Claim4" G="1" P="A" PRO="Req1">Per un illegittima applicazione delle sanzioni,</claim> 
+ <arg ID="Arg4" G="1" P="A" PRO="Claim1">non potendo essere sanzionata una violazione fondata su un errore di fatto commesso senza colpa.</arg>
+
+ <req ID="Req1" G="1" P="A">Conclude quindi chiedendo in via preliminare, l’accoglimento del ricorso</req> 
+ <req ID="Req2" G="1" P="A">ed in subordine l’annullamento o la riduzione delle sanzioni in misura della metà del minimo edittale</req>
+ con vittoria di spese di lite.
+
+ <claim ID="Claim5" G="1" P="B" CON="Req1">Si costituiva l’ Agenzia delle Entrate, la quale ribadiva la legittimità del suo operato</claim> 
+ <arg ID="Arg5" G="1" P="A" CON="Claim1|Claim2|Claim3|Claim4">e rispondeva in modo esaustivo a tutte le doglianze sollevate dalla società contribuente.</arg>
+ 
+
+ 
+ <dec ID="Dec1" G="1" E="1" O="Claim1">In data DD MM 2014 la Commissione Tributaria Provinciale di Milano accoglieva il ricorso</dec> 
+ e condannava l’ Agenzia delle Entrate al pagamento delle spese che liquida in € 1.500,00.
+ 
+
+
+
+ 
+ <req ID="Req3" G="2" P="B">In data DD MM 2015 l’Agenzia nelle figure del proprio ufficio legale proponeva appello alla sentenza qui impugnata chiedendone la totale riforma.</req> 
+ <claim ID="Claim6" G="2" P="B" PRO="Req3">L’ufficio evidenzia l’errore della commissione in merito alla carenza del rilievo, ed in particolare le irrogazioni di denaro e l’inesistenza del contratto.</claim>
+
+ In data DD MM 2015 si costituiva in giudizio la società nella figura dei suoi difensori evidenziando la parziale correttezza della sentenza impugnata <req ID="Req4" G="2" P="A">e proponendo appello incidentale</req> 
+ <claim ID="Claim7" G="2" P="A" PRO="Req4">nel punto in cui non ha accolto i motivo di ricorso relativo alla nullità/illegittimità dell’avviso di accertamento in quanto radicalmente carente in punto di motivazione.</claim>
+ 
+
+ MOTIVI
+
+ La Commissione in seguito all’esame dei documenti in atti, riforma l’impugnata sentenza e per effetto conferma l’accertamento dell’Ufficio.
+
+ <mot ID="Mot1" G="2" O="Claim3">L'oggetto della controversia oggi trattata riguarda il complesso mondo della pubblicità, questi Giudici ritengono di dover focalizzare l’attenzione sul meccanismo dei rapporti tra imprese concessionarie e centri media. 
+ Il settore della raccolta pubblicitaria si presenta come una filiera di mercati distinti ma interconnessi tra loro. 
+ Tutti i mercati che compongono tale settore sono caratterizzati da una struttura cosiddetta “ a due versanti”, in cui gli operatori del mercato finanziano interamente o parzialmente le proprie attività vendendo i contatti raggiunti dal proprio mezzo di comunicazione agli inserzionisti, che a loro volta acquistano spazi al fine di pubblicizzare i propri beni e servizi presso i consumatori finali.
+
+ Gli spazi pubblicitari vengono venduti da apposite strutture commerciali che possono essere società indipendenti oppure indipendenti oppure integrate in un gruppo editoriale. 
+ Le transazioni commerciali con i clienti possono essere dirette oppure intermediate dai centri media, che, oltre alla funzione di acquisto degli spazi pubblicitari svolgono anche l’attività di programmazione e pianificazione della campagne pubblicitarie degli utenti di pubblicità.
+
+ Le transazioni commerciali con i clienti possono essere dirette oppure intermediate dai centri media, che, oltre alla funzione di acquisto degli spazi pubblicitari svolgono anche l’attività di programmazione e pianificazione delle campagne pubblicitarie. degli utenti di pubblicità. 
+ Di conseguenza il centro media instaura un duplice rapporto da un lato con il cliente committente che riconosce al centro media un compenso per l’attività di consulenza prestata, solitamente pari ad una percentuale variabile dallo 0,5% al 3% dell’investimento del cliente, dall’altro con l’impresa concessionaria che gli corrisponde un compenso in denaro sostanzialmente determinato in funzione all’ammontare complessivo degli investimenti prodotti in suo favore.
+
+ Ci premesso si osserva che la tesi secondo cui i corrispettivi de quibus sono qualificabili come mere cessioni di denaro effettuate a titolo gratuito, si fonda, anzitutto, sulla concreta interpretazione della normativa di riferimento, art. 2,3,19 dpr 633/72. 
+ L’articolo 2 comma 3 lettera a del dpr 633/72 dispone, infatti che non costituiscono operazioni rilevanti “ le cessioni che hanno per oggetto denaro o crediti di denaro” in quanto rappresentano una semplice movimentazione di capitale.
+ L’art.19, comma 2, prevede che non può essere esercitato il diritto alla detrazione dell’Iva relativa all’importazione o all’acquisto di beni afferenti le operazioni non soggette all’imposta, tra le quali rientrano quelle indicate nel comma 3 dell’art.2.
+ Ai sensi dell’art.3, sono prestazioni di servizio tutte quelle prestazioni dipendenti da specifici atti, quando vengono effettuate in cambio di un corrispettivo.
+
+ Perché si abbia una prestazione di servizi assoggettata all’Iva, è necessario che si instauri un rapporto obbligatorio tra due soggetti, in virtù del quale uno di essi sulla base di un contratto adempie una prestazione ossia svolge una determinata attività patrimoniale valutabile e l’altro paga un corrispettivo con un nesso di reciprocità.
+
+ Si fa presente che la Commissione ha recepito la tesi della società secondo cui gli accordi negoziati tra le due società esistono ma non sono stati formalizzati in un documento scritto. 
+ Secondo i primi giudici in assenza di specifiche norme fiscali che regolano la materia, sono da ritenersi operanti le disposizioni del codice civile (art. 1325-1350) per cui la forma dei contratti è libera. 
+ Pertanto nel caso di specie non è idoneo ad assumere rilevanza il fatto che non vi sia documentazione afferente gli accordi relativi ai diritti di negoziazione, non trattandosi di accordi per la cui formalizzazione è richiesta la forma scritta. 
+ La decisione della Commissione contrasta, non solo con il dato normativo ma anche, con la particolarita e la specificita della normativa fiscale, che oltre a non consentire al soggetto passivo d’imposta di far rientrare autonomamente una data operazione sotto di una norma piuttosto che di un’altra, subordina la detraibilita dell’Iva alla prova rigorosa della sussistenza del requisito della afferenza di cui all’art. 19, comma 2 dpr 633/72.
+
+ A parere di questa Commissione l’iter logico giuridico seguito dalla Commissione è anomalo, in quanto, in base ai principi generali in materia di applicazione ed interpretazione delle norme, in assenza di specifiche norme fiscali che regolano la materia sono da ritenersi operanti, in primo luogo, i principi generali dettati, in ordine alla specifica materia dal citato dpr 633/72.
+
+ E’ incontestato ed incontestabile che, nel caso di specie, non esistono contratti scritti tra CC S.p.a. e A S.p.a. 
+ Orbene secondo la Cassazione, 9 Aprile 2001, n.5302, se è “vero che spetta all’ Amministrazione Finanziaria nel quadro dei generali principi che governano l’onere della prova, dimostrare l’esistenza dei fatti costitutivi della maggiore pretesa tributaria fatta valere, fomendo quindi la prova di elementi e circostanze a suo avviso rilevatori della sussistenza di un maggior reddito imponibile, è altrettanto vero che a sua volta il contribuente che intenda contestare l’idoneità dimostrativa di quei fatti oppure sostenere la ricorrenza di circostanze modificative o estintive dei medesimi, deve dimostrare i fatti su cui le eccezioni si fondano documentandone l’effettività e l’inerenza”.
+
+ Nel caso in esame si attribuisce efficacia probatoria ad un contratto del quale non è affatto dimostrata l’esistenza. 
+ L’affermazione implicita di esistenza del contratto orale risulta del tutto apodittica in quanto non supportata da alcuna ragione esplicativa.
+
+ Si evidenzia che è sul contribuente che incombe l’onere di fomire la prova della inerenze certezza e determinabilità dei costi, cui.è, in ogni caso, subordinata la detraibilità di cui all’art. 19 D.p.r. 633/72.
+
+ Si richiama la sentenza n.1724 del 25 Luglio 2014 con cui la Corte di Cassazione ha sancito che il diritto alla detrazione Iva non sussiste se lo scambio di servizi a titolo oneroso non è regolarmente all’interno di un contratto tra aziende.</mot>
+ 
+
+ P.Q.M.
+
+ <dec ID="Dec2" G="2" E="1" O="Req2">In parziale riforma della sentenza impugnata dichiara legittimo l’accertamento dell’Ufficio,</dec> 
+ <dec ID="Dec3" G="2" E="0" O="Req3">esclude l'ammissibilità di sanzioni, dichiara compensabile il credito dell’Ufficio con l’Iva versata.</dec>
+ Compensa le spese del doppio grado.
+
+ Milano, DD MM 2016
+
+ Il Presidente
+ Il Giudice Relatore
+ 
+
+</body>

@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+
+	
+		REPUBBLICA ITALIANA
+IN NOME DEL POPOLO ITALIANO
+		REG. GENERALE N°1352/09
+		SENTENZA N° 22
+
+		LA COMMISSIONE TRIBUTARIA REGIONALE DI GENOVA
+	SEZIONE 11
+		
+			riunita con l'intervento dei Signori:
+			giu1 Presidente
+			giu2 Relatore
+			giu3 Giudice
+		
+		ha emesso la seguente
+		SENTENZA
+		- sull' appello n° 1352/09
+	depositato il DD/MM/2009
+	- avverso la
+		sentenza n° 50/14/2008
+	emessa dalla Commissione Tributaria Provinciale di Genova
+
+		<part P="A">proposto dall'ufficio. AG.ENTRATE DIR. UFF. CONTROLLI GENOVA</part>
+
+		<part P="B">controparte:
+		EA S.P.A.
+		XXX</part>
+		difeso da:
+		DGM
+		XXX
+		Atti impugnati:
+	ATTO DI CONTESTAZIONE n° R4GC00300462 2006 IVA 2003
+	
+
+	
+		
+			
+				Avverso la sentenza sopra indicata che: 
+		- integralmente si richiama per l'esposizione dei fatti origine del contenzioso,
+		- trattava una verifica generale di azienda esercente attività di vendita al dettaglio di mobili e complementi di arredo, terminata in richiesta di contraddittorio da parte dell'Ufficio di Rapallo, che successivamente emetteva atto di contestazione irrogando la sanzione prevista dall'art. 13 del D.Lgs 417/97 (tardivo versamento IVA).
+		-
+				<dec ID="Dec1" G="1" E="1" O="Req1">
+					<req ID="Req1" G="1" P="B">accoglieva il ricorso di parte contribuente EA, annullando l’atto di contestazione;</req>
+				</dec>
+			
+		
+	
+
+	
+		
+			<req ID="Req2" G="2" P="A">propone appello per la conferma dell’atto l'Agenzia delle Entrate per il tramite dell’ufficio competente,</req>
+			<arg ID="Arg1" G="2" P="A" PRO="Claim1">rilevando l’irregolare tenuta della contabilità da parte della ditta;</arg>
+			<arg ID="Arg2" G="2" P="A" PRO="Claim1">ribadisce inoltre non pare attendibile la dichiarazione che le somme consegnate in anticipo dai clienti fossero depositi cauzionali (non soggetti ad Iva) mentre in realtà costituivano acconti sul dovuto quale corrispettivo dell’acquisto (soggetto ad Iva).</arg>
+			<claim ID="Claim1" G="2" P="A" PRO="Req2">I primi giudici secondo l’Ufficio non hanno dato adeguata rilevanza alle irregolarità commesse dalla ditta EA.</claim>
+		
+
+		
+			<mot ID="Mot1" G="2" O="Claim1">
+				 La Commissione ritiene che il potere di disporre di un bene come proprietario nasca nel momento in cui il cliente ottenga l’effettivo possesso del bene stesso; 
+				 il momento impositivo può avvenire quindi solo nel momento di passaggio del bene.
+				 Quanto sopra in sintonia con altre sentenze di questa Commissione, in altra sezione, sulla medesima questione.
+			</mot>
+		
+
+		
+			P.Q.M.
+			<dec ID="Dec2" G="2" E="0" O="Req2"> Conferma la decisione di primo grado.</dec>
+			Condanna l'Ufficio alle spese fissate in euro cinquecento, oltre accessori di legge.
+
+			Il Relatore
+		giu2
+
+			 Il Presidente
+		
+	
+</body>

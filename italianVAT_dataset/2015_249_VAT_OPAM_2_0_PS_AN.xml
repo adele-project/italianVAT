@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+
+
+	
+	Sentenza del DD/MM/2015 n. 249 - 
+	Comm. Trib. Reg. XXX Sezione/Collegio 1
+
+Intitolazione:
+
+Testo non disponibile
+
+Massima:
+
+Testo non disponibile
+
+
+Testo:
+
+SVOLGIMENTO DEL PROCESSO
+
+Fatto
+
+Con separati ricorsi alla Commissione Tributaria provinciale di XXX <part P="A">"A"</part> quale liquidatore della Società B SAS impugnava due distinti avvisi di accertamento con cui l'<part P="B">Agenzia delle Entrate</part> per gli anni 2009 e 2010 rilevava una maggior imposta Iva, oltre interessi e sanzioni, con riguardo alle cessioni per somministrazioni alimentari (bar gelateria) effettuata a favore del personale sia militare che non della base americana di XXX. Contratto, concluso con la "...........". 
+
+
+	
+		<arg ID="Arg1" G="1" P="A" PRO="Claim1">Nel ricorso illustrava come il contratto fosse stato concluso direttamente con le autorità militari statunitensi preposte alle gestione del personale operante nelle basi militari situate all'estero</arg> 
+		<claim ID="Claim1" G="1" P="A" PRO="Req1">per cui, ai sensi dell'art. 72, comma 3, n. 2, avrebbe dovuto essere esente Iva.</claim> 
+		<req ID="Req1" G="1" P="B">Chiedeva quindi l'annullamento dell'avviso di accertamento con rifusione delle spese.</req>
+
+		<req ID="Req2" G="1" P="B">Si costituiva l'Ufficio che chiedeva invece il rigetto del ricorso,</req> 
+		<arg ID="Arg2" G="1" P="B" CON="Claim1">poiché l'attività svolta dal ricorrente a favore del personale americano quella di somministrazione di alimenti e bevande non sarebbe rientrata tra le attività tipiche per le quali la normativa di esenzione Iva avrebbe potuto trovare applicazione.</arg>
+
+		Aggiungeva pure il ristoro delle spese. 
+	
+
+	
+		<dec ID="Dec1" G="1" E="1" O="Req1">Con sentenza del 8 aprile 2014 la Commissione tributaria provinciale di XXX, previa riunione dei procedimenti, accoglieva il ricorso</dec> 
+		condannando inoltre l'Ufficio alla rifusione delle spese favore del contribuente, spese che venivano liquidate in euro 1.200,00.
+	
+
+
+
+	
+		<claim ID="Claim3" G="2" P="B" PRO="Req3">Avverso detta sentenza veniva proposto tempestivo appello da parte dell'Ufficio sostenendo che i primi giudici avrebbero erroneamente ritenuto applicabile la norma agevolativa,</claim>
+		<arg ID="Arg4" G="1" P="B" PRO="Claim3">non considerando la circostanza che tale possibilità avrebbe dovuto riferirsi esclusivamente all'espletamento delle funzioni istituzionali svolte dalle forze militari U.S.A. di stanza ad Aviano, non certo per attività come quella svolta dalla ricorrente squisitamente di carattere privatistico.</arg> 
+		<req ID="Req3" G="2" P="B">Chiedeva pertanto che, in riforma della sentenza di primo grado, il ricorso fosse respinto</req> 
+		con condanna alle spese per entrambi gradi giudizio.
+	
+
+	MOTIVI DELLA DECISIONE
+
+	L'appello dell'Ufficio non e fondato e va pertanto confermata sentenza di primo grado.
+
+		<mot ID="Mot1" G="2" O="Claim3"> È infatti di tutta evidenza e documentalmente provato che le prestazioni oggetto della presente vertenza ai fini della loro assoggettabilità all'Iva siano state emesse dalla ricorrente ed intestate all' "....", ufficio attraverso il quale il Dipartimento della Difesa degli XXX gestisce tutti i servizi destinati alla persona a favore dei dipendenti militari e non, compresi quindi i familiari, dei cittadini americani che operano nella basi all'estero. Trattasi di personale che risiede nelle basi installate in esecuzione del Trattato dei Nord Atlantico di cui alla Convenzione di Londra del 19 giugno 1951, Convenzione a cui fa inequivoco riferimento il n. 2 del comma 3 dell'art. 72 del DPR 633/72 allorché dichiara esenti da Iva le operazioni relative alla cessione di beni ed alla prestazione di servizi effettuati a favore di tali strutture per loro fini istituzionali. Come ora l'Ufficio ritenga di non ammettere all'esenzione il pagamento del corrispettive per il contratto stipulato fra il ricorrente e l' "..........." sembra francamente insostenibile. Inoltre sembra essere un po' presuntuoso da parte dell'Ufficio andare a sindacare la ragione delle spese sostenute dall'Amministrazione militare americana ed a fornime una valutazione sulla attinenza con i loro fini istituzionali. Il richiamo che allora il contribuente fa all'art 72 cit. per giustificare la non applicabilità dell'Iva alle prestazioni rese a favore dell' "..........." è perfettamente legittima e lo autorizza a non applicare il tributo. </mot> 
+		In tal senso va confermata la sentenza di primo grado.
+
+		Risolta in tal sensi la vertenza risulta superfluo affrontare la questione di nullità degli avvisi introdotti dalla Contribuente con motivo aggiunto depositato in data DD MM 2015.
+
+		Le spese di lite seguono il principio della soccombenza e si liquidano a favore della Contribuente appellata come da dispositivo ed in base agli atti in assenza di deposito di nota spese.
+	
+
+	P.Q.M.
+
+		<dec ID="Dec2" G="2" E="0" O="Req3">Rigetta l'appello dell'Ufficio e per l'effetto conferma l'impugnata sentenza.</dec>
+
+		Condanna l'appellante Ufficio alla rifusione delle spese di lite del presente grado di giudizio che liquida a favore della Contribuente appellata in complessivi Euro 1.000,00 oltre ad accessori di legge.
+
+		
+			XXX, DD.MM.2015
+		
+	
+
+</body>

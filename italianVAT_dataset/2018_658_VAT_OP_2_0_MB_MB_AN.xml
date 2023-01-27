@@ -1,0 +1,199 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+
+ REG.GENERALE N° 2040/2017
+
+ REPUBBLICA ITALIANA
+ IN NOME DEL POPOLO ITALIANO
+
+ LA COMMISSIONE TRIBUTARIA REGIONALE DI TOSCANA SEZIONE 7
+
+ riunita con l'intervento dei Signori:
+ giu1 Presidente
+ giu2 Relatore
+ giu3 Giudice
+ 
+
+ ha emesso la seguente
+ SENTENZA
+
+ - sull'appello n. 2040/2017
+
+ - avverso la pronuncia sentenza n. 233/2014 Sez:1 emessa dalla Commissione
+ Tributaria Provinciale di PISTOIA
+
+ <part P="A">contro:
+ AG. ENTRATE DIREZIONE PROVINCIALE PISTOIA</part>
+
+ <part P="B">proposto dall'appellante:
+ MG
+ XXX</part>
+
+ difeso da:
+ GF
+ XXX
+
+ Atti impugnati:
+ AVVISO DI ACCERTAMENTO n° T8R010301212/2011 IRPEF-ADD.REG. 2007
+ AVVISO DI ACCERTAMENTO n° T8R010301212/2011 IRPEF-ADD.COM. 2007
+ AVVISO DI ACCERTAMENTO n° T8R010301212/2011 IRPEF-ALTRO 2007
+ AVVISO DI ACCERTAMENTO n° T8R01 0301212/2011 IVA-ALTRO 2007
+ AVVISO DI ACCERTAMENTO n° T8R010301212/2011 IRAP 2007
+
+
+
+SVOLGIMENTO DEL PROCESSO
+L’Agenzia delle Entrate, Direzione Provinciale di Pistoia, con
+atto prot. n. 43632 del DD MM 2011, ha invitato il Sig.
+MG, titolare della omonima ditta individuale operante
+nel settore edile, a produrre tutta la documentazione contabile ed
+extra contabile relativa all’anno 2007.
+
+Il contribuente non ha dato seguito alla richiesta e
+l’Amministrazione ha accertato il reddito in base alle dichiarazioni
+fiscali ed agli studi di settore, recuperando a tassazione un
+maggiore reddito pari ad € 2.428.223,00 ed IVA portata in
+detrazione per € 497.325,00, per assenza di documentazione.
+
+L’esito di tale accertamento è stato notificato all'interessato
+con l’avviso di accertamento n. T8R010301212/2011.
+
+
+ 
+ 
+ <req ID="Req1" G="1" P="B">Avverso il predetto avviso, in data 19 aprile 2012, il Sig. M ha presentato ricorso davanti alla C.T.P. di Pistoia,</req>
+ <claim ID="Claim1" G="1" P="B" PRO="Req1">producendo della documentazione contabile e sostenendo di essere stato impossibilitato a produrla in sede istruttoria, prima dell'emissione dell’atto impugnato,</claim> 
+ <arg ID="Arg1" G="1" P="B" PRO="Claim1">perché la stessa è andata distrutta a causa di un incendio, che si è verificato nei locali della ditta il DD MM 2008.</arg>
+ 
+
+ 
+ <dec ID="Dec1" G="1" E="0" O="Req1">La C.T.P. di Pistoia, con sentenza n. 223 del 2014, ha
+ rigettato il ricorso</dec> 
+ e compensato le spese, 
+ 
+
+ 
+ <mot ID="Mot1" G="1" O="Claim1">ritenendo non utilizzabili i documenti prodotti in giudizio, ex art. 32 del D.P.R. n. 600 del
+ 1973, in quanto il verificarsi dell'incendio non è da ritenersi causa di giustificazione della mancata consegna della documentazione richiesta dall’Agenzia in fase istruttoria, sia perché l’incendio in questione si è verificato in luogo diverso da quello della sede della ditta individuale, dove devono essere conservati i documenti contabili, e sia perché dal verbale dei Vigili del Fuoco intervenuti non risulta alcuna distruzione di documenti.</mot>
+ 
+
+
+Il Sig. M, il DD MM 2015, ha impugnato la
+predetta decisione davanti alla C.T.R. Toscana che, con la sentenza
+n. 1155 del 23 giugno 2015, pur condividendo la decisione dei
+Giudici di prime cure, in merito alla inutilizzabilità dei documenti
+non trasmessi all’Ufficio in fase istruttoria, ma prodotti solo in sede
+contenziosa, in parziale accoglimento del ricorso ha disposto “la
+valorizzazione del reddito d’impresa, tenute presenti le rimanenze
+iniziali e finali dell’esercizio 2007 e riconosciuto “la detraibilità
+dell’IVA sugli acquisti per € 497.325.
+
+L’Agenzia delle Entrate ha proposto ricorso in Cassazione
+nei confronti della citata sentenza d’appello.
+
+Il Giudice di legittimità, con ordinanza n. 9611 del 13 aprile
+2017, ha accolto il ricorso, cassato la sentenza impugnata e
+rinviato alla C.T.R. Toscana, in altra composizione.
+
+Con la richiamata ordinanza, la Suprema Corte di
+Cassazione, Sesta Sezione Civile, ha affermato che “una volta
+sancita l’inutilizzabilità dei documenti prodotti tardivamente dal
+contribuente, escludendo correlativamente l’incolpevole perdita degli
+stessi, la C.T.R. non avrebbe potuto riconoscere, per altra via,
+l’esistenza dei costi, prescindendo così dall’unico meccanismo
+ammesso dalla legge, ossia l’allegazione documentale”.
+
+
+
+ 
+ <req ID="Req2" G="2" P="B">DD MM 2017, il Sig. MG ha riassunto il giudizio davanti alla C.T.R. Toscana, chiedendo “il riconoscimento della detraibilità dell'IVA sugli acquisti per € 497.325,00,</req>
+ <claim ID="Claim2" G="2" P="B" PRO="Req2">in quanto il contribuente era stato nell’incolpevole impossibilità di produrre la suddetta documentazione nella fase dell’invito da parte dell’AE alla produzione della stessa”.</claim>
+
+ <arg ID="Arg3" G="2" P="B" PRO="Claim4">L’Agenzia delle Entrate, Direzione Provinciale di Pistoia, in data DD MM 2017, ha presentato delle controdeduzioni con cui ha ribadito che: non risulta provato che la mancata presentazione della documentazione contabile richiesta al contribuente in sede istruttoria sia dipesa da causa a lui non imputabile;</arg>
+
+ <claim ID="Claim4" G="2" P="A" CON="Req2">conseguentemente i documenti, prodotti in sede contenziosa e non istruttoria, sono inutilizzabili;</claim>
+
+ <arg ID="Arg2" G="2" P="B" PRO="Claim4">in ogni caso, gli stessi rappresentano solo una minima parte della documentazione necessaria (registri IVA, libro giornale, bilancio di verifica, prospetto di raccordo fra utile civile e reddito fiscale, libro degli inventari, fatture di vendita).</arg>
+
+ Con memoria illustrativa del DD MM 2018, il contribuente ha insistito nelle proprie conclusioni.
+ 
+
+ Nell’odierna udienza di discussione, il rappresentante del contribuente e quello dell’Amministrazione finanziaria hanno ribadito le proprie posizioni e, quindi, la causa è stata trattenuta per la decisione.
+ 
+ MOTIVI DELLA DECISIONE
+
+ A seguito della cassazione con rinvio, operata dal Giudice di
+ legittimità con l’ordinanza n. 9611 del 2017, il Collegio è chiamato
+ a pronunciarsi sull’appello proposto dal Sig. M, avverso la
+ sentenza n. 233 del 2014 della C.T.R. di Pistoia.
+
+ Questa C.T.R. ritiene di condividere e confermare la decisione di primo grado 
+ <mot ID="Mot2" G="2" O="Claim2">in base al seguente percorso argomentativo:
+
+ per aver diritto alla detrazione dell'IVA, pagata per l’acquisto
+ di beni o servizi inerenti all’esercizio dell'impresa, il contribuente
+ deve fornire la prova del pagamento e dell’inerenza, attraverso la
+ produzione delle relative fatture e del registro in cui le stesse
+ vengono annotate;
+
+ se l’interessato “dimostri di trovarsi nell’incolpevole
+ impossibilità di produrre tali documenti e di non essere neppure in
+ grado di acquisire copia delle fatture presso i fornitori dei beni o dei
+ servizi, trova applicazione la regola generale prevista dall’art. 2724,
+ n. 3 cod. civ, secondo cui la perdita incolpevole del documento
+ occorrente alla parte per attestare una circostanza a lei favorevole
+ non costituisce motivo di esenzione dall’onere della prova, né
+ trasferisce lo stesso a carico dell’Ufficio, ma autorizza soltanto il
+ ricorso alla prova per testimoni o per presunzioni in deroga ai limiti
+ per essa stabiliti (Cass. Civ. ordinanza n. 9611 del 2017);
+
+ nel caso di specie, il contribuente non ha presentato tale
+ documentazione in fase istruttoria all’Amministrazione, che ne
+ aveva fatto richiesta, ma l’ha prodotta (in misura ridotta e parziale)
+ solo nel corso del giudizio di primo grado, adducendo
+ l'impossibilità di poterlo fare prima per motivi non dipendenti dalla
+ propria volontà e, precisamente, a causa di un incendio che ha
+ distrutto i documenti in questione;
+
+ l'incendio di cui si discute è avvenuto il DD MM 2008 ed
+ ha interessato non la sede della ditta, sita nel XXX, dove devono essere conservati i
+ documenti contabili, bensì un locale diverso (sito nel XXX);
+
+ l'interessato non ha fornito prova che i documenti contabili
+ si trovassero nel locale incendiato, né dal verbale redatto dai Vigili
+ del Fuoco, intervenuti sul posto dell’incendio, risulta che tra il
+ matertale distrutto ci fossero documenti;
+
+ ne consegue che la mancata produzione documentale nella
+ fase istruttoria non è dipesa da cause non attribuibili al
+ contribuente;
+
+ ciò comporta la inutilizzabilità della documentazione
+ prodotta in sede contenziosa, ex art. 25 della legge n. 28 del 18
+ febbraio 1999,
+
+ Da quanto sopra illustrato deriva che correttamente i
+ Giudici di prime cure hanno ritenuto non utilizzabili i documenti
+ contabili presentati solo in sede di giudizio e non prodotti in sede
+ istruttoria, prima dell'emissione dell’atto impugnato, pertanto,
+ l'appello, proposto dal Sig. M, va respinto, com tutte le
+ conseguenze di legge.</mot>
+
+ Le spese seguono la soccombenza.
+ 
+
+ P.Q.M.
+
+ <dec ID="Dec2" G="2" E="0" O="Req2">La Commissione Tributaria Regionale di Firenze respinge l'appello del contribuente</dec> 
+ e lo condanna al pagamento delle spese di giudizio, incluso quello svoltosi in Cassazione, liquidando le stesse in complessivi € 20.000,00.
+
+ 
+ Così deciso nella camera di consiglio del DD MM 2018.Firenze
+ 
+
+ Il Presidente
+ L'estensore
+ 
+ 
+</body>

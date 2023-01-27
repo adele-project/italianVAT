@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+
+REPUBBLICA ITALIANA
+IN NOME DEL POPOLO ITALIANO
+
+REG.GENERALE
+N° 223/12
+
+LA COMMISSIONE TRIBUTARIA REGIONALE
+DI TRIESTE SEZIONE 11
+
+riunita con l'intervento dei Signori
+ giu1 Presidente e Relatore
+ giu2 Giudice
+ giu3 Giudice
+
+ha emesso la seguente SENTENZA
+
+- sull'appello n. 223/12
+depositato il DD/MM/2012
+
+- avverso la sentenza n. 27/1/12
+emessa dalla Commissione Tributaria Prdvificiale di PORDENONE
+contro: <part P="A">AG.ENTRATE DIR. PROVIN. UFF. CONTROLLI PORDENONE</part>
+
+proposto dal ricorrente:
+<part P="B">BC S.R.L.
+XXX</part>
+difeso da:
+BB
+XXX
+
+AVVISO DI ACCERTAMENTO n° TI703MD00212/2011 IVA-OP.ESCLUSE 2007
+
+
+
+ <req ID="Req1" G="1" P="B">Con ricorso proposto in data DD/MM/2011 la società BC Srl proponeva ricorso avverso
+ l'atto di accertamento dell'Agenzia delle Entrate di Pordenone</req>
+ 
+ 
+con il quale veniva accertato, per
+l'anno 2007, un maggior reddito imponibile ai fini IRES, IRAP e I.V.A. comportante maggiori
+imposte per € 18.803,00 oltre interessi e sanzioni.
+
+ 
+La società impugnava l'accertamento sotto tre profili:
+
+ <claim ID="Claim1" G="1" P="B" PRO="Req1">1. IRES- IRAP, indebita deduzione di costi per omessa capitalizzazione ai sensi degli artt. 108 e 109 D.P.R. 917/86;</claim>
+
+ <claim ID="Claim2" G="1" P="N" PRO="Req1">2. IRES-IRAP, indebita deduzione di costi per rimborsi chilometrici;</claim>
+
+ <claim ID="Claim3" G="1" P="B" PRO="Req1">3. I.V.A., erronea emissione di fatture in esclusione d'imposta ai sensi dell'art. 1 del D.P.R. 633/72.</claim>
+
+ <arg ID="Arg1" G="1" P="B" PRO="Claim3">Con riferimento a quest'ultimo rilievo la contestazione: riguardava 57 fatture emesse dalla società nei confronti di fornitori ai quali la società addebitava le spese sostenute per il ripristino di materiali difettosi in regime di esclusione dell'I.V.A.</arg>
+
+ <req ID="Req2" G="1" P="A">Si costituiva l'Agenzia delle Entrate che chiedeva il rigetto del ricorso.</req>
+
+
+
+ <dec ID="Dec1" G="1" E="1" O="Req1">La Commissione Provinciale di Pordenone con sentenza del DD.MM.2012 n. 27/01/12, accoglieva parzialmente il ricorso limitatamente ai primi due motivi e confermava l'atto di accertamento in ordine al terzo motivo.</dec>
+
+
+
+ <mot ID="Mot1" G="1" O="Claim3">La commissione rilevava che, dalla lettura della descrizione delle fatture emesse dalla società, non era dato di rilevare alcun riferimento a penali o indennizzi o risarcimenti bensì una vera e propria prestazione di servizi assoggettabile ad I.V.A.; inoltre, il mancato deposito da parte della ricorrente, dei contratti non consentiva di stabilire se il pagamento della penale, per inadempimento, sia stata o meno prevista da apposita clausola contrattuale, in mancanza della quale il corrispettivo addebitato alla ditta fornitrice costituisce una prestazione di servizi non riconducibile ai casi di esclusione di cui all'art. 15 del D.P.R. 633/72.</mot>
+
+
+
+
+ 
+ <req ID="Req10" G="2" P="B">Avverso tale decisione propone rituale appello la società, con atto del DD.MM.12, limitatamente al punto 3,</req> 
+ <claim ID="Claim4" G="2" P="B" PRO="Req3">sostenendo l'errato inquadramento della fattispecie con errata applicazione della normativa di riferimento.</claim>
+ <arg ID="Arg2" G="2" P="B" PRO="Claim4">Afferma la società appellante che tutti i soggetti ai quali sono addebitati gli importi di cui alle 57 fatture contestate, sono fornitori di beni e/o di servizi della società BC srl, i quali hanno fornito beni e/o eseguito lavorazioni a favore di BC Srl (committente), sulla base di sottostanti contratti di fornitura e/o di appalto e la circostanza è pacifica tra le parti. Oggetto dell’addebito sono somme dovute a titolo di risarcimento per inadempienze o altre irregolarità della fornitura succintamente ma precisamente descritte nelle fatture, ed estesamente puntualizzate nei “rapporti di non conformità”. Quest’ultimi sono rapporti interni previsti dalla normativa ISO, compilati dalla società ogni qualvolta è riscontrata la “non conformità” della fornitura alle specifiche tecniche stabilite; per ciascuna fattura contestata. E' stato depositato, oltre alla fattura, il relativo rapporto di non conformita, dal quale si trae chiaramente la natura dell’addebito. La quantificazione degli addebiti, secondo gli usi intercorrenti tra le parti, (BC srl e suoi fornitori), per le irregolarità riscontrate nelle forniture è stata convenzionalmente calcolata facendo riferimento ai costi di lavorazione (costo orario del personale oltre ai materiali impiegati).
+
+ Osserva l'appellante che, sotto il profilo giuridico, il termine “penale” assume una precisa connotazione. E cioè, in base al disposto di cui all’art. 1382 del c.c., quella di predeterminare la somma dovuta dalla parte inadempiente in caso di inadempimento o ritardo nell’adempimento. E’ tuttavia in facoltà delle parte stabilire, anche in un momento successivo e senza formalità particolari, le modalità attraverso le quali regolare ritardi o altre inadempienze. Inoltre, l’art. 1362 (intenzione dei contraenti) afferma che per interpretare il contratto si debba indagare quale sia stata la comune volontà (intenzione) delle parti, “e non limitarsi al senso letterale delle parole”. E per determinare la comune volontà, si deve valutare “il loro comportamento complessivo, anche posteriore alla conclusione del contratto”.
+
+ Il contesto operativo in cui è intervenuto l’addebito è quello in cui il committente/cliente addebita al fornitore una somma per le irregolarità di quest’ultimo; in pratica la BC srl ha ripristinato nel proprio stabilimento materiali non conformi forniti dai fornitori, e le somme addebitate costituiscono un indennizzo/risarcimento e quindi il loro corretto inquadramento è nel comma 2 dell'art. 15 del D.P.R. 633/72.</arg>
+
+ <req ID="Req3" G="2" P="B">Chiede, in accoglimento dell'appello, la riforma della sentenza impugnata con annullamento del rilievo.</req>
+
+ <arg ID="Arg3" G="2" P="A" CON="Claim4">Si costituisce l'Agenzia delle Entrate con atto del DD.MM.12 sostenendo che le descrizioni delle fatture della BC srl non fanno alcun riferimento a penali, indennizzi o risarcimenti; si riferiscono invece ad un riaddebito di spese sostenute dalla BC srl e riaddebitate ai diversi fornitori in esclusione di IVA. Non sono stati prodotti contratti dai quali si evinca la presenza di eventuali penali.
+
+ Pertanto, in mancanza di una specifica clausola contrattuale, la Parte avrebbe dovuto suddividere il corrispettivo addebitato alla ditta fornitrice in due parti:
+ - parte corrispondente alla manodopera e alla specifica prestazione di servizio, assoggettabile ad IVA; 
+ - parte corrispondente al danno vero e proprio, oggetto di riparazione.
+
+ Nel caso di specie, come si evince dalla descrizione delle fatture emesse dalla verificata la BC s.r.l., ha addebitato alle proprie società clienti i costi sostenuti per il ripristino dei materiali difettosi. Tale circostanza è stata confermata anche dalla rappresentante legale. Dagli elementi acquisti dai verificatori appare pertanto che non possa trattarsi di somme richieste dalla BC srl a titolo di indennizzo o risarcitorio,bensì di una vera e propria prestazione che la BC s.r.l. ha svolto e pertanto assoggettabile ad I.V.A.</arg>
+
+ <req ID="Req4" G="2" P="A">Chiede la conferma della decisione</req> 
+ con vittoria di spese di entrambi i gradi di giudizio.
+
+
+
+ L'appello è fondato e va quindi accolto.
+
+ <mot ID="Mot2" G="2" O="Claim4">Osserva la commissione che, come sostenuto dalla stessa società appellante, ed anche ritenuto dai primi giudici e non contestato dall'Amm.ne resistente, la BC srl. provvedeva nel suo stabilimento a ripristinare i materiali alla stessa forniti dai vari fornitori e non conformi alle specifiche contrattuali, addebitando ai fornitori medesimi i costi di ripristino "calcolati sul costo orario del personale oltre ai materiali impiegati" (cfr.pag. 4 dell'appello). 
+ Ne consegue che, risulta pacifico in atti, la società appellante si limitava (sulla base dei rapporti interni di non conformità) a rilavorare i manufatti in modo da renderli conformi all'ordine ed utilizzabili per il cliente finale, addebitando alla ditta fornitrice del manufatto non conforme, "il solo costo del personale impiegato oltre i materiali" senza nessun ulteriore ricarico. 
+ Stando così i fatti, si ribadisce non contestati, appare oltremodo evidente che la somma addebitata al fornitore, non contenendo alcun ricarico e quindi alcun valore aggiunto, trova la sua disciplina nel terzo comma dell'art. 15 del D.P.R. 633/72 risolvendosi in un semplice addebito per penalità per irregolarità nella fornitura e quindi risulta esente da I.V.A.
+
+ La dicitura riportata nelle fatture contestate "ripristino materiali difettosi: rif. Ns. rapporto di non conformità n°......" con l'allegazione a ciascuna fattura del rapporto di non conformità, costituisce prova più che sufficiente per ritenere l'importo della fattura un semplice addebito per penalità.
+
+ Ove l'Ufficio avesse ritenuto non credibile tale dicitura, avrebbe dovuto contestarla eventualmente accertando che nell'importo fatturato vi era anche altra somma relativa a ricavi, calcolandoli eventualmente sui costi medi di produzione. 
+ In mancanza di tale accertamento e comunque di contestazione specifica, tali importi vanno considerati esenti da I.V.A. a norma dell'art. 15/c0.3 D.P.R. 633/72.</mot>
+
+ Va quindi accolto l'appello e riformata l'impugnata decisione limitatamente al punto appellato con annullamento dell'atto di accertamento. 
+ Stante la totale soccombenza dell'Agenzia delle Entrate, in accoglimento dell'appello anche in punto spese, si liquidano a favore della BC S.r.l. le spese di entrambi i gradi di giudizio che si liquidano in complessivi € 2.000,00 (di cui 1.000,00 per il primo e 1.000,00 per il secondo grado.
+
+
+P.Q.M.
+
+ <dec ID="Dec2" G="2" E="1" O="Req3">La Commissione Tributaria Regionale per il Friuli - Venezia Giulia — Sezione XI — accoglie l'appello e per l'effetto riforma l’impugnata decisione limitatamente al punto appellato con annullamento dell'avviso di accertamento,</dec> 
+ e condanna l'Agenzia delle Entrate alla rifusione delle spese di entrambi i gradi di giudizio a favore della società appellante che liquida in complessivi € 2.000,00 (duemila/00).
+
+ Così deciso in Trieste, il DD.MM.2013
+ Il Presidente Relatore
+ giu1
+
+
+</body>

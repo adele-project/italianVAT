@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+
+REPUBBLICA ITALIANA
+	IN NOME DEL POPOLO ITALIANO
+
+	LA COMMISSIONE TRIBUTARIA REGIONALE DI XXX
+
+	riunita con l'intervento dei Signori:
+		giu1 Presidente
+		giu2 Relatore
+		giu3 Giudice
+	
+
+	Ha emesso la seguente sentenza
+
+	REG. GENERALE N° 861/2015
+
+	- sull'appello n. 861/2015 depositato il DD/MM/2015
+
+	- avverso la pronuncia sentenza n. 806/2014 Sez.1 emessa dalla Commissione Tributaria Provinciale di XXX
+
+<part P="A">contro:
+ASC A R.L. IN LIQUIDAZIONE
+VIALE XXX</part>
+
+difeso da:
+AVV. AO
+VIA XXX
+
+<part P="B">proposto dall'appellante:
+AG. ENTRATE DIREZIONE PROVINCIALE XXX</part>
+
+Atti impugnati:
+AVVISO DI ACCERTAMENTO n° THD03130157 IVA-OP.NON IMP. 2011
+
+
+FATTO E DIRITTO
+
+Con l'accertamento opposto, l'Amministrazione finanziaria, recependo i rilievi contenuti nei due P.V.C. del DD.MM.2012, contestava alla società A s.c.a.r.l. la mancata dimostrazione di cessioni intracomunitarie per € 2.209.074,02, la mancata dimostrazione di cessioni all'esportazione per € 238.115,00, e riteneva dovuta l'imposta IVA per € 100.242,00 e applicava sanzioni per € 125.302,50. L'Amministrazione finanziaria riteneva insufficiente la documentazione prodotta a dimostrazione del trasporto delle merci negli altri Paesi della Comunità. 
+
+
+	
+		<req ID="Req1" G="1" P="A"><claim ID="Claim1" G="1" P="A" PRO="Req1">La società produceva copiosa documentazione a riprova della regolarità delle cessioni,</claim></req> 
+		<arg ID="Arg1" G="1" P="A" PRO="Claim1">costituita principalmente dalle fatture di vendita emesse verso gli operatori UE per ogni singola operazione avvenuta nel periodo d'imposta oggetto di verifica, dai documenti CMR attestanti le vendite, dai dati riguardanti l'inserimento delle cessioni negli elenchi INTRASTAT e dalla contabilità finanziaria, non contestata con riferimento ai pagamenti.</arg>
+
+		<claim ID="Claim2" G="1" P="A">Eccepiva inoltre l'infondatezza delle contestazioni scaturenti dai due P.V.C., illegittimi per violazione dell'art. 12 della legge n. 212/2000, dell'art. 52 del DPR n. 633/72 e dell'art. 33 del DPR n. 600/73.</claim>
+	
+
+	
+		La Commissione riteneva che a fronte della copiosa documentazione probatoria fornita dalla società, le contestazioni principali riguardanti le cessioni intracomunitarie fossero infondate.
+
+		<mot ID="Mot1" G="1" O="Claim1|Claim2">Già in sede di contraddittorio la società produceva copia delle fatture di vendita, dei mastrini riguardanti i singoli clienti, del libro giornale e si riservava di produrre copia dei modelli CMR, attività che richiedeva tempi più lunghi: secondo il primo giudice, pur se la prova concludente del trasferimento è data dal c.d. CMR, documento - lettera di vettura, sottoscritto dal trasportatore e dal destinatario della merce, non è possibile disconoscere la transazione a fronte di qualsiasi altro elemento di prova, eventualmente da confutare ma comunque da prendere in considerazione. Poiché nella fattispecie la società aveva prodotto le fatture di vendita emesse nei confronti degli operatori esteri UE, la copia dei CMR riguardanti ciascuna cessione di pertinenza della società nonché la copia dei CMR reperiti presso singoli acquirenti, e aveva dimostrato l'inserimento delle transazioni negli elenchi riepilogativi mensili INTRASTAT, oltre che nei registri di contabilità e nelle dichiarazioni fiscali, mentre il pagamento delle merci emerge dalla contabilità, l'eccezione dell'Agenzia delle Entrate riguardante la mancanza di pagamenti mediante bonifico bancario, peraltro non obbligatorio per legge, sarebbe infondata, così come l'eccezione di tardività delle produzioni, stante l'impossibilità materiale dell'acquisizione immediata, con riferimento ai CMR in possesso degli acquirenti.</mot>
+	
+
+	
+		<dec ID="Dec1" G="1" E="0" O="Req1">La CTP accoglieva quindi il ricorso.</dec>
+	
+
+
+
+	
+		<req ID="Req2" G="1" P="B">Appella l'ufficio.</req> Non si costituisce in appello la società contribuente.
+	 
+
+	
+		<mot ID="Mot3" G="2" O="Req2"> Va premesso che la effettiva movimentazione del bene dall'Italia a un altro stato membro, indipendentemente dal fatto che il trasporto avvenga a cura del cedente, del cessionario o di terzi per loro conto, è presupposto indefettibile della non imponibilità ex art. 41.1 del D.L. 331/93. L'onere della prova del diritto ad una deroga o esenzione fiscale grava su colui che la richiede secondo il principio generale di cui all'art. 2697 C.c. Ergo il cedente è tenuto a fornire prova dell'effettiva movimentazione del bene, con partenza dall'Italia e arrivo in uno Stato membro, qualunque siano le modalità del trasporto e spedizione utilizzati. In tal senso cfr. Cass. 12964/13 1670,13, 13457/12, 20575/11, 3603/09, 21956/10, tra le tante.
+
+		 L'invio dei beni in altro Stato dell'Unione europea è elemento costitutivo della fattispecie esentativa, in assenza del quale non può considerarsi legittima l'emissione di una fattura senza applicazione dell'imposta.
+
+		 Quindi il soggetto che effettua una cessione comunitaria deve "acquisire indugio le prove (...) ritenute valide a dimostrare una cessione intracomunitaria, appena la prassi commerciale lo renda possibile" (così anche Cass. n. 12964/2013, 1670/2013, 20575/2011, 3603/2009).
+
+		L'Ufficio aveva evidenziato che tutte le transazioni commerciali fra la società A e i vari clienti CEE - per un totale di € 2.553.742,00, per il 2011 e un totale di € 9.108.354,14 per le annualità dal 2007 al 2010 - erano avvenute in contanti "per cassa": nessun pagamento da parte dei clienti comunitari era stato effettuato con bonifico o transitato per banca!
+
+		Il procuratore della Società aveva confermato che: “i pagamenti sono effettuati nelle mani del legale rappresentate sig. PG al mercato ortofrutticolo di XXX da parte o dell'autista della ditta estera acquirente oppure dall'incaricato in mercato della ditta stessa", senza peraltro fornire le generalità dei medesimi. Lo stesso aveva precisato che: "anche se non frequentemente, può accadere che il mezzo di trasporto della ditta acquirente estera giunga in ritardo al mercato ortofrutticolo quando ormai la coop. A ha chiuso il proprio stand. In questi casi la coop. A lascia la merce sulla banchina con il CMR compilato nelle parti che la riguardano, esclusa -pertanto - la targa del veicolo e la sottoscrizione del trasportatore. Quando arriva il camion, i facchini, sempre presenti al mercato ortofrutticolo, caricano la merce e provvedono per la compilazione dei campi 16 e 23".
+
+		 Quindi, non solo la merce veniva lasciata sulla banchina, ma veniva talora pagata ai facchini, cosa assolutamente improbabile, oppure era caricata e trasportata senza il pgamento, considerato anche che nessun CMR prodotto in sede di verifica recava, al punto 16, i dati del trasportatore (nome - cognome-indirizzo-stato).
+
+		 Contrariamente a quanto sostenuto dalla CTP, non è verosimile che pagamenti di ingente importo fossero sempre effettuati in contanti, al mercato ortofrutticolo da parte dell'autista della ditta estera acquirente oppure dall'incaricato in mercato della ditta stessa.
+
+		 Non rientra nella normale nonché diligente prassi commerciale che i clienti esteri affidino i soldi agli autisti, di cui non sono note le generalità e le cui firme sui documenti sono quasi sempre illeggibili.
+
+		 Nella prassi commerciale con clienti esteri, invece è uso che prima arrivi il pagamento, generalmente tramite bonifico, poi la merce. Non si effettua, insomma, un trasporto se non vi è un immediato e "visibile", nonché "certo", riscontro del pagamento. Ciò anche in considerazione delle pesantissime sanzioni previste per limitare l'uso del contante (Cass. 15583/11).
+
+		 La parte privata aveva dichiarato di non poter produrre i modelli CMR, in quanto l'originale con il timbro di ricezione della merce era conservato dalla ditta cliente, e che avrebbe verificato la possibilità di avere da alcuni clienti qualche CMR in originale a mero titolo esemplificativo (p.v. del 26/09/13, all. 12 CTP); il funzionario allora aveva chiesto di fornire prova attestante la richiesta delle copie dei Modelli CMR alle ditte clienti; la parte si era riservata, ma poi ha depositato alcuni CMR completi, ma non è stata in grado di documentare in qual modo avesse contattato i cessionari e richiesto tali CMR.
+
+		Ancora:
+
+		non sono stati rinvenuti contratti con gli acquirenti né contratti di assicurazione relativi al trasporto delle merci; 
+
+		 pur commercializzando prodotti ortofrutticoli freschi, A non era dotata di celle frigorifere proprie, o in affitto; 
+
+		 quanto alle autodichiarazioni di soggetti terzi (OV Srl) che avrebbero "prestato" gratuitamente l'uso delle proprie celle anche all'A scarl, nonché alla Società SF scarl e alla C srl, altre ditte accertate dall'Ufficio di XXX per i medesimi fatti, esse sono scarsamente attendibili per eccessiva genericità, visti i numeri delle operazioni commerciali di tutte e tre le ditte e la mancanza di contratti di comodato per garantire i tempi e le modalità della concessione in uso.
+
+		 Le autodichiarazioni devono essere oggetto di prudente apprezzamento (Cass. 22874/05 e 21757/05): infatti è "elemento di forte spessore indiziario e presuntivo" che comprova che la prestazione non è stata effettivamente resa, che il fatturante sia sfornito della minima dotazione personale e strumentale per eseguire la prestazione, che nel caso esaminato consisterebbe in idonea cella frigorifera.
+
+		In definitiva:
+
+		i pagamenti non sono mai tracciabili e sarebbero avvenuti con modalità del tutto atipiche e soprattutto inverosimili;
+
+		le necessarie dotazioni strumentali non ci sono;
+
+		 la documentazione prodotta (fatture di vendita, nastrini relativi ai singoli clienti, libro giornale, elenchi riepilogativi mensili INTRASTATAT, contabilità, dichiarazioni fiscali) attesta la regolarità formale ma in alcun modo comprova la effettività del trasporto all'estero delle merci; nessuno dei CMR (lettera di vettura da sottoscriversi dal trasportatore e dal destinatario della merce) rinvenuti in sede di verifica recava nel corrispondente campo 16 i dati del trasportatore che, in tesi, avrebbe ritirato la merce al mercato di XXX;
+
+		 quei pochi CMR che in sede di verifica A si era riservata di acquisire in originale presso i clienti a scopo esemplificativo, completi del timbro e dei dati attestanti la ricezione, sono stati successivamente prodotti senza documentare le modalità di contatto ed acquisizione dal cliente (es. richiesta a mezzo posta, fax, mail...), che l'ufficio aveva previamente richiesto evidentemente a comprova della loro genuinità.
+
+		In definitiva questo Collegio deve concludere che, contrariamente a quanto ritenuto dal primo giudice, la contribuente non ha assolto il suo onere probatorio relativo alla condizione esentativa del trasporto transnazionale, e pertanto va disconosciuta la non imponibilità e confermato l'accertamento.</mot>
+
+		<mot ID="Mot2" G="2" O="Req1"> Viene conseguentemente a cadere anche il capo di sentenza relativo all'accertamento sulle cessioni alla esportazione extra UE, che la CTP aveva ritenuto viziato in via derivata, siccome fondato sui dati rettificati dall'ufficio, anziché su quelli dichiarati dalla società e condivisi in primo grado dal giudicante.
+
+		 Tuttavia la questione è priva di rilievo pratico, perché in quella sede (primo grado) l'ufficio aveva già confermato quanto proposto durante il contraddittorio preventivo, riconoscendo come non imponibili le fatture emesse ex art. 8 lett. a) e b) del DRP 633/72 per complessivi euro 238.115, e non dovuta la relativa imposta già accertata in euro 11.878.</mot>
+
+		Dunque, l'ufficio ha riconosciuto la non imponibilità IVA delle cessioni all'esportazione, così cessando sul punto la materia del contendere.
+
+		Gli ulteriori motivi di ricorso in primo grado, rigettati dalla CTP, non sono stati oggetto di appello incidentale della società, che non si è costituita, e quindi il loro rigetto è definitivo.
+
+		Conclusivamente, l'appello deve essere accolto e, in totale riforma della sentenza appellata, va dichiarata la cessazione della materia del contendere quanto alle cessioni all'esportazione, per la quale l'ufficio ha spontaneamente riconosciuto la non imponibilità, e va respinto in ogni altra parte il ricorso di primo grado, confermandosi l'accertamento relativamente alle sole cessioni intracomunitarie. 
+
+		Spese compensate.
+	
+
+	PMQ
+
+		<dec ID="Dec2" G="2" E="1" O="Req1">Le CTR di XXX, accoglie l'appello RGA 861/15 e, in riforma della sentenza 806/1/14 della CTP di XXX, respinge in parte il ricorso di primo grado e per la residua parte lo dichiara estinto per cessazione della materia del contendere.</dec> 
+
+		Compensa le spese.
+
+		
+			XXX, DD/MM/2017
+		
+	
+
+
+</body>

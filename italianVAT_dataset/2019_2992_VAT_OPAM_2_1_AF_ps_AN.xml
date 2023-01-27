@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+ ITALIANA
+
+REPUBBLICA ITALIANA 
+IN NOME DEL POPOLO ITALIANO
+
+LA COMMISSIONE TRIBUTARIA REGIONALE DI XXX SEZIONE 11
+
+ REG.GENERALE N° 846/2019
+
+ riunita con l'intervento dei Signori;
+ giu1 Presidente
+ giu2 Relatore 
+ giu3 Giudice
+ 
+
+ ha emesso la seguente
+ SENTENZA
+
+ - sull'appello n. 846/2019
+ depositato il DD/MM/2019
+
+ - avverso la pronuncia sentenza n. 4926/2018 Sez:7 emessa dalia Commissione Tributaria Provinciale di XXX
+
+ <part P="A">contro:
+ AG. ENTRATE DIREZIONE PROVINCIALE DI XXX</part>
+
+ <part P="B">proposto dall'appellante:
+ M S.P.A.
+ INC.TE DI BE SPA
+ PIAZZETTA XXX</part>
+
+ difeso da:
+ DMN E BS
+ STUDIO D COMMERCIALISTI ASSOCIATI
+ GALLERIA XXX
+
+ Atti impugnati:
+ AVVISO DI ACCERTAMENTO n° T9B03TZ04970/2017 IVA-OP.ESENTI 2012
+ 
+
+CONCISA ESPOSIZIONE DELLE RAGIONI DI FATTO E DI DIRITTO DELLA DECISIONE
+
+Oggetto del presente processo è l’avviso di accertamento emesso dall’ Agenzia delle Entrate nei confronti di BE Spa (società incorporata in M Spa), relativamente al periodo d’imposta 2012, con il quale l'Ufficio contestava l’omessa applicazione dell’ IVA per €79.176,98 (di cui e22.975,68 per prestazioni del personale operante all’interno del back-office pagamenti) oltre interessi e sanzioni per il servizio reso da BE in favore della società D SGR Spa in virtù di un “contratto di regolamento-amministrazione di strumenti finanziari e di trattamento ordini OICR” stipulato fra le parti in data 11/01/2010.
+
+In particolare, l’Agenzia erariale riteneva che il servizio reso dalla banca in favore di D non era esente da IVA ex art. 10 D.P.R. n. 633/1972, ma soggetto all’imposta sul valore aggiunto nella misura del 28,3% per effetto della Risoluzione ministeriale n. 97/E che disciplina tale tipologia di servizi, svolgendo a parere dell’AF la BE la funzione di banca depositaria dei fondi comuni di investimento.
+
+
+ 
+ <req ID="Req1" G="1" P="B">Tale atto veniva impugnato in primo grado da M, in qualità di incorporante di BE Spa, la quale eccepiva che le operazioni in questione dovrebbero essere considerate, ai fini IVA, come operazioni esenti ex art. 10 D.P.R. n. 633/1972 e argomentava diffusamente in ricorso.</req>
+ 
+
+ 
+ <mot ID="Mot1" G="1" O="Req1">La CTP di XXX rilevava che dalla premessa del “contratto” stipulato fra le parti risulterebbe che tra i servizi resi dalla banca rientri anche quello di depositaria; rilevava che in atti non risulterebbero prove certe che vi erano altre banche depositarie; rilevata la correttezza dell’operato dell’Ufficio, con l’applicazione di un imponibile IVA pari al 28,3% in relazione al servizio reso dalla banca, non essendo tale percentuale neanche contestata dalla ricorrente; rilevava che non troverebbe riscontro probatorio l’eccezione della banca in ordine alla contestata applicazione dell’IVA sui corrispettivi per il servizio del personale operante all’interno del back office, in quanto l’esenzione in materia di IVA avrebbe carattere e natura assolutamente eccezionale e andrebbe documentata in modo puntuale e non generico;</mot>
+ 
+ 
+ <dec ID="Dec1" G="1" E="0" O="Req1">rigettava, quindi, il ricorso</dec> 
+ e condannava la ricorrente al pagamento delle spese che liquidava in €3.000,00.
+ 
+
+
+
+ 
+ <arg ID="Arg10" G="2" P="B" PRO="Claim10">La sentenza di primo grado veniva impugnata davanti a questa Commissione Regionale dalla società M (in qualità di incorporante di BE Spa) 
+ la quale premesso che BE avrebbe in essere un contratto per l’espletamento esclusivo dell’attività di gestione individuale di portafoglio,</arg> 
+ <claim ID="Claim10" G="2" P="B" PRO="Req10">deduceva che la normativa prevista dalla Risoluzione ministeriale sancirebbe un’imponibilità parziale IVA nei confronti banca depositaria dei fondi comuni di investimento nella misura del 28,3%, inerente alle sole gestioni collettive di portafoglio, mentre per le attività svolte da BE sarebbe prevista una totale esenzione, in quanto si tratterebbe di attività prodromiche alle sole gestioni individuali di portafoglio.</claim>
+
+ <claim ID="Claim11" G="2" P="B" PRO="Req11">Deduceva, altresì, che BE svolgerebbe, in favore della D, un'attività bancaria differente dall’attività di banca depositaria dei fondi comuni di investimento o OICR,</claim> 
+ <arg ID="Arg11" G="2" P="B" PRO="Claim11">in quanto il contratto sarebbe relativo ad attività legate alla gestione individuale di portafoglio come la negoziazione ed il deposito dei titoli.</arg>
+
+ <arg ID="Arg12" G="2" P="B" PRO="Claim12">Rilevava che, per la gestione collettiva di portafoglio dei propri fondi comuni di investimento, la D avrebbe incaricato, in particolare, una banca terza, PNB P, estranea al Gruppo E.
+
+ Evidenziava che BE non potrebbe svolgere, neanche volendo, la funzione di banca depositaria, in quanto non sarebbe autorizzata, né avrebbe chiesto alcuna autorizzazione a svolgere tale funzione a Banca d’Italia (cfr. pag. 7 dell’appello).
+
+ Rilevava che, utilizzando un ragionamento “a contrariis”, la Banca non sarebbe e non potrebbe essere banca depositaria di fondi comuni di investimento OICR e, pertanto, non potrebbe rientrare nella casistica di cui alla Risoluzione ministeriale 97/E.
+
+ Affermava, altresì, l'esenzione dell’IVA sui corrispettivi per il servizio del personale operante all’interno del back-office pagamenti, rilevando che tali operazioni bancarie sarebbero necessarie ed indispensabili all'adempimento del contratto e si porrebbero, pertanto, come complementari ed accessorie ai servizi principali</arg> 
+ <claim ID="Claim12" G="2" P="B" PRO="Req10">e che, quindi, sarebbe l’ Amministrazione finanziaria a dovere, per contro, provarne l’assoggettabilità ad IVA.</claim>
+ <req ID="Req10" G="2" P="B">Chiedeva, quindi, a questa Commissione di riformare la sentenza di primo grado dichiarando illegittima la pretesa tributaria.</req>
+
+ <claim ID="Claim13" G="2" P="A" PRO="Req11">Si costituiva in giudizio, con proprio atto di controdeduzioni, l’Agenzia delle Entrate la quale controdeduceva, in primo luogo, la corretta qualificazione da parte dei giudici di prime cure della società come Banca depositaria</claim> 
+ <arg ID="Arg13" G="2" P="A" PRO="Claim13">in quanto ciò si evincerebbe dalla premessa del contratto del 11/01/2011 ed in particolare dall’articolo 1 e dall’articolo 4.1; nell’art. 4.7 del contratto sarebbe poi specificato che BE non sarebbe depositaria solo per alcune delle quote degli OICR; dai regolamenti degli OICR in cui sarebbero individuati gli altri soggetti depositari. Inoltre altro dato indicativo citato dalla Agenzia è costituito dal fatto che la stessa BE ha contabilizzato compensi per i servizi resi alla società terza come “commissioni custodia titoli”</arg>
+
+ <arg ID="Arg14" G="2" P="A" PRO="Claim13">Rilevava, quindi, che dal contratto emergerebbe che tra i servizi resi da BE rientrerebbe anche quello di depositario, mentre la banca non assumerebbe tale funzione solo per alcuni titoli e che, pertanto, il contratto presenterebbe tutte le caratteristiche tipiche dell’incarico conferito a depositario di OICR.</arg>
+
+ <arg ID="Arg15" G="2" P="A" PRO="Claim13">Rilevava, altresì, che l’operazione, come emergerebbe anche dagli obblighi assunti nel contratto, essendo in ogni caso e comunque riconducibile ad un contratto di deposito titoli in
+ amministrazione ex artt. 1766 e 1838 c.c., sarebbe imponibile ai fini IVA ex artt. 1 e 3 D.P.R. n. 633/1972, alla cui stregua costituiscono operazioni imponibili le prestazioni di servizi verso corrispettivi dipendenti da contratti di deposito e, altresì, a mente dell’art. 10, co. I, n. 4, D.P.R. n. 633/1972, secondo il quale sarebbero eccettuate dall’esenzione dall’imposta la custodia e l’amministrazione dei titoli ovvero la custodia e l’amministrazione a strumenti finanziari.</arg>
+
+ <claim ID="Claim14" G="2" P="A" PRO="Req11">Deduceva che, a prescindere da quanto indicato nei regolamenti degli OICR, con il contratto in esame la società D avrebbe conferito alla BE anche funzioni di banca depositaria.</claim>
+
+ <claim ID="Claim15" G="2" P="A" PRO="Req11">Deduceva, infine, la correttezza della sentenza di primo grado in ordine all’imponibilità ai fini IVA dei servizi di back-office,</claim> 
+ <arg ID="Arg16" G="2" P="A" PRO="Claim15">non essendo tali prestazioni state regolamentate nel contratto stipulato ed essendo le esenzioni IVA eccezionali e, quindi, di stretta interpretazione, non potrebbe trovare applicazione nessuna esenzione.</arg>
+
+ <req ID="Req11" G="2" P="A">Chiedeva, quindi, il rigetto dell’appello e la condanna del ricorrente alle spese del giudizio.</req>
+ 
+
+ Il Collegio odierno giudicante, procedeva agli adempimenti processuali di legge e quindi, all’esito, alla camera di consiglio per la deliberazione della decisione.
+
+ Deve ritenersi, preliminarmente ed in rito, sussistente la giurisdizione dell’adita Commissione Tributaria Regionale della XXX.
+
+ Pure deve ritenersi correttamente radicata la competenza per territorio e per materia dell’adita Autorità Giudiziaria Tributaria.
+
+ L’adita Commissione regionale ritiene che l’appello proposto sia fondato e, conseguentemente e per l’effetto, che la impugnata sentenza di primo grado sia da riformare con consequenziale annullamento dell’impugnato avviso di accertamento originario.
+
+ <mot ID="Mot10" G="2" O="Claim10">Infatti dagli atti di causa appare emergere che la società D SGR Spa ha in essere con la BE (come emergere peraltro dal contratto richiamato) solo mandati di gestione individuale di portafogli e una serie attività prodromiche alle stesse (quali anche quelle del personale addetto all’interno del back office svolgenti attività complementari ed accessorie rispetto a quelle principali) per le quali vige il regime di esenzione IVA (mentre l’IVA al 28,3% si applica alle sole gestioni collettive di portafoglio); come risulta evincibile dal contratto stipulato fra le parti, la Banca non risulta depositaria delle quote di un'attività di investimento collettiva di risparmio (OICR) e, pertanto, la stessa non svolge alcuna aftività di quelle indicate dalla Risoluzione ministeriale n. 97/E, in quanto i servizi finanziari” resi dalla BE non hanno nulla a che vedere con i servizi resi da una banca depositaria di quote OICR e la Banca depositaria dei fondi della D SGR è la PNB P quale istituto bancario depositario di gestioni collettive di fondi. Peraltro BE -il dato espressamente enunziato dalla Banca nemmeno risulta essere stato specificamente contestato dalla AF- non potrebbe nemmeno mai svolgere legittimamente attività di Banca depositaria e ciò in quanto mai autorizzata allo scopo dalla Banca di Italia (non avendo peraltro mai fatto istanza in tal senso) sicchè opinando diversamente la BE si sarebbe esposta a provvedimenti sanzionatori della Banca di Italia e della CONSOB. 
+ Tale ultimo rilevo anche fattuale, appare assorbente e in grado di ulteriormente corroborare ed oggettivizzare la prospettazione della parte privata contribuente negando, per converso, ogni valido e convincente supporto argomentativo alla parte erariale.
+
+ Le ulteriori attività espletate dalla BE poi risultano complementari e accessorie rispetto a quelle espressamente previste per la prestazione dei servizi principali.
+ Da ultimo deve rilevarsi che -per l’anno d’imposta 2010- con sentenza emessa tra le stesse parti, la CTP di XXX (sentenza n. 9157/26/2016) ha annullato l’avviso di accertamento dell’ AF, e deve ancora evidenziarsi che tale ultima pronuncia risulta essere anche stata confermata dalla CTR della XXX con sentenza n. 2413/17/2018.</mot>
+
+ L’appello proposto pertanto deve essere accolto con la conseguente riforma della sentenza di primo grado qui impugnata.
+
+ Le spese processuali di lite per entrambi i gradi di giudizio saranno da compensarsi integralmente in ragione dei contrasti giurisprudenziali registrati sul punto controverso.
+
+ Ogni altra e diversa questione, in rito ed in merito, definitivamente assorbita.
+
+ La Commissione Tributaria Regionale della XXX, sede di XXX, Sezione Undicesima, in composizione collegiale, definitivamente pronunziando nella causa di cui al Ruolo Generale in epigrafe riportato, ogni contraria e diversa istanza, deduzione ed eccezione disattesa, visti gli artt. 59 e 15 e ss. del D. Lgs. N. 546/1992.
+ 
+
+ P.Q.M.
+
+ -<dec ID="Dec10" G="2" E="1" O="Req10">Accoglie l’appello proposto e, in riforma dell’appellata sentenza di primo grado, annulla l’impugnato avviso di accertamento;</dec>
+ -Spese di procedura interamente compensate per entrambi i gradi di giudizio.
+ XXX, così deciso nella camera di consiglio del DD/MM/2019.
+
+
+ Il Giudice estensore 
+ Dott. giu2
+
+ Il Presidente
+ Dott. giu1
+ 
+
+</body>

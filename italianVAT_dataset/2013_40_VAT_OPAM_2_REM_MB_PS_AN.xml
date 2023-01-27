@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+
+
+REPUBBLICA ITALIANA
+IN NOME DEL POPOLO ITALIANO
+
+REG.GENERALE
+N° 3134/12
+
+LA COMMISSIONE TRIBUTARIA REGIONALE
+DI BOLOGNA SEZIONE 1
+
+riunita con l'intervento dei Signori:
+ giu1 Presidente
+ giu2 Relatore
+ giu3 Giudice
+
+ha emesso la seguente
+SENTENZA
+
+- sull'appello n. 3134/12
+spedito il DD/MM/2012
+
+- avverso la sentenza n. DD/MM/12
+emessa dalla Commissione Tributaria Provinciale di RAVENNA
+<part P="A">contro: AG.ENTRATE DIREZIONE PROVINCIALE RAVENNA</part>
+
+<part P="B">proposto dal ricorrente:
+ILDS AZIENDA AGRICOLA ED AGRITURISTICA S.S.
+XXX</part>
+
+difeso da:
+VA
+XXX
+
+Atti impugnati:
+AVVISO DI ACCERTAMENTO n° THQ025402496/2010 IVA-OP.ESCLUSE 2008
+AVVISO DI ACCERTAMENTO n° THQ025402496/2010 IRAP 2008
+
+
+FATTO
+ILDS sas ricorreva alla Commissione tributaria provinciale di Ravenna
+avverso il provvedimento con il quale l'Agenzia delle entrate di Ravenna, per l'anno di
+imposta 2008 aveva contestato una serie di violazioni in materia di II.DD. e IVA.
+
+<claim ID="Claim1" G="1" P="B" PRO="Req1">Affermava l'illegittimità del provvedimento impugnato</claim>
+<req ID="Req1" G="1" P="B"> di cui chiedeva l'annullamento.</req>
+<req ID="Req2" G="1" P="A">Si costituiva in giudizio l’Agenzia delle entrate</req> 
+<claim ID="Claim2" G="1" P="A" PRO="Req2">che sosteneva la legittimità del suo
+operato.</claim>
+
+
+<dec ID="Dec1" G="1" E="0" O="Req1">La Commissione adita, con sentenza DD/MM/2012 del DD/MM/2012, rigettava il ricorso</dec>
+con condanna alle spese, ritenuto legittimo l'operato dell'Ufficio.
+
+
+
+
+La società il ILDS propone appello con richiesta di trattazione in pubblica
+udienza e con istanza cautelare, respinta con ordinanza in data DD/MM/2012.
+ <claim ID="Claim3" G="2" P="B" PRO="Req4">Eccepisce violazione dell'art. 14 del d.lgs. 546/92,</claim> 
+ <claim ID="Claim4" G="2" P="B" PRO="Req4">erroneità dell’impugnata sentenza 
+ e omessa pronuncia su punti decisivi della controversia.</claim>
+
+ <claim ID="Claim5" G="2" P="B" PRO="Req3">Chiede che la sentenza di primo grado sia dichiarata nulla per mancata integrazione
+ del contraddittorio,</claim> 
+ <req ID="Req3" G="2" P="B">con conseguente rimessione degli atti alla Commissione tributaria
+ provinciale.</req>
+ <req ID="Req4" G="2" P="B">Chiede, in ogni caso, l'accoglimento dell'appello con annullamento del
+ provvedimento impugnato.</req>
+
+ <claim ID="Claim6" G="2" P="A" PRO="Req5">Si costituisce la Direzione provinciale di Ravenna dell’Agenzia delle entrate che
+ contesta quanto dedotto dalla parte appellante e ribadisce la legittimità del suo
+ operato.</claim> 
+ <req ID="Req5" G="2" P="A">Chiede il rigetto dell'appello</req> 
+ con condanna della società al pagamento delle
+ spese riferite al doppio grado di giudizio.
+
+
+MOTIVI DELLA DECISIONE
+
+ <mot ID="Mot1" G="2" O="Claim5"> In via preliminare, il Collegio prende in considerazione quanto dedotto dall’appellante
+ in merito alla mancata integrazione del contradditorio.
+
+ Ai sensi dell'art. 14 del d.lgs.546/92, se l'oggetto del ricorso riguarda inscindibilmente
+ più soggetti, questi devono essere tutti parte dello stesso processo e la controversia
+ non può essere decisa limitatamente ad alcuni di essi. Se il ricorso non è stato
+ proposto da o nei confronti di tutti i soggetti sopra indicati deve essere ordinata
+ l'integrazione del contraddittorio mediante la loro chiamata in causa entro un termine
+ stabilito a pena di decadenza.
+
+ Nel caso di specie solo la ILDS ha presentato gravame, ma, trattandosi di
+ sociatà in accomandita semplice, l'oggetto del ricorso non poteva che riguardare sia la
+ società che i soci e, quindi, il giudice di primo grado avrebbe dovuto ordinare
+ l'integrazione del contraddittorio ai sensi della norma richiamata, come
+ espressamente richiesto nel ricorso introduttivo, a nulla rilevando il fatto che il
+ provvedimento impugnato fosse stato notificato sia alla società che ai soci.</mot>
+
+ 
+ Poiché ciò non è avvenuto, risulta applicabile quanto disposto dall’art. 59 del
+ d.lgs.546/92 che dispone, in tale caso, la rimessione della causa alla Commissione
+ tributaria provinciale di Ravenna.
+
+
+P.Q,M.
+
+ <dec ID="Dec2" G="2" E="REM" O="Req3">Rimette la causa alla Commissione tributaria provinciale di Ravenna perché provveda
+ alla integrazione del contraddittorio.</dec>
+
+ BO , DD/MM/2013
+
+Il Presidente
+Il Relatore
+
+
+
+</body>

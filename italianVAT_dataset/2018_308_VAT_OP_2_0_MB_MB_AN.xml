@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+
+REPUBBLICA ITALIANA
+IN NOME DEL POPOLO ITALIANO 
+
+ REG.GENERALE
+ N° 2292/2016
+
+ LA COMMISSIONE TRIBUTARIA REGIONALE
+ DI VENETO SEZIONE 5
+
+ riunita con l'intervento dei Signori:
+ giu1 Presidente 
+ giu2 Relatore
+ giu3 Giudice
+ 
+ ha emesso la seguente
+ SENTENZA
+
+ - sull'appello n. 2292/2016
+ depositato il DD/MM/2016
+
+ - avverso la pronuncia sentenza n. 528/2016 Sez:4 emessa dalla Commissione
+ Tributaria Provinciale di VICENZA
+
+ <part P="A">contro:
+ CdR SRL
+ XXX</part>
+
+ difeso da:
+ LS
+ XXX
+
+ <part P="B">contro:
+ MC
+ XXX</part>
+
+ difeso da:
+ LS
+ XXX
+
+ <part P="C">contro:
+ PM
+ XXX</part>
+
+ <part P="D">proposto dall'appellante:
+ AG. ENTRATE DIREZIONE PROVINCIALE VICENZA</part>
+
+ Atti impugnati:
+ AVVISO DI ACCERTAMENTO n° T6303MR02845/2014 IRES-ALTRO 2009
+ AVVISO DI ACCERTAMENTO n° T6303MR02845/2014 IVA-ALTRO 2009
+ AVVISO DI ACCERTAMENTO n° T6303MR02845/2014 IRAP 2009
+ AVVISO DI ACCERTAMENTO n° T6501MR03958/2014 IRPEF-ALTRO 2009
+ AVVISO DI ACCERTAMENTO n° T6501MR03061/2014 IRPEF-ALTRO 2009
+ AVVISO DI ACCERTAMENTO n° T6SG63MRO2842/2014 IRES-ALTRO 2007
+ AVVISO DI ACCERTAMENTO n° T6503MR02842/2014 IVA-ALTRO 2007
+ AVVISO DI ACCERTAMENTO n° T6503MR02842/2014 IRAP 2007
+ AVVISO DI ACCERTAMENTO n° T6503MR02844/2014 IRES-ALTRO 2008
+ AVVISO DI ACCERTAMENTO n° 76503MR02844/2014 IVA-ALTRO 2008
+ AVVISO DI ACCERTAMENTO n° 16503MR02444/2014 IRAP 2008
+
+
+FATTO E SVOLGIMENTO DEL RAPPORTO
+CONTENZIOSO
+
+La societa CdR SRL, a seguito di accertamenti nei confronti dei
+signori P e delle aziende a loro riconducibili, veniva, previa la
+richiesta di documenti, fatta oggetto di una verifica per diversi anni d'imposta
+(qui in contestazioni vi sono gli anni 2008 e 2009).
+
+Detta verifica, conclusasi con l'emissione di una serie di avvisi di
+accertamento, sia in capo alla società che ai soci, stante la ristrettezza della
+base societaria, riteneva ie fatture emesse dalle società riferentesi ai
+P oggettivamente inesistenti e ciò sarebbe provato anche dai
+versamenti effettuati nei conti correnti bancari personali cointestati ai soci; da
+qui la ripresa a tassazione sia ai fini delle imposte dirette, IRAP ed IVA, mentre
+il maggior reddito veniva anche, in ragione della quota detenuta nella società,
+contestata anche ai personalmente ai singoli soci.
+
+
+
+ 
+ <req ID="Req1" G="1" P="A|B|C">Avverso i predetti avvisi la società ed i soci presentavano tempestivo e rituale ricorso</req> 
+ <claim ID="Claim1" G="1" P="A|B|C" PRO="Req1">lamentando:
+ In via preliminare:
+ 1. Illegittimita degli atti per carenza di sottoscrizione.</claim>
+ 2. <claim ID="Claim2" G="1" P="A|B|C" PRO="Req1">Illegittimità degli atti per inesistenza della notifica.</claim>
+ 3. <claim ID="Claim3" G="1" P="A|B|C" PRO="Req1">Decadenza del potere accertativo per il 2008</claim> <arg ID="Arg10" G="1" P="A|B|C" PRO="Claim3">(la denuncia penale è pretestuosa ed è intervenuta successivamente allo scadere del potere accertativo).</arg>
+
+ In diritto:
+ A) <claim ID="Claim4" G="1" P="A|B|C" PRO="Req1">Violazione dell'art. 7 dello statuto del contribuente (mancata allegazione del pvc in capo alle aziende dei P).</claim>
+ B) <claim ID="Claim5" G="1" P="A|B|C" PRO="Req1">Violazione dell'art. 12 comma 7 dello statuto del contribuente (mancata emissione del pvc — mancato contraddittorio endoprocedimentale ecc..</claim>
+ C) <claim ID="Claim6" G="1" P="A|B|C" PRO="Req1">Indebita doppia tassazione (i maggiori utili sono stati, per intero, contestati sia ai soci che alla società).</claim>
+ 
+ <arg ID="Arg11" G="2" P="A|B|C" PRO="Claim10">In fatto:
+ a) Le fatture ricevute e registrate corrispondono al vero (che l'altra ditta le abbia indicate nelle proprie scritture contabili con importi notevolmente inferiori è fatto a noi non imputabile)</arg>
+ b) <arg ID="Arg12" G="2" P="A|B|C" PRO="Claim10">E'sta dimostrata la presenza della merce fatturata.</arg>
+ c) <arg ID="Arg13" G="2" P="A|B|C" PRO="Claim10">i versamenti indicati dall'Ufficio sono stati duplicati (il c/c personale preso in esame è cointestato).</arg>
+ d) <claim ID="Claim10" G="1" P="A|B|C" PRO="Req1">In conclusione non vi è prova alcuna dell'accordo fraudolento asseritamente avvenuto tra le parti.</claim>
+
+ <arg ID="Arg14" G="2" P="D" CON="Claim1|Claim2|Claim3|Claim4|Claim5|Claim6|Claim10">Si costituiva l'agenzia delle entrate che, con proprie contro deduzioni, cercava di dimostrare l'infondatezza dei vizi citati.</arg>
+ 
+
+ 
+ <dec ID="Dec1" G="1" E="1" O="Req1">La Commissione adita accoglieva il ricorso relativo al 2008 sulla base del punto 3 (decadenza del potere accertativo) e lo respingeva per il 2009.</dec>
+ 
+
+
+
+ 
+ <req ID="Req2" G="2" P="D">Presentava appello l'amministrazione</req>
+ <claim ID="Claim12" G="2" P="D" PRO="Req2"> che contestava la statuizione dei primi giudici per il 2008.</claim>
+
+ <claim ID="Claim13" G="2" P="A|B|C" PRO="Req3">Con proprie controdeduzioni ed appello incidentale la parte contribuente riproponeva in toto le proprie lagnanze</claim> 
+ <req ID="Req3" G="2" P="A|B|C">e chiedeva l'annullamento degli avvisi originariamente impugnati.</req>
+ 
+
+ 
+ La Commissione, oggi riunita per risolvere il caso sottoposto alla propria attenzione, sentite le parti che si rifanno sostanzialmente a quanto già dedotto e presente in atti, presa visione della documentazione riversata nel fascicolo di causa, ritiene di dovere esaminare preliminarmente le doglianze relative alla questioni di cui ai n.ri 1, 2 e 3 in quanto questioni attinenti la validità degli atti impugnati in generale e che quindi rappresentano l'aspetto pregiudiziale nell'attuale vertenza.
+
+ <mot ID="Mot1" G="2" O="Claim1">Per quanto attiene al punto 1. che attiene alla sottoscrizione degli avvisi effettuata da funzionari privi di potere l'atto dispositivo n.30 del 17 aprile 2012 non costituisce idonea prova dei poteri delegati dal Direttore Provinciale ai funzionari che hanno sottoscritto gli avvisi di accertamento.
+
+ L'art. 42 DPR n. 600/1973 infatti stabilisce come criterio inderogabile di validita dell'avviso di accertamento che esso sia sottoscritto dal Capo dell'Ufficio o da altro impiegato della carriera direttiva da lui delegato.
+
+ La Corte di Cassazione, già da qualche tempo con giurisprudenza ormai consolidata (Cass. 22803/15, 25017/15, 12960/17) ha stabilito che, ai fini della validità della delegà, sia essa di firma o di funzioni, debba esserne indicata la ragione, il termine di validità ed il nominativo del soggetto delegato, non essendo sufficiente l'indicazione della sola qualifica professionale del destinatario della dèlega.
+
+ In sostanza, afferma la Suprema Corte, sono illegittime le deleghe impersonali prive dell'indicazione nominativa del soggetto delegato, e tale illegittimità si riflette sulla nullità dell'atto impositivo.
+
+ Questa Commissione Regionale, in applicazione del principio di diritto stabilito dalla Corte di Cassazione, si è più volte pronunciata in senso conforme, stabilendo la nullità degli avvisi privi di valida sottoscrizione, quando questa non rispetti i requisiti stabiliti dall'art. 42 DPR 600/1973.
+
+ Nella fattispecie l'Agenzia delle Entrate, Ufficio di Vicenza, ha prodotto l'atto dispositivo in data DD MM 2012 di conferimento delle deleghe “al Capo Ufficio Controlli, al Capo Ufficio Legale ed ai relativi Capi Area, Capi Team ed al personale in dotazione”, che fa seguito a precedenti atti dispositivi in data DD MM 2010 e DD MM 2011 della Direzione Regionale.
+
+ Dalla attenta lettura di questi atti appare evidente che essi mancano dei requisiti di validità non essendo indicati i nominativi dei soggetti delegati, ma solo la loro qualifica (nella tabella allegata vi è l'indicazione dei limiti di importo, ma non vi è alcun nominativo), le ragioni della delega e la durata.
+
+ A nulla vale la lettera di incarico presentata dall'ufficio ne! quale vi è l'indicazione dei vari Uffici ed i nominativi di coloro che vanno a rivestire dette funzioni, in quanto ciò costringerebbe il contribuente ad effettuare ulteriori verifiche per controllare chi ricopre detti incarichi e da che data.
+ 
+ Di conseguenza, essendo nulla la delega, lo è anche l'atto a cui essa è stato applicata, nullità che si riflette sull'accertamento nella sua interezza.</mot>
+
+ La pronuncia sul punto esime il Collegio dal pronunciarsi, in quanto assorbiti, sui restanti motivi di appello.
+
+ Pertanto la sentenza impugnata deve essere cassata e gli avvisi di accertamento, originariamente impugnati, annullati.
+
+ Per quanto attiene alle spese, visto l'andamento processuale, tenuto conto che, in fatto, vi è una fondata possibilità che le riprese operate abbiano fondamento, come si può rilevare anche dalle sentenze di prime cure,
+ si ritiene di poterle interamente compensare tra le parti.
+ 
+
+ P.Q.M
+ <dec ID="Dec2" G="2" E="1" O="Req3">Accoglie l'appello incidentale e conseguentemente annulla gli avvisi di
+ accertamento originariamente impugnati.</dec>
+
+ Spese interamente compensate tra le parti.
+
+ 
+ Venezia DD MM 2018
+ 
+
+ Il Presidente
+ Il Relatore Estensore 
+ 
+
+</body>

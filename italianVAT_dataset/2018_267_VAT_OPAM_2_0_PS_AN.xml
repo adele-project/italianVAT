@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+Sentenza del DD/MM/2018 n. 267 - Comm. Trib. Reg. per XXX Sezione/Collegio 7
+
+Intitolazione:
+
+non disponibile
+
+Massima:
+
+non disponibile.
+
+Testo:
+
+
+	
+		<dec ID="Dec1" G="1" E="1" O="Req1"><req ID="Req1" G="2" P="B">Con sentenza n. 431/5/2015 del 4.5.2015 e depositata in data DD.MM.2015 la Commissione tributaria provinciale di XXX accoglieva i ricorsi previa loro riunione - proposti dalla <part P="B">società D.S. srl e da M.R.</part> - per la quota i reddito societario riferibile al socio nella misura del 25% - avverso gli avvisi</req></dec>
+	
+
+
+con i quali venivano ripresi a tassazione i ricavi per gli anni di imposta 2006, 2007, 2008, come accertato con p.v.c. redatto dalla Guardia di Finanza. 
+
+
+	
+		<claim ID="Claim1" G="2" P="A" PRO="Req2">Avverso detta statuizione ha proposto appello la difesa erariale ritenendola affetta da vizio di ultrapetizione,</claim> 
+		<claim ID="Claim2" G="2" P="A" PRO="Req2">erronea interpretazione dei fatti di causa</claim> 
+		<claim ID="Claim3" G="2" P="A" PRO="Req2">e, conseguentemente, illogica, anche per violazione della norma di legge.</claim>
+		<arg ID="Arg1" G="2" P="A" PRO="Claim1|Claim2|Claim3">In particolare ha ritenuto che il ragionamento seguito dal giudice di prime cure non aveva centrato il thema decidendum, essendo pervenuto all'affermazione dell'inesistenza di tutti gli atti tributari emessi oltre cinque anni dalla cancellazione della società dal registro delle imprese. Ed invero la problematica relativa all'intervenuta cancellazione dal registro delle imprese della società appellata nel corso del 2008, poteva intendersi risolta in favore della piena legittimità degli atti impositivi relativi alla società estinta, in ragione dell'avvenuta notificazione degli stessi all'ex legale rappresentante p.t. e di tutti i soci, avvenuta entro i termini decadenziali previsti per l'accertamento, richiamando al riguardo copiosa giurisprudenza della Cassazione.</arg> 
+		<req ID="Req2" G="2" P="A">Ha chiesto, pertanto, la riforma dell'impugnata sentenza</req> 
+		con vittoria di spese del doppio grado.
+
+
+		<req ID="Req3" G="2" P="B">Si sono costituiti in giudizio gli appellati chiedendo il rigetto dell'appello-</req>
+		<claim ID="Claim4" G="2" P="B" PRO="Req3">eccependo peraltro, in via preliminare, l'inammissibilità ex art. 53 D.lgs. 546/1992-</claim> 
+		con conseguente condanna degli appellanti al pagamento delle spese di lite.
+	
+
+	MOTIVI DELLA DECISIONE
+
+		<mot ID="Mot1" G="1" O="Claim4">Preliminarmente è necessario esaminare la questione di inammissibilità dell'appello sollevata dagli appellati. E' ormai consolidato l'orientamento della Suprema Corte ha infatti recentemente statuito che, in tema di contenzioso tributario, l'indicazione dei motivi specifici dell'impugnazione non deve necessariamente consistite in una rigorosa e formalistica enunciazione delle ragioni invocate a sostegno dell'appello, ben potendo i motivi di gravame essere ricavati, anche per implicito, purchè in maniera univoca, dall'intero atti di impugnazione considerato nel suo complesso (v. Cass.a Civ. sez V 14.1.2011 n. 802).</mot> 
+		Per tali argomentazioni, tenuto conto del contenuto dell'atto di appello, l'eccezione va respinta. 
+
+		Passando al merito questa commissione ritiene di non poter condividere le argomentazioni poste a sostegno della sentenza impugnata. 
+		<mot ID="Mot2" G="1" O="Claim2|Claim3">Va infatti anzitutto in linea generale ribadito che dopo la riforma del diritto societario, attuata dal d.lgs. n. 6 del 2003, qualora all'estinzione della società, di persone o di capitali, conseguente alla cancellazione dal registro delle imprese, non corrisponda il venir meno di ogni rapporto giuridico facente capo alla società estinta, si determina un fenomeno di tipo successorio, in virtù del quale
+		a) l'obbligazione della società non si estingue, ciò che sacrificherebbe ingiustamente il diritto del creditore sociale, ma si trasferisce ai soci, i quali ne rispondono, nei limiti di quanto riscosso a seguito della liquidazione o illimitatamente, a seconda che, "pendente societate", fossero limitatamente o illimitatamente responsabili per i debiti sociali;
+		b)..» (Sez. 1 Sentenza n. 6070 del 12/03/2013, Rv. 625323-01) Da tale principio di diritto consegue che l'accertamento per IRAP ed IVA emesso nei confronti della D.S. è stato correttamente notificato al socio quale "successore" anche, nelle correlative obbligazioni societarie, sicchè, una diversa interpretazione sarebbe in contrasto con il principio generale di cui all'art. 2312, secondo comma, cod. civ. (cfr. in termini e nello stesso senso Sez. 5, 23577/2012).
+
+		Peraltro alla disposizione legislativa citata dal giudice di prime cure a sostegno della propria argomentazione (art. 28, d.lgs. 175/2014), va dato un significato ed una portata esattamente contraria a quella indicata. Infatti, ribadito che «L'art. 28, comma 4, del d.lgs. 21 novembre 2014, n. 175, recante disposizioni di natura sostanziale sulla capacità delle società cancellate dai registro delle imprese, non ha valenza interpretativa, neppure implicita, e non ha, quindi, alcuna efficacia retroattiva. Ne consegue che il differimento quinquennale (operante nei confronti soltanto dell'amministrazione finanziaria e degli altri enti creditori o di riscossione indicati nello stesso comma, con riguardo a tributi o contributi) degli effetti dell'estinzione della società derivanti dall'art. 2495, secondo comma, cod. civ., si applica esclusivamente ai casi in cui la richiesta di cancellazione della società dal registro delle imprese (che costituisce il presupposto ditale differimento) sia presentata nella vigenza della nuova disciplina di detto d.lgs., ossia il 13 dicembre 2014, o successivamente» (Sez. 5, Sentenza n. 6743 del 02/04/2015, Rv. 635140 - 01). Come del resto è ben spiegato in tale precedente giurisprudenziale l'area applicativa della norma, essendo la medesima non interpretativa e quindi non retroattiva, si proietta dopo la sua entrata in vigore, ma riguarda soltanto gli atti impositivi notificati alle società estinte. 
+
+		In sintesi: è legittimo l'accertamento emesso nei confronti di una società di persone estinta se notificato ai soci: questi ultimi, infatti, divengono i successori dei debiti sociali rimasti inevasi difatti la cancellazione dal registro imprese di una società corrisponde alla sua estinzione, ma ciò non estingue «automaticamente»&gt; tutte le posizioni debitorie; per non sacrificare ingiustamente il creditore sociale, i debiti si trasferiscono ai soci, i quali ne rispondono nei limiti di quanto riscosso a seguito della liquidazione ovvero nella misura in cui ne avrebbero risposto in vigenza dell'ente, e quindi illimitatamente per le s.n.c. o per i soci accomandatari o limitatamente nella misura di quanto riscosso in sede di liquidazione per le società di capitali e per i soci accomandanti. - inoltre, la nuova norma, introdotta dall'articolo 28, comma 4, del D.lgs. 175/2014, secondo la quale la capacità delle società cancellate dal registro imprese é differita di cinque anni ai fini tributari e contributivi, non può avere alcuna valenza retroattiva, in quanto non si tratta di una disposizione con carattere interpretativo. Ed appunto nel caso di specie, correttamente, l'<part P="A">Agenzia delle entrate</part> ha dunque rivolto la propria pretesa per l'obbligazione societaria direttamente ai suoi soci, in virtù di detto principio generale del codice civile. u00C8, infatti, consentito al Fisco di agire in via sussidiaria nei confronti dei soci, salvo quanto previsto dal nuovo art. 2495 c.c. Per quest'ultima norma, dopo la cancellazione, i creditori sociali non soddisfatti possono far valere i loro crediti nei confronti dei soci, fino alla concorrenza delle somme da questi riscosse, in base al bilancio finale di liquidazione. 
+
+		Come chiarito in più occasioni dalla Suprema Corte, dal chiaro tenore testuale delle disposizioni tributarie e civilistiche, la responsabilità dei soci per le obbligazioni fiscali non assolte è limitata alla parte da ciascuno di essi conseguita nella distribuzione dell'attivo nelle varie fasi, cosicché il Fisco, il quale agisce nei confronti del socio, è tenuto a dimostrare il presupposto della responsabilità quest'ultimo, e cioè che, in concreto, vi sia stata la distribuzione dell'attivo e che una quota ditale attivo sia stata riscossa (Cass. 19732/2005; Cass 11968/2012; Cass. 7676/2012), ovvero che vi siano state le assegnazioni sanzionate dalla norma fiscale. Nel caso in esame l'Agenzia delle Entrate non ha in alcun modo specificato di ascrivere al socio M. neppure una presunta distribuzione relativamente al periodo d'imposta 2008, non avendo tale distribuzione formato oggetto dell'accertamento. Come ha avuto modo di precisare la S.C. in una recente sentenza, "In tema effetti della cancellazione di società di capitali dal registro delle imprese nel confronti dei creditori sociali insoddisfatti, il disposto dell'art. 2495, comma 2. c.c. implica che l'obbligazione sociale non si estingue ma si trasferisce ai soci, quali ne rispondono nei limiti di quanto riscosso a seguito della liquidazione, sicché grava sul creditore l'onere della prova circa la distribuzione dell'attivo sociale e la riscossione di una quota di esso in base al bilancio finale di liquidazione, trattandosi di elemento della fattispecie costitutiva del diritto azionato dal creditore nei confronti del socio". (Cass. Sez. 1- Sentenza n. 15474 del 22/06/2017, Rv. 644762-02).</mot>
+
+		Per tali motivi l'appello va respinto. 
+		
+		Ogni ulteriore motivo resta assorbito. 
+
+		Considerata la particolarità delle questioni giuridiche questa commissione ritiene che possano sussistere valide motivazioni per determinare la compensazione delle spese di giudizio, anche in considerazione del rigetto dell'eccezione preliminare sollevata dagli appellati.
+	
+
+	P.Q.M.
+
+		<dec ID="Dec2" G="2" E="0" O="Req2">La Commssione Tributaria Regionale di XXX, Sezione distaccata di XXX, definitivamente pronunciando, ogni contraria istanza, eccezione e deduzione disattesa e rigettata, cosi provvede: respinge l'appello</dec>
+		e compensa le spese.
+	
+
+</body>

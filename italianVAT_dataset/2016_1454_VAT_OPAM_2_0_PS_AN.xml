@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+
+REPUBBLICA ITALIANA
+IN NOME DEL POPOLO ITALIANO
+
+	LA COMMISSIONE TRIBUTARIA REGIONALE DI XXX SEZIONE 22
+
+	riunita con l'intervento dei Signori:
+		giu1 Presidente
+		giu2 Relatore
+		giu3 Giudice
+	
+
+	Ha emesso la seguente sentenza
+
+	REG. GENERALE N° 2925/2015
+
+- sull'appello n. 2925/2015 depositato il DD/MM/2015
+
+- avverso la sentenza n. 1074/2015 Sez. 59 emessa dalla Commissione Tributaria Provinciale di XXX
+
+<part P="A">contro:
+HS SRL
+XXX</part>
+
+difeso da:
+AVV. BG
+XXX
+
+<part P="B">proposto dall'appellante:
+AG. ENTRATE DIREZIONE PROVINCIALE XXX</part>
+
+Atti impugnati:
+AVVISO DI ACCERTAMENTO n° TK30305100027/2013 IVA-ALTRO 2008
+
+
+Ritenuto in fatto
+
+L'Agenzia delle Entrate di XXX notificava il DD/MM/2013 ad HS s.r.l. avviso di accertamento con riferimento a 13 fatture di acquisto, risalenti all'anno di imposta 2008, di materiale di cancelleria, per un prezzo complessivo di € 270.000,00 apparentemente venduto da ST s.r.l., fatture ritenute dall'Ufficio relative ad operazioni soggettivamente inesistenti.
+
+Nell'avviso di accertamento si faceva riferimento, quale elemento dal quale veniva desunta l'irregolarità dell'acquisto e la consapevolezza dell'acquirente, alla circostanza seconda la quale i prezzi sarebbero stati inferiori del 14% a quelli correnti sul mercato.
+
+
+	
+		<dec ID="Dec1" G="1" E="1" O="Req1"><req ID="Req1" G="1" P="A">La CTP di XXX, dinanzi alla quale la società contribuente aveva impugnato l'avviso, ha accolto il ricorso con sentenza 1074/59/15, depositata il 26/1/2015.</req></dec>
+	
+
+	
+		<mot ID="Mot1" G="1" O="Req1">Il Giudice di primo grado ha preliminarmente richiamato i risultati ai quali è pervenuta la giurisprudenza comunitaria in ordine alla necessità, nella materia delle cosiddette "frodi carosello", che l'Amministrazione Finanziaria dimostri, sulla base di elementi oggettivi, che il contribuente sia a conoscenza o dovrebbe sapere dell'evasione fiscale commessa dal proprio fornitore o da altro operatore commerciale " a monte della catena di fornitura".
+
+		La CTP ha poi fatto riferimento alla più recente giurisprudenza della Corte di Cassazione la quale ha riconosciuto il diritto del committente - cessionario di detrarre l'IVA riportata nella fattura emessa nei suoi confronti, qualora fornisca la prova di non essere a conoscenza della partecipazione ad un'operazione fraudolenta.
+
+		Sulla base di queste premesse la CTP ha ritenuto insufficiente il quadro indiziario offerto dall'Ufficio, dando in proposito rilievo: a) alla insussistenza del presupposto di acquisti a prezzi inferiori del 14% a quelli di mercato, così come riconosciuto nella memoria in data 25/2/2014 inoltrata della stessa Guardia di Finanza al P.M. nell'ambito di un procedimento penale a carico del legale rappresentante della società contribuente; b) allo scarso valore percentuale (5,06%) dell'importo delle operazioni in esame rispetto al valore globale degli acquisti effettuati dalla H nell'anno 2008.</mot>
+	
+
+
+
+	
+		<req ID="Req2" G="1" P="B">Avverso la sentenza, notificata il 20/2/2015, L'Agenzia delle Entrate ha proposto appello con ricorso depositato presso la Segreteria della CTR di XXX il DD/MM/2015.</req> La s.r.l. HS si è costituita depositando proprie controdeduzioni il 4/6/2015 ed una memoria aggiuntiva il DD/MM/2016.
+
+Alla pubblica udienza del DD/MM/2016 la causa è stata trattenuta in decisione.
+
+Motivi della decisione
+
+		<claim ID="Claim1" G="2" P="B" PRO="Req2">Con l'unico motivo addotto a sostegno dell'impugnazione l'Agenzia delle Entrate ha sostenuto che la sentenza sarebbe affetta dal vizio di omessa o insufficiente motivazione in relazione ad un fatto decisivo,</claim> 
+		<arg ID="Arg1" G="2" P="B" PRO="Claim1">non avendo la CTP impositivo e nei propri scritti difensivi adeguatamente valutato i motivi contenuti nell'atto depositati nel giudizio di primo grado.
+
+		In particolare, essendo stata ampiamente comprovata, sul piano oggettivo, dalle indagini della GdF, l'attività di "cartiera" svolta dal fornitore ST s.r.l., che non disponeva di una sia pur minima dotazione di mezzi e persone, tale circostanza configurava idoneo elemento sintomatico della mancanza di buona fede da parte di HS s.r.l. in ordine al mancato pagamento dell'imposta da parte dell'apparente fornitore, laddove gravava sulla società contribuente cessionaria l'onere di provare di non essere a conoscenza che la fornitura proveniva non dal soggetto che aveva emesso fattura ma da terzi.
+
+		Tale onere non era stato adempiuto dall'odierna appellata, che si era limitata da un lato a sostenere la scarsa incidenza degli acquisti di c si controverte rispetto a quelli complessivi dell'anno di riferimento (2008), e, dall'altro, a dedurre la "normalità" dei prezzi praticati rispetto a quelli ai quali, nel medesimo torno di tempo, aveva acquistato da altri fornitori beni del medesimo tipo.</arg>
+
+		<claim ID="Claim2" G="2" P="A" CON="Req1">Costituendosi nel grado H ha invece ribadito la insussistenza di un prezzo di acquisto inferiore a quello di mercato, che pur costituiva il fondamento del provvedimento impositivo del quale segnalava il conseguente difetto di motivazione.</claim>
+
+		<arg ID="Arg2" G="2" P="B" CON="Claim1">Ha sostenuto che con la srl ST vi era stato solo quel rapporto di fornitura e di aver conosciuto il nominativo della società attraverso una brochure pubblicitaria confermata da una successiva verifica sul sito Internet della società; ha escluso alcuna conoscenza e di essere stata nelle condizioni di sapere che la venditrice non aveva alcuna effettiva struttura imprenditoriale e che quindi le fatture ricevute si riferivano ad operazioni soggettivamente inesistenti.</arg>
+	
+
+	
+		L'appello è infondato.
+
+		<mot ID="Mot2" G="2" O="Claim1">La Corte di Cassazione, nelle sue più recenti pronunzie, ha affermato il principio di diritto secondo il quale in materia di detrazione dell'IVA, qualora sia contestata la inesistenza soggettiva dell'operazione, grava sull'Amministrazione Finanziaria l'onere di provare, anche in via presuntiva, l'interposizione fittizia del cedente ovvero la frode fiscale realizzata a monte dell'operazione, nonché la conoscenza o conoscibilità - intesa quest'ultima come il risultato cognitivo al quale il contribuente sarebbe dovuto comunque pervenire mediante l'uso di una "appropriata diligenza" da parte del cessionario della frode commessa, mentre spetta al contribuente che intende esercitare il diritto alla detrazione o al rimborso provare la corrispondenza anche soggettiva dell'operazione di cui alla fattura con quella realizzata ovvero l'incolpevole affidamento sulla regolarità fiscale ingenerato dalla condotta del cedente (cfr. Cass. 13803/2014).
+
+		L'unico elemento addotto dall'Agenzia delle Entrate nell'avviso di accertamento oggetto del presente giudizio al fine di adempiere l'onere di comprovare, sia pure a livello presuntivo, la conoscenza o conoscibilità da parte dell'odierna appellata della inesistenza soggettiva della prestazione è stato quello della asserita inadeguatezza del prezzo di acquisto, dal quale sarebbe derivata, si legge nell'atto impositivo, la possibilità di acquistare merci ad un prezzo altamente concorrenziale.. (p.5).
+
+		Questa circostanza è stata peraltro smentita dalla stessa Guardia di Finanza nella memoria al P.M. del DD/MM/2014, e d'altra parte HS s.r.l. ha prodotto documentazione - che non è stata contestata dall'Ufficio - dalla quale emerge che prezzi pagati a ST s.r.l. in esecuzione delle prestazioni oggetto del presente giudizio erano corrispondenti a quelli praticati dagli altri fornitori.
+
+		E' quindi infondato l'argomento dell'Agenzia appellante secondo il quale la società contribuente non avrebbe fornito la prova di non essere stata consapevole delle irregolarità" a monte" del suo acquisto, in quanto tale onere sorge solo in presenza di elementi indiziari forniti dall'Amministrazione Finanziaria, nella specie del tutto insussistenti.</mot>
+
+		Al rigetto dell'appello consegue la condanna dell'appellante alla rifusione delle spese del grado, liquidate, ai sensi del DM 55/2014, in complessivi €2.000,00.
+	
+
+	P.Q.M.
+
+		<dec ID="Dec2" G="2" E="0" O="Req2">La Commissione Tributaria Regionale di XXX, definitivamente pronunziando sull'appello proposto dall'Agenzia delle Entrate avverso la sentenza 1074/59/15 della CTP di XXX, così provvede:
+
+		1) rigetta l'appello;</dec>
+
+		2) Condanna l'appellante a rifondere, in favore dell'appellata HS s.r.l., le spese del presente grado di giudizio, liquidate in complessivi € 2.000,00.
+
+		
+			Così deciso nella camera di consiglio del DD/MM/2016.
+		
+	
+
+</body>

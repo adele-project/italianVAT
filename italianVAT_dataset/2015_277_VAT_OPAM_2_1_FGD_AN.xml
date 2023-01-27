@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+
+REPUBBLICA ITALIANA
+IN NOME DEL POPOLO ITALIANO
+
+	LA COMMISSIONE TRIBUTARIA REGIONALE DI XXX
+
+	riunita con l'intervento dei Signori:
+		giu1 Presidente
+		giu2 Relatore
+		giu3 Giudice
+	
+
+	Ha emesso la seguente sentenza
+
+	REG. GENERALE N° 1009/14
+
+	- sull'appello n. 1009/14 depositato il DD/MM/2014
+	- avverso la sentenza n. 339/23/13 emessa dalla Commissione Tributaria Provinciale di XXX 
+	
+	<part P="A">contro: AG.ENTRATE DIREZIONE PROVINCIALE XXX</part>
+
+	<part P="B">proposto dal ricorrente:
+	SEP S.R.L.</part>
+
+	LEG RAPPR LGG VIA XXX
+
+	difeso da:
+
+	DAG CORSO XXX
+
+	Atti impugnati:
+	AVVISO DI ACCERTAMENTO n° TK3034002575 IVA-ALTRO 2006
+
+
+Visto l'avviso di accertamento n. TK3034002575/2011 emesso dall'Agenzia delle Entrate - Direzione Provinciale I di XXX, Ufficio controlli notificato il 6 giugno 2011 alla SEP s.r.l. in XXX per la somma complessiva di €. 83.446,00 a titolo di Iva oltre a sanzioni, interessi e diritti, a seguito di processo verbale di constatazione redatto il 30 ottobre 2009, in cui si contestava l'addebito dell'Iva, applicata in fattura dai prestatori della contribuente attesa l'indeducibilità dell'imposta ex art. 9 d.P.R. 633/1972;
+
+
+	
+		<req ID="Req1" G="1" P="B">Visto il ricorso proposto dalla contribuente davanti alla commissione Tributaria Provinciale di XXX</req> 
+		<claim ID="Claim1" G="1" P="B">con cui si è sostenuto di essersi limitata ad emettere le relative fatture nei confronti delle società di supporto applicando l'imposta da detrarre successivamente;</claim>
+	
+
+	
+		<dec ID="Dec1" G="1" E="1" O="Req1"> Vista la sentenza n. 339/23/13 pubblicata l'11 luglio 2013 con la quale la stessa Commissione ha affermato l'esclusione della possibilità di portare in detrazione dell'imposta in quanto le operazioni di gestione dei rifiuti poste in essere all'interno del sito portuale non sono imponibili ai fini Iva ai sensi dell'art. 9 co. 1, d.P.R. 633/1973;</dec>
+	
+
+
+	
+	
+		<req ID="Req2" G="2" P="B">Visto l'appello proposto dalla SEP davanti a questa Commissione Regionale,</req> 
+		<claim ID="Claim2" G="2" P="B" PRO="Req2">sosteneva da un lato che l'avviso di accertamento al tempo notificatole era stato sottoscritto da funzionario USO delegato la cui nomina era stata dichiarata illegittima,</claim>
+		<claim ID="Claim3" G="2" P="B" PRO="Req2">dall'altro che la sentenza impugnata era partita dall'erronea premessa che tutte le operazioni fossero state svolte all'interno dell'area portuale,</claim> 
+		<arg ID="Arg1" G="1" P="B" PRO="Claim3">ma ciò non era vero, poiché i servizi fatturati erano riferiti a prestazioni effettuate al di fuori dell'ambito portuale al di fuori del ciclo di trattamento dei rifiuti di ritiro dalle navi;</arg>
+	
+
+	
+		 Ritenuto quindi che l'appello deve essere accolto con la conseguente riforma della sentenza impugnata, mentre le spese di giudizio possono essere compensate, vista la peculiare specificità del caso;
+
+		<mot ID="Mot1" G="2" O="Claim3"> Considerato che, se effettivamente l'art. 9 co. 1 n. 6 d.P.R.633/1972 prevede che "i servizi prestati nei porti (...) che riflettono direttamente il funzionamento e la manutenzione degli impianti ovvero il movimento di beni o mezzi di trasporto (...)" fruiscono del regime di non imponibilità Iva, si deve anche rilevare che tale regime non può essere esteso a tutte quelle operazioni successive allo smaltimento e dal trattamento dei rifiuti portuali che si verificano successivamente al servizio manutentorio all'interno dell'area portuale strettamente intesa e che vede i rifiuti ormai trattati divenuti sostanzialmente un "sottoprodotto" e come tali oggetto di rivendita ad altre imprese della filiera ed in tale passaggio gravati da imposizione Iva, in quanto operazioni del tutto estranee al funzionamento portuale; </mot>
+	
+
+	P.Q.M.
+
+		<dec ID="Dec2" G="2" E="1" O="Claim2">La Commissione Tributaria Regionale del XXX, accoglie l'appello.</dec>
+
+		Spese compensate.
+
+		
+			Così deciso in XXX nella camera di consiglio del DD MM 2015.
+		
+	
+
+
+</body>

@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+REPUBBLICA ITALIANA
+IN NOME DEL POPOLO ITALIANO
+
+	LA COMMISSIONE TRIBUTARIA REGIONALE DI XXX 
+	SEZIONE II
+	
+
+	riunita con l'intervento dei Signori:
+		giu1 Presidente
+		giu2 Relatore
+		giu3 Giudice
+	
+
+	ha emesso la seguente 
+	SENTENZA
+
+	REG. GENERALE N° 2915/2016 
+
+	- sull'appello n. 2915/2016
+	depositato il DD/MM/2016
+
+	- avverso la pronuncia sentenza n. 479/2016 Sez:2 emessa.dalla Commissione Tributaria Provinciale di XXX
+
+	<part P="A">contro:
+	IEB s.r.l.
+	XXX
+	</part>
+
+	difeso da:
+	DOTT. FP
+	VIA SOLFERINO, 7 20121 MILANO
+
+	<part P="B">proposto dall'appellante:
+	AG. ENTRATE DIREZIONE PROVINCIALE XXX
+	</part>
+
+	Atti impugnati:
+	AVVISO DI ACCERTAMENTO n° THH038U01745 IRES-LIQ.ORDIN. 2006
+	AVVISO DI ACCERTAMENTO n° THH038U01772 IVA-OP.IMPONIB. 2006
+	AVVISO DI ACCERTAMENTO n° THH038U01772 IRAP 2006
+
+
+FATTO
+La controversia trae origine da due avvisi di accertamento con i quali 1’Agenzia delle Entrate di XXX ha mosso rilievi alla IEB s.r.l. (all’epoca in liquidazione ed ora fallita).
+
+
+	
+		<req ID="Req1" G="1" P="A">
+		La società, prestata acquiescenza ad alcuni di tali rilievi, ne ha contestati tre:</req>
+
+		- <claim ID="Claim1" G="1" P="A" PRO="Req1">l’omessa contabilizzazione di ricavi derivanti dalla vendita di due unità immobiliari facenti parte di un più ampio complesso residenziale denominato LV sito nel Comune di XXX,</claim> 
+		<arg ID="Arg1" G="1" P="A" PRO="Claim1">ed in particolare la pretesa sottofatturazione della vendita dei due immobili acquistati da AA e DG, per un totale di € 146.500;</arg>
+
+		- <claim ID="Claim2" G="1" P="A" PRO="Req1">l’indeducibilità di interessi da thin capitalization ai sensi dell’articolo 98 TUIR, con recupero all’imponibile di oltre € 207.694,</claim> 
+		<arg ID="Arg2" G="1" P="A" PRO="Claim2">trattandosi di interessi relativi a finanziamenti effettuati da società asseritamente controllata e per un importo superiore a quello previsto dalla legge per la deducibilità;</arg>
+
+		- <claim ID="Claim3" G="1" P="A" PRO="Req1">l’indebita deduzione del costo di € 3.448 relativo ad attività di mediazione,</claim> 
+		<arg ID="Arg3" G="1" P="A" PRO="Claim3">in quanto ritenuto non di competenza per l’anno 2006.</arg>
+	
+
+	
+		<dec ID="Dec1" G="1" E="1" O="Req1">La CTP di XXX, adita dalla contribuente per ottenere l’annullamento dei rilievi in contestazione e dei relativi recuperi e sanzioni, ha accolto in larga parte il ricorso, riducendo l’addebito di omessa contabilizzazione da € 146.500 a € 18.000,</dec>
+	 
+		
+		<mot ID="Mot1" G="1" O="Req1">sul presupposto che vi fosse sottofatturazione solo con riferimento alla vendita a DG, non anche a quella ad AA; annullando integralmente i rilievi relativi a indeducibilità ed indebita deduzione del costo; compensando integralmente tra le parti le spese di lite.</mot>
+	
+
+
+
+	
+		<req ID="Req2" G="2" P="B">Avverso la sentenza di primo grado ha interposto appello principale la parte pubblica,</req> 
+		<claim ID="Claim4" G="2" P="B" PRO="Req2">reiterando le proprie argomentazioni in ordine al fatto che anche la vendita alla AA era stata sottofatturata, che gli interessi dovevano ritenersi indeducibili e che la spesa per la mediazione non era relativa all’anno 2006.</claim>
+
+		<req ID="Req4" G="2" P="A">Costituendosi in giudizio, la IEB s.r.l. ha resistito all’appello principale</req> 
+		<req ID="Req3" G="2" P="A">ed ha spiegato appello incidentale</req> 
+		<claim ID="Claim6" G="2" P="A" PRO="Req3">con riferimento alla parte della pronuncia che aveva ritenuto sussistente l’omessa contabilizzazione di € 18.000 relativamente alla vendita dell’immobile a DG,</claim> 
+		domandando poi il riconoscimento delle spese del doppio grado di giudizio.
+	
+	A seguito del fallimento della IEB s.r.l. in liquidazione, il processo è stato dichiarato interrotto ex art. 40-41 D.Lgs. n. 546/1992 con decreto presidenziale del 27/8/2018, ed è poi stato riassunto ex art. 43 D.Lgs. n. 546/1992 a seguito delle istanze sia dell’Ufficio, sia del Fallimento.
+
+	La causa è stata discussa in pubblica udienza, così come richiesto dall’appellante.
+
+	DIRITTO
+
+		<claim ID="Claim7" G="2" P="B" PRO="Req2">a) Con il primo motivo dell’appello principale, 1’Ufficio si duole del fatto che la vendita dell’immobile ad AA non è stata considerata sottofatturata,</claim> 
+		<arg ID="Arg4" G="2" P="B" PRO="Claim7">e ritiene che la prova della sottofatturazione possa essere raggiunta sulla base di una perizia della banca che ha erogato il mutuo per l’acquisto e che ha valutato l’immobile in modo superiore a quanto indicato nel rogito.</arg>
+		Trattasi di motivo infondato.
+
+		<mot ID="Mot2" G="2" O="Claim4">Sul punto, si evidenzia che l’accertamento della pretesa sottofatturazione era stato fondato dall’Ufficio sul rinvenimento di un contratto preliminare indicante un prezzo maggiore di quello poi pattuito in un secondo preliminare e nel rogito (€ 290.000 in luogo di € 161.500), nonché di una perizia di stima della banca.
+
+		Ciò detto, si osserva che il primo contratto preliminare è stato ritenuto falso, con sentenza passata in giudicato e che ha qui effetto vincolante, dalla pronuncia n. 2979/2015 del Tribunale civile di XXX.
+
+		La stessa pronuncia, poi, richiamando le conclusioni del CTU ing. M, ha altresì diffusamente argomentato in ordine al fatto che la perizia della banca indica valori del tutto fuori mercato (cfr. pag. 21 e ss. sentenza, all. 3 fascicolo di parte appellata), e che il più probabile prezzo di vendita era di € 160.000, del tutto in linea con il prezzo rogitato di € 161.500.
+
+		Né le errate conclusioni cui è giunta la perizia bancaria devono sorprendere, tenuto conto che risulta come la perizia stessa sia stata redatta senza alcun sopralluogo nell’immobile; non abbia tenuto conto che l'immobile stesso rientra nella categoria di edilizia popolare, come emerge anche dalla documentazione fotografica depositata nel ricorso introduttivo; indichi valori completamente distonici rispetto agli immobili similari compravenduti nel medesimo complesso e non contestati dall’ Agenzia.
+
+		D’altro canto, l’esistenza di perizie bancarie approssimative è una realtà ben nota agli addetti ai lavori, e almeno in parte all’origine della crisi finanziaria del 2008 in ragione della concessione di finanziamenti non fondati su adeguate garanzie.
+
+		Anche sotto il profilo strettamente logico è poi difficile comprendere il motivo per cui la IEB s.r.l., nell’ambito delle numerosissime vendite degli immobili facenti parte del complesso LV, avrebbe sottofatturato solo due compravendite, tenuto conto che I’Ufficio stesso non ha formulato alcun rilievo in ordine a tutti i rimanenti rogiti.
+
+		Ne deriva, in conclusione sul punto, l'infondatezza del primo motivo dell’appello principale, stante l’assoluta carenza di prova in ordine alla sottofatturazione della vendite dell'immobile ad AA, atteso anzi che il prezzo dichiarato appare del tutto in linea con quello di mercato.</mot>
+
+		<claim ID="Claim8" G="2" P="B" PRO="Req2">a2) Con il secondo motivo dell’appello principale, l’Ufficio contesta la deducibilità degli interessi derivanti da finanziamenti fruttiferi, cd. thin capitalization.</claim>
+		<arg ID="Arg5" G="2" P="B" PRO="Claim8">In particolare, argomenta l’Agenzia che nel 2006 la IEB s.r.l. risultava essere partecipata dalla B e dalla I, entrambe per la quota del 50% e quindi pacificamente soci qualificati; che nel corso del 2006 la IEB s.r.l. ha ricevuto finanziamenti dalla VDC; che tale ultima società doveva ritenersi controllata dalla I ex art. 2359 c.c., e quindi correlata al socio qualificato I ai sensi dell’articolo 98 TUIR; che pertanto, essendo il finanziamento di VDC erogato da parte correlata al socio qualificato, esso doveva essere computato ai fini dell’articolo 98, che non ammette in deduzione la remunerazione dei finanziamenti erogati da parte correlata al socio qualificato se eccedenti il rapporto di quattro a uno tra la consistenza media dei finanziamenti stessi e la quota di patrimonio netto contabile di pertinenza del socio.</arg>
+
+		<mot ID="Mot3" G="2" O="Claim5">In realtà, non può ritenersi che VDC sia società controllata da I, e quindi non può ritenersi che VDC sia parte correlata ad I, con conseguente inapplicabilità dell’articolo 98 TUIR.
+
+		Infatti, Io stesso articolo riferisce il concetto di società controllata a quello previsto dall’articolo 2359 c.c., che come noto definisce società controllate quelle nelle quali un’altra società dispone della maggioranza dei voti esercitabile nell’assemblea ordinaria (controllo di diritto), ovvero dispone di voti sufficienti per esercitare un’influenza dominante nell’assemblea ordinaria (controllo di fatto), ovvero esercita un’influenza dominante in virtù di particolari vincoli contrattuali (controllo contrattuale).
+
+		Ciò posto, non può dirsi che vi sia un controllo di diritto ex art. 2359 n. 1 c.c., atteso che I non dispone della maggioranza diretta dei voti in VDC: in tale società I dispone infatti direttamente del solo 25%, mentre non rilevano, neppure in misura ponderata, le partecipazioni indirette tramite società che non siano a loro volta controllate, e quindi non può rilevare ai fini del controllo di diritto ex art. 2359 n. 1 c.c. il fatto che I sia socia al 50% di IEB s.r.l. (che detiene il 50% di VDC) e socia al 50% di P (che detiene il residuo 25% di VDC).
+
+		In sintesi: nessun dubbio vi è sul fatto che I sia socio qualificato di IEB s.r.l., società che ha ricevuto il finanziamento; ma non può dirsi che VDC, società che ha erogato il finanziamento, sia soggetto correlato a I, non essendo da quest’ultima controllata ex art. 2359 c.c.
+
+		I ha infatti sicuramente una posizione societaria rilevante all’interno di VDC, ma non di controllo, detenendo direttamente il 25% del capitale e dovendosi accordare con la residua compagine sociale per raggiungere la maggioranza assoluta; e ciò è altresì confermato anche dalla distribuzione delle cariche sociali, che vedono presenti esponenti di tutte le componenti ed in particolare di B, altro socio di IEB s.r.l.
+
+		Quanto all’argomentazione dell’appellante in ordine al fatto che vi possa essere un controllo di fatto da parte di I su VDC, trattasi di argomentazione inammissibile in rito e comunque infondata nel merito.
+
+		Infatti, nell’accertamento l'Ufficio ha sostenuto unicamente l’ipotesi del controllo di diritto, e quindi la censura in ordine al controllo di fatto è inammissibile perché nuova rispetto a quanto contestato nella fase pregiudiziale; in ogni caso, trattasi di censura infondata nel merito, atteso che il controllo di fatto si avrebbe, da parte di un socio qualificato pur se senza la maggioranza del capitale, nella situazione di polverizzazione del capitale o assenteismo degli altri soci, mentre nel caso che qui occupa nessuno di tali due presupposti è sussistente.
+
+		Né può parlarsi di influenza dominante per controllo contrattuale ex art. 2359 n. 3 c.c., nulla essendo al riguardo stato concretamente dedotto dall’Ufficio con riferimento a possibili vincoli contrattuali tra le società.
+
+		Deve quindi concludersi che, non essendo VDC società controllata da I, è inapplicabile l'articolo 98 TUIR.
+		Non è infatti corretta l’argomentazione dell’ Agenzia secondo cui, anche escludendo VDC, resterebbe un importo di interessi passivi indeducibili.
+		Infatti, non considerando l’importo del finanziamento fruttifero di VDC in quanto non parte correlata, il valore del patrimonio netto contabile di pertinenza dei soci finanziatori moltiplicato per quattro, pari a € 2.895.947, risulta essere superiore all’importo dei finanziamenti fruttiferi, pari a € 2.636.500,37, essendo quindi rispettata la norma della thin capitalization (cfr. in particolare i calcoli di pagina 22 delle controdeduzioni in appello e appello incidentale).</mot>
+
+		Risulta così, in conclusione, infondato anche il secondo motivo dell’appello principale.
+
+		<claim ID="Claim9" G="2" P="B" PRO="Req2">23) Con il terzo motivo dell’appello principale, l'Ufficio contesta la deducibilità del costo di € 3.448 relativo ad attività di intermediazione della G per la vendita di immobili facenti parte del condominio LV:</claim> 
+		<arg ID="Arg6" G="2" P="B" PRO="Claim9">in particolare, essendo la relativa fattura del DD/MM/2006, l’Ufficio presume che l’attività di intermediazione riguardi un anno di imposta anteriore al 2006, e quindi reputa non corretta la deducibilità del costo con riferimento all’annualità 2006, per violazione del principio di competenza ex articolo 109 commi 1 e 2 TUIR.</arg>
+
+		<mot ID="Mot4" G="2" O="Claim9">La censura non coglie però nel segno.
+
+		È infatti lo stesso Ufficio, il quale non contesta che la fattura sia stata emessa in relazione all’attività di intermediazione per la vendita degli immobili del condominio LV, a confermare che le prime vendite di tali immobili sono iniziate nel febbraio 2006 e proseguite poi per tutto l’anno: pertanto, atteso che il diritto al compenso per il mediatore matura nel momento in cui le parti raggiungono l’accordo destinato a confluire nel contratto di compravendita, è ben possibile, ed è anzi ragionevole, ipotizzare che l’accordo si sia raggiunto pochi giorni prima della formalizzazione delle prime compravendite nei contratti definitivi, e quindi proprio a MM 2006.</mot>
+
+		Consegue l’infondatezza anche del terzo motivo dell’appello principale.
+
+		<claim ID="Claim10" G="2" P="A" PRO="Req4">b) Fondato è invece l’appello incidentale, relativo alla ripresa a tassazione della somma di € 18.000 relativa ad una pretesa sottofatturazione della vendita dell’immobile a DG.</claim>
+
+		<mot ID="Mot5" G="2" O="Claim10">Si osserva infatti in proposito che la contribuente ha dettagliatamente ed esaustivamente spiegato le ragioni che l’hanno indotta a cedere l’immobile ad un prezzo al metro quadrato leggermente inferiore (con un modesto scostamento del 13%-15%) a quello praticato per gli altri immobili condominiali.
+
+		Infatti, così come acclarato dalle apposite piante catastali dell’appartamento depositate fin dal giudizio di primo grado, IEB s.r.l. ha dimostrato che l’immobile per cui è causa, diversamente dalle altre unità immobiliari compravendute, ha un taglio della zona pranzo-soggiorno molto irregolare, con almeno due spazi non agevolmente sfruttabili e grande zona giorno; ha un ingresso di dimensioni eccessive, la cui metratura incide significativamente su quella complessiva; ha una loggia irregolare e di notevoli dimensioni, ciò che nuovamente porta ad un inutile aumento della metratura complessiva.
+
+		Trattasi di argomentazioni che giustificano pienamente, ad avviso del Collegio, la (invero modesta) riduzione del prezzo al metro quadro praticata.
+
+		Quanto al rilievo che il DG avrebbe prelevato dal proprio conto corrente la somma di € 18.000 in prossimità della stipula del contratto preliminare, deve innanzitutto replicarsi che non può essere chiesto alla IEB s.r.l. di giustificare il comportamento del DG, a pena di introdurre nel sistema una probatio diabolica.
+
+		Nel merito, poi, tale prelievo può essersi reso necessario per molteplici ragioni (ragionevolmente, l’appellante incidentale ipotizza ad esempio costi per pagare il notaio o l'arredo dell’immobile), e non può quindi essere considerato elemento da solo idoneo a fondare la presunzione, ex art. 2729 c.c., che sia stato effettuato un pagamento in nero ed extracontabile.</mot>
+
+		Pertanto, deve ritenersi non raggiunta la prova della sottofatturazione della vendita effettuata a favore di DG, diversamente da quanto opinato dalla CIP, ciò che comporta l’accoglimento dell’appello incidentale.
+
+		c) In conclusione, deve rigettarsi l'appello principale 
+		e accogliersi l’appello incidentale, con conseguente integrale accoglimento della domanda proposta in primo grado dal contribuente ed integrale annullamento degli atti impugnati.
+
+		Non vi sono motivi per derogare ai principi generali codificati dagli artt. 15 D.Lgs. n. 546/1992 e 91 c.p.c. in tema di spese di lite, che, liquidate come da dispositivo con riferimento al D.M. n. 55/2014, sono quindi poste per il doppio grado di giudizio a carico del soccombente Ufficio appellante principale ed a favore del vittorioso contribuente appellante incidentale, tenendo a mente un valore ricompreso tra i minimi ed i medi nell’ambito dello scaglione entro il quale è racchiuso il decisum di causa.
+	
+
+	P.Q.M.
+
+	<dec ID="Dec2" G="2" E="0" O="Req2">la Commissione Tributaria Regionale di XXX sez. XI
+
+	- rigetta l’appello principale;</dec>
+	
+	<dec ID="Dec3" G="2" E="1" O="Req3">- in accoglimento dell’appello incidentale, annulla integralmente il rilievo relativo all’omessa contabilizzazione di ricavi, e per l’effetto accoglie integralmente il ricorso di primo grado;</dec>
+	
+	- condanna Agenzia delle Entrate a rifondere a Fallimento Immobiliare IEB s.r.l. in liquidazione, le spese di lite del doppio grado di giudizio, che liquida in € 3.000 per il primo grado ed € 4.000 per il secondo grado, oltre IVA, CPA e rimborso spese forfettarie.
+
+	
+		XXX, DD/MM/2019
+	
+
+	Il Giudige rel. est.
+	giu2
+
+	Il Presidente
+	giu1
+	
+
+</body>

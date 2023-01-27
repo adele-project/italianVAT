@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+
+ 
+REPUBBLICA ITALIANA
+IN NOME DEL POPOLO ITALIANO
+
+ LA COMMISSIONE TRIBUTARIA REGIONALE DI XXX SEZ.STACCATA DI XXX SEZIONE 9 
+
+ riunita con l'intervento dei Signori:
+ giu1 Presidente
+ giu2 Relatore
+ giu3 Giudice
+ 
+
+ ha emesso la seguente
+ SENTENZA
+
+ REG.GENERALE N° 1948/2016
+
+ - sull'appello n. 1948/2016
+ depositato il DD/MM/2016
+
+ - avverso la pronuncia sentenza n.
+ Tributaria Provinciale di XXX
+
+ <part P="A">contro:
+ FD AND C. SRL
+ XXX</part>
+
+ difeso da:
+ RM
+ XXX
+
+ e da
+ TM
+ XXX
+
+ <part P="B">proposto dall'appellante:
+ AG. ENTRATE DIREZIONE PROVINCIALE XXX</part>
+
+ Atti impugnati:
+ AVVISO DI ACCERTAMENTO n° T6Z060303936 IVA-OP.ESENTI 2009
+ AVVISO DI ACCERTAMENTO n° T6Z060303936 IMP.IPOTECARIA 2009
+
+ R.G. Appelli n. 1948/2016 depositato il DD/MM/2016 avverso la sentenza n. 133/2016
+ emessa il DD/MM/2015 e depositata il DD/MM/2016
+
+ Appello dell'Agenzia delle Entrate avverso la decisione della Commissione Tributaria
+ Provinciale di XXX n. 133/16 del DD/MM/2015 che aveva accolto, con la
+ compensazione delle spese, il ricorso proposto avverso l’avviso di accertamento n.
+ T6Z060303936 relativo ad IVA, operazioni esenti e imposta ipotecaria per l’anno
+ d’imposta 2009
+
+
+Fatto e svolgimento del processo di primo grado
+
+Con l'avviso di accertamento indicato in epigrafe, l'Agenzia delle Entrate aveva rettificato la dichiarazione IVA relativa all'anno d'imposta 2009 presentata dalla società S s.r.l. rideterminando l'imposta detraibile in base al pro-rata ex artt. 19 e 19 bis del DPR n. 633/1972 con recupero a tassazione della maggior IVA dovuta e con l'irrogazione delle relative sanzioni.
+
+
+ 
+ <req ID="Req1" G="1" P="A">Avverso detto avviso di accertamento fu proposto ricorso avanti la Commissione Tributaria Provinciale di XXX dalla FD and C. s.r.l., in qualità di società incorporante la S s.r.l.</req>
+ <arg ID="Arg1" G="1" P="A" PRO="Claim1">con il quale si ribadiva che la società incorporata all'epoca dell'accertamento non aveva dipendenti e si limitava a locare ad altra società del gruppo l'unico immobile alla stessa intestato, inoltre la stessa denunciava interessi derivanti da un contratto di finanziamento posto in essere ancora nel 2004 a favore della società capogruppo,</arg>
+ <claim ID="Claim1" G="1" P="A" PRO="Req1">attività questa che doveva essere ritenuta occasionale.</claim>
+ <claim ID="Claim2" G="1" P="B" CON="Req1">L'Agenzia delle Entrate, ritualmente costituitasi, aveva ribadito la legittimità del proprio operato.</claim>
+ 
+ 
+ <dec ID="Dec1" G="1" E="1" O="Req1">La Commissione Tributaria adita, con la sentenza impugnata, aveva accolto il ricorso</dec> 
+ con la compensazione delle spese di giudizio.
+ /
+
+
+Svolgimento del presente grado del giudizio
+
+
+ 
+ <arg ID="Arg10" G="2" P="B" PRO="Claim10">Avverso la sentenza ha proposto appello l'Agenzia delle Entrate che ha ribadito quanto già dedotto nel precedente grado di giudizio e, in particolare, ha sottolineato che il contratto di finanziamento, pur risalente al 2004, era stato oggetto di diverse modifiche intervenute negli anni successivi e, quindi, l'attività finanziaria, stante la sua continuità nel tempo e la rilevanza degli interessi pagati non può considerarsi occasionale con la conseguenza che tale attività concorre nell'applicazione del pro-rata ex art. 19, comma 5°, DPR n. 633/1972.</arg>
+
+ <claim ID="Claim10" G="2" P="B" PRO="Req10">L'attività esercitata dalla S s.r.l., quindi, oltre a consistere nella locazione di beni propri, comportava attività non occasionale di servizi finanziari resi a favore della società controllante.</claim>
+
+ <req ID="Req10" G="2" P="B">Parte appellante ha pertanto concluso chiedendo l'accoglimento dell'appello con la conferma dell'avviso di accertamento,</req> 
+ spese e onorari rifusi.
+
+ <arg ID="Arg11" G="2" P="A" CON="Claim10">Parte appellata, ritualmente costituitasi, ha ribadito quanto gia dedotto nel precedente grado di giudizio sottolineando che nel corso della sua ultra trentennale attivita immobiliare la S s.r.1. aveva effettuato un solo finanziamento a favore della società capogruppo come del resto si evinceva dai dati contenuti nelle dichiarazioni sul punto non contestate.</arg>
+
+ <req ID="Req11" G="2" P="A">Parte appellata ha conseguentemente chiesto la conferma dell'impugnata decisione</req> 
+ con vittoria di spese e competenze.
+ 
+
+La causa all’udienza del 18 febbraio 2019, dopo discussione, è stata trattenuta a decisione.
+
+Motivi della decisione
+
+ 
+ <mot ID="Mot10" G="2" O="Claim10">Osserva la Commissione che la natura occasionale del finanziamento erogato nel 2004 dalla controllata alla società capogruppo trova conferma nell'unicità di tale operazione economica.
+
+ La percezione degli interessi che scaturivano dal contratto di mutuo devono essere considerati, quindi, un semplice adempimento degli obblighi scaturenti da detto contratto e la non inclusione di tale operazione finanziaria nel denominatore della frazione usata per il calcolo pro-rata serve quindi ad assicurare il conseguimento dell'obiettivo della perfetta neutralità garantita dal sistema di imposizione IVA.
+
+ Del resto l'attività di finanziamento non ha comportato l'impiego di beni e servizi soggetti ad IVA e costi ulteriori rispetto a quelli ordinariamente sostenuti per l'amministrazione della società. Unica attività, quindi, svolta dalla società contribuente era quella della locazione dell'unico immobile di proprietà a società del gruppo in regime IVA.
+
+ Non rileva, inoltre, l'entità delle somme percepite a titolo di interesse né che tali importi, come sottolineato da parte appellante, fossero necessari per consentire l'equilibrio economico della società contribuente né che nel corso degli anni le parti avessero integrato il contratto di mutuo modificandolo parzialmente.
+
+ La definizione della natura occasionale dell'operazione di finanziamento concessa all'epoca alla società capogruppo consente di escludere i relativi interessi attivi dal calcolo della percentuale di riduzione dell'IVA detraibile in ragione delle operazioni esenti effettuate.</mot>
+
+ L'appello, pertanto, deve essere respinto e confermata l'impugnata decisione.
+
+ Ritiene la Commissione che, stante la particolarità della materia trattata, debbano essere interamente compensate le spese anche del presente grado di giudizio.
+ 
+
+ P.Q.M.
+
+ <dec ID="Dec10" G="2" E="0" O="Req10">La Commissione rigetta l'appello dell'Ufficio confermando l'impugnata decisione.</dec>
+
+ Spese compensate.
+
+ XXX, DD MM 2019
+
+ Il Relatore 
+ giu2
+
+ Il Presidente
+ giu1
+ 
+
+</body>

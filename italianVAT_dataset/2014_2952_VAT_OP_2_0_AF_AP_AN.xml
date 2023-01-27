@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+REPUBBLICA ITALIANA
+IN NOME DEL POPOLO ITALIANO
+
+REG. GENERALE N° 2224/13
+SENTENZA N° 2952/14
+
+	LA COMMISSIONE TRIBUTARIA REGIONALE DI ROMA 
+	SEZIONE 35
+
+	riunita con l'intervento dei Signori:
+		giu1 Presidente 
+		giu2 Relatore
+		giu3 Giudice.
+	
+
+	ha emesso la seguente
+	SENTENZA
+
+	- sull'appello n. 2224/13
+	depositato il DD/MM/2013
+
+	- avverso la sentenza n. 391/52/12
+	emessa dalla Commissione Tributaria Provinciale di ROMA
+	<part P="A">contro: AG.ENTRATE DIREZIONE PROVINCIALE ROMA 1</part>
+
+	<part P="B">proposto dai ricorrenti:
+	OL SPA
+	XXX</part>
+
+	difeso da:
+	PM
+	XXX
+
+	difeso da:
+	PS
+	XXX
+
+	Atti impugnati:
+	AVVISO DI ACCERTAMENTO n° RCC064702485/2009 IVA-OP.ESENTI 2004
+
+
+
+	
+		<req ID="Req1" G="1" P="B">Trattasi di un ricorso avverso l’avviso di accertamento n. RCC064702485, notificato in data 21/12/2009 dall’ Agenzia delle Entrate, Ufficio Roma 2, all’ OL SPA operante nell’attività di commercio di articoli di abbigliamento e sportivi,</req> 
+		con il quale accertava per l’anno d’imposta 2004 una indebita detrazione IVA per € 327.439,00, e richiedendo il pagamento di € 370.555,00 a seguito di una verifica PVC del 30/11/06, veniva rilevato che nell’anno in questione la società aveva ceduto la partecipazione nella società CF s.p.a. per complessivi € 3.500.000,00, fatturando le operazioni in esenzione deducendo l’intero ammontare dell’IVA sugli acquisti omettendo di calcolare il pro-rata di detraibilità.
+
+		<claim ID="Claim1" G="1" P="B" PRO="Req1">La società ricorrente sosteneva che la rettifica era illegittima</claim> 
+		<arg ID="Arg1" G="1" P="B" PRO="Claim1">in quanto dal calcolo pro-rata dovevano intendersi escluse le operazioni occasionali e quelle che non formavano oggetto proprio dell’attività dell’impresa, citando in tal senso la sentenza della Corte di Cassazione n. 13992/01, per cui riteneva non presenti nella fattispecie nessuna delle due ipotesi e l’oggetto sociale non prevedeva la compravendita di partecipazioni bensì la loro assunzione, non ai fini del collocamento, con finalità industriali, ritenendo quindi l’assoluta occasionalità della cessione in questione.</arg>
+		<claim ID="Claim2" G="1" P="B" PRO="Req1">Riteneva inoltre che la rettifica contenuta nell’atto di accertamento fosse priva di motivazione.</claim>
+
+		<arg ID="Arg2" G="1" P="A" CON="Claim1">Si costituiva l’Ufficio in data 30/04/10 e successivamente in data 24/03/11 richiedeva la riunione del presente giudizio con altri pendenti di cui all’R.G.R. n. 10007/10 e 10009/10, facendo presente che la materia, regolata dall’art. 19 bis del DPR n. 633/72, precisava che la partecipazione era stata acquisita dalla C s.p.a e ceduta alla CF s.p.a. tutte operanti insieme alla ricorrente, nel settore dell’abbigliamento e degli accessori sportivi e anche se lo statuto della società ricorrente prevedeva espressamente l’assunzione, non ai fini del collocamento, non escludeva che anche la cessione di partecipazioni rientrasse nell’attività propria dell’impresa con l’esclusiva finalità del conseguimento dell’oggetto sociale. 
+
+		Riteneva quindi che la cessione della partecipazione non poteva configurarsi occasionale o accessoria dovendo partecipare alla determinazione della pro-rata di detraibilità dei’ IVA e rientrava la cessione tra quelle che formavano oggetto dell’attività dell’impresa.</arg>
+	
+
+	
+		<dec ID="Dec1" G="1" E="0" O="Req1">La C.T.P. respingeva il ricorso</dec>
+	
+	 
+		<mot ID="Mot1" G="1" O="Claim1">ritenendo che la cessione della partecipazione non era occasionale e rientrava tra le operazioni che formavano oggetto dell’attività dell’impresa con l'esclusiva finalità del conseguimento dell’oggetto sociale.</mot>
+	
+
+
+
+	
+		<arg ID="Arg3" G="2" P="B" PRO="Claim4">Avverso detta sentenza ha proposto appello la parte ricorrente la quale, previa discussione in pubblica udienza, ribadendo quanto sostenuto nel giudizio introduttivo richiama le motivazioni relative allo statuto societario il quale consentiva la sola assunzione di partecipazioni non finalizzata al collocamento, non avendo mai effettuato altre alienazioni di partecipazioni</arg> 
+		<claim ID="Claim4" G="2" P="B" PRO="Req2">trattandosi di assoluta occasionalità di quella cessione</claim> 
+		<req ID="Req2" G="2" P="B">e chiede che venga riformata la sentenza di primo grado ed annullato l’avviso di accertamento.</req>
+
+		<req ID="Req3" G="2" P="A">Deposita controdeduzioni l'Agenzia delle Entrate D.P. I di Roma la quale ribadisce quanto sostenuto nel giudizio introduttivo ed in diritto chiede l’inammissibilità dell’appello</req> 
+		<claim ID="Claim5" G="2" P="A" PRO="Req3">per violazione dell’art 53 del DPR n. 546/92</claim> 
+		<req ID="Req4" G="2" P="A">ed in subordine la conferma della sentenza impugnata.</req>
+	
+
+	
+		 Questa Commissione T. R., letti gli atti, ritiene l’appello non fondato.
+
+		<mot ID="Mot2" G="2" O="Claim4"> Nel P.V. risulta che la società aveva ceduto la partecipazione nella società CF s.p.a. per complessive € 3.500.000,00 ed aveva fatturato in esenzione.
+		 Trattandosi di operazioni esenti la società doveva determinare la percentuale IVA sugli acquisti detraibile, ma ritenendo che la compravendita di quote azionarie costituisse “attività occasionale” ed estranea a quella tipica, ometteva di calcolare il pro-rata, deducendo l’intero ammontare sugli acquisti per € 688.249,00.
+		La società, come risulta dal PVC, agiva quale centro di acquisto per alcune società controllate e successivamente le merci acquistate venivano cedute alle partecipate nello stesso stato ed al medesimo prezzo di acquisto con emissione di regolare fattura. 
+
+		 Dette operazioni di acquisto e di rivendita dava luogo all’IVA sugli acquisti che la società portava in detrazione per l’intero a fronte della suddetta cessione di azioni fatturate in esenzione. Il meccanismo della pro-rata prevede che i soggetti che effettuano esclusivamente operazioni esenti, non possono portare in detrazione l’IVA afferente gli acquisti di beni e servizi;
+		 per i soggetti che invece, come nel caso in esame, effettuano promiscuamente operazioni esenti ed operazioni che danno diritto alla detrazione, questa è limitata alla pro-rata in base al principio generale fissato dall’art. 19, comma 2 e 5 e 19-bis del D.P.R. n: 633/72 mentre la società appellante deduceva indebitamente, l’intero ammontare dell’IVA.
+
+		 Nel merito della ripresa, per il calcolo della percentuale di detrazione di cui al comma 1 dell’art. 19-bis citato, non si tiene conto delle cessioni di beni ammortizzabili; delle operazioni esenti, quando non formano oggetto dell'attività propria del soggetto passivo oppure siano accessorie alle operazioni imponibili.
+		 L'assunzione e la cessione delle partecipazioni detenute nella società CF s.p.a., come da PVC, all. 7, “la C s.p.a. ha deciso di alienare la partecipazione dell’80% nel capitale sociale della CF s.p.a....”, risulta diretta a realizzare l’oggetto sociale, come emerge dalle previsioni statutarie e non può ritenersi estranea all’attività propria dell’impresa in quanto funzionale alla stessa. 
+		 Ne consegue che la cessione della partecipazione in CF spa è un prolungamento diretto permanente e necessario dell’attività imponibile per affermazione della stessa parte la quale motiva nel senso di una finalità industriale della gestione delle partecipazioni in società che operavano nell’ambito della produzione e del commercio di prodotti sportivi. 
+		 Pertanto nel caso in esame dette operazioni finanziarie non possono essere qualificate come operazioni accessorie, occasionali, dovendo le stesse partecipare alla determinazione del pro-rata di detraibilità dell’IVA per cui la società appellante non poteva detrarre l’IVA sugli acquisti per l’intero ammontare ma doveva determinare la percentuale di detraibilità dell’IVA ai sensi dell’art. 19-bis del D.P.R. n. 633/72.</mot>
+
+		Le spese seguono la soccombenza.
+	
+
+	P.Q.M.
+
+		<dec ID="Dec2" G="2" E="0" O="Req2">La Commissione rigetta l’appello.</dec> 
+		Le spese si liquidano in € 1.000,00.
+
+		
+			Roma DD/MM/2014
+		
+
+		IL RELATORE
+		IL PRESIDENTE
+	
+</body>

@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+
+
+Documento firmato digitalmente Sentenza n. 11113/2021
+Il Presidente e Relatore Depositata il DD/MM/2021
+giu1
+Il Segretario
+giu4
+
+REPUBBLICA ITALIANA
+IN NOME DEL POPOLO ITALIANO
+
+ La Commissione Tributaria Regionale per la SICILIA Sezione 03, 
+ riunita in udienza il DD/MM/2021 alle ore 09:00 con la seguente composizione collegiale:
+ giu1, Presidente e Relatore
+ giu2, Giudice
+ giu3, Giudice
+ 
+
+ in data DD/MM/2021 ha pronunciato la seguente
+ SENTENZA
+
+ - sull’appello n. 8192/2018 depositato il DD/MM/2018
+
+ <part P="A">proposto da
+ CS</part>
+
+ Difeso da
+ GC
+
+ ed elettivamente domiciliato presso XXX
+
+ <part P="B">contro
+ Ag. Entrate Direzione Provinciale Palermo - XXX</part>
+
+ elettivamente domiciliato presso XXX
+
+ Avente ad oggetto l’impugnazione di:
+ - pronuncia sentenza n. 1804/2018 emessa dalla Commissione Tributaria Provinciale PALERMO sez.
+ 7 e pubblicata il DD/MM/2018
+
+ Atti impositivi:
+ - AVVISO DI ACCERTAMENTO n. TY301B604365/2012 IRPEF-REDDITI LAVORO AUTONOMO 2007
+ - AVVISO DI ACCERTAMENTO n. TY301B604365/2012 IVA-OPERAZIONI IMPONIBILI 2007
+
+
+Svolgimento del processo
+ 
+
+ 
+ <req ID="Req20" G="2" P="A">CS ha proposto appello contro l'Agenzia delle Entrate, Direzione Provinciale di Palermo, per la riforma della 
+ sentenza della Commissione Tributaria Provinciale di Palermo n.1804/07/2018,</req>
+ 
+ 
+
+ 
+ <dec ID="Dec1" G="1" E="0" O="Req1">di rigetto del ricorso avverso l’avviso di accertamento n.TY301B604365/2012, notificato il DD/MM/2012,</dec>
+ 
+
+
+con il quale l'Ufficio, in relazione all'anno d'imposta 2007, ha:
+
+ - contestato a CS, esercente l’attività di amministratore di condominio, di avere dichiarato al quadro RG del Modello Unico 2008 ricavi (per € 116.209,00) inferiori a quelli effettivi (pari ad € 139.810,00),.quali risultanti dai Modelli 770/2008 presentati dai suoi sostituti d'imposta;
+ - determinato il reddito d'impresa in € 53.303,00, in luogo di quello dichiarato per € 29.702,00;
+ - chiesto il pagamento di quanto conseguentemente dovuto a titolo di Irpef, delle relative addizionali regionale e comunale, dell’Irap e dell'Iva;
+ - irrogato la relativa sanzione pecuniaria unica.
+
+ 
+ <req ID="Req1" G="1" P="A">Con un unico motivo d’impugnazione la contribuente aveva contestato la pretesa impositiva,</req> 
+ <claim ID="Claim1" G="1" P="A" PRO="Req1">Ceccependo in particolare che:
+ - gli asseriti maggiori ricavi derivavano semplicemente dall’erroneo inserimento al punto 21 dei Modelli 770/2008, presentati dai sostituti d’imposta, dell'importo corrispostole comprensivo di Iva, anziché al netto di tale imposta;</claim>
+ - <claim ID="Claim2" G="1" P="A" PRO="Req1">Ctale errore, agevolmente riscontrabile dai partitari e dalle fatture emesse dalla contribuente, non può costituire presupposto per la determinazione di maggiori ricavi non percepiti.</claim>
+
+ <req ID="Req2" G="1" P="B">L’Agenzia delle Entrate aveva chiesto il rigetto del ricorso, con il favore delle spese,</req> 
+ <claim ID="Claim3" G="1" P="B" PRO="Req2">deducendo che:
+ - in data DD/MM/2012 la contribuente è stata invitata a produrre tutta la documentazione utile al controllo della corretta contabilizzazione nel Modello Unico 2007 dei compensi da lei percepiti quale amministratrice di condominio;
+ - la contribuente ha prodotto documentazione dalla quale risultano compensi non dichiarati per €
+ 23.601,00;
+ - in presenza di una violazione di natura sostanziale, la contribuente avrebbe dovuto presentare una dichiarazione dei redditi integrativa, avvalendosi dell'istituto del ravvedimento operoso.</claim>
+ 
+
+ 
+ <mot ID="Mot1" G="1" O="Req1">La Commissione Tributaria Provinciale ha ritenuto condivisibile la prospettazione dell’Agenzia delle Entrate</mot>
+ 
+ 
+ ed ha compensato le spese del giudizio.
+ 
+
+
+ 
+ <req ID="Req21" G="2" P="A">L’appellante ha insistito nell’originario ricorso,</req> 
+ <arg ID="Arg21" G="2" P="A" PRO="Claim21">ribadendo che l’Agenzia delle Entrate, pur essendo stata posta nella condizione di verificare l’erronea compilazione dei singoli Modelli 770/2008 predisposti dai Condomini (che riportavano un dato inesatto al punto 21, cioè l'ammontare dei compensi al lordo dell'Iva), ha comunque utilizzato quei dati</arg> 
+ <claim ID="Claim21" G="2" P="A" PRO="Req21">e, quindi, ritenuto sussistenti compensi non dichiarati.</claim>
+
+ 
+ <req ID="Req3" G="2" P="B">L’Agenzia delle Entrate ha chiesto la conferma della sentenza di primo grado.</req>
+ 
+ 
+
+ Motivi della decisione
+
+ L'appello è fondato.
+
+ <mot ID="Mot2" G="2" O="Req3">Sebbene l'Agenzia delle Entrate non abbia prodotto in giudizio i Modelli 770/2008 richiamati nell’impugnato avviso di accertamento, è pacifico tra le parti che da tali dichiarazioni presentate dai sostituti d'imposta risulta la corresponsione per l’anno 2007 a CS di compensi complessivi per € 132.535,00.
+ Ciò premesso; la Commissione rileva che nell'avviso di accertamento l'Agenzia delle Entrate - dopo avere riportato sinteticamente l'importo (€ 132.535,00) dei compensi che i sostituti d'imposta hanno dichiarato di avere corrisposto alla contribuente - ha inserito un dettagliato prospetto nel quale sono analiticamente individuati tutti i clienti della contribuente con l'indicazione per ognuno di essi: nella colonna 3 dell'importo dei compensi risultanti dal rispettivo Modello 770/2008, nella colonna 5 del totale fatturato da CS al netto dell'Iva e nella colonna 6 dei compensi non fatturati (pari alla differenza tra la colonna 3 e la colonna 5).
+ Senonché, in tale dettagliato prospetto non è precisato se gli importi dei compensi indicati nella colonna 3 siano al netto o al lordo dell'Iva.
+
+ Da parte sua, CS nell’originario ricorso alla Commissione Tributaria Provinciale ha:
+
+ - eccepito che in ognuno dei Modelli 770/2008 al punto 21 è stato indicato l'ammontare del compenso percepito compresa l'Iva al 20%, mentre al punto 23 è stata indicata l’lva come elemento non soggetto a ritenuta d'acconto, per cui si perviene immediatamente (per differenza tra l'importo del punto 21 e l'importo del punto 23) all'imponibile soggetto a ritenuta d'acconto, che coincide con l'imponibile dei partitari imputati ai clienti da CS;
+ - trascritto, a maggiore chiarezza di quanto sopra esposto, una tabella esplicativa nella quale ha riportato l'elenco di ogni singolo cliente nella stessa progressione indicata nell’avviso di accertamento e con l’analitica indicazione, per ognuno di essi, del compenso imponibile corrisposto, dell’Iva relativa e della somma dei due importi precedenti.
+ 
+ L'importo complessivo dei compensi imponibili risultanti da tale tabella esplicativa è di € 116.208,72 e pertanto corrisponde a quanto dichiarato da CS nel Modello Unico 2008.
+ Nel corso dei due gradi del giudizio l'Agenzia delle Entrate non ha specificamente contestato i conteggi contenuti nella tabella esplicativa riportata in seno all’originario ricorso della contribuente, per cui deve ritenersi provato, ai sensi dell’art.115. c.p.c., primo comma, che dai Modelli 770/2008 richiamati dall'Agenzia delle Entrate nell'impugnato avviso di accertamento non risultano maggiori compensi non dichiarati da CS e da recuperare a tassazione.</mot>
+
+ Per le suesposte considerazioni, in riforma della sentenza di primo grado, l’originario ricorso della contribuente deve essere accolto, con conseguente annullamento dell’avviso di accertamento.
+ Le spese dei due gradi del giudizio seguono la soccombenza e si liquidano in € 800,00 per il primo ed in € 1.200,00 per il secondo; il tutto oltre accessori di legge.
+ 
+
+ P.Q.M.
+ <dec ID="Dec2" G="2" E="1" O="Req3">In riforma della sentenza della. Commissione Tributaria Provinciale di Palermo n.1804/07/2018, appellata da CS, accoglie l'originario ricorso e per l’effetto annulla l’impugnato avviso di accertamento.</dec>
+ Condanna l'Agenzia delle Entrate, Direzione Provinciale di Palermo, al pagamento, in favore di CS, delle spese dei due gradi del giudizio, liquidate in € 800,00 per il primo ed in € 1.200,00 per il secondo; il tutto oltre accessori di legge.
+
+ 
+ Palermo, DD/MM/2021
+ 
+ IL PRESIDENTE-ESTENSORE
+ giu1
+ 
+ 
+</body>

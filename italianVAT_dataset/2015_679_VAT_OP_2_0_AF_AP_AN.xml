@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+
+REPUBBLICA ITALIANA
+IN NOME DEL POPOLO ITALIANO
+
+REG. GENERALE N° 624/12
+SENTENZA N° 679/15
+
+	LA COMMISSIONE TRIBUTARIA REGIONALE DI BOLOGNA 
+	SEZIONE 3
+
+	riunita con l'intervento dei Signori:
+		giu1 Presidente
+		giu2 Relatore
+		giu3 Giudice
+	
+
+	ha emesso la seguente
+	SENTENZA
+
+	- sull'appello n. 624/12
+	depositato il DD/MM/2012
+
+	- avverso la sentenza n. 110/2/11 emessa dalla Commissione Tributaria Provinciale di REGGIO NELL'EMILIA
+	<part P="A">proposto dall'ufficio: AG.ENTRATE DIREZIONE PROVINCIALE REGGIO EMILIA</part>
+
+	<part P="B">controparte:
+	H P SRL IN LIQUIDAZIONE
+	XXX</part>
+
+	difeso da:
+	FP
+	XXX
+
+	Atti impugnati:
+	REC. CREDIT IVA n° THSCR9000062 IVA-CRED.IMP. 2008
+
+
+L'Agenzia delle Entrate, Direzione provinciale di Reggio Emilia, ha impugnato la sentenza n. 110/2/11 del 1° - 26 luglio 2011 
+
+	
+		<dec ID="Dec1" G="1" E="1" O="Req1"><req ID="Req1" G="1" P="B">con cui la Commissione tributaria provinciale di Reggio Emilia ha accolto il ricorso proposto dalla H P s.r.l. in liquidazione avverso l'avviso di recupero IVA relativo all'anno di imposta 2008.</req></dec>
+	
+
+
+
+	
+		<claim ID="Claim1" G="2" P="A" PRO="Req2">L'appellante denuncia la violazione dell'art. 113 c.p.c., omessa o comunque insufficiente e contraddittoria motivazione su un punto decisivo della controversia,</claim> 
+		<claim ID="Claim2" G="2" P="A" PRO="Req2">violazione dell'art. 132 c.p.c. e dell'art. 36 d.lgs 546/92.</claim> 
+		<claim ID="Claim3" G="2" P="A" PRO="Req2">Non può darsi luogo alla disapplicazione della normativa sulle società non operative, giudicata corretta dalla Commissione provinciale, poichè la contribuente non ha superato il test di operatività di cui all'art. 30, comma 1, l. 23/12/1994, n. 724 e pertanto non può rientrare nella fattispecie descritta dal comma 4-bis del citato articolo.</claim>
+
+		<arg ID="Arg1" G="2" P="A" PRO="Claim3">Infatti, sebbene lo stato di liquidazione dell'impresa -come chiarito dalla circolare 5/E del 2/2/2007- possa rilevare come una delle possibili "oggettive situazioni” per chiedere la disapplicazione della disciplina delle società di comodo ai sensi dell'articolo 37-bis, comma 8, del d. P.R. n. 600/73, rimane vero che deve essere data prova della sua effettività nonchè ogni informazione utile a dimostrare l'inequivocabile intenzione di portare a compimento la procedura. La società, posta in liquidazione con delibera assembleare del 21/11/2005, non ha dato tale prova ed anzi il 25/08/2006 ha concluso un contratto di locazione della durata di sei anni contravvenendo così alla natura stessa della procedura di liquidazione.</arg>
+
+		<arg ID="Arg2" G="2" P="A" PRO="Claim3">L'appellante evidenzia che, nonostante il parere negativo dato dalla Direzione regionale dell'Agenzia delle Entrate all'istanza di disapplicazione, la società ha barrato la casella "esclusione/disapplicazione" della disciplina delle società non operative; considerato che dal bilancio societario, redatto in forma abbreviata, non era possibile risalire a tutte le voci di cui si sarebbe dovuto tener conto, l'Ufficio si è visto costretto ad utilizzare i dati relativi al 2006.</arg>
+
+		<req ID="Req2" G="2" P="A">Richiamate tutte le difese svolte in primo grado l'Agenzia chiede che la Commissione voglia, in totale riforma della sentenza impugnata, dichiarare la legittimità della pretesa fiscale di cui all'atto di recupero credito IVA CR9000062/2010;</req> 
+		con il favore delle spese del doppio grado di giudizio.
+
+		<req ID="Req3" G="2" P="B">La H P s.r.l. in liquidazione si è costituita in giudizio, ha proposto appello incidentale</req> 
+		<arg ID="Arg10" G="2" P="B" CON="Claim1">e formulato controdeduzioni nelle quali denuncia l'illegittimità/infondatezza sia del motivo di appello con cui l'appellante ha censurato la sentenza per omessa/insufficiente/contraddittoria motivazione su un punto decisivo della controversia, in violazione dell'art. 132 c.p.c. e dell'art. 36 d.lgs 546/92,</arg> 
+		<arg ID="Arg11" G="2" P="B" CON="Claim2">sia del motivo con cui la sentenza è censurata per violazione dell'art. 113 c.p.c.</arg>
+		<arg ID="Arg3" G="2" P="B" CON="Claim3">La società reputa inammissibile il motivo di appello avente ad oggetto il metodo di calcolo impiegato per determinare il reddito minimo non avendo l'Agenzia censurato la sentenza sul punto ed essendosi limitata a riproporre il contenuto dell'avviso di accertamento e quanto affermato nel corso del giudizio di primo grado.</arg>
+
+		La contribuente illustra ampiamente l'iter che ha condotto alla liquidazione, la correttezza con cui si è svolta tale procedura e l'erroneità del metodo adottato dall'Ufficio per definire il reddito presunto per l'anno 2007; 
+		<claim ID="Claim6" G="2" P="B" PRO="Req3">propone, inoltre, appello incidentale dolendosi del fatto che i giudici di prime cure non si sono pronunciati sia sul primo motivo del ricorso circa la nullità/illegittimità dell'avviso di accertamento emesso in violazione dell'art. 37-bis d.P.R. 600/197"</claim> 
+		<claim ID="Claim7" G="2" P="B" PRO="Req6">sia in ordine all'ilegittimità delle sanzioni per errore incolpevole sul fatto e/o il diritto.</claim>
+		<req ID="Req4" G="2" P="B">La Società domanda che la Commissione voglia contrariis rejectis, dichiarare inammissibile/respingere l'appello dell'Ufficio</req> 
+		<req ID="Req5" G="2" P="B">ed, eventualmente, previo accoglimento dell'appello incidentale della Società, confermare l'annullamento integrale dell'atto dedotto in giudizio.</req> 
+
+		<req ID="Req6" G="2" P="B">In subordine, voglia annullare/disapplicare/ridurre le sanzioni irrogate.</req> 
+		Con condanna di controparte alle spese di giudizio.
+	
+
+	MOTIVI DELLA DECISIONE
+
+		<mot ID="Mot1" G="2" O="Claim3"> La Direzione centrale normativa e contenzioso dell'Agenzia delle Entrate (circolare del 2 febbraio 2007, n. 5 /E) ha incluso la liquidazione volontaria delle società, nella ricorrenza della sua effettività, tra le oggettive situazioni di cui all'art. 30, comma 4-bis legge 23 dicembre 1994, n. 724 che attribuiscono alla società interessata la facoltà di richiedere la disapplicazione delle disposizioni antielusive ai sensi dell'articolo 37-bis, comma 8, del d.P.R. 29 settembre 1973, n. 600.
+
+	 	 Il diniego opposto dal direttore regionale delle entrate all'istanza di disapplicazione di norme antielusive, rientra nel novero degli atti impugnabili, in via facoltativa, da parte del contribuente istante; 
+		 l'omessa impugnazione del diniego, tuttavia, non pregiudica la posizione del contribuente che ad esso non ritenga di adeguarsi.
+		 Ciò in quanto tale atto, in assenza di espresse previsioni contrarie, è privo di efficacia vincolante nei confronti del contribuente stesso.
+
+		 La risposta negativa all'interpello, inoltre, non impedisce al contribuente di impugnare in sede giurisdizionale l'atto tipico che gli venga notificato (nel caso di specie l'atto di recupero del credito IVA CR9000062/2010) e di dimostrare, senza preclusioni di sorta, la sussistenza delle condizioni per fruire della disapplicazione della norma antielusiva (si veda, in motivazione Cass. civ. Sez. 5, Sentenza n. 17010 del 05/10/2012 - Rv. 623917).</mot>
+
+		Ciò premesso, occorre valutare in concreto se la liquidazione fi della società contribuente presenti i caratteri della effettività; più precisamente, se le operazioni attuate nel corso della liquidazioni siano o meno coerenti con lo scopo della procedura.
+
+		L'appellante principale afferma che la conclusione di un
+		contratto di locazione della durata di sei anni contravviene ai fini cui
+		la procedura è preposta e, pertanto, essa deve considerarsi meramente formale e priva di effetti sostanziali.
+
+		 La tesi è errata.
+
+		<mot ID="Mot2" G="2" O="Claim1|Claim2">
+			 Analogamente a quanto è previsto per gli amministratori dall'art. 2486 cod. civ. i liquidatori hanno il potere di compiere nuove operazioni per la conservazione dell'integrità e del valore del patrimonio sociale in funzione del suo miglior realizzo;
+			 essi, tuttavia, devono attenersi alle disposizioni dettate in materia dall'atto costitutivo o dallo statuto o, in loro mancanza, a quelle che l'assemblea deve impartire in ottemperanza a quanto stabilito dall'art. 2487, primo comma, lett. c).
+
+			 Ogni diversa operazione non coerente con lo scopo di liquidazione o di definizione dei rapporti in corso è vietata con la conseguenza che ove si accerti che da essa derivi un danno alla società, ai soci, ai creditori sociali od ai terzi, il liquidatore che l'abbia posta in essere potrà essere chiamato al risarcimento in applicazione delle norme sulla responsabilità degli amministratori, espressamente richiamate dall'art. 2489, secondo comma, cod. civ.
+
+			 In quest'ottica, e solo in questa, può assumere rilievo la conclusione, avvenuta in costanza di liquidazione, del contratto di locazione dell'immobile aziendale con la S s.r.l.
+
+			 Tale operazione, ancorchè nuova, non può essere adottata quale parametro per la valutazione dell'effettività della liquidazione o della congruità dei modi e tempi con le quali essa viene operata, non essendo tali elementi prederminati dalla legge che anzi, al predetto art. 2487, primo comma, lett. c), lascia all'assemblea sociale (in difetto di disposizioni contenute nell'atto costitutivo o nello statuto) piena libertà di scelta sui criteri in base ai quali deve svolgersi la liquidazione, nulla disponendo in ordine alla tempistica.
+
+			 L'esame degli elementi indicati dalla società nel ricorso introduttivo ed ulteriormente illustrati nelle controdeduzioni formulate in questo grado del giudizio (pagine 29 e 30, punti i, ii, iii, iv e v) rende evidente la strategia adottata dal liquidatore: concentrare i crediti in capo ad un unico soggetto, la società conduttrice dell'immobile che, quale esercenie di fatto dell'attività cessata dalla contribuente, appare essere la probabile cessionaria del diritto di proprietà del fabbricato adibito a cinema multisala.
+
+			 Deve osservarsi che la stessa Agenzia pur dando atto delle evidenti difficoltà di cessione dell'intero complesso aziendale e della sua maggiore convenienza economica rispetto alla vendita dei singoli beni, non coglie la strumentalità del contratto di locazione in parola e delle ulteriori operazioni per il perseguimento del fine liquidatorio.
+
+			 In definitiva, la messa in liquidazione della società si configura quale atto necessitato a causa delle incontestate pesanti perdite dichiarate e dalla mancata approvazione, da parte dell'assemblea, della proposta di aumento del capitale previo ripianamento del disavanzo mediante rinuncia al rimborso dei finanziamenti erogati dai soci;
+			 inoltre, il complesso delle azioni poste in essere dalla contribuente, deliberata la liquidazione, deve giudicarsi coerente con le finalità della procedura.
+
+			 Sussistendo, pertanto, una oggettiva situazione in presenza della quale è consentito disapplicare le disposizioni previste dall'art. 30 (Societa' di comodo. Valutazione dei titoli] legge 23 dicembre 1994, n. 724, l'appello principale deve essere respinto.
+		</mot>
+
+		 L'appello incidentale deve giudicarsi inammissibile difettando l'interesse di cui all'art. 100 c.p.c.
+
+		<mot ID="Mot3" G="2" O="Req3">
+			 Si rileva che l'integrale accoglimento della domanda in base a una delle causae petendi fungibilmente poste a fondamento della pretesa non implica, per la parte vittoriosa, l'onere di proporre appello incidentale per far valere le ragioni della domanda non esaminate dal giudice di primo grado.
+			 In tal caso, è invece sufficiente che l'appellato, risultato vittorioso in primo grado, e quindi privo di interesse a proporre impugnazione, riproponga in grado appello le richieste non esaminate dal giudice di primo grado, onde evitare che le stesse si ritengano rinunziate, a norma dell'art. 346 c.p.c. (si vedano sul punto, tra le tante conformi: Cass. civ. n. 4829/1979, 3833/1981, 7138/1983, 5562/1988, 8294/1994, 3392/1998, 9065/2000, 21087/2005).
+
+		 	 L'interesse a proporre impugnazione - ed il correlativo l'onere di proporla per evitare il passaggio in giudicato di una pronuncia sfavorevole - sorge infatti dalla soccombenza, determinata da una statuizione del giudice Capace di recare pregiudizio alla parte che, con il mezzo d'impugnazione, tende appunto a rimuovere tale pregiudizio.
+
+			 Perché sia ravvisabile l'interesse ad impugnare deve sussistere soccombenza pratica, intesa come situazione di fatto in cui la sentenza di primo grado abbia concretamente determinato alla parte una condizione di sfavore a vantaggio della controparte.
+
+			 Una situazione di soccombenza, in primo grado, che sia invece soltanto teorica - ravvisabile quando la parte, pur vittoriosa, abbia visto respingere una o più delle sue tesi od eccezioni, od accolte le sue conclusioni per ragioni diverse da quelle prospettate - non fa sorgere l'interesse ad appellare e non legittima un'impugnazione, nè principale nè incidentale, ma impone alla parte, vittoriosa nel merito, soltanto l'onere di manifestare in maniera esplicita e precisa la propria volontà di riproporre le domande o eccezioni respinte o dichiarate assorbite, onde superare la presunzione di rinuncia, e quindi la decadenza, di cui all'art. 346 c.p.c.
+		</mot>
+
+		
+ ll rigetto dell'appello principale e la declaratoria di inammissibilità dell'appello incidentale si configurano come caso di reciproca soccombenza che legittima la compensazione delle spese.
+	
+
+	P.Q.M.
+		<dec ID="Dec2" G="2" E="0" O="Req2">rigetta l'appello principale</dec> 
+		<dec ID="Dec3" G="2" E="-1" O="Req3">e dichiara inammissibile l'appello incidentale.</dec> 
+		Compensa le spese.
+		
+			Bologna, DD MM 2015
+		
+
+		Il relatore est.
+		Il Presidente
+	
+</body>

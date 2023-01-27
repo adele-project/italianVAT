@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+
+REPUBBLICA ITALIANA
+ IN NOME DEL POPOLO ITALIANO
+
+ LA COMMISSIONE TRIBUTARIA REGIONALE DI BOLOGNA SEZIONE 13 
+ riunita con l'intervento dei Signori:
+ giu1 Presidente 
+ giu2 Relatore
+ giu3 Giudice 
+ 
+
+ REG.GENERALE N° 1931/2013
+
+ ha emesso la seguente
+ SENTENZA
+
+ - sull'appello n. 1931/2013
+ depositato il DD/MM/2013
+
+ - avverso la sentenza n. 7/2013 Sez:6 emessa dalla Commissione Tributaria Provinciale BOLOGNA
+
+ <part P="A">contro:
+ AG. ENTRATE DIREZIONE PROVINCIALE BOLOGNA
+ XXX</part>
+
+ <part P="B">proposto dall'appellante:
+ CES S.R.L.
+ XXX</part>
+
+ difeso da:
+ BM
+ XXX
+
+ Atti impugnati:
+ AVVISO DI ACCERTAMENTO n° THB03CG03385/2011 IRES-ALTRO 2006
+ AVVISO DI ACCERTAMENTO n° THB03CG03385/2011 IVA-OP.IMPONIB. 2006
+ AVVISO DI ACCERTAMENTO n° THB03CG03385/2011 IRAP 2006
+
+
+FATTO
+
+ 
+ <req ID="Req4" G="1" P="B">Con appello depositato in data DD.MM.2013 la società contribuente “CES s.r.l.”, esercente l’attività di raccolta, trasporto e smaltimento di rifiuti speciali, ha impugnato la sentenza n. DD/MM/2013, pronunciata dalla Commissione tributaria provinciale di Bologna,</req>
+ 
+
+
+ 
+ <dec ID="Dec4" G="1" E="1" O="Req1">dispositiva del parziale accoglimento del ricorso</dec> 
+ con compensazione delle spese di lite.
+ 
+
+
+ La controversia traeva origine dalla notificazione dell’avviso di accertamento n. THB03CG03385/2011, relativo all’anno d’imposta 2006, con il quale 1° Agenzia delle Entrate di Bologna aveva recuperato costi non deducibili per € 32.500,00 afferenti spese di pubblicità.
+ Per gli effetti, 1° Amministrazione aveva richiesto il pagamento di:
+
+ - € 5.247,00, a titolo di i.re.s., oltre interessi;
+ - € 1.381,00, a titolo di i.r.a.p.,oltre interessi;
+ - € 6.500,00, a titolo di i.v.a., oltre interessi.
+
+ Seguiva l’irrogazione delle sanzioni per complessivi € 14.752,98.
+ In proposito, l'Ufficio aveva recuperato i costi afferenti le sponsorizzazioni operate nei confronti dell’associazione sportiva dilettantistica “G Pallacanesto” in virtù dell’asserita aniteconomicità delle poste dedotte. Secondo |’Ufficio, infatti, la contribuente avrebbe investito in attività non produttive di reddito (le sponsorizzazioni recuperate a tassazione) nonostante un risultato civilistico della gestione in perdita, per l’annualità 2006, di € 53.928,00 e una perdita fiscale di € 16.601,00, perdite che si erano ripetute anche nelle tre annualità successive.
+ L’Ufficio inoltre rilevava una commistione di interessi tra la società contribuente e l’associazione sponsorizzata: i due soci della contribuente “CES s.r.l.” avrebbero infatti collaborato con l’associazione dilettantistica percependo rispettivamente le somme di € 6.500,00 e di € 7.500,00.
+
+
+ 
+ <req ID="Req1" G="1" P="B">La contribuente, pertanto, aveva adito la Commissione provinciale chiedendo l’annullamento dell’avviso di accertamento ed argomentando come segue.</req>
+
+ <claim ID="Claim1" G="1" P="B" PRO="Req1">L’avviso di accertamento sarebbe stato fondato su mere valutazioni di convenienza economica adottate dall’Agenzia in carenza di qualsiasi presupposto normativo e probatorio. La motivazione dell’atto, inoltre, sarebbe stata illogica e contraddittoria</claim> 
+ <arg ID="Arg1" G="1" P="B" PRO="Claim1">poiché l’esistenza e la natura del costo sarebbero state confermate dall’Ufficio, proprio all’interno della motivazione dell’avviso di accertamento.</arg>
+ <claim ID="Claim2" G="1" P="B" PRO="Req1">La contribuente, inoltre, adduceva che l’associazione sportiva sponsorizzata avrebbe partecipato al campionato nazionale di serie B e che le perdite per l’anno 2006 sarebbero state generate anche in ragione del sequestro giudiziale dell’azienda disposto dal 21.02.2006 al DD.MM.2006. In aggiunta, era rilevata l’esiguità del costo sostenuto, se paragonato ai ricavi conseguiti nell’anno accertato, per complessivi € 2.409.509.</claim>
+ <claim ID="Claim3" G="1" P="B" PRO="Req1">La parte concludeva eccependo la piena rispondenza del costo alle disposizioni di legge (specificamente anche ai sensi dell’art. 90, Legge n. 289/2002) e l’inerenza non contestata delle poste oggetto di recupero.</claim> 
+ <claim ID="Claim4" G="1" P="B" PRO="Req1">Aggiungeva poi, l’inesistenza di un quadro indiziario grave, preciso e concordante a supporto in grado di corroborare le risultanze istruttorie.</claim>
+
+ <claim ID="Claim5" G="1" P="A" CON="Req1">Costituitosi in giudizio l'Ufficio ribadiva la legittimità del proprio operato</claim> 
+ <claim ID="Claim6" G="1" P="A" CON="Req1">e puntualizzava la mancanza di un nesso sinallagmatico tra il costo sostenuto per le spese di pubblicità ed i ricavi dell’attività: deduceva, quindi, la mancanza di inerenza del costo.</claim>
+ 
+ 
+ <dec ID="Dec1" G="1" E="1" O="Req1">All’esito del Giudizio di prime cure, la Commissione provinciale, in parziale accoglimento del ricorso, ammetteva la deduzione del costo in misura di € 16.000,00.</dec>
+ 
+
+
+
+ 
+ <req ID="Req2" G="2" P="B">In questa sede la società contribuente ha chiesto la riforma della sentenza impugnata,</req> 
+ vinte le spese di giudizio, 
+ per le ragioni che di seguito si espongono.
+
+ <claim ID="Claim7" G="2" P="B" PRO="Req2">L’appellante ha eccepito il vizio di motivazione della sentenza gravata </claim>
+ <arg ID="Arg2" G="2" P="B" PRO="Claim7">perché carente sull ragioni in diritto poste a supporto della decisione del Giudice a quo.</arg>
+ <claim ID="Claim8" G="2" P="B" PRO="Req2">La parte privata ha ribadito, poi, le argomentazioni già oggetto del ricorso di prime cure evidenziando, tra l’laltro, anche l’insindacabilità delle scelte imprenditoriali.</claim>
+
+ <req ID="Req3" G="2" P="A">Con controdeduzioni ed appello incidentale del DD.MM.2013 l’Agenzia delle Entrate si è costituita in giudizio per il rigetto dell’appello principale e la riforma della sentenza di prime cure, vinte le spese di lite del doppio grado di giudizio,
+ con declaratoria di legittimità dell’avviso di accertamento.</req>
+
+ <claim ID="Claim9" G="2" P="A" PRO="Req5">Secondo l’Ufficio la ricostruzione dei fatti operata dalla contribuente sarebbe errata</claim>
+ <arg ID="Arg3" G="2" P="A" PRO="Claim8">poiché le contestazioni dell’avviso di accertamento sarebbero fondate non sulla natura degli oneri ma sulla loro inerenza ai sensi dell’art. 109 TUIR.</arg>
+
+ <claim ID="Claim10" G="2" P="A" PRO="Req4">Con riferimento ai motivi di appello incidentale, 1’Amministrazione ha eccepito il vizio di motivazione della sentenza</claim>
+ <arg ID="Arg4" G="2" P="A" PRO="Claim10">poiché il primo Collegio avrebbe omesso di specificare gli elementi sulla base dei quali ha disposto il parziale accoglimento del ricorso.</arg>
+ 
+
+ DIRITTO
+ <mot ID="Mot1" G="2" O="Claim8">L’art. 90, comma 8, della legge finanziaria 2003 stabilisce che il corrispettivo in denaro o in natura in favore di compagini sportive dilettantistiche costituisce, per il soggetto erogante, fino ad un importo annuo complessivamente non superiore a duecentomila Euro, spesa di pubblicità volta alla promozione dell'immagine o dei prodotti del soggetto erogante mediante una specifica attività del beneficiario, ai sensi dell'art. 108, comma 2, del TUIR.
+ L'amministrazione finanziaria, con la circolare n. 21/E del 22 aprile 2003,: "La disposizione in esame introduce, in sostanza, ai fini delle imposte sui redditi, una presunzione assoluta circa la natura di tali spese, che vengono considerate - nel limite del predetto importo - comunque di pubblicità e, pertanto, integralmente deducibili per il soggetto erogante ai sensi dell'art. 74, comma 2, del TUIR nell'esercizio in cui sono state sostenute o in quote costanti nell'esercizio medesimo e nei quattro anni successivi".
+ Pertanto, "la fruizione dell'agevolazione in esame è subordinata alla sussistenza delle seguenti condizioni: 1) i corrispettivi erogati devono essere necessariamente destinati alla promozione dell'immagine o dei prodotti del soggetto erogante; 2) deve essere riscontrata, a fronte dell'erogazione, una specifica attività del beneficiario della medesima" (Risoluzione 23 giugno 2010, n. 57/E). 
+ Riportando fedelmente quanto statuito dalla Corte di Cassazione, con Sentenza n. 5720 del 23 marzo 2016: “In sintesi, è proprio il comma 8 dell'art.90 a qualificare ex lege tali spese come pubblicitarie, se (a) il soggetto sponsorizzato sia una compagine sportiva dilettantistica, (b) sia rispettato il limite quantitativo di spesa, (c) la sponsorizzazione miri a promuovere l'immagine ed i prodotti dello sponsor, (d) il soggetto sponsorizzato abbia effettivamente posto in essere una specifica attività promozionale (es. apposizione del marchio sulle divise, esibizione di striscioni e/o tabelloni sul campo da gioco, etc.).”
+ Come rinvenibile dai documenti allegati in prime cure, la società contribuente ha beneficiato direttamente ed indirettamente dell’attività promozionale svolta dall’associazione sportiva sponsorizzata.
+ Quest'ultima ha partecipato al campionato di pallacanestro in una delle serie di maggior rilievo, (anche mediatico) la serie B, adottando il nome dello sponsor sulle uniformi, apponendo uno striscione fisso all’interno del palazzetto e realizzando attività promozionali ulteriori che avrebbero dato visibilità al nome della società contribuente nella sua veste di sponsor. 
+ Alla luce di detti fatti, supportati dai contratti di sponsorizzazione prodotti in giudizio, appare evidente che la società abbia effettivamente supportato economicamente l’associazione sportiva e, dall’altra parte, ne abbia tratto beneficio in termini di visibilità; ciò anche in ragione dell’impatto mediatico dei tornei disputati dal c.d. “sponsee”.
+ Poiché è comprovato che le erogazioni correlate al contratto di sponsor si riferisco all’attività di promozione ed immagine dell’azienda e, per espressa disposizione di legge le poste in esame sono qualificate come ‘costi pubblicitari”,</mot>
+ le contestazioni dell’Ufficio sotto il profilo dell’inerenza sono destituite di fondamento.
+
+ <mot ID="Mot2" G="2" O="Claim8|Claim9">L’affermazione sopra esposta, inoltre, è corroborata dall’orientamento espresso dalla Corte di Cassazione secondo cui il costo risulta deducibile non tanto se è specificamente connesso ad una determinata componente di reddito, “bensì in virtù della sua correlazione con un’attività potenzialmente idonea a produrre utili” (in tal senso, Cass. n. 12168 del 2009, n. 7340 del 2008, n. 16826 del 2007).</mot> 
+ <mot ID="Mot20" G="2" O="Claim8|Claim9">Anche sotto tale aspetto, quindi, l’impostazione adottata dall’ Agenzia, secondo cui ai costi di sponsorizzazione avrebbero dovuto essere correlati anche maggiori ricavi, non è condivisibile e si scontra con il chiaro disposto del sopracitato art. 90, della Legge n. 289/2002.</mot>
+
+ Parimenti infondato è il rilievo di antieconomicità dei predetti costi che è stato parametrato alle perdite realizzate senza considerare, tuttavia, l’esiguità dell’importo dedotto pari al 1,35% dei ricavi conseguiti (superiori ad € 2.000.000,00).
+ <mot ID="Mot3" G="2" O="Req5">In tale contesto appare estremamente semplicistica la valutazione dell’Ufficio: il costo per la sponsorizzazione non è sproporzionato e si profila evidentemente congruo rispetto ai ricavi. 
+ Il giudizio di antieconomicità svolto dall’ Ufficio, poi, ha interessato una posta passiva di entità modesta a fronte di una perdita di esercizio, in luogo di un esame globale sulla gestione dell’azienda; esame, questo, determinante per mettere in luce fattispecie di abusivo ed improprio ricorso alla “contabilizzazione di costi” che esulano dalle esigenze tipiche di gestione e dalla ragionevolezza delle scelte imprenditoriali. 
+ Queste, che fino a prova contraria — qui non fornita - sono libere ed insindacabili, meritano una tutela non minore di quella richiesta dall’ Amministrazione finanziaria in sede di appello incidentale.</mot>
+
+ Per tutte le ragioni sopra esposte questo Collegio accoglie l’appello principale della contribuente e
+ rigetta l’appello incidentale dell’Ufficio con declaratoria di nullità dell’avviso gravato.
+
+ Le spese di questo grado di giudizio seguono la soccombenza e si liquidano in € 1.000,00, oltre interessi ed oneri accessori.
+ 
+
+ PQM
+ <dec ID="Dec2" G="2" E="1" O="Req2">LA COMMISSIONE TRIBUTARIA REGIONALE DI BOLOGNA - Sezione XIII
+ - accoglie l’appello principale della contribuente</dec> 
+ <dec ID="Dec3" G="2" E="0" O="Req3">e rigetta l’appello incidentale dell’ Ufficio;</dec>
+ - spese compensate.
+ 
+ Bologna,DD.MM.2016
+ 
+ Il Relatore 
+ Il Presidente
+ 
+
+</body>

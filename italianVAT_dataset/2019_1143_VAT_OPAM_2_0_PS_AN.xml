@@ -1,0 +1,182 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+REPUBBLICA ITALIANA
+IN NOME DEL POPOLO ITALIANO
+
+	LA COMMISSIONE TRIBUTARIA REGIONALE DI XXX SEZIONE 18
+
+	riunita con l'intervento dei Signori:
+		giu1 Presidente
+		giu2 Relatore
+		giu3 Giudice
+	
+
+	ha emesso la seguente
+	SENTENZA
+
+	REG.GENERALE N° 10570/2017
+
+	- sull'appello n. 10570/2017
+	depositato il DD/MM/2017
+
+	- avverso la pronuncia sentenza n..644/2017 Sez:6 emessa dalla 
+	Commissione Tributaria Provinciale di XXX
+
+	<part P="A">contro:
+	COMUNE DI XXX
+	RAPPR. DOTT. GDS
+	XXX</part>
+
+	<part P="B">proposto dall'appellante:
+	AG. ENTRATE DIREZIONE PROVINCIALE XXX
+	XXX</part>
+
+	Atti impugnati:
+	AVVISO DI ACCERTAMENTO n° TKF061101165 IVA-ALTRO 2011
+
+
+FATTO
+
+L'Agenzia delle Entrate di XXX aveva emesso, nei confronti del Comune di XXX, l'avviso di accertamento - ai sensi dell'art. 54 del D.p.r. n. 633/1972 - per l'omessa fatturazione di operazioni imponibili intercorse con la società A s.p.a., da cui era scaturita una maggiore Iva dovuta pari ad € 225.998,00 (oltre sanzioni ed interessi), per l'anno d'imposta 2011.
+
+L'Ufficio, conformemente alle risultanze di una verifica fiscale della Guardia di Finanza, aveva ritenuto che le somme versate dal gestore del servizio idrico al Comune, a titolo di rimborso delle "passività pregresse" (rate di ammortamento dei mutui accesi dall'ente locale‘per la realizzazione degli investimenti nel settore idrico), costituissero prestazioni di servizi da assoggettare ad Iva (artt. 3 e 4 del D.p.r. 633/1972); viceversa, la società A s.p.a. ed il Comune le avevano ritenute quali operazioni non soggette all’Iva.
+
+
+	
+		<req ID="Req1" G="1" P="A">Il Comune di XXX aveva impugnato l'atto,</req> 
+		<claim ID="Claim1" G="1" P="A" PRO="Req1">formulando le seguenti eccezioni:
+
+		- violazione dell'art. 2 comma 3 lett. a) D.p.r. 633/1972: il trasferimento di denaro dall'A s.p.a. ai Comuni sarebbe una mera cessione di denaro;</claim>
+
+		<claim ID="Claim2" G="1" P="A" PRO="Req1">- ingiustificato disconoscimento dell'accollo del debito;</claim>
+
+		<claim ID="Claim3" G="1" P="A" PRO="Req1">- errata configurazione del rimborso come corrispettivo;</claim>
+
+		<claim ID="Claim4" G="1" P="A" PRO="Req1">- inapplicabilità delle sanzioni.</claim>
+
+		<req ID="Req2" G="1" P="B">L'Agenzia delle Entrate si era costituita in giudizio</req> 
+		<claim ID="Claim8" G="1" P="B" CON="Req1">ed aveva confermato la ricorrenza dei presupposti, soggettivo ed oggettivo, che imponevano l'assoggettamento all’Iva dei rimborsi delle passività pregresse corrisposte dal gestore del SII al Comune.</claim>
+	
+
+	
+		<mot ID="Mot1" G="1" O="Claim1|Claim2|Claim3">All'esito del giudizio di primo grado, la Commissione Tributaria Provinciale di XXX non aveva ravvisato un nesso di diretta corrispettività tra l'obbligo di rimborsare le rate del mutuo e il diritto di utilizzo degli impianti che le disposizioni normative riconoscono in capo al gestore del servizio.
+
+		In particolare, aveva rilevato che “la stessa Convenzione dispone la corresponsione annuale di un canone di concessione per le opere e beni affidati e al punto 29.4 del Disciplinare Tecnico che "le opere realizzate con i mutui ancora in essere, il Gestore " si accollerà" l'onere del pagamento delle rate che scadranno nel periodo dell'affidamento in concessione degli impianti. Tale previsione configura un accollo interno, figura non prevista espressamente dal codice civile ma riconducibile all'esercizio dell'autonomia privata per il perseguimento di interessi meritevoli di tutela (Cassazione sent. n. 6936 dell'DD/MM/1996).
+
+		Peraltro, “ove il legislatore avesse voluto estendere il rapporto sinallagmatico anche all'accollo del mutuo, avrebbe fatto rientrare il rimborso della rata nel comma 1 dell'art, 12 della I. 36/1994”.
+
+		Inoltre, aveva evidenziato che “l'art. 115 comma 6 del Tuel prevede che per i conferimenti dei beni gli enti locali sono esenti da imposizioni fiscali dirette ed indirette, statali e regionali”.</mot>
+
+		<mot ID="Mot2" G="1" O="Claim4">Infine, aveva ritenuto illegittime le sanzioni irrogate dall'Ufficio, per obiettive condizioni di incertezza derivante dall'assenza di una normativa chiara.</mot>
+	
+
+	
+		<dec ID="Dec1" G="1" E="1" O="Req1">In conclusione, aveva accolto il ricorso e compensato le spese.</dec>
+	
+
+
+
+	
+		<req ID="Req5" G="2" P="B">L'Agenzia delle Entrate di XXX ha proposto appello avverso la sentenza di primo grado.</req>
+
+		<claim ID="Claim5" G="2" P="B" PRO="Req3">In primo luogo, ha eccepito la “violazione dell'art. 2 comma 3 lett. a) D.p.r. 633/1972, sulla carenza del presupposto oggettivo ed errata configurazione del rimborso come corrispettivo”.</claim>
+
+		<arg ID="Arg1" G="2" P="B" PRO="Claim5">In proposito, ha evidenziato che:
+		- il rimborso delle "passività pregresse" costituisce un "obbligo di fare" da assoggettare ad Iva;
+		- il rimborso delle passività pregresse non è un accollo interno di debito.</arg>
+
+		<claim ID="Claim6" G="2" P="B" PRO="Req3">In secondo luogo, contestato l'inconferenza della presunta violazione dell'art. 115, comma 6, del D.Lgs. 267/2000, rilevata dal giudice di prime cure.</claim>
+
+		<claim ID="Claim7" G="2" P="B" PRO="Req3">Infine, ha confermato la applicabilità delle sanzioni.</claim>
+
+		<req ID="Req3" G="2" P="B">Pertanto, ha chiesto l'accoglimento dell’appello con vittoria di spese.</req>
+
+		<arg ID="Arg2" G="2" P="A" CON="Claim5|Claim6|Claim7">Il Comune di XXX si è costituito in giudizio ed ha contestato i motivi di appello dell'Ufficio.</arg>
+	
+
+	DIRITTO
+
+		1. La controversia in esame concerne l'accertamento della imponibilità o meno dei versamenti effettuati dal gestore del servizio idrico al Comune, a titolo di rimborso di "passività pregresse".
+
+		1.1. Nel caso di specie, l'Agenzia delle Entrate di XXX aveva emesso, nei confronti del Comune di XXX, l'avviso di accertamento - ai sensi dell'art. 54 del D.p.r. n. 633/1972 - per l’omessa fatturazione di operazioni imponibili intercorse con la società A s.p.a., da cui era scaturita una maggiore Iva dovuta pari ad € € 225.998,00 (oltre sanzioni ed interessi), per l'anno d'imposta 2011.
+
+		L'Ufficio, conformemente alle risultanze di una verifica fiscale della Guardia di Finanza, aveva ritenuto che le somme versate dal gestore del servizio idrico al Comune, a titolo di rimborso delle "passività pregresse" (rate di ammortamento dei mutui accesi dall'ente locale per la realizzazione degli investimenti nel settore idrico), costituissero prestazioni di servizi da assoggettare ad Iva (artt. 3 e 4 del D.p.r. 633/1972); viceversa, la società A s.p.a. ed il Comune le avevano ritenute quali operazioni non soggette all’Iva.
+
+		All'esito del giudizio di primo grado, la Commissione Tributaria Provinciale di XXX non aveva ravvisato un nesso di diretta corrispettività tra l'obbligo di rimborsare le rate del mutuo e il diritto di utilizzo degli impianti che le disposizioni normative riconoscono in capo al gestore del servizio.
+
+		2. <arg ID="Arg4" G="2" P="B" PRO="Claim5|Claim6|Claim7">L'Agenzia, in sede di appello, ha sostenuto la natura imponibile ai fini Iva delle somme corrisposte dal gestore del servizio idrico a titolo di rimborso delle passività pregresse per l'ammortamento dei mutui accesi dal Comune per investimenti nel settore idrico (presupposto oggettivo ex art. 3 D.p.r. 633/1972).
+
+		Il ragionamento sviluppato dall’Ufficio ha preso le mosse dal rilievo che l'articolo 3 del d.p.r. 633/1972 fa riferimento alle prestazioni verso corrispettivo dipendenti da una serie di contratti e, comunque, da “obbligazioni di fare, non fare-e permettere, da qualsiasi fonte derivino”.
+
+		Pertanto, secondo l’Ufficio, il requisito della corrispettività dovrebbe essere inteso in senso lato, qualificando come controprestazione qualsiasi vantaggio economicamente valutabile per il prestatore, che sia causa giustificatrice del servizio.</arg>
+
+		3. <arg ID="Arg3" G="2" P="A" CON="Claim5|Claim6|Claim7">Tale ricostruzione è contestata da Comune di XXX, il quale ha osservato quanto segue.
+
+		Dal punto di vista soggettivo, “non può riconoscersi qualifica di soggetto passivo IVA all'ente pubblico che agisca quale pubblica autorità senza oltremodo provocare distorsioni concorrenziali”.
+
+		Sotto il profilo oggettivo, invece, ha ricordato che “IVA si applica sulle prestazioni di servizi effettuate nell'esercizio di imprese (art. 1 DPR n. 633/1972), intendendosi tale l'esercizio delle attività commerciali di cui all'art.2195 c.c. (art.4 co.1 DPR n.633/1972)".
+
+		Pertanto, ha desunto che il rimborso che l'Agenzia erroneamente qualifica come corrispettivo, costituisce una 	cessione di denaro, come tale non soggetta all’IVA.
+
+		Inoltre, ha precisato che il rimborso non equivale ad esercizio di attività commerciale.</arg>
+
+		4. La sentenza di prime cure è corretta e deve essere confermata, per un duplice ordine di motivi.
+
+		<mot ID="Mot3" G="2" O="Claim5|Claim6|Claim7">In primo luogo, non convince la ricostruzione - prospettata dall'Agenzia - della assunzione dell'onere di pagare le rate di ammortamento dei mutui accesi dall'ente locale, per la realizzazione degli investimenti nel settore idrico, in termini di corrispettività.
+
+		Come è noto, nel contratto a prestazioni corrispettive ciascuna parte contraente ha il diritto di ricevere una prestazione in quanto questa costituisce la remunerazione della prestazione dovuta all'altra parte contraente.
+
+		Tale rapporto di reciprocità è definito “sinallagma contrattuale”.
+
+		Esso è un elemento costitutivo implicito del contratto a obbligazioni corrispettive.
+
+		In sostanza, la corrispettività consiste in un rapporto di condizionalità reciproca tra le prestazioni e rappresenta il punto di equilibrio raggiunto dalle parti, in sede di formazione del negozio giuridico, tra le reciproche attribuzioni patrimoniali.
+
+		L'equilibrio delle prestazioni contrattuali assume particolare rilievo, atteso che l'art. 1467 c.c. dispone che “Nei contratti a esecuzione continuata o periodica ovvero a esecuzione differita, se la prestazione di una delle parti è divenuta eccessivamente onerosa per il verificarsi di avvenimenti straordinari e imprevedibili, la parte che. deve tale prestazione può domandare la risoluzione del contratto”.
+
+		Nel caso di specie, la concessione d’uso delle infrastrutture idriche di proprietà degli enti locali.al gestore del servizio idrico integrato è imposta dal primo comma dell’art. 153 del decreto legislativo n. 152 del 2006.
+
+		Gli enti locali non possono sottrarsi a tale obbligo.
+
+		Il successivo secondo comma del medesimo articolo ha disposto che “Le immobilizzazioni, le attività e le passività relative al servizio idrico integrato, ivi compresi gli oneri connessi all'ammortamento dei mutui oppure i mutui stessi, al netto degli eventuali contributi a fondo perduto in conto capitale e/o in conto interessi, sono trasferite al soggetto gestore, che subentra nei relativi obblighi”.
+
+		Appare evidente che il fenomeno del trasferimento delle infrastrutture e la gestione del servizio idrico integrato trovi la propria fonte in una norma di legge e non nella volontà delle parti.
+
+		Né dalla lettura della Convenzione e del relativo Disciplinare tecnico si ricavano elementi per ricavare un autonomo spazio di intervento della volontà delle parti che non fosse indirizzato a disciplinare meri profili di attuazione del programma normativo.
+
+		Il legislatore, infatti, con la previsione della gratuità della concessione d'uso delle infrastrutture idriche ha escluso a priori che il fenomeno potesse essere inquadrato in termini di corrispettività delle prestazioni.
+
+		Il titolo dell'assunzione del pagamento delle passività relative al servizio idrico integrato, ivi compresi gli oneri connessi all'ammortamento dei mutui oppure i mutui stessi, è costituito dalla legge e non certo dalla volontà delle parti.
+
+		Al contrario, se le stesse avessero stabilito il contrario, sarebbero incorse in una violazione di legge.
+
+		4.1. Il secondo profilo che interessa il caso di specie è costituito dalla natura della prestazione che - ad avviso dell'Agenzia - dovrebbe essere soggetto ad imposizione.
+
+		L'Ufficio, in proposito, ha affermato che anche una prestazione di fonte legale sarebbe comunque rilevante ai fini fiscali.
+
+		Nondimeno, l'Ufficio trascura la circostanza che, ai sensi del comma 3, lett. a) dell'art. 2 del D.P.R. n. 633 del 1972, “non sono considerate cessioni di beni le cessioni che hanno ad oggetto denaro o crediti.in denaro”.
+
+		Ne consegue che anche sotto tale profilo l'avviso di accertamento resta ingiustificato.</mot>
+
+		5. All’esito della precedente disamina della fattispecie, deve essere confermata la sentenza di prime cure.
+
+		Tenuto conto della particolare complessità della controversia, dimostrata dal susseguirsi di sentenze tributarie di segno opposto, in ulteriori giudizi concernenti la medesima fattispecie azionati da altri Comuni, 
+		il Collegio reputa opportuno disporre la compensazione delle spese.
+	
+
+	PQM
+		<dec ID="Dec2" G="2" E="0" O="Req3">La Commissione rigetta l'appello.</dec> 
+		Spese compensate.	
+
+		
+			Così deciso in XXX, il DD MM 2019.
+		
+
+		Il Relatore est. 
+		giu2
+
+		Il Presidente
+		giu1
+	
+</body>

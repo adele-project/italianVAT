@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+
+REPUBBLICA ITALIANA
+IN NOME DEL POPOLO ITALIANO
+
+ REG.GENERALE N° 437/2016
+
+ LA COMMISSIONE TRIBUTARIA REGIONALE DI PERUGIA SEZIONE 2
+
+ riunita con l'intervento dei Signori:
+ giu1 Presidente e Relatore
+ giu2 Giudice
+ giu3 Giudice
+ 
+
+ ha emesso la seguente
+ SENTENZA
+
+ - sull'appello n. 437/2016
+ depositato il DD/MM/2016
+
+ - avverso la sentenza n. 154/2016 emessa dalla Commissione Tributaria Provinciale di PERUGIA
+
+ <part P="A">contro:
+ TEMT SRL
+ XXX</part>
+
+ difeso da:
+ CG
+ XXX
+
+ <part P="B">proposto dall'appellante:
+ AG. ENTRATE DIR. PROVIN. UFF. CONTROLLI-LEGALE PERUGIA</part>
+
+ Atti impugnati:
+ AVVISO DI ACCERTAMENTO n° T3N060802026/2014 IVA-OP.NON IMP. 2012
+
+
+
+ 
+ <req ID="Req1" G="1" P="A">
+ La societa a responsabilita limitata TEMT ha
+ impugnato l’avviso di accertamento T3N060802026 emesso per il recupero delle imposte
+ relative all’anno 2012.</req>
+ 
+
+
+L’Ufficio accertatore rilevava che la società aveva omesso di trasmettere telematicamente le
+dichiarazioni di intento e pertanto era incorsa in sanzione ex art. 8 comma 1 lettera c del DPR
+633 del 1972 ma aveva anche evaso l’Iva sulle fatture emesse da ACI s.r.l. in
+regime di non imponibilità stante la sopravvenuta revoca delle dichiarazioni di intento del
+DD.MM.2011 e del DD.MM.2012, numerate rispettivamente con il 5 ed il 12. Infatti la dichiarazione
+n. 6 resa da ACI a M spa aveva la data certa del DD.MM.2012 mentre la n. 13 resa sempre
+da ACI a CF aveva la data certa del DD.MM.2012. Dunque due fatture di gennaio
+2012 (la 1 e la 2) e tre fatture di novembre 2012 (numero 25, 26, 27) emesse in regime di non
+imponibilità Iva in realtà la scontavano per un importo totale ripreso a tassazione di 166.748,78
+€
+
+
+ 
+ <claim ID="Claim1" G="1" P="A" CON="Req1">Nel ricorso alla Commissione tributaria provinciale
+ la difesa della ricorrente contrastava la ricostruzione dell’ufficio</claim> 
+ <arg ID="Arg1" G="1" P="A" PRO="Claim1">affermando che la s.r.l. TEMT e la società ACI avevano la stessa sede, lo stesso amministratore e gli stessi soci
+ dunque non vi era alcuna scissione tra dichiarazione di intento ed emissione delle fatture con la
+ conseguenza che nessuna di queste era stata emessa in assenza dei presupposti di non
+ imponibilità.</arg>
+ 
+
+ 
+ <dec ID="Dec1" G="1" E="1" O="Req1">La Commissione tributaria provinciale di Perugia con la sentenza n. 54 emessa dalla seconda
+ sezione il DD.MM.2016, depositata DD.MM.2016, accoglieva il ricorso condividendo sostanzialmente
+ la ricostruzione delle operazioni effettuata dalla difesa.</dec>
+ 
+
+
+
+ 
+ <req ID="Req2" G="2" P="B">L’Agenzia ha proposto appello avverso la sentenza in esame</req> 
+ <claim ID="Claim2" G="2" P="B" PRO="Req2">osservando che gli aspetti formali
+ dovevano avere la preminenza rispetto alla ricostruzione sostanzialistica offerta dalla parte
+ privata atteso che di quest’ultima non si avevano supporti documentali certi.</claim>
+
+ <claim ID="Claim3" G="2" P="A" CON="Req2">Resiste in appello la s.r.l. TEMT
+ segnalando che la sentenza è ben motivata in punto di fatto e di diritto giungendo a qualificare le operazioni come
+ compiute esattamente in regime di non imponibilità.</claim> 
+ <arg ID="Arg2" G="2" P="A" PRO="Claim3">Per contro l’ufficio aveva artificiosamente
+ postdatato le date delle dichiarazioni di intenti.</arg>
+ 
+
+La Commissione ha trattato l’appello in data DD.MM.2017.
+
+ 
+ L’impugnazione è fondata.
+
+ <mot ID="Mot1" G="2" O="Claim2">La sentenza attribuisce valore a circostanze che il legislatore non considera dirimenti.
+
+ La norma (articolo 1 comma 1 lettera c DL 746 del 1983 così come modificato dalle leggi 17 del 1984, 311 del 2004, 44 del 212) stabilisce che le disposizioni dell’art. 8 del DPR 633 del 1972 presuppongono che l’intento di avvalersi della facoltà di effettuare acquisti o importazioni in regime di non imponibilità Iva risulti da una apposita dichiarazione che deve essere consegnata o spedita al fornitore o prestatore prima della effettuazione della prestazione.
+
+ Nel caso di specie mancano attestati di ricezione o altre forme equipollenti che le due dichiarazioni di intenti fossero state ricevute da TEMT prima della esecuzione delle prestazioni. 
+ Tra l’altro il dato non si può ricavare neppure dai dati trasmessi telematicamente alla Agenzia delle Entrate risultanti carenti per omissione dell’impresa obbligata. 
+ Non a caso tutte le dichiarazioni di intenti del 2012 emesse da Aisa ad eccezione di quelle di TEMT hanno una data certa risultante da raccomandate o attività di trasmissione telematica e la stessa società ha prestato acquiescenza per l’irrogazione della sanzione per la irregolarità. 
+ La coincidenza di compagini, sedi ed amministratori proprio perché circostanza evocativa di un potenziale conflitto di interessi avrebbe dovuto indurre ad un più stringente rispetto delle forme.</mot>
+
+ In considerazione della particolarità della questione si opta per la compensazione delle spese del
+ grado.
+ 
+
+ P.Q.M.
+ <dec ID="Dec2" G="2" E="1" O="Req2">In accoglimento dell’appello riforma la sentenza 154 del 2016 della CTP di Perugia e conferma la
+ legittimità dell’avviso di accertamento impugnato.</dec>
+
+ Compensa le spese
+
+ PerugiaDD.MM.2017
+ 
+ Il Presidente estensore
+ giu1
+ 
+
+</body>

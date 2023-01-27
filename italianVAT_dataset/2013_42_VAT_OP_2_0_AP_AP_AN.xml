@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+ 
+REPUBBLICA ITALIANA
+ IN NOME DEL POPOLO ITALIANO
+ 
+ REG.GENERALE. N° 624/11
+
+ LA COMMISSIONE TRIBIJTARIA REGIONALE DI TRIESTE SEZIONE 10 
+ riunita con l'intervento dei Signori:
+ giu1 Presidente
+ giu2 Relatore
+ giu3 Giudice
+ 
+ ha emesso la seguente 
+ SENTENZA
+
+ - sull'appello n. 624/11
+ depositato il DD/MM/2011
+
+ - avverso la sentenza n. 35/2/11
+ emessa dalla Commissione 7 ributaria ProViriciale di UDINE
+ <part P="A">proposto dall'ufficio: AG. ENTRATE DIR.:PROVIN. UFF. CONTROLLI UDINE</part>
+
+ <part P="B">controparte:
+ CF SRL
+ XXX</part>
+
+ difeso da:
+ NM
+ XXX
+
+ AVVISO DI ACCERTAMENTO n° 8310305012792008 1.V.A. 2004
+ AVVISO DI:ACCERTAMENTO! n° 831030501841200 3 I.V.A. 2003
+
+
+ Fatto
+ L’ Ufficio notificava all’odierna appellata due avvisi di accertamento — n. 831030501841
+ afferente il periodo d’imposta 2003, con contestuale irrogazione delle sanzioni, e n.
+ 831030501279 afferente il periodo d’imposta 2004, con contestuale irrogazione delle
+ sanzioni - con cui riprendeva a tassazione una maggiore Iva per € 11.037,00 nel 2003 e
+ per € 20.861,00 nel 2004, calcolando la percentuale di indetraibilita prevista dall’art. 19-
+ bis del d.p.r. 633/1972 in relazione ad operazioni afferenti ad attività di locazione e
+ compravendita di immobili e di acquisto e cessione di titoli azionari.
+
+
+ 
+ <req ID="Req1" G="1" P="B">L’odierna appellata proponeva due separati ricorsi avverso i suddetti avvisi di
+ accertamento, chiedendone l'annullamento</req> <claim ID="Claim1" G="1" P="B" PRO="Req1">per i seguenti motivi:
+ 
+ 1. la cessione di partecipazioni azionarie deve ritenersi operazione esclusa:</claim>
+ <arg ID="Arg1" G="1" P="A" PRO="Claim1">secondo il disposto di cui all’art. 4, comma 5, lett. B) del d.p.r. 633/1972, in
+ quanto il possesso di titoli costituenti immobilizzazioni deve ritenersi non
+ rientrante nell’attività commerciale e, quindi, fuori campo iva;</arg>
+
+ <claim ID="Claim2" G="1" P="B" PRO="Req1">2. le operazioni de quibus si sarebbero ad ogni modo dovute astrattamente
+ sussumere nell’ambito dell’art. 19, comma 2 del d.p.r. n. 633/1972:</claim>
+ <arg ID="Arg2" G="1" P="A" PRO="Claim2">qualora, infatti, volesse ritenersi che anche le cessioni di partecipazioni azionarie
+ costituiscano operazioni in campo iva, da ricomprendersi tra le operazioni esenti,
+ comunque non sarebbe la norma di cui all’art. 19, comma 5 d.p.r. 633/1972 a
+ venire in rilievo, ma quella di cui al precedente comma 2 dello stesso articolo,
+ ove si disciplina la cd. indetraibilità analitica o specifica;</arg>
+
+ <claim ID="Claim3" G="1" P="B" PRO="Req1">3. assenza di acquisti afferenti alle operazioni de quibus:</claim> 
+ <arg ID="Arg3" G="1" P="A" PRO="Claim3">nel_caso di specie, non può neppure farsi un problema di indetraibilità ( di parte ) dell’imposta dal
+ momento che non è stata assolta alcuna imposta sugli acquisti, posto che nessun
+ acquisto è stato effettuato in relazione alle operazioni esenti;</arg>
+
+ <claim ID="Claim4" G="1" P="B" PRO="Req1">4. le operazioni de quibus non formano oggetto dell’attività propria della società:</claim>
+ <arg ID="Arg4" G="1" P="A" PRO="Claim4">affinché le operazioni esenti di cui ai n.\1) e 9) dell’art. 10 possano essere
+ considerate nel pro-rata, le stesse devono formare oggetto dell’attività propria del
+ soggetto passivo, ovvero essere meramente accessorie alle operazioni imponibili.</arg>
+ 
+
+ 
+ <dec ID="Dec1" G="1" E="1" O="Req1">Con sentenza n. 35/02/2011, la Commissione Provinciale adita, previa riunione dei
+ ricorsi, accoglieva i ricorsi riunitie compensava le spese di giudizio.</dec> 
+ 
+ 
+ <mot ID="Mot1" G="1" O="Req1">La Commissione di I° grado aveva ritenuto che l’assunzione di partecipazioni non
+ costituisse oggetto dell’attività propria della società, ma fosse strumentale ed
+ accessoria all’attività principale, costituita dalla compravendita di immobili, dalla
+ locazione di immobili, dalla gestione di esercizi pubblici e dalla produzione di vini.
+ La Commissione di prime cure rilevava che era pacifico in causa che la società non
+ avesse effettuato acquisti imponibili in relazione alle operazioni esenti, le quali,
+ comunque, sarebbero siate soggette al regime dell’indetraibilità specifica di cui
+ all’art. 19, comma 2 de. d.p.r. n. 633/1972, ribadito dall’art. 19bis, comma 2 dello
+ stesso decreto.</mot>
+ 
+ 
+ 
+ 
+ <req ID="Req2" G="2" P="A">Appellava l’Agenzia delle Entrate-Direzione Provinciale di Udine,</req>
+ <claim ID="Claim5" G="2" P="A" PRO="Req2">lamentando l’erronea qualificazione da parte dei Giudici di prime cure, delle operazioni di
+ cessione di partecipazioni azionarie.</claim>
+ <arg ID="Arg5" G="2" P="A" PRO="Claim5">La Commissione provinciale avrebbe errato nel qualificare le suddette operazioni alla
+ stregua di operazioni strumentali ed accessorie, “sia perché le operazioni di cui si
+ discute formano oggetto dell’attività propria della società,</arg> 
+ <arg ID="Arg6" G="2" P="A" PRO="Claim5">sia in quanto non sono qualificabili come occasionali ovvero accessorie”.
+ L’ Ufficio appellante riteneva applicabile al caso di specie il criterio del cd. pro-rata,
+ di cui all’art. 19, comma 5 del d.p.r. 633/1972, da calcolarsi, sempre a detta
+ dell’Ufficio, in base all’applicazione dell’art. 19bis, comma 1 dello stesso decreto.
+ L’appellante ribadiva l’esclusione del calcolo del pro-rata ai sensi dell’art. 19bs,
+ comma 2, del d.p.r. n. 623 del 1972, delle operazioni esenti di cui all’art. 10 da 1) a
+ 9) in quanto non formanti oggetto dell’attività propria del soggetto passivo ovvero
+ non meramente accessorie alle altre operazioni imponibili, e ribadiva la indetraibilita
+ specifica relativa ai teni e servizi utilizzati esclusivamente per effettuare le
+ operazioni esenti, già prevista dall’art. 19, comma 2 del d.p.r. 633 del 1972.</arg>
+ 
+ 
+ Nella more del procedirnento d’appello è intervenuta la definizione (parziale) di lite
+ pendente ex art. 39, comma 12 D.P. 98/11 e la lite prosegue solo relativamente
+ all’avviso di accertamento n. 831030501279 anno di imposta 2004.
+ 
+
+ DIRITTO
+ 
+ L’appello dell’Ufficio è infondato e va respinto. 
+ <mot ID="Mot2" G="2" O="Claim5">
+ Ha ragione l’Ufficio appellante a
+ ritenere che l’acquisizione di partecipazioni in società, aventi scopi ed oggetto sociale
+ affini a quelli della contribuente, rientri nell’oggetto sociale e nell’attività principale
+ della contribuente stessa, in quanto acquisto e cessione di partecipazioni rientrano
+ nell’oggetto sociale previsto nello statuto della contribuente; 
+ ma nel caso di specie
+ la cessione di partecipazioni, (azioni della F Spa), per € 300.000,00, era
+ rappresentato dalla cortribuente come un’operazione collegata non all’esercizio
+ dell’attività imprenditoriale, e come tale esecuzione di quanto previsto nell’oggetto
+ sociale, bensì ad un riassetto proprietario collegabile ai rapporti familiari tra i soci e
+ facente parte di un più ampio riassetto e suddivisione della proprietà della famiglia
+ F Spa.
+ Tale circostanza, posta « base dei ricorsi introduttivi, seppure non documentalmente
+ provata, non è stata contestata dall’Ufficio il quale ha ritenuto tale operazione
+ rientrante nell’oggetto sociale senza entrare nel merito delle ragioni del compimento
+ della stessa che giustificavano, invece, la ritenuta occasionalità della cessione e
+ l’estraneità della stessa all’oggetto principale dell’attività di impresa.</mot>
+ <mot ID="Mot3" G="2" O="Claim5">Non solo.
+ E’ pacifico, in quanto dedotto della ricorrente, ed assolutamente non contestato
+ dall’Ufficio, che a monte dell’operazione di cessione non v’é stata alcuna operazione
+ di acquisto correlata che abbia dato luogo ad applicazione di imposta.
+ Né le due operazioni di acquisto di partecipazioni ( T srl e Z spa)
+ risultavano in alcuno modo correlate alla cessione di azioni ordinarie della F
+ spa (operazione di cessione di partecipazioni per € 300.000,00 oggetto di
+ contestazione nel presente procedimento).
+ La cessione di partecipazione effettuata dalla contribuente e che ha dato luogo
+ all’avviso di accertamento impugnato, non appare, pertanto, correlata all’attività
+ principale della società in quanto non integrante un’operazione connessa all’attività
+ principale ma occasionata e finalizzata al riassetto proprietario delle partecipazioni
+ detenute tra i familiari della proprietaria originaria famiglia F Spa.</mot>
+ Sussistono giuste ragioni legate alla complessità della vertenza e alle difficoltà
+ interpretative, per compensare le spese di lite.
+ 
+ PQM
+ <dec ID="Dec2" G="2" E="0" O="Req2">La Commissione Tributaria Regionale respinge l’appello dell’Ufficio;</dec> 
+ spese compensate.
+ 
+ Così deciso in Trieste, 
+ li DD/MM/2012
+ 
+ Il Presidente
+ iL Relatore
+ 
+
+</body>

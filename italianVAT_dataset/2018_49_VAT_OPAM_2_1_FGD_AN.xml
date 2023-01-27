@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+
+REPUBBLICA ITALIANA
+IN NOME DEL POPOLO ITALIANO
+
+	LA COMMISSIONE TRIBUTARIA REGIONALE DI XXX
+
+	riunita con l'intervento dei Signori;
+		giu1 Presidente
+		giu2 Relatore
+		giu3 Giudice
+	
+
+	REG.GENERALE N° 2962/2015
+
+	ha emesso la seguente
+	SENTENZA
+
+	- sull'appello n. 2962/2015
+	depositato il DD/MM/2015
+
+ 	- avverso la pronuncia sentenza n. 285/2015 Sez:2 emessa dalla Commissione Tributaria Provinciale di XXX
+
+	<part P="A">contro:
+	AG.DOGANE UFFICIO DELLE DOGANE DI XXX</part>
+
+	<part P="B">proposto dagli apppellanti:
+	MGR DI XXX
+	VIA XXX</part>
+
+	difeso da:
+	B AVV. F
+	VIA XXX
+
+	difeso da:
+	F AVV. G
+	VIA XXX
+
+	difeso da:
+
+	L AVV. M
+	VIA XXX
+
+	difeso da:
+	O AVV.G
+	VIA XXX
+
+	Atti impugnati: 
+	RETTIFICA n° 3/D/2014 DOGANE DAZI 2014
+	RETTIFICA n° 3/D/2014 DOGANE IVA IMP. 2014
+
+
+FATTO
+
+La controversia trae origine da un avviso di accertamento con il quale 1’ Agenzia delle dogane di XXX ha provveduto al recupero di dazi doganali, comminando le relative sanzioni, nei confronti di MGR di XXX s.r.l., oggi divenuto MWM s.r.l.
+In particolare, l’Ufficio ha contestato, con riferimento all’importazione di sei partite di biciclette, la dichiarazione, effettuata in qualità di rappresentante della società Gruppo B, di origine preferenziale tunisina della merce, in ragione della quale era stata riconosciuta l’esenzione dal pagamento del dazio, deducendo invece che le biciclette provenivano dalla Cina ed erano quindi sottoposte al dazio convenzionale ed al dazio antidumping.
+
+
+	
+		<req ID="Req1" G="1" P="B">Il provvedimento dell’Agenzia è stato impugnato dalla contribuente avanti la CTP di XXX,</req> 
+		sollevando eccezioni di natura formale e sostanziale;
+	
+
+	
+		<dec ID="Dec1" G="1" E="0" O="Req1">ma la CTP, aderendo alle difese della parte pubblica, ha rigettato il ricorso.</dec>
+	
+
+
+
+	
+		<req ID="Req2" G="2" P="B">Avverso la pronuncia ha interposto appello la parte privata, affidandosi a quattro motivi;</req> 
+		<req ID="Req3" G="2" P="A">ha resistito invece l’Ufficio,</req> 
+		<claim ID="Claim10" G="2" P="A" PRO="Req3">sul presupposto della correttezza della pronuncia impugnata,</claim> 
+		ed entrambe le parti hanno depositato memoria integrativa ex art. 32 D.Lgs. n.546/1992.
+	Dopo un primo rinvio disposto su concorde richiesta delle parti all’udienza del DD/MM/2018, e dopo un rinvio d’ufficio disposto all’udienza del DD/MM/2018, la controversia è discussa all’odierna pubblica udienza, così come da domanda dell’appellante.
+	
+
+	DIRITTO
+
+	
+		1a) <claim ID="Claim1" G="2" P="B" PRO="Req2">Con il primo motivo di appello, la contribuente eccepisce la nullità del provvedimento impugnato per violazione del contraddittorio,</claim> 
+		<arg ID="Arg1" G="2" P="B" PRO="Claim1">sul presupposto che il provvedimento stesso sarebbe stato assunto senza attendere il termine dilatorio previsto dall’articolo 11 comma 4 bis D.Lgs. n. 374/1990, secondo il quale, dopo la contestazione e prima dell’avviso di accertamento, il contribuente ha trenta giorni per formulare osservazioni.</arg>
+
+		 Il motivo non è fondato.
+
+		<mot ID="Mot1" G="2" O="Claim1"> Invero, indipendentemente dal fatto che il termine di 30 giorni decorra dal verbale di contestazione notificato il DD/MM/2014 (così come sostiene I’Ufficio, con la conseguenza che il provvedimento impugnato sarebbe stato ritualmente emesso dopo il decorso del termine) ovvero decorra dalla rettifica operata in autotutela dall'Ufficio il gg/mm/2014 (così come sostiene l’appellante, con la conseguenza che il provvedimento impugnato sarebbe stato emesso prima del decorso del termine dilatorio), dirimente è rilievo per cui in nessun modo il provvedimento può ritenersi nullo.
+
+		 Infatti, secondo l’insegnamento della Corte di cassazione a Sezioni Unite, che il Collegio condivide e dal quale non ha motivo di discostarsi, nel caso di tributi armonizzati, quale quello relativo ai dazi doganali per cui è processo, la violazione dell’obbligo del contraddittorio endoprocedimentale da parte dell’ Amministrazione comporta l'invalidità dell’atto solo se “il contribuente assolva l’onere di enunciare in concreto le ragioni che avrebbe potuto far valere, qualora il contraddittorio fosse stato tempestivamente attivato, e che l’opposizione di dette ragioni (valutate con riferimento al momento del mancato contraddittorio), si riveli non puramente pretestuosa e tale da configurare, in relazione al canone generale di correttezza e buona fede ed al principio di lealtà processuale, sviamento dello strumento difensivo rispetto alla finalità di corretta tutela dell’interesse sostanziale, per le quali è stato predisposto” (cfr. Cass. Sez. Un. n. 24823/2015; conformi le successive Cass. n. 2875/2017, Cass. n. 10030/2017, Cass. n. 20799/2017, Cass. n. 21017/2017, Cass. n. 26943/2017, Cass. n. 2873/2018).
+
+		 Nel caso di cui è processo, l’appellante nemmeno ha dedotto quali sono le ragioni, diverse ed ulteriori rispetto a quelle già espressamente rigettate nel provvedimento qui impugnato, che avrebbe fatto valere in sede di contraddittorio endoprocedimentale.
+		 Discende che il motivo di appello va comunque rigettato, rimanendo assorbita la questione sopra accennata relativa al fatto che l’accertamento sia stato effettivamente posto in essere prima del decorso del termine dilatorio.</mot>
+
+		1b) <claim ID="Claim2" G="2" P="B" PRO="Req2">Con il secondo motivo di appello si deduce il difetto di motivazione per violazione dell’articolo 11 comma 5 bis D.Lgs. n. 374/1990, con conseguente nullità dell’accertamento ai sensi della norma citata,</claim> 
+		<arg ID="Arg2" G="2" P="B" PRO="Claim2">avendo l’Ufficio disatteso l’obbligo di allegare o comunque riprodurre il contenuto essenziale dell’atto richiamato nel provvedimento sanzionatorio, e cioè il verbale OLAF.</arg>
+
+		 Il motivo è fondato.
+
+		<mot ID="Mot2" G="2" O="Claim2"> Sul punto, non è revocabile in dubbio che il verbale OLAF non sia stato allegato dall’Ufficio all’avviso di accertamento.
+
+		 Né l’obbligo motivazionale, diversamente da quanto dedotto dall’appellata, risulta rispettato da una esplicitazione chiara ed autonoma, nel provvedimento impugnato, della motivazione dell’atto impositivo: sul punto, si osserva infatti che' risulta del tutto generico, e non in grado di fare comprendere autonomamente l’ifer logico ed il procedimento motivazionale seguito, l’inciso dell'Ufficio “vista l'indagine OLAF, dalla quale è emerso che l’origine della merce venduta dalla società MUI è cinese e non può pertanto beneficiare dell’origine preferenziale”.
+
+		In sostanza: l’accertamento dell’Ufficio si fonda sul verbale dell’OLAF, senza però che all’accertamento tale verbale sia allegato, e senza che nell’accertamento si riproponga l’iter motivazionale del verbale dando conto del percorso logico seguito.
+
+		 Risulta evidente, quindi, il difetto motivazionale, con conseguente nullità dell’atto.</mot>
+
+		2) Tanto basta all’accoglimento dell’appello, con conseguente annullamento dell’atto impugnato.
+
+		<claim ID="Claim3" G="2" P="B" PRO="Req2">Rimangono quindi assorbiti gli ulteriori due motivi di appello, relativi alla mancanza di prova dell’origine cinese della merce</claim> 
+		<claim ID="Claim4" G="2" P="B" PRO="Req2">ed all’applicabilità degli articoli 220 e 239 Reg. n. 2913/1992 in ordine alla non contabilizzazione degli importi dovuti a titolo di dazi</claim> 
+		<arg ID="Arg3" G="2" P="B" PRO="Claim4">per la presenza delle tre condizioni derivanti dall’errore dell’autorità doganale, dall’avere il debitore rispettato le disposizioni per la dichiarazione in dogana previste dalla normativa vigente e dall’avere il debitore agito in buona fede.</arg>
+
+		Solo per completezza espositiva va peraltro evidenziato che, così come osservato dall’appellante, in realtà manca radicalmente la relazione conclusiva dell’OLAF, e pertanto effettivamente manca comunque la prova della origine cinese della norma.
+
+		2) Non vi sono motivi per derogare ai principi generali codificati dagli artt. 15 D.Lgs. n. 546/1992 e 91 c.p.c. in tema di spese di lite, che, liquidate come da dispositivo con riferimento al D.M. n. 55/2014, sono quindi poste per il doppio grado di giudizio a carico del soccombente Ufficio appellato ed a favore del vittorioso contribuente appellante, tenendo a mente un valore prossimo a quelli medi nell’ambito dello scaglione entro il quale è racchiuso il decisum di causa.
+	
+
+	P.Q.M.
+
+		<dec ID="Dec2" G="2" E="1" O="Req2">la Commissione Tributaria Regionale di XXX 
+		- in accoglimento dell’appello, annulla l’originario atto impugnato;</dec>
+		- condanna Agenzia delle Dogane e dei Monopoli a rifondere all’appellante le spese di lite del doppio grado di giudizio, che liquida in € 8.000 per compensi, oltre CUT ed accessori di legge.
+
+		
+			XXX, DD/MM/2018
+		
+
+		Il Giudice
+		giu2
+		Il Presidente
+		giu1
+	
+
+
+</body>

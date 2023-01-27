@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+
+REPUBBLICA ITALIANA
+IN NOME DEL POPOLO ITALIANO
+
+	LA COMMISSIONE TRIBUTARIA REGIONALE DI XXX
+
+	riunita con l'intervento dei Signori:
+		giu1 Presidente
+		giu2 Relatore
+		giu3 Giudice
+	
+
+	Ha emesso la seguente sentenza
+
+	REG. GENERALE N° 3885/2015
+
+	- sull'appello n. 3885/2015 depositato il DD/MM/2015
+
+	- avverso la sentenza n. 22976/2014 Sez:16 emessa dalla Commissione Tributaria Provincia di XXX 
+
+	<part P="B">contro:
+	A S.R.L.</part>
+
+	<part P="A">proposto dall'appellante:
+	AG. ENTRATE DIREZIONE PROVINCIALE XXX</part>
+
+	Atti impugnati:
+	AVVISO DI ACCERTAMENTO n° TK3036303174/2012 IRES-ALTRO 2007
+	AVVISO DI ACCERTAMENTO n° TK3036303174/2012 IVA-OP.IMPONIB. 2007
+	AVVISO DI ACCERTAMENTO n° TK3036303174/2012 IRAP 2007
+
+
+Svolgimento del processo
+
+	
+		<req ID="Req1" G="1" P="B">La Soc. A S.r.l. ricorreva avverso l'avviso di accertamento emesso dalla Agenzia delle Entrate con riferimento ad un maggior reddito di euro 2.259.476,43, per il 2007, con la determinazione di maggiori imposte Ires, Irap ed Iva per un importo complessivo di euro 986.671,00.</req>
+	
+
+	
+		<dec ID="Dec1" G="1" E="1" O="Req1">La CTP di XXX, con sentenza n. 22976/16/14, accoglieva il ricorso,</dec> 
+		con compensazione delle spese,
+	 
+	
+
+	
+		rilevando che: non è fondata l'eccezione relativa alla violazione dell'art. 39, comma 2, d.P.R. 600/1973;
+
+		è invece fondata la seconda eccezione proposta dalla ricorrente: 
+		<mot ID="Mot2" G="1" O="Req1">le due fatture emesse in data 14.5.2007 riguardano l'attuazione della transazione stipulata il 5.5.2007 in base alla quale la "B" consegna alla "A", "a mezzo assegni bancari di conto corrente suo proprio un importo di euro 2.147.646,00, a titolo di rimborso ovvero di restituzione di somme già versate in relazione al sopraindicato contratto di leasing alla "C"" e paga la fattura di euro 450.000,00 "tramite cessione e/o compensazione con il credito di pari importo vantato nei confronti della "C"";
+
+		le fatture emesse dalla società ricorrente non stanno pertanto a indicare la vendita di beni e servizi ma un rimborso di somme per la risoluzione del contratto di leasing, che non può essere portato ad incremento del reddito senza la corrispettiva contabilizzazione delle somme versate;
+
+		il mancato deposito del bilancio di esercizio non può influire sulla valutazione delle fatture emesse dalla società.</mot>
+	
+
+
+
+	
+		<req ID="Req3" G="1" P="A">Propone appello l'Agenzia delle Entrate,</req> che rileva:
+
+		l'Ufficio presta acquiescenza alla sentenza di primo grado nella parte in cui la CTP ha annullato i rilievi dell'avviso di accertamento formulati ai fini delle imposte IRES ed IRAP;
+
+		<arg ID="Arg1" G="2" P="A" PRO="Claim1">la CTP ha concluso che le somme recuperate a tassazione non potevano essere qualificate alla stregua di maggiori ricavi, derivanti da cessione di beni o prestazione di servizi, essendo state le stesse fatturate a titolo di rimborso di somme già pagate dalla "A" a seguito di un atto di transazione stipulato con la "B": nulla però ha statuito in merito all'omesso versamento dell'IVA indicata nelle due citate fatture;</arg>
+
+		<arg ID="Arg2" G="2" P="A" PRO="Claim1">nelle due fatture infatti la "A" addebitava alla "B", a titolo di IVA, rispettivamente euro 25.471,70 ed euro 121.564,87 (per un importo complessivo, al netto dell'IVA relativa agli acquisti risultanti dagli elenchi presentati dai fornitori di euro 133.719,00) e non ha in alcun modo dimostrato di aver provveduto al regolare versamento dell'IVA addebitata alla "B";</arg>
+	
+		<claim ID="Claim1" G="2" P="A" PRO="Req1">l'annullamento da parte della CTP del rilievo formulato ai fini dell'IVA risulta pertanto del tutto ingiustificato e immotivato;</claim>
+
+		<req ID="Req2" G="1" P="A">si chiede pertanto la riforma della sentenza di primo grado, con esclusivo riferimento al rilievo in tema di IVA.</req>
+
+	Non si è costituita in giudizio la parte appellata.
+	
+
+	Motivi della decisione
+
+		L'appello deve essere accolto.
+
+		<mot ID="Mot3" G="2" O="Req2">Nel ricorso introduttivo, con il motivo ritenuto fondato dalla CTP, la contribuente eccepiva che nessuna delle fatture oggetto di recupero a tassazione aveva prodotto reddito, in quanto si era trattato, come chiaramente riportato nella scrittura privata e nelle fatture emesse, di una mera restituzione di somme già pagate dalla "A". Infatti, a seguito della consegna alla "A" di uno Yacht, tipo Maiora 32, concesso in locazione finanziaria dalla "C", che lo aveva acquistato dalla "B", venivano riscontrati vizi e pertanto sorgevano fra le parti controversie, che venivano appianate stragiudizialmente con la scrittura privata del DD MM 2007. La "B" rientrava quindi nel possesso della imbarcazione venduta e la "A" recuperava le somme versate a vario titolo alla "B" ed alla "C".
+
+		Ricostruita così la vicenda, ritiene questa Commissione che l'operazione in questione, di emissione di fatture in esecuzione di una scrittura privata che stabiliva la restituzione del bene acquistato dalla società e la contestuale restituzione delle somme versate alla medesima, sia riconducibile alle previsioni di cui ai commi 2 e 3 dell'art. 26 d.P.R. n. 633/1972. Ai sensi del comma 2 del citato articolo, se un'operazione per la quale sia stata emessa fattura viene meno in tutto o in il cedente del bene ha diritto di portare in detrazione l'imposta corrispondente e il cessionario che abbia già registrato l'operazione deve registrare la variazione, salvo il suo diritto alla restituzione dell'importo pagato al cedente a titolo di rivalsa. Tuttavia, dispone il comma 3, le disposizioni del comma precedente non possono essere applicate dopo il decorso di un anno dalla effettuazione dell'operazione imponibile qualora gli eventi ivi indicati si verifichino in dipendenza di sopravvenuto accordo fra le parti.
+
+		Al riguardo, secondo la Commiss. Trib. Centr., 01/12/1987, n. 8833, "L'art. 26 d. p. r. 26 ottobre 1972, n. 633, disciplina l'ipotesi della riduzione dell'imponibile in conseguenza della restituzione di un bene, stabilendo che il cedente del bene medesimo ha diritto di portare in detrazione l'imposta corrispondente alla variazione, purché l'operazione abbia luogo entro l'anno dall'effettuazione della operazione originaria; detta facoltà agevolativa, pertanto, non può essere applicata se il bene viene restituito oltre l'anno, dovendosi configurare, detta operazione inversa, come un nuovo atto di compravendita e, come tale, assoggettabile nuovamente al tributo"
+
+		Nel caso di specie, come risulta dalla stessa scrittura privata in data DD MM 2007, che ha risolto la controversia fra le parti, il contratto di compravendita è stato sottoscritto in data DD MM 2005, e pertanto oltre un anno prima della emissione delle fatture di cui si tratta.
+
+		Pertanto, poiché il comma 3 dell'art. 26 limita temporalmente l'emissione delle note di variazione in diminuzione ad un anno dalla data di effettuazione dell'operazione principale, qualora l'evento che origina la variazione sia frutto di un accordo sopravvenuto tra le parti, appare corretta l'affermazione dell'Ufficio secondo cui l'emissione di tali fatture, se pure non si traduce in un maggiore ricavo per la società, risulta però imponibile ai fini IVA.</mot>
+
+		Con riguardo alle spese va tenuto conto della disciplina, applicabile ai processi in corso a decorrere dal 1° gennaio 2016, di cui al nuovo testo dell'art. 15, comma 2, d. lgs. 546/1992 (come modificato dall'art. 9, comma 1, lett. f) d. lgs. 156/2015), secondo cui "le spese di giudizio possono essere compensate in tutto o in parte dalla commissione tributaria soltanto in caso di soccombenza reciproca o qualora sussistano gravi ed eccezionali ragioni che devono essere espressamente motivate": 
+		nel caso di specie possono essere ritenute sussistenti gravi ragioni per disporre la compensazione delle spese, in ragione della circostanza che in primo grado la contribuente aveva ottenuto una decisione integralmente favorevole e non si è peraltro nemmeno costituita nel presente grado di giudizio.
+	 
+
+	P.Q.M.
+
+		<dec ID="Dec2" G="2" E="1" O="Req1">La Commissione accoglie l'appello dell'Ufficio.</dec> 
+		Spese compensate.
+
+		
+			XXX, DD MM 2016.
+		
+	
+
+
+</body>

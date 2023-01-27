@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+
+REPUBBLICA ITALIANA
+IN NOME DEL POPOLO ITALIANO
+
+LA COMMISSIONE TRIBUTARIA REGIONALE DI SICILIA SEZIONE N° 2
+
+REG.GENERALE N° 7320/2014
+
+ riunita con l'intervento dei Signori:
+ giu1 Presidente
+ giu2 Relatore
+ giu3 Giudice
+ 
+
+ ha emesso la seguente
+ SENTENZA
+
+ - sull'appello n. 7320/2014
+ depositato il DD/MM/2014
+
+ - avverso la pronuncia sentenza n.2060/2014 Sez:11 emessa dalla Commissione
+
+ <part P="A">contro:
+ AG. ENTRATE DIREZIONE PROVINCIALE MESSINA</part>
+
+ <part P="B">proposto dagli apppellanti:
+ ER
+ XXX</part>
+
+ difeso da:
+ FGMP
+ XXX
+
+ difeso da:
+ TN
+ XXX
+
+ Atti impugnati:
+ AVVISO DI ACCERTAMENTO n° RJF010100526/2009 IRPEF-ADD.REG. 2004
+ AVVISO DI ACCERTAMENTO n° RJF010100526/2009 IRPEF-ADD.COM. 2004
+ AVVISO DI ACCERTAMENTO n° RJF010100526/2009 IRPEF-IMPR.ORD. 2004
+ AVVISO DI ACCERTAMENTO n° RJF010100526/2009 IVA-OP.IMPONIB. 2004
+ AVVISO DI ACCERTAMENTO n° RJF010100526/2009 IRAP 2004
+
+
+IN FATTO E IN DIRITTO
+
+
+Con avviso di accertamento n. RJF010100526/2009, IVA-IRPEF-IRAP anno 2009, l'Agenzia delle Entrate di Messina contestava alla ditta individuale “ER”, esercente l'attività di "ristorante, pizzeria, trattoria, osteria e birrerie con cucine”, con sede in XXX, il conseguimento di maggiori ricavi non dichiarati, pari a € 37.856,67.
+
+L'Ufficio, previo questionario n. Q00030/2009 e invito al contraddittorio 100033/09, rimasto inevaso per inerzia del verificato, attraverso esame documentale e analisi di coerenza interna ed esterna della gestione aziendale, stante le gravi incongruenze rilevate, giungeva a ricostruire, con metodologia analitico induttiva, la effettiva capacità contributiva della ditta.
+
+
+ 
+ <req ID="Req1" G="1" P="B">Contro detto atto impositivo, il contribuente opponeva ricorso,</req> 
+ <claim ID="Claim1" G="1" P="B" PRO="Req1">eccependone la nullità in forza di un precedente accertamentoannullato in autotutela dall'Ufficio, ex art. 43, comma 3, D.P.R. 600/73;</claim>
+ <claim ID="Claim2" G="1" P="B" PRO="Req1">nel merito per presunta violazione dell'art. 39, Comma 1, lettera d), D.P.R. e erroneità del metodo.</claim>
+
+ <claim ID="Claim10" G="1" P="A" CON="Req1">L'Ufficio, nel costituirsi in giudizio e nel confutare integralmente le eccezioni opposte, sottolineava, la legittimità formale e sostanziale dell'atto impositivo e dell'iter procedimentale adottato.</claim>
+ 
+
+ 
+ <dec ID="Dec1" G="1" E="0" O="Req1">La CTP di Messina con sentenza 2060/MM/DD rigettava il ricorso</dec> 
+ e condannava il ricorrente alle spese di giudizio per complessivi € 1.500,00.
+ 
+
+
+
+ 
+ <req ID="Req2" G="2" P="A">Avverso tale sentenza il ricorrente presenta il presente appello</req> 
+ <claim ID="Claim3" G="2" P="A" PRO="Req2">eccependo preliminarmente che l'Agenzia dopo aver annullato l'avviso di accertamento RJF010100190/2009 non avrebbe potuto emetterne un'altro - derivante dalla medesima verifica contabile - mantenendo invariati il costo del venduto, la percentuale di ricarico e la ripartizione dei ricavi per settori merceologici.</claim>
+
+ <arg ID="Arg1" G="2" P="A" PRO="Claim3">Infatti, nell'accertamento annullato i maggiori ricavi erano pari ad € 38.339,81 mentre nell'accertamento in discussione i maggiori ricavi erano di € 37.856,67, e la differenza di € 483,00 era solo dipesa dall'iniziativa dell'Ufficio volta a non recuperare a tassazione i ricavi derivanti dalla vendita di panettoni, che avevano formato oggetto del primo accertamento.</arg>
+
+ <claim ID="Claim4" G="2" P="A" PRO="Req2">Nel merito eccepisce la nullità dell'atto conseguente all’illegittimo ricorso alla“ricostruzione analitico-induttiva dei ricavi.</claim> 
+ <arg ID="Arg2" G="2" P="A" PRO="Claim4">In particolare contesta, oltre alla percentuale di ricarico del 70% applicata, la qualificazione del 44% dell'attività svolta dal contribuente nella generica attività di “enoteca”, senza tenere conto che la stessa era stata ricompresa dal ricorrente nella categoria “a/tro”, per di più, a pagina 7 dell'avviso di accertamento, il reddito d'impresa accertato (€ 49.286,67) viene determinato sommando al reddito d'impresa dichiarato (€ 11.430,00) i ricavi omessi determinati presuntivamente (€ 37.856,67), senza tener conto dei costi sostenuti dall'impresa per la loro produzione: in tal modo, il concetto di "reddito” viene fatto coincidere con quello di "ricavo”, mentre al contrario avrebbe dovuto essere sottoposto a tassazione il reddito scaturente dalla detrazione dei costi necessari per la realizzazione dei ricavi.</arg>
+
+ <req ID="Req3" G="2" P="A">Chiede pertanto che la Commissione accolga l'appello e dichiari nullo l’Avviso di accertamento</req>
+ <claim ID="Claim5" G="2" P="A" PRO="Req3">perché identico nel contenuto ad uno precedentemente annullato</claim>
+ <claim ID="Claim6" G="2" P="A" PRO="Req3">e nel merito, che sia ritenuto illegittimo e/o infondato l'avviso di accertamento per l'erroneità del calcolo utilizzato dall’Ufficio nella ricostruzione dei ricavi presunti.</claim>
+
+ <claim ID="Claim7" G="2" P="B" PRO="Req4">Si costituisce con deduzioni del DD-MM-2014 l'Agenzia delle Entrate,</claim>
+ <req ID="Req4" G="2" P="B">e nel confermare la legittimità del proprio operato chiede il rigetto dell'appello</req> 
+ e la condanna alle spese di giudizio: 
+ <claim ID="Claim8" G="2" P="B" PRO="Req4">Pregiudizialmente eccepisce l’inammissibilità ex art. 57 del D.Lgs 546/92 di domande nuove (erroneità dell'avviso per omessa contabilizzazione di costi in relazione ai maggiori ricavi)</claim> 
+ <arg ID="Arg3" G="2" P="B" PRO="Claim8">e precisa che il ricorso al procedimento analitico-induttivo era stato determinato dalle incongruenze rilevate in sede di accertamento e dall’atteggiamento non collaborativo del contribuente il quale non rispondeva»alrquestionario notificato in data 26-05-2009.</arg>
+ 
+ All'udienza del DD-MM-2021 la causa è decisa come da dispositivo.
+
+ 
+ L'appello non è fondato.
+
+ Prive di pregio appaiono le reiterate eccezioni circa l'illegittimità dell'atto, in ragione dell'avvenuto annullamento, in autotutela, di un precedente accertamento avente identica ricostruzione induttiva dei ricavi.
+
+ <mot ID="Mot2" G="2" O="Claim3">Sul punto, si precisa che la potestà dell'Amministrazione di riesaminare il proprio operato (entro i relativi termini decadenziali), di annullare i propri atti e di sostituirli con altri ritenuti legittimi, deriva dal generale potere di autotutela richiamato dall'art. 2 quater del D.L. n. 564/94, modificato dall'art. 27 della L.28/98 e, dal D.M. n. 37/97 con cui si è proceduto alla concreta regolamentazione dell'istituto in materia infatti i giudici di prime cure, nel concordare con l'Ufficio che "l'atto amministrativo tributario de quo assume ad oggetto un precedente avviso di accertamento che é illegittimo e al quale esso si sostituisce", hanno ravvisato, nell'operato dell'Amministrazione, la piena rispondenza ai principi generali di diritto amministrativo e tributario nonché a quelli formatisi, sulla specifica materia, in seno alla consolidata giurisprudenza di legittimità (Cass. 2567/90; 4303/92; 1114/03; 3951/02).
+
+ Si evidenzia, altresì, che la riduzione operata, nell'atto de quo, dei maggiori ricavi accertati pari a € 32.856,67, rispetto a € 38.339,81 contestati nell'atto precedentemente annullato, non necessitava di una forma o di una-motivazione particolare, essendo rimasto identico l'oggetto del rapporto giuridico. Sul punto, la Corte di Cassazione con sentenza n. 22019/2014, ha riaffermato che "mentre l'integrazione o la modificazione in aumento dell’accertamento originario deve necessariamente formalizzarsi nell'adozione di un nuovo avviso di accertamento - specificamente motivato a garanzia del contribuente che ne è destinatario - il quale si aggiunge a, ovvero sostituisce, quello originario, l'integrazione o la modificazione in diminuzione, non integrando una "nuova" pretesa tributaria, ma soltanto una pretesa "minore” non necessita neppure.-di una forma o di una motivazione particolare, (Sez. 5, Sentenza n, 12814 del 27/09/2000).</mot>
+
+ <mot ID="Mot3" G="2" O="Claim4">Nel merito, si rimarca la fondatezza e legittimità della ripresa, effettuata con metodologia analitico - induttiva ex art. 39,comma 1, lettera d), caratterizzandosi le relative presunzioni per gravità, precisione e concordanza, in presenza di verificate incongruenze, non in linea con le normali regole disciplinanti una corretta gestione d'impresa, quali, nel dettaglio: la concentrazione delle fatture emesse in un periodo molto breve dell'anno (dal 23 al 31 dicembre); la vendita di beni (bottiglie di vino) sottocosto e/o non risultanti dalle fatture di acquisto; anomalie tra le rimanenze iniziali e finali, nel settore enoteca, con esposizione della medesima quantità.
+
+ Orbene, la ricostruzione operata dall'Ufficio muove da dati contabili certi e dall'analisi di elementi collaterali di riscontro, non disattesi dalla parte, rimasta inerte a fornire chiarimenti in merito, così come richiesti con apposito questionario.
+
+ Il settore enoteca è stato oggetto di particolare analisi, per le precise incongruenze rilevate e per essere tale attività risultata preponderante rispetto alle altre, stante quanto emerso dai dati esposti nello studio di settore con riguardo alla percentuale di ricavi distinti dalla parte in base alle diverse tipologie di servizi resi: settore "altro" pari al 44%; "bar" - 16%; “ristorazione” - 40%.
+
+ Il dato "altro", a cui il contribuente ha attribuito la predetta percentuale di ricavi del 44%, logicamente ed in assenza di diversa indicazione è stato associato dall'Ufficio allo specifico settore "enoteca", tenendo conto delle notevoli fatture di acquisto di prodotti alcolici, delle relative giacenze di magazzino, appurate in fase istruttoria, nonché, del numero di etichette di vino in lista (350) indicato al rigo D21 dello studio di settore e del dato segnalato al rigo D45 riportante il 45%.di acquisto di vino.
+
+ Risalendo, dunque, da fatti noti accertati, quali il costo dei prodotti alcolici desunto dalle fatture di acquisto, pari a € 43.717,08, (a fronte di € 57.930,00 di costi per acquisti di materie prime), e rilevato il costo del venduto di detti beni, sostenuto nell'anno, pari a € 47.135,88, attraverso l'esame.coordinato dei prospetti delle giacenze e delle fatture di acquisto di vino (come da tabella - allegato 1 all'avviso di accertamento), i verificatori hanno proceduto a determinare il ricarico del 70% sul predetto costo per giungere alla quantificazione dei-ricavi conseguiti nello specifico settore pari a € 80.130,99 con una differenza non contabilizzata di € 37.856,67.
+
+ In presenza di fatture generiche e di omessa documentazione sui prezzi praticati, e dunque, nell'impossibilità di quantificare una percentuale di ricarico ponderata, l'Ufficio ha fatto riferimento alla media dei ricarichi minimi previsti dagli studi di settore, presentati dal contribuente per gli anni d'imposta dal 2000 al 2003, risultando congrui i ricavi in essi dichiarati.
+
+ Il procedimento utilizzato poggia, pertanto, su indiscussi elementi probatori e sulla verificata incongruenza dei ricavi, ricostruiti attingendo alla sottostante documentazione fiscale e, per quanto non prodotto, ai dati contabili e strutturali dichiarati dallo stesso contribuente, il quale, come ben rilevato dai giudici di prime cure, si è limitato a sollevare meri "dubbi" sull'accertamento ma non ha provato, pur essendovi tenuto, "a dimostrare l'erroneità degli elementi contabili indicati nell'avviso ed utilizzati per il calcolo”.</mot>
+
+ Per quanto concerne, infine, l'eccezione circa l'omesso riconoscimento di costi a fronte dei maggiori ricavi accertati, se ne evidenzia la novità e, conseguentemente, l'inammissibilità, ex art. 57 del D.Lgs 546/92, pur non rilevandone la totale infondatezza,
+ <mot ID="Mot4" G="2" O="Claim8">atteso che è sempre onere di parte, ex art. 2697 c.c. dimostrarne l'esistenza nonché la relativa competenza e inerenza.</mot>
+
+
+ <mot ID="Mot5" G="2" O="Req2">L'evoluzione dei fatti e i vari passaggi in cui si è articolata la ricostruzione dei maggiori ricavi, nonché gli elementi probatori posti alla base della maggiore pretesa impositiva manifestata dall'Ufficio finanziario appare idonea a rilevare, in modo puntuale, il meccanismo di evasione posto in essere dall'impresa verificata che non ha fornito contrari e adeguati elementi probatori.</mot>
+ 
+
+ P. Q. M.
+
+ <dec ID="Dec2" G="2" E="0" O="Req2">Rigetta l'appello e conferma la sentenza impugnata.</dec>
+
+ Spese liquidate in € 1.500,00.
+
+ Così deciso in Messina il DD MM 2021
+ 
+
+</body>

@@ -2,8 +2,6 @@
 
 Repository of the italianVAT corpus, a novel corpus that consists of 226 Italian second-instance decisions on Value Added Tax (VAT) by the Regional Tax Commissions from various judicial districts.
 The corpus is annotated based on the structural parts of the decisions.
-Due to privacy reasons, the data will soon be available.
-
 
 ## Citation
 

@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+
+REPUBBLICA ITALIANA
+
+IN NOME DEL POPOLO ITALIANO
+
+	LA COMMISSIONE TRIBUTARIA REGIONALE DI XXX 
+	SEZIONE 1
+
+	riunita con l'intervento dei Signori:
+	giu1 Presidente
+	giu2 Relatore
+	giu3 Giudice
+
+	REG.GENERALE N° 135/2019
+
+	ha emesso la seguente
+	SENTENZA
+
+	- sull'appello n. 135/2019
+	depositato il DD/MM/2019
+
+	- avverso la pronuncia sentenza n. 26/2019 emessa dalla Commissione Tributaria Provinciale di XXX
+
+	<part P="A">contro:
+	AG. ENTRATE DIREZIONE PROVINCIALE XXX</part>
+
+	<part P="B">proposto dall'appellante:
+	IT SRL
+	VIA XXX</part>
+
+	difeso da:
+	AVV. LM
+	VIA XXX
+
+	Atti impugnati:
+	AVVISO DI ACCERTAMENTO n° T3N03073416/2017 IRES-ALIQUOTE 2013
+	AVVISO DI ACCERTAMENTO n° T3N03073416/2017 IVA-OP.IMPONIB. 2013
+	AVVISO DI ACCERTAMENTO n° T3N03073416/2017 IRAP 2013
+
+
+FATTO E SVOLGIMENTO DEL PROCESSO
+
+	
+		<req ID="Req1" G="1" P="B">IT srl ha proposto ricorso avverso l’avviso d’accertamento</req> 
+	
+
+mediante il quale l'Agenzia delle Entrate, con riferimento all’anno 2013, ha recuperato a tassazione costi per sponsorizzazioni ritenuti non inerenti per euro 11.000.
+
+	
+		<req ID="Req2" G="1" P="A">L'Agenzia delle Entrate si è costituita in giudizio concludendo per la conferma della legittimità del proprio operato.</req>
+	
+	
+		<dec ID="Dec1" G="1" E="0" O="Req1">Con sentenza n. 26/2019 la Commissione Tributaria Provinciale ha respinto il ricorso.</dec>
+	
+
+
+
+	
+		<req ID="Req3" G="2" P="B">Propone appello la società.</req>
+
+MOTIVI DELLA DECISIONE
+
+		<claim ID="Claim3" G="2" P="B" PRO="Req3">L’appellante censura la sentenza deducendone l’erroneità per avere la Commissione Provinciale confermato la non inerenza del costo di sponsorizzazione.</claim>
+	
+
+	
+		
+		L'appello è fondato.
+
+		<mot ID="Mot1" G="2" O="Claim3">A fronte di un costo complessivo per sponsorizzazioni di euro 20.000 sostenuto dalla società, l'Ufficio ne ha ritenuto congruo solo il minor importo di euro 9.000, concludendo per la non inerenza della differenza in quanto ritenuta eccessiva rispetto all'ammontare dei ricavi dichiarati nonché alla effettiva utilità della sponsorizzazione ritraibile dalla società medesima.
+
+		Osserva tuttavia la Commissione che, quanto all’ammontare dei ricavi, gli stessi non sembrano affatto sproporzionati, ammontando ad euro 315.550 e, quindi, tali da poter sicuramente giustificare il costo sostenuto. Con riferimento, invece, alla prospettata scarsa utilità che la società avrebbe potuto ottenere dalla sponsorizzazione, si rileva che trattasi di un mero giudizio dell’amministrazione frutto di valutazioni assolutamente discrezionali, che incidono impropriamente nell’ambito di scelte di natura prettamente imprenditoriale e, come tali, non sindacabili.
+
+		Si evidenzia, in ogni caso, che in base alla elaborazione giurisprudenziale di legittimità formatasi in materia, l’art 90 comma 8 L. 289/2002 ha introdotto una presunzione assoluta, oltre che della natura di spesa pubblicitaria, altresì dell’inerenza della spesa stessa fino alla soglia di euro 200.000 allorchè erogata ad associazioni sportive dilettantistiche, come nella vicenda in esame (Cass. 8981/17).</mot>
+		L’accertamento deve quindi essere dichiarato illegittimo, con conseguente riforma della sentenza impugnata.
+
+		Le spese seguono la soccombenza nella misura liquidata in dispositivo.
+	
+
+	P.Q.M.
+
+		<dec ID="Dec2" G="2" E="1" O="Req3">la Commissione accoglie l’appello della società e, per l’effetto, dichiara illegittimo l’atto impugnato.</dec>
+		Condanna l’Ufficio al pagamento delle spese di lite del doppio grado, liquidate in complessivi euro 3000 oltre accessori.
+
+		
+			XXX, DD MM 2019
+		
+
+		IL RELATORE
+		IL PRESIDENTE
+	
+
+</body>

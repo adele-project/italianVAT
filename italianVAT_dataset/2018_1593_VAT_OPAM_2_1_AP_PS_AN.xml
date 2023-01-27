@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='utf8'?>
+<body> 
+REPUBBLICA ITALIANA
+ IN NOME DEL POPOLO ITALIANO
+ REG.GENERALE N° 219/2016
+
+ LA COMMISSIONE TRIBUTARIA REGIONALE DI E. ROMAGNA SEZIONE 9
+ riunita con l'intervento dei Signori:
+ giu1 Presidente
+ giu2 Relatore 
+ giu3 Giudice
+ 
+ ha emesso la seguente
+ SENTENZA
+
+ - sull'appello n. 219/2016
+ depositato il DD/MM/2016
+
+ - avverso la pronuncia sentenza n. 195/2015 Sez:2 emessa dalla Commissione
+ Tributaria Provinciale di FORLI'
+
+ <part P="A"> contro:
+ AG. ENTRATE DIREZIONE PROVINCIALE FORLI' - CESENA</part>
+
+ <part P="B">proposto dall'appellante:
+ IAC
+ XXX</part>
+
+ difeso da:
+ BL
+ XXX
+
+ Atti impugnati:
+ AVVISO DI ACCERTAMENTO n° THF03G801680/2014 IRES-ALTRO 2009
+ AVVISO DI ACCERTAMENTO n° THF03G801680/2014 IVA-ALTRO 2009
+ AVVISO DI ACCERTAMENTO n° THF03G801680/2014 IRAP 2009
+
+
+SVOLGIMENTO DEL PROCESSO
+
+ 
+ <req ID="Req2" G="2" P="B">La società istante, come rappresentata e difesa,propone appello alla sentenza n.195/02/2015 della Commissione Tributaria Provinciale di FORLI’ </req>
+ 
+
+
+ 
+ <dec ID="Dec1" G="1" E="0" O="Req1"><req ID="Req1" G="1" P="B">ha accolto parzialmente l’avviso di accertamento
+ n.THF03C801680-2014 per l’anno 2009</req></dec>
+ 
+ 
+con il quale l’ufficio,stante l'esiguità dei redditi dichiarati dal 2007 al
+ 2012, aveva accertato maggiori ricavi per euro 64.000,00 sulle due operazioni di vendite immobiliari i cui
+ valori di rogito sono risultati inferiori ai mutui concessi dalle banche ed alle perizie estimative da queste
+ effettuate ed al confronto con i valori OMI, riducendo ad euro 23.000 
+
+ 
+ e compensando le spese.
+ 
+
+
+ 
+ <claim ID="Claim1" G="2" P="B" PRO="Req2"> Contesta la violazione della motivazione della sentenza</claim>
+ <arg ID="Arg1" G="2" P="B" PRO="Claim1"> che ha aderito alla tesi dell'ufficio senza tener conto delle eccezioni di parte sull’anonimato delle banche che avrebbero concesso mutui sulla base di perizie non giurate e non sottoscritte nei confronti di un acquirente socio e rappresentante legale della società e sulla inutilizzazione delle valutazioni OMI da sole e sulla non dimostrata incongruità con gli studi di settore nonché la valutazione sostitutiva nel ridurre il maggior ricavo accertato.</arg>
+
+ <claim ID="Claim2" G="2" P="B" PRO="Req2"> Contesta l’esistenza di una condotta antieconomica della società</claim>
+ <arg ID="Arg2" G="2" P="B" PRO="Claim2"> perché dall'anno 2010 l’attività era cessata come risulta dai bilanci allegati</arg>
+ <arg ID="Arg3" G="2" P="B" PRO="Claim2"> e perché lo scostamento puntuale dei ricavi da studi di settore era solo di euro 250,mentre il ricavo minimo era di euro 296.128 e la società ha dichiarato ricavi per euro 303 mila ed insiste che i prezzi del rogito sono stati avvalorati da una perizia giurata allegata e che il
+ rappresentante legale ha acquistato in proprio l’ultimo appartamento rimasto da vendere perché il mercato era in crisi e non vi era altra possibilità per cessare l’attività e precisa che il riferimento ai mutui bancari è inconferente perché l’ufficio non ha fatto indagini finanziarie per verificare i dati ed ha effettuato l'accertamento senza verificare la contabilità societaria per cui chiede la riforma della decisione impugnata con condanna alle spese.</arg>
+
+ <req ID="Req4" G="2" P="A">Si costituisce in giudizio l'ufficio con appello incidentale</req> 
+ <arg ID="Arg4" G="2" P="A" PRO="Claim4">per precisare che l'immobile ceduto ai coniugi
+ R dichiarato in atto euro 183.000,ha ottenuto un mutuo di euro 187.000,ha un valore OMI di euro
+ 220.000 ed un costo di costruzione di euro 170.000,la perizia di stima della banca è pari ad euro 240.000
+ per cui ha recuperato euro 57.000; l'immobile ceduto al socio dichiarato in atti euro 120.000,ha ottenuto
+ un mutuo di euro 88.900 con perizia di stima di euro 127.000,ha il valore OMI di euro 141.517,un costo di
+ costruzione di euro 109.500 per cui ha recuperato euro 7.000</arg> 
+ <claim ID="Claim3" G="2" P="A" CON="Req2">e contesta le motivazioni dell’appello che si rifanno al ricorso introduttivo ed insiste che anche in presenza di contabilità formalmente regolare l'accertamento sostanziale è sempre possibile in presenza di condotte antieconomiche e da ricavi che non coprono le spese e precisa che la banca mutuante ritenuta anonima è la BB di Milano </claim> 
+ <claim ID="Claim4" G="2" P="A" PRO="Req3">e con appello incidentale insiste sul maggior ricavo di euro 7.000 nei confronti della cessione al socio</claim> <req ID="Req3" G="2" P="A">e conclude con la richiesta di accoglimento e spese.</req>
+ 
+ All'odierna trattazione in Pubblica Udienza,le parti si rimettono agli atti. Indi la causa viene posta in decisione.
+
+ MOTIVI DELLA DECISIONE
+
+ L'appello principale è infondato e va reietto.
+ L'appello incidentale è fondato e va accolto.
+
+ Preliminarmente va disattesa l'eccezione dell'ufficio sulla inammissibilità dell'appello per mancanza di
+ motivi specifici di censura ai sensi dell'art.53 del D.LGS n.546/92,
+ <mot ID="Mot1" G="2" O="Claim3">atteso che la Corte di Cassazione,con la sentenza n.7671/2012,ha affermato che l'indicazione dei motivi di appello non deve seguire una rigorosa e
+ formalistica enunciazione essendo sufficiente una esposizione anche sommaria dei motivi ricavabili per implicito dall'intero atto considerato nel suo complesso.</mot>
+
+ <mot ID="Mot2" G="2" O="Claim1">Con l'appello la parte eccepisce il difetto di motivazione,l'inesistenza di prove presuntive,il mancato
+ riscontro della posizione soggettiva ed il potere sostitutivo del Primo Giudice nella valutazione degli
+ immobili compravenduti.
+
+ L'Ufficio,avvalendosi dei poteri sanciti dall'art.32,1 comma,n.7 del DPR n.600/73 e art.51,2 comma,n.7 del
+ DPR n.633/72,ha legittimamente attivato indagini bancarie nei confronti di due unità immobiliari vendute
+ con atto n.8511 del DD/MM/2009 e con atto n.4928 del DD/MM/2009,riscontrando una differenza recuperata a
+ tassazione di euro 57.000,00 per la prima vendita ottenuta per differenza tra prezzo di rogito e valore di
+ perizia bancaria rapportata al mutuo concesso dalla banca ed una differenza di euro 7.000,00 per la
+ seconda vendita quale differenza tra valore di rogito e perizia di stima bancaria rapportata al mutuo
+ erogato dalla banca.
+
+ Un siffatto assetto motivazionale è certamente legittimo e provvisto dei requisiti dell'autosufficienza di motivazione che ne legittimano l'accertamento,
+ perché la banca interessata non è affatto anonima ma è la
+ BB ed i valori di rogito,di perizia e di mutuo sono stati confrontati anche con i valori O.M.I. che
+ se da soli non possono costituire presunzione legale,unitamente agli altri elementi messi a disposizione
+ dall'ufficio integrano la esistenza di presunzioni gravi,precise e concordanti che comportano l'inversione
+ dell'onere della prova a carico della società.
+ Tale onere non può essere assolto con la esibizione delle scritture contabili formalmente regolari,ma
+ dovrebbe quantomeno essere accompagnato dalla dimostrazione di un indice di congruità annualmente
+ positivo rispetto agli studi di settore,da una redditività in media con quella del settore immobiliare che sino
+ al 2009 non aveva ancora scontato gli effetti delia bolla speculativa e consentiva redditività mediamente
+ superiori al 20% dei ricavi annui come è notoriamente riconosciuto,anche se la società tenta di affermare
+ che nel 2009 gli affari andavano male ed ha venduto in condizioni non di mercato.
+ Del resto è la stessa società ad ammettere che nel 2008 aveva dichiarato una redditività del 9,91% mentre
+ nell'anno ‘de quo' ha dichiarato il 5,33%,con la conseguenza che il maggior reddito accertato dall'ufficio di
+ euro 64.000,00 rappresenterebbe il complemento alla redditività media di settore del 20% su tutti gli
+ immobili compravenduti essendo cessata l'attività dal successivo anno 2010.</mot>
+
+ <mot ID="Mot4" G="2" O="Claim4"> Quanto al valore della perizia di parte redatta dal geom. RG di XXX,la stessa è stata
+ prodotta solo in corso di causa,contravvenendo l'art.32 del DPR n.600/73 perchè la società non ha
+ dimostrato di essere impossibilitata a depositario per causa di forza maggiore durante la fase
+ endoprocedimentale.
+ Tuttavia,le motivazioni dell'ufficio sull'antieconomicità di gestione pressocchè per tutti i periodi di imposta
+ esaminati non è corroborata da un prospetto analitico a dimostrazione dell'assunto che si rivela così
+ apodittico ma è smentito dalle considerazioni di parte che per l'anno 2009 ha dichiarato ricavi di euro
+ 303.000 mentre il ricavo puntuale dello studio è di euro 303.250,00 ed il ricavo minimo è di euro
+ 296.128,00,mentre per l'anno 2008 era perfettamente congrua con gli studi di settore come risulta
+ dall'allegato n.3 al ricorso introduttivo.
+ Queste eccezioni di parte consentono di affermare che la proposta di conciliazione fatta dall'ufficio che
+ avrebbe ridotto i maggiori ricavi accertati avendo rideterminato la valutazione della cessione C/M
+ ad euro 206.000,00 accolta dal Primo Giudice,possa essere confermata anche da questo Collegio.
+
+ La legittimità delle motivazioni dell'ufficio comportano,però,l'iliegittimità dell'arbitraria riduzione non motivata del Primo Giudice nei confronti della cessione B di euro 7.000,00,la cui decisione,sul punto,deve essere,pertanto,riformata. </mot>
+
+ In riforma della decisione impugnata,per le motivazioni suesposte ed ogni altra eccezione
+ disattesa,l'appello principale della società sull'annullamento dell'avviso di accertamento impugnato deve
+ essere rigettato, l'appello incidentale dell'ufficio deve essere accolto,dichiarando legittimo l'avviso
+ di accertamento n.THF03C801680 per il maggior valore rideterminato di euro 30.000,00 con conseguente
+ ricalcolo delle imposte,interessi come per legge e sanzioni nel minimo edittale con applicazione del
+ principio del 'favor rei' retroattivamente introdotto dal D.Lgs.n.546/92.
+ La reciproca parziale soccombenza delle parti è legittima motivazione della compensazione delle spese di
+ giudizio.
+ 
+ P.Q.M.
+ <dec ID="Dec2" G="2" E="1" O="Req3"> La Commissione Tributaria Regionale dell'Emilia Romagna di Bologna,sezione n.9,definitivamente pronunciando,in riforma dell'impugnata sentenza ridetermina in euro 30.000,00 il maggior reddito accertato.</dec>
+ 
+ Così deciso in Bologna,lì DD/MM/2018
+ 
+ 
+ IL RELATORE
+ IL PRESIDENTE
+ 
+
+</body>

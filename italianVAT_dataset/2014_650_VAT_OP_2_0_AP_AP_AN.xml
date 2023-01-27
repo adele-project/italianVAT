@@ -1,0 +1,348 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+
+REPUBBLICA ITALIANA
+ IN NOME DEL POPOLO ITALIANO
+
+ LA COMMISSIONE TRIBUTARIA REGIONALE DI BOLOGNA SEZIONE 3
+ riunita con l'intervento dei Signori:
+ giu1 Presidente 
+ giu2 Relatore
+ giu3 Giudice
+ 
+ ha emesso la seguente
+ SENTENZA
+
+ - sull'appello n. 770/12
+ depositato iL DD/MM/2012
+
+ - avverso la sentenza n. 181/1/11
+ emessa dalla Commissione Tributaria Provinciale di FERRARA
+ <part P="A">contro: AG.ENTRATE DIREZIONE PROVINCIALE FERRARA</part>
+
+ proposto dai ricorrenti:
+ <part P="B">CCM SRL
+ XXX</part>
+
+ difeso da:
+ BA
+ XXX
+ difeso da:
+ OA
+ XXX
+ difeso da:
+ ZA
+ XXX
+
+ Atti impugnati:
+ ATTO REC.CREDIT n° THDCRT300023 IRAP 2008
+ ATTO REC.CREDIT n° THDCRT300023 IRAP 2009
+
+ REG.GENERALE N° 770/12
+ SENTENZA N°650/3/14
+
+Con appello depositato in data 29.03.2012 la società “CCM
+s.r.l. ha impugnato la sentenza n. 181/01/2011, pronunciata dalla Commissione
+tributaria provinciale di Ferrara,
+
+ 
+ <dec ID="Dec1" G="1" E="0" O="Req1"><req ID="Req1" G="1" P="B">con la quale i giudici di prime cure avevano disposto il rigetto, nel merito, del ricorso e la rideterminazione delle sanzioni, più favorevoli per il contribuente, in applicazione dell’art. 13, d.lgs. n. 471/1997, con compensazione delle spese di lite.</req></dec>
+ 
+ 
+ La controversia traeva origine dalla notificazione, avvenuta in data 10.09.2010,
+ di un atto di recupero del credito di imposta, n. THDCRT300023/2010 per gli
+ anni 2008 e 2009 (credito che, secondo le risultanze documentali, si sarebbe
+ formato nell’anno 2007 e nell’anno 2008).
+ I crediti di cui si dibatte ammontano a totali € 1.349.890,54, oltre interessi, e risulterebbero sorti a pregresse eccedenze di imposta per Ires, Irpeg ed iva. Oltre le sopracitate somme l’Agenzia aveva irrogato una sanzione pari ad € 2.066.862,79.
+
+ 
+ <claim ID="Claim1" G="1" P="B" PRO="Req1">La contribuente asseriva di aver operato compensazioni di crediti esistenti, integralmente riconducibili ad eccedenze di imposta sul valore aggiunto, e che le compensazioni operate con indicazioni di codici tributo relativi all’I.re.s ed all’I.r.pe.g. erano da intendersi quali errori materiali di cui, tra l’altro, sarebbe stata chiesta la correzione dei modelli F24 utilizzati per le compensazioni contestate.</claim>
+
+ Tali osservazioni erano trasfuse nel ricorso introduttivo del giudizio di primo
+ grado ed integrate, con successive memorie, con l’ulteriore circostanza atta a
+ legittimare la compensazione delle imposte mediante crediti d’imposta, non
+ detratta, maturati sugli acquisti.
+
+ Si ricorda, a tal proposito, che la contribuente svolge un'attività esente da i.v.a..
+ 
+ <claim ID="Claim2" G="1" P="B" PRO="Req2">Da ultimo, la contribuente eccepiva l’errata applicazione delle sanzioni irrogate ai sensi dell’art. 27, d.1. n. 185, 2008, in luogo dell’art. 13, d.lgs. n. 471/1997.</claim>
+ 
+ <claim ID="Claim3" G="1" P="A" CON="Req1">L’Agenzia costituitasi in giudizio evidenziava, oltre la presunta inammissibilità del ricorso;</claim>
+ <claim ID="Claim4" G="1" P="A" CON="Req1"> - l’omessa indicazione dei crediti i.v.a. nelle dichiarazioni precedenti;</claim>
+ <claim ID="Claim5" G="1" P="A" CON="Req1">- l’illegittima procedura di correzione degli F24 con cui la contribuente aveva operato le compensazioni;</claim> 
+ <claim ID="Claim6" G="1" P="A" CON="Req1">- l’indetraibilità dell’i.v.a. assolta sugli acquisti da parte de operatori esenti, come la contribuente;</claim>
+ <claim ID="Claim7" G="1" P="A" CON="Req2"> - la corretta irrogazione delle sanzioni per il peculiare procedimento di recupero, diverso da quello previsto all’art. 36 bis, d.P.R. n. 600/1973.</claim>
+ 
+ A fronte delle tesi delle parti, come sopra riepilogate, il Collegio della
+ Commissione a quo accoglieva il ricorso della contribuente limitatamente alla
+ determinazione del quantum sanzionatorio come esposto in premessa.
+
+
+
+ 
+ <req ID="Req3" G="2" P="B">In questa sede, la contribuente ha chiesto la riforma della sentenza impugnata, vinte le spese di giudizio, per le ragioni che di seguito si espongono.</req>
+ <claim ID="Claim8" G="2" P="B" PRO="Req3">L’appellante lamenta la contraddittorietà della sentenza nella parte in cui il giudice di prime cure non avrebbe contestato l’esistenza del credito i.v.a. ed avrebbe poi escluso che tale credito potesse essere utilizzato dalla società ostandovi il disposto dell’art. 19, comma 2, d.P.R. n. 633/1972.</claim>
+ <claim ID="Claim9" G="2" P="B" PRO="Req3">Ancora, errato sarebbe il riferimento alle deleghe (Mod. F24) con codice tributo 6099 (i.v.a.) senza tenere in considerazione le deleghe successivamente corrette, tali da integrare la legittimità, anche formale, delle compensazioni operate.</claim>
+ <claim ID="Claim10" G="2" P="B" PRO="Req3">Secondo la contribuente, poi, sarebbe da riconoscersi la detraibilità dell’i.v.a. operato sugli acquisti</claim> 
+ <arg ID="Arg1" G="2" P="B" PRO="Claim10"> e ciò in quanto anche l’art. 13, par. b) lett. c) della sesta direttiva CEE non comprenderebbe l’ipotesi dei soggetti esentati dall’imposta che acquistino beni necessari per l’esercizio dell’attività stessa.</arg>
+ <claim ID="Claim11" G="2" P="B" PRO="Req3">La parte lamenta anche una violazione dei principi di libera concorrenza e parità di trattamento e più in generale dei trattati dell’Unione,</claim>
+ <arg ID="Arg2" G="2" P="B" PRO="Claim11">visto il regime dettato dall’art. 10, comma 1, n. 19 del d.P.R. n. 633/72 per cui, le case di cura private convenzionate come la contribuente, avrebbero un trattamento fiscale discriminante non essendo ammesse al regime i.v.a. come invece accadrebbe per le case di cura non convenzionate.</arg>
+ <claim ID="Claim12" G="2" P="B" PRO="Req3">Anche in ordine alla legittimità della compensazione di crediti non indicati nelle
+ precedenti dichiarazioni la parte lamenta l’omesso esame del primo Collegio </claim> 
+ <arg ID="Arg3" G="2" P="B" PRO="Claim12">ribadendo la circostanza per cui il credito non sarebbe stato contestato nel suo ammontare.</arg> 
+ <claim ID="Claim17" G="2" P="B" PRO="Req3">La parte ha eccepito altresì l’omesso invio di un preventivo avviso bonario e l’illegittima preclusione della possibilità di definire le sanzioni irrogate nella misura del 10%.</claim>
+ 
+ <claim ID="Claim13" G="2" P="B" PRO="Req3">Da ultimo, la contribuente ha obiettato l'applicazione di una procedura di verifica arbitrariamente adottata</claim> 
+ <arg ID="Arg4" G="2" P="B" PRO="Claim13"> potendo l'Ufficio, secondo la tesi di parte, utilizzare la procedura prevista dall'art. 36 bis, d.P.R. n. 600/1973, in luogo di quella di cui all'art. 27 d.l. 185/2008. La procedura sanzionatoria inoltre, non avrebbe tenuto conto della disposizione dell’art. 12, d.lgs. n. 472/1997, violando altresì la prescritta applicazione della sanzione unica.</arg>
+
+ Con controdeduzioni ed appello incidentale del 16.05.2012 
+ <req ID="Req4" G="2" P="A">l'Agenzia delle Entrate di Ferrara si è costituita in giudizio per la conferma, vinte le spese, della sentenza di primo grado</req> 
+ <claim ID="Claim14" G="2" P="A" PRO="Req4">con riferimento all’insussistenza dei crediti ed alla illegittima compensazione;</claim> 
+ <req ID="Req5" G="2" P="A"> diversamente, in ordine alla rideterminazione delle sanzioni, l'Ufficio ha chiesto la revisione della sentenza con declaratoria di legittimità del proprio operato.</req>
+ <arg ID="Arg29" G="2" P="A" CON="Claim8">L’Ufficio ha dedotto l’infondatezza delle ragioni di parte avversa ribadendo l’inammissibilita delle eccezioni relative presunto credito i.v.a. come asserito da controparte e ciò, in ordine ai motivi introdotti in primo grado circoscritti ai soli crediti i.v.a. e non anche alle compensazioni i.re.s. ed i.r.pe.g..</arg>
+ <arg ID="Arg5" G="2" P="A" CON="Claim9">In ordine all’omessa contestazione del credito i.v.a. da parte del giudice di prime cure, l'Ufficio ha eccepito l’infondatezza del gravame di parte anche in ordine all’asserita correzione dei mod. F 24 di cui la contribuente non avrebbe offerto alcuna prova. Per tale procedura, per altro, l'Ufficio insiste nella dovuta utilizzazione dell’istituto del ravvedimento, omesso dalla contribuente.</arg> 
+ <arg ID="Arg6" G="2" P="A" CON="Claim10">Del pari infondate, secondo 1’ Amministrazione sarebbero le eccezioni relative alla detraibilità dell’i.v.a. pagata sugli acquisti per i soggetti che svolgono attività esente da imposta. Ciò, secondo l’Ufficio, perché per tale categoria di soggetti la stessa imposta maturata sugli acquisti verrebbe dedotta alla stregua di un costo così da garantire una sostanziale equiparazione dei diversi regimi esistenti.</arg>
+ <arg ID="Arg7" G="2" P="A" CON="Claim13">L'Ufficio ha ribadito la legittimità del proprio operato anche in ordine alle sanzioni irrogate. In particolare, secondo Il’ Amministrazione, la contribuente insisterebbe sulla sovrapposizione tra il procedimento di cui all’art. 36 bis, d.P.R. n. 600/1973 ed il diverso procedimento, utilizzato dall’ Amministrazione di cui all’art. 27, commi 16-20, d.l. n. 185/2008. Tale procedimento, secondo l’Ufficio, non sarebbe una procedura alternativa a quello della liquidazione automatica delle imposte (di cui all’art. 36 bis) bensì un'attività di controllo mirata al contrasto dell’utilizzo di crediti inesistenti. L’Ufficio ha motivato, inoltre l’inapplicabilità dell’art. 12, d.lgs n. 472/1997 evidenziando nel caso di specie l’assenza di un rapporto di progressione o continuazione tra le violazioni contestate. </arg>
+ <claim ID="Claim16" G="2" P="A" PRO="Req4">Quanto ai motivi specifici di appello, la parte Pubblica ha eccepito l’erroneità della sentenza che avrebbe rilevato la buona fede della contribuente applicando la sanzione del 30% in luogo di quella prevista dal precitato articolo 27.</claim>
+ In ordine alle spese di lite, l'Ufficio ha chiesto la riforma della prima sentenza in relazione alla soccombenza sostanziale della contribuente, 
+ rilevata dai giudici senza alcuna specifica motivazione in ordine alla compensazione.
+
+ L’Ufficio ha altresì riproposto due eccezioni introdotte in primo grado:
+
+ - la prima relativa all’inammissibilità del ricorso della contribuente;
+
+ - la seconda relativa all’inammissibilità delle memorie integrative dei motivi di
+ ricorso.
+ 
+ Con memorie del 06.05.2013 la contribuente ribadiva ed illustrava le
+ argomentazioni già esposte nell’atto di appello comunicando anche il pagamento
+ dilazionato delle pendenze iscritte a ruolo a seguito dell’atto di recupero del
+ credito.
+ In data 14.11.2013 la “CCM” ha depositato ulteriori
+ documenti volti, in definitiva, a corroborare l’applicazione del procedimento con
+ irrogazione delle sanzioni in misura del 30%; in aggiunta la parte ha depositato la
+ sentenza n. 254/2012 del Tribunale di Ferrara dalla quale emerge che l’azienda
+ avrebbe cominciato a pagare, con modalità rateale, le imposte dovute per gli anni
+ 2008 e 2009 come risultanti dal provvedimento contestato in questa sede.
+ Con ulteriori memorie del 22.11.2013 l’appellante principale ha puntualizzato
+ sulla possibilità di rettificare i Mod. F 24 recanti un erronea indicazione del
+ codice tributo, e sulla circostanza per cui tale rettifica sarebbe ammessa anche
+ fuori dalla procedura di del ravvedimento operoso. Da ciò la contribuente
+ deduceva l’effettiva sussistenza del preteso credito i.v.a. ed altresì la legittimità
+ delle operazioni contestate.
+
+ <claim ID="Claim20" G="2" P="B" CON="Req5">Da ultimo la contribuente ha insistito sulla illegittima applicazione della normativa sanzionatoria</claim> <arg ID="Arg8" G="2" P="B" PRO="Claim20">per cui:
+ - sarebbe stata applicabile la sanzione del 30% da ridursi ad un terzo a seguito di adesione all’avviso bonario, mai inviato;
+ - sarebbe stata applicabile la sanzione amministrativa unica calcolata con il
+ metodo del c.d. cumulo giuridico. </arg>
+ 
+ DIRITTO
+ 
+ L'appello della società contribuente deve essere accolto nei limiti delle osservazioni riportate di seguito.
+
+ In primo luogo deve darsi atto dell’inammissibilità del motivo d’appello inerente l’indebita compensazione dell’Ires e dell’irpeg sicché i predetti rilievi devono ritenersi definitivi come da avviso di accertamento.
+
+ <mot ID="Mot1" G="2" O="Claim9">
+ Dalla lettura del ricorso introduttivo del giudizio di primo grado, infatti, non è
+ possibile ricavare alcuna censura in ordine alla predetta indebita compensazione;
+ piuttosto, ciò che si evince è la volontà della parte di vedersi riconosciuti crediti
+ i.v.a. che poco hanno a vedere con le contestazioni recate dall’atto di recupero
+ oggetto di impugnativa.
+
+ Tale avviso, infatti, reca il puntuale addebito dell’indebita compensazione per gli
+ anni 2008 e 2009 di crediti a fronte di debiti i.re.s. ed i.v.a. e muove da precisi
+ riscontri numerici come segue:
+
+ - i crediti i.v.a. compensati nell’anno 2008, riferiti al 2007, con codice 6099
+ sarebbero riferiti (sorti o anche riportati) alla dichiarazione precedente ma nella
+ stessa dichiarazione non avrebbero trovato alcun riscontro;
+
+ - i crediti i.r.pe.g. compensati nell’anno 2008, riferiti al 2007, con codice tributo
+ 2100 non avrebbero trovato riscontro nella dichiarazione precedente così come i
+ crediti i.re.s. indicati con codice 2003, riferiti all’anno precedente.
+
+ Risultava infatti dalla precedente dichiarazione, un imposta a debito i.re.s. per €
+ 27.622,00 oltre l’inesistenza intervenuta nell’anno 2003 del tributo i.r.pe.g.. 
+ Dalla medesima dichiarazione risultava altresì l’importo i.v.a. a credito per 10.412,00.
+ Analogamente, le medesime contestazioni erano sollevate dall’amministrazione
+ per l’anno seguente con il differente dato, relativo all’i.v.a., per cui dalla
+ dichiarazione della contribuente risultava un credito per € 128.872,00.
+
+ L’Ufficio quantificava gli importi richiesti come indicato appresso:
+ - € 1.131.509,79 (oltre interessi) gli importi utilizzati con codice irpeg ed ires
+ (2100 e 2003) perché non esistenti e, pertanto, dovuti;
+ - € 218.380,75 (oltre interessi) gli importi utilizzati con codice iva (6099) perché
+ non esistenti e, pertanto, dovuti. 
+
+ A tali rilievi seguiva quello sanzionatorio per complessivi € 2.066.862,79.
+ 
+
+ Con successivi motivi aggiunti del 23.02.2011 la contribuente eccepiva che i
+ crediti utilizzati fossero in realtà il quantum corrisposto a titolo di i.v.a. sugli
+ acquisti dall’anno 2005 all’anno 2009 e che le compensazioni contestate
+ dovevano in realtà essere considerate come una legittima detrazione dell’i.v.a.
+ pagata sugli acquisti. 
+ Completava l’integrazione, la giustificazione addotta dalla
+ parte circa la sopravvenuta conoscenza di nuovi documenti da individuarsi nel
+ deposito delle deleghe di pagamento (Mod. F24) da parte dell’Ufficio in sede di
+ costituzione in giudizio.
+ Al riguardo, questo Collegio evidenza come in primo
+ luogo non vi sia stata una contestazione del recupero con riferimento all’i.r.pe.g.
+ ed all.i.re.s. ma che le doglianze della contribuente siano rimaste circoscritte ai
+ crediti i.v.a. maturati e compensati.
+ In secondo luogo, inoltre, deve rilevarsi
+ l’inammissibilità dell’integrazione dei motivi di ricorso poiché i Mod. F24
+ prodotti dall’Amministrazione sono documenti che provenivano dalla stessa
+ contribuente e, pertanto, manifestamente conoscibili prima della costituzione in
+ giudizio; 
+ in ultima analisi, le motivazioni addotte dalla parte non hanno integrato
+ la previsione specifica di cui all’art. 24, comma 2, d.lgs. n. 546/1992.
+
+ Per le ragioni ora esposte, è da ritenersi definitiva la pretesa erariale riferita al
+ recupero dei crediti compensati con codice 2100 e 2003 (i.r.pe.g. ed i.re.s.).
+
+ In ordine all’utilizzazione dei crediti i.v.a. si rileva la correttezza dell’operato del
+ giudice di prime cure che si è limitato a disconoscerne, nel merito, la fondatezza,
+ rendendo così superflua la contestazione esplicita sull’esistenza del credito.
+
+ In aggiunta a tale dato si da atto della circostanza per cui la contribuente ha
+ impugnato un atto recante una compensazione indebita perché operata su crediti
+ non esistenti che si traduce nell’indiretto accertamento di un debito erariale
+ determinato e pari all’ammontare della compensazione disconosciuta.
+
+ Le ragioni di ricorso prima e di appello poi (si legga pag. 7 ultimo cpv. e primo
+ cpv. di pagina 8 dell’atto di appello) appaiono finalizzate al riconoscimento di un
+ credito i.v.a. maggiore (anni 2005-2009) che non è stato contestato da parte
+ dell’ Ufficio con l’atto di recupero e che risulta estraneo all’oggetto del giudizio.
+ In conclusione, il riconoscimento del credito i.v.a. come chiesto dalla
+ contribuente non può essere oggetto di questo giudizio atteso che l’eccezione,
+ piuttosto, dovrebbe essere esaminata con riferimento esclusivo" al recupero
+ dell'Imposta sul valore aggiunto indebitamente compensata come rinvenibile 
+ dall'atto di recupero, quindi, relativamente alla somma di € 218.380,75.
+
+ A tale riguardo si osserva che la sentenza di prime cure ha correttamente rilevato
+ l'impossibilità di riconoscere la correttezza della compensazione eseguita essendo
+ questa ricollegata ad un eccedenza d’imposta maturata per acquisti relativi ad
+ attività esenti e, pertanto, non soggetti ad alcuna detrazione.
+ </mot>
+
+ riferimento all’eccepita detraibilità dell’iva sugli acquisti, deve rilavarsi la correttezza dell’operato dei giudici di prime cure che ha analiticamente chiarito l’applicabilità della normativa Europea erroneamente intesa dall’appellante. 
+ 
+ Sul punto, si osserva che nell’atto d’appello principale non si ravvisano profili
+ specifici di censura in ordine alle motivazioni esposte dal giudice di prime cure;
+ piuttosto, è riportata una diversa interpretazione della giurisprudenza e della
+ normativa senza la deduzione di alcun vizio della sentenza di prime cure.
+
+ <mot ID="Mot2" G="2" O="Claim10"> 
+ Ad ogni modo, con riferimento alle eccezioni formulate in ordine alla possibilità
+ di detrarre l’i.v.a. sugli acquisti, alla luce dei recenti pronunciamenti della
+ Cassazione (Sent. n. 20269 del 4 settembre 2013) si ritiene di confermare la
+ sentenza di prime cure. 
+ I giudici di legittimità hanno infatti affermato che “..la
+ prima parte dell'art.13, parte B, lett.c), della 6A Direttiva del Consiglio 17
+ maggio 1977, n. 77/388/CEE, in materia di armonizzazione delle legislazioni
+ degli Stati membri relative alle imposte sulla cifra d'affari (sistema comune
+ di imposta sul valore aggiunto-base imponibile uniforme), deve essere
+ interpretata nel senso che l'esenzione da essa prevista si applica unicamente
+ alla rivendita di beni preliminarmente acquistati da un soggetto passivo per le
+ esigenze di un'attività esentata in forza del detto articolo, in quanto l'imposta sul
+ valore aggiunto, versata in occasione dell'acquisto iniziale dei detti beni, non
+ abbia formato oggetto di un diritto a detrazione-Corte giust. 15 aprile 20111,
+ causa C-613/10, Debiasi, ha peraltro dichiarato irricevebile altra questione
+ pregiudiziale sollevata da un giudice tributario di merito.
+ Nel dare continuità a
+ tale pronunzia le Sezioni Unite di questa Corte hanno ritenuto che "..la
+ prima parte dell'art. 13, parte B, lett. C), della sesta direttiva del Consiglio 17
+ maggio 1977, 77/388/CEEV ("in materia di armonizzazione delle legislazioni
+ degli Stati membri relative alle imposte sulla cifra d'affari - Sistema comune di 
+ imposta sul valore aggiunto: base imponibile uniforme") dev'essere interpretata
+ nel senso che l'esenzione da essa prevista" speczficamente invocata dalla società
+ e riconosciuta dal giudice a quo nella sentenza impugnata-"si applica
+ unicamente alla rivendita di beni preliminarmente acquistati da un soggetto
+ passivo per le esigenze di un'attività esentata in forza del detto articolo, in
+ quanto l'imposta sul valore aggiunto versata in occasione dell'acquisto iniziale
+ dei detti beni non abbia formato oggetto di un diritto a detrazione" - cfr. Cass.
+ S.U. n. 9142/2009.”
+ In definitiva, l’attività svolta dalla contribuente in regime di esenzione i.v.a. non
+ avrebbe comportato alcuna rivalsa sul consumatore finale ai sensi del n. 18 e 19
+ dell’art. 10, d.P.R. m. 633/1972 e non avrebbe mai potuto generare un credito
+ i.v.a. in ragione degli acquisti operati per i quali, ai sensi dell’art. 19, comma 2,
+ d.P.R. n. 633/1972, l’imposta non può essere detratta.</mot>
+
+ <mot ID="Mot3" G="2" O="Claim11"> Le eccezioni di illegittimità costituzionale di detta norma paventata dalla parte privata sono già state oggetto di approfondito vaglio da parte della Corte
+ Costituzionale la quale, con sentenza n. 25 del 28.01.2010, ha ritenuto infondate
+ le censure del giudice remittente relative a fattispecie analoghe a quelle lamentate
+ dall’appellante. </mot>
+ 
+ <mot ID="Mot4" G="2" O="Claim17">
+ Anche con riguardo all’irrogazione delle sanzioni, è condivisibile
+ l’operato del primo giudice che, in considerazione della buona fede del
+ contribuente ravvisabile nel constatato contrasto giurisprudenziale all’epoca in
+ atto, ha disatteso la disciplina di cui all’art. 27, comma 18, d.l. 185/2008, in
+ favore di quella prevista dall’art. 13, d.lgs 471/1997, che prevede l’irrogazione
+ della sanzione del 30% dell’importo non versato da calcolarsi al solo tributo
+ i.v.a., atteso che quelli i.re.s. e i.r.pe.g. non hanno formato oggetto di specifica
+ contestazione. 
+ Con riguardo poi alla applicabilità nel caso di specie della
+ disciplina del concorso e della continuazione ai fini della quantificazione della
+ sanzione, ritiene la Commissione che le accertate violazioni sostanziali rientrino
+ nella previsione della comma 2 dell'art. 12 del d.lgs 18 dicembre 1997, n. 472.
+ Innanzitutto costituisce oramai un approdo consolidato in giurisprudenza il
+ riconoscimento del trattamento sanzionatorio più favorevole introdotto dalla
+ normativa richiamata per le violazioni di norme tributarie della stessa indole
+ commesse anche in periodi di imposta diversi. 
+ Altrettanto sicura deve ritenersi
+ poi l’applicabilità del regime sanzionatorio de quo alle specifiche violazioni
+ dell’obbligo di dichiarazione annuale dell’i.v.a.
+ Ciò premesso in punto di diritto, nel caso in esame il contribuente ha posto in
+ essere condotte in violazione di norme ‘che incidono sulla determinazione del 
+ tributo attraverso le indebite compensazioni, finalizzate a non pagare le imposte
+ per un determinato lasso di tempo e senza soluzione di continuità.
+ Dunque appare del tutto evidente il disegno unitario che ha avvinto le diverse
+ operazioni di compensazioni di imposta a debito con credito inesistenti, azioni
+ che nella loro concatenazione manifestano una progressione di attività
+ sviluppatesi in un ampio arco temporale.
+ Conseguentemente ferma nella fattispecie l’applicazione — già operata in primo
+ grado - dell’art. 13 D. Lgs. n. 471/1997 va applicata la continuazione prevista dal
+ l’art. 12 comma II del D. Lgs. n. 472, riducendosi così ulteriormente la sanzione
+ da applicare alle contestate violazioni, sanzione che va determinata in un
+ importo pari alla singola violazione più grave aumentato della metà come previsto
+ dal comma V del citato art. 12.
+ </mot>
+
+ Infine con riguardo alle spese di lite, il principio generale che sottende la relativa
+ disciplina è ancorato al fatto oggettivo della soccombenza, ravvisabile nei
+ confronti di chi abbia contestato la pretesa riconosciuta in giudizio fondata ovvero
+ a carico di chi abbia azionato una pretesa riconosciuta come infondata, nei
+ confronti di chi, quindi, abbia con il proprio comportamento preprocessuale dato
+ causa alla lite.
+ Il rigore del criterio richiamato incontra un temperamento quando la condotta del
+ soccombente risulti non essere stata la causa unica del procedimento, come nelle
+ ipotesi di concorrenti responsabilità delle altre parti processuale ovvero, come
+ invocato nel caso di specie, vi fosse al momento della proposizione della
+ domanda (rectius ricorso) una obiettiva incertezza.
+ A ben vedere, nella vicenda sottoposta all’esame di questo giudice si rinvengono i
+ presupposti fattuali per contenere gli effetti dell’applicazione del criterio della
+ soccombenza, atteso che come sopra rappresentato all’epoca della proposizione
+ del ricorso era dato riscontrare un orientamento oscillante della giurisprudenza in
+ merito al principio applicato dal giudici di primo grado.
+ In applicazione di e criterio anche le spese del presente giudizio possono essere compensate.
+ 
+ P.Q.M.
+ <dec ID="Dec3" G="2" E="0" O="Req5">In parziale accoglimento dell’appello proposto da “CCM srl”
+ riduce ulteriormente la sanzione da applicare in forza della ravvisata
+ continuazione tra le contestate violazioni ad importo pari a quello della violazione
+ più grave aumentato della metà.</dec>
+ <dec ID="Dec4" G="2" E="0" O="Req3">- respinge l’appello incidentale proposto dall’ Agenzia delle Entrate.</dec>
+ - Conferma nel resto la sentenza di I grado e dichiara compensate tra le parti anche le spese del presente giudizio
+ 
+ 
+ Bologna, 
+ 06.12.2013
+ 
+ Il Relatore giu2
+ Presidente giu1
+ 
+
+</body>

@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+
+REPUBBLICA ITALIANA
+IN NOME DEL POPOLO ITALIANO
+
+REG. GENERALE N° 4928/05
+SENTENZA N° 105/2015
+
+	LA COMMISSIONE TRIBUTARIA REGIONALE DI MILANO 
+	SEZIONE 45
+
+	riunita con l'intervento dei Signori:
+		giu1 Presidente
+		giu2 Relatore
+		giu3 Giudice
+	 
+
+	ha emesso la seguente
+	SENTENZA
+
+	- sull'appello n. 4928/05
+	depositato il DD/MM/2005
+
+	- avverso la sentenza n. 145/1/04 emessa dalla Commissione Tributaria Provinciale di MILANO
+	<part P="A">contro: AG.ENTRATE DIREZIONE PROVINCIALE I DI MILANO</part>
+
+	<part P="B">proposto dal ricorrente:
+	S.A.E.M. 
+	XXX</part>
+
+	difeso da:
+	NA
+	E/O CG E/O DMF E/O BL
+	XXX
+
+	Atti impugnati:
+	SILENZIO RIFIUT n° IST. DEL 23/7/2002 I.V.A. 1998
+	SILENZIO RIFIUT n° IST. DEL 23/7/2002 I.V.A. 1999
+	SILENZIO RIFIUT n° IST. DEL 23/7/2002 I.V.A. 2000
+	SILENZIO RIFIUT n° IST. DEL 23/7/2002 I.V.A. 2001
+
+	Oggetto: Iva acquisti destinati attivita esentata 1998, 1999, 2000, 2001
+	Ricorrente: S.A.E.M.
+	Controparte: Agenzia delle Entrate — D.P. Milano 1
+
+
+FATTO E SVOLGIMENTO DEL PROCESSO
+
+L’Ente “S.A.E.M.”, detto F, svolgente attività esente da Iva nell’esercizio di impresa, presentava all’ Ufficio istanze, in data 31 luglio 2002, per ottenere il rimborso dell’Iva versata ai propri fornitori negli anni 1998, 1999, 2000, 2001 per l’acquisto di beni strumentali destinati esclusivamente alla propria attività esente dall’imposta indiretta.
+Sosteneva il proprio diritto al rimborso dell’Iva pagata ai fornitori, che non era stata portata in deduzione, ai sensi dell’art. 19 del DPR 633/72, per il principio di neutralità dell’imposta, espressamente previsto dal legislatore comunitario..La domanda era infatti fondata sulla normativa nazionale che, impedendo l'esenzione dell’importo dell’Iva assolta per l’acquisto dei beni destinati esclusivamente all’attività esentata, si poneva in contrasto con l’art. 13, parte B, lettera c), della VI Direttiva comunitaria n. 77/388/CEE del 17.05.1977.
+
+Avverso le citate istanze, l'Ufficio opponeva “silenzio-rifiuto” 
+
+	
+		<req ID="Req1" G="1" P="B">e l’Ente presentava ricorso con cui chiedeva la condanna dell’Ufficio al rimborso delle somme di cui sopra, con interessi e vittoria di spese.</req>
+
+		<claim ID="Claim9" G="1" P="A" CON="Req1">L’Agenzia delle Entrate si costituiva sollevando eccezione preliminare di inammissibilità del ricorso per tardività dell’istanza ai sensi dell’art. 21, comma 2, D.Lgs. 546/92.</claim> 
+		<claim ID="Claim1" G="1" P="A" CON="Req1">Nel merito, eccepiva assenza dei requisiti necessari per la diretta applicabilità della VI Direttiva CEE e della pronunzia della Corte di Giustizia Europea.</claim>
+	
+
+Seguivano memorie dell’Ente e diversi rinvii.
+
+	
+		<dec ID="Dec1" G="1" E="0" O="Req1">La CTP di Milano, infine, con sentenza n. 145 depositata il 27.07.2004, respingeva il ricorso</dec>
+	
+	 
+		<mot ID="Mot1" G="1" O="Req1">per carenza di legittimazione attiva della ricorrente a far valere i propri diritti nei confronti dell’ Amministrazione finanziaria e carenza di legittimazione passiva dell’Ufficio alla richiesta di rimborso di somme versate dal cessionario a terzi cedenti.</mot>
+	
+
+
+
+	
+		Avverso tale sentenza l’Ente proponeva appello 
+		<claim ID="Claim2" G="2" P="B" PRO="Req3">contestando la propria carenza di legittimazione attiva</claim> 
+		<arg ID="Arg1" G="2" P="B" PRO="Claim2">ricordando che la ricorrente agiva in via giudiziale a tutela dei propri diritti patrimoniali.</arg>
+		<claim ID="Claim3" G="2" P="B" PRO="Req3">Rinnovava l’eccezione di violazione del principio di neutralità del tributo.</claim> 
+		<arg ID="Arg2" G="2" P="B" PRO="Claim3">Violazione che veniva a determinarsi con l’illegittima sostituzione del ruolo dell’impresa da semplice collettore dell'imposta a quello di consumatore finale.</arg> 
+		<claim ID="Claim4" G="2" P="B" PRO="Req3">Eccepiva vizio di motivazione per omessa pronunzia sulla richiesta istruttoria dell’Ente</claim> 
+		<claim ID="Claim5" G="2" P="B" PRO="Req3">e contestava l’intempestività del ricorso con riferimento al principio dell’efficacia temporale sancita della sentenza della Corte di Giustizia Europea in data 6 luglio 1995.</claim> 
+		<req ID="Req3" G="2" P="B">Chiedeva la riforma della sentenza e la condanna dell’ Ufficio al rimborso della somma di € 44.435.482,65, oltre interessi. Con vittoria di spese.</req>
+
+		<claim ID="Claim6" G="2" P="A" CON="Req3">In data 6.12.2005, l’Agenzia delle Entrate si costituiva in giudizio contestando integralmente i motivi di appello proposti dall'Ente,</claim> 
+		<claim ID="Claim7" G="2" P="A" CON="Req3">riformulando eccezione di tardività dell’istanza di rimborso</claim> 
+		<claim ID="Claim8" G="2" P="A" CON="Req3">e, nel merito, sostenendo l'illegittimità dell’istanza di rimborso.</claim>
+
+		<arg ID="Arg3" G="2" P="A" PRO="Claim6">Seguivano memorie aggiuntive dell’Ufficio con cui si segnalava giurisprudenza favorevole e l’intervenuta ordinanza della Corte di Giustizia Europea in tema di esenzione dell’imposta sugli acquisti, limitata ai casi di rivendita di beni preliminarmente acquistati per le esigenze di un'attività esentata, qualora l’imposta sul valore aggiunto versata in occasione dell’acquisto iniziale di detti beni non abbia formato oggetto di un diritto a detrazione.</arg>
+
+	Facevano seguito rinvii a nuovo ruolo.
+	
+
+	MOTIVI DELLA DECISIONE
+
+		<mot ID="Mot3" G="2" O="Claim2">
+			 Sulla carenza di legittimazione attiva dell’Ente ricorrente (e passiva dell’ Agenzia delle Entrate) si osserva che la sentenza impugnata, pur riferendosi ai tre diversi rapporti scaturenti dalla lettura dell’art. 17 del DPR 633/72, così come enunciati dalla richiamata sentenza n. 5427/2000 della Cassazione, trascura di inquadrare la fattispecie nel terzo dei tre rapporti enunciati e, precisamente, in quello “tra il cessionario dei beni e’ Amministrazione finanziaria”. 
+			 Infatti, la questione poggia sulla violazione del principio di neutralità dell’imposta a causa della mancata detrazione della stessa, assolta al momento dell’acquisto dei beni dall’Ente che svolge attività esente. 
+		 	 L'attuale appellante ha agito in via giudiziale in quanto lo Stato italiano ha leso un preteso diritto patrimoniale della S.A.E.M. non avendo recepito il precetto normativo sancito dall’art 2 della I° Direttiva CEE, principio che stabiliva la neutralità del tributo introdotto dallo Stato italiano con DPR 633/72. 
+			 Ne deriva che il cessionario dei beni è legittimato a far valere i propri diritti nei confronti dell’ Amministrazione finanziaria.</mot> 
+
+		 In questo senso la sentenza qui impugnata merita di essere riformata. 
+
+		 Quanto alla pretesa tardività dell’istanza di rimborso, l'eccezione dell’ Ufficio deve essere accolta relativamente alle domande riferentisi agli anni 1998 e 1999. 
+
+		<mot ID="Mot4bis" G="2" O="Claim7">
+			 Ed, infatti, è pacifico che la domanda di restituzione dell'imposta versata dal contribuente, in mancanza di disposizioni specifiche, come nel caso in esame, non può essere presentata dopo due anni dal pagamento, ovvero, se posteriore, dopo due anni dal giorno in cui si è verificato il presupposto per la restituzione, così come prescritto dall’art. 21, comma 2, ultima parte del D.Lgs. 546792. 
+			
+			 Nel caso in esame, l’Iva che più tardi avrebbe potuto essere pagata ai fornitori è quella relativa agli acquisti effettuati entro il 31.12.1999.
+			 Ne consegue che il termine ultimo per l’istanza di rimborso del 31 luglio 2002 risulterebbe effettuata successivamente al 31.12.2001, cioè oltre i termini di legge. 
+			Altrettanto dicasi per le imposte pagate dall’Ente nel corso dell’anno 2000 e fino alla data del 31 luglio. </mot>
+
+		 L’introduttivo ricorso dell’Ente deve essere respinto quanto alle istanze presentate per gli anni 1998, 1999 ed entro la data del 31.07.2000 e la sentenza, pur con diversa motivazione, relativamente ai predetti periodi, deve trovare conferma.
+
+		<mot ID="Mot4" G="2" O="Req3">
+			 Nel merito, per le istanze di rimborso che si riferiscono ad imposta pagata dopo il 31 luglio 2000, si osserva che l’art. 13, parte B, lettera c), prima parte, della VI Direttiva Cee dispone l’esplicita esenzione dall’Iva per le forniture di beni destinati, in via esclusiva, a una attività esentata a norma dello stesso articolo, quando gli stessi beni non abbiano formato oggetto di un diritto a deduzione.
+
+			Tale normativa è stata recepita nell’ordinamento nazionale dall’art. 10, comma 1, n. 27-quinques, del DPR 633/72, secondo il quale risultano esenti dall’imposta “le cessioni di beni che hanno per oggetto beni acquistati o importati senza il diritto alla detrazione totale della relativa imposta ai sensi degli artt. 19, 19-bis1 e 19-bis2”
+
+			 Dal 1° gennaio 2007 la VI Direttiva 77/388/Cee è stata sostituita dalla direttiva 2006/1 12/Ce, nella quale l’articolo 136, lettera a), della nuova disposizione è tale da non lasciare più alcun dubbio interpretativo: la prima parte dell’articolo 13 sopra richiamato, in materia di armonizzazione delle legislazioni degli Stati membri relative alle imposte sulle cifre d’affari, deve essere interpretata nel senso che l’esenzione da essa prevista si applica unicamente alla rivendita di beni precedentemente acquistati da un soggetto passivo per le esigenze di un’attività esentata in forza di detto articolo, in quanto l’Iva versata in occasione dell’acquisto iniziale dei beni non abbia formato oggetto di diritto a deduzione. 
+
+			Tale sentenza è stata confermata dalla Suprema Corte che, con sentenza 11237 del 20 maggio 2011, ha precisato che sugli acquisti di beni destinati ad attività esente da Iva l'imposta deve essere applicata.
+			 In adesione ai principi sanciti con l’ordinanza del 2006 della Corte di Giustizia europea, la Corte di Cassazione ha chiarito che, in sostanza, l’esenzione prevista dal citato articolo 13 va applicata solo nei confronti di quei soggetti che, non avendo potuto detrarre l’Iva corrisposta al momento dell’acquisto del bene in ragione del regime di esenzione applicabile all’attività dagli stessi svolta, successivamente decidono di rivendere detti beni a terzi. 
+			 Non è la fattispecie che riguarda il caso in esame, non avendo l’Ente provveduto alla rivendita di alcun bene acquistato, ma avendo semplicemente chiesto il rimborso dell’Iva pagata ai fornitori dei beni medesimi.
+
+			 La stessa Amministrazione finanziaria ha poi affermato, con circolare 3/2007, che deve ritenersi pacifica tale interpretazione, nel senso che l’esenzione ivi prevista sia riferita alla sola rivendita dei beni che non hanno formato oggetto di detrazione e non anche a quei beni per i quali l’acquirente non può esercitare il diritto alla detrazione in quanto destinati ad una attività esente da imposta.
+		</mot> 
+
+		 L’appello deve pertanto essere rigettato.
+
+		A motivo della particolare complessità della materia trattata e della non sempre univoca giurisprudenza, si stima di dover disporre la compensazione tra le parti delle spese del giudizio.
+	
+
+	P.Q.M.
+
+		<dec ID="Dec2" G="2" E="0" O="Req3">La Commissione tributaria regionale di Milano, respinge l’appello.</dec>
+
+		Spese compensate.
+
+		
+			Così deciso in camera di consiglio, il giorno DD MM 2015
+		
+	
+</body>

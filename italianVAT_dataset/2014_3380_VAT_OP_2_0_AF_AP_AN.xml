@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+REPUBBLICA ITALIANA
+IN NOME DEL POPOLO ITALIANO
+
+REG. GENERALE N° 3772/13
+SENTENZA N° 3380/2014
+
+	REG.GENERALE N° 3772/13
+
+	LA COMMISSIONE TRIBUTARIA REGIONALE DI ROMA
+	SEZIONE 28
+
+	riunita con l'intervento dei Signori: 
+		giu1 Presidente 
+		giu2 Relatore
+		giu3 Giudice
+	
+
+	ha emesso la seguente
+	SENTENZA
+
+	- sull'appello n. 3772/13
+	depositato il DD/MM/2013
+
+	- avverso la sentenza n. 111/46/13
+	emessa dalla Commissione Tributaria Provinciale di ROMA
+	<part P="A">contro: AG.ENTRATE DIREZIONE PROVINCIALE ROMA 1</part>
+
+	<part P="B">proposto dal ricorrente:
+	PU SRL IN LIQUIDAZIONE
+	XXX</part>
+
+	difeso da:
+	CA
+	XXX
+
+	Atti impugnati:
+	AVVISO DI ACCERTAMENTO n° RCB030600296/2009 IVA-OP.ESCLUSE 2004
+
+
+
+	
+		<dec ID="Dec1" G="1" E="0" O="Req1"><req ID="Req1" G="1" P="B">Con la sentenza n. 111/46/13 del 9/4/2013 la CTP di Roma ha respinto il ricorso proposto dalla soc. PU srl in liquidazione avverso avviso di accertamento per IVA 2004, indebitamente detratta per € 5.720,64 + sanzione di pari importo,</req></dec>
+	
+		in quanto, a seguito di una verifica e conseguente pvc della GdF, era risultato che la società aveva indebitamente detratto i cosiddetti “premi annuali” “premi impegnativa”, “diritti di negoziazione” o “overcommission” erogati alla società AMI (a fronte di asserite controprestazioni di servizi resi in termini di concessione per spazi pubblicitari) in quanto tali prestazioni erano da considerarsi, a giudizio dell'Ufficio, a titolo gratuito e non oneroso e quindi fuori dal campo di applicazione dell'IVA, ed aveva errato a registrare le relative fatture emesse portandole in detrazione.
+
+
+
+	
+		<req ID="Req2" G="2" P="B">Impugna la sentenza la società,</req> 
+		<arg ID="Arg1" G="2" P="B" PRO="Claim1">argomentando, anche alla luce della “Indagine conoscitiva sul sistema televisivo” della Autorità per la Concorrenza e il Mercato nonché di giurisprudenza tributaria, che la PU srl, in qualità di concessionaria di pubblicità, si è avvalsa della “AMI” che ha svolto, in qualità di procacciatrice, attività di intermediazione tra la concessionaria di pubblicità e la clientela,</arg> 
+		<claim ID="Claim1" G="2" P="B" PRO="Req2">con conseguente legittimità della fatturazione contestata.</claim> 
+		<arg ID="Arg2" G="2" P="B" PRO="Claim1">In sostanza, la società AMI avrebbe ricevuto i menzionati “diritti di negoziazione” a fronte di una controprestazione consistente in servizi resi in termini di concessione di spazi pubblicitari, legati al raggiungimento di obiettivi quantitativi di pubblicità da effettuare.</arg>
+
+		<arg ID="Arg3" G="2" P="A" PRO="Claim2">Controdeduce l'Ufficio affermando, sulla base del pvc non smentito concretamente dalla società, che il riconoscimento di premi impegnativa non era in funzione di alcuna attività da parte dei “Centri media AMI” nel senso che non vi era alcuna assunzione di obblighi da entrambe le parti, né è dato desumere dagli atti che vi fossero specifiche clausole contrattuali che impegnassero il contraente ad obbligazioni di fare, non fare o permettere.</arg> 
+		<claim ID="Claim2" G="2" P="A" CON="Req2">Conseguentemente l’operazione posta in essere dall'intermediaria, sulla base degli atti, è da intendersi come fuori IVA.</claim>
+	
+
+	DIRITTO
+
+		 La Commissione rigetta l'appello proposto dalla società contribuente per le ragioni che di seguito si espongono.
+
+		<mot ID="Mot1" G="2" O="Claim1">
+			 In termini generali, ai fini di un esatto inquadramento della fattispecie, si evidenzia che la prassi commerciale, vigente nel settore merceologico e produttivo qui esaminato, di corrispondere premi di fine anno, comunque denominati (premi impegnativa, premi fedeltà, premio di incentivazione, ecc.) è stata da tempo distinta dalla giurisprudenza di legittimità in due categorie: i premi propriamente detti ed i bonus quantitativi o qualitativi: i primi senza alcuna connessione con gli obblighi contrattuali ed i secondi invece, subordinati al raggiungimento di un risultato, quali, esemplificativamente, il raggiungimento di un volume di vendite maggiore rispetto a quello già predeterminato contrattualmente, in quanto frutto di un'attività ulteriore rispetto a quella contrattuale e remunerata con sconti o abbuoni incidenti sul prezzo finale di vendita dei beni o delle prestazioni.
+
+			 I premi annuali, cui i diritti di negoziazione o overcommission sono assimilati, sono stati definiti dalla Cassazione (sent. 5006/2007, richiamata opportunamente dall'Ufficio) come “un contributo autonomo riconosciuto indistintamente a fine esercizio ai cliente al raggiungimento di un determinato fatturato o comungue per incentivario a futuri acquisti [...] e senza alcun collegamento causale con singole e determinate cessioni imponibili distinguendoli dai bonus quantitativi/qualitativi che rappresentano “una componente che incide direttamente sul prezzo della merce compravenduta o del servizio scambiato riducendone l'ammontare dovuto per le singole operazioni compiute”.
+			 Da ciò si desume che i primi non rientrano nel campo di applicazione dell'IVA a differenza dei secondi da includere nella eventuale nota di credito ai sensi dell'articolo 26 del DPR.633/72.
+
+			 In sostanza, secondo tale giurisprudenza, che questa Commissione condivide (vedasi anche Cass. ordinanza n. 5208 del 30/03/2012), “In tema di IVA, l'art. 26, secondo comma, del d.P.R. 26 ottobre 1972, n. 633, nell'attribuire al cedente del bene o al prestatore del servizio il diritto di portare in detrazione l'imposta, ai sensi del precedente art, 19, primo comma, registrando la corrispondente variazione d'imposta quando l'operazione commerciale per la quale sia stata emessa fattura veda ridotto il suo ammontare in conseguenza, tra l'altro, di abbuoni o sconti commerciali contrattualmente previsti, pone, due condizioni: che venga praticato dal contribuente uno sconto sul prezzo di vendita;
+			 che la riduzione del corrispettivo al cliente sia frutto di un accordo, sia esso documentale, verbale e finanche successivo, non operando la norma distinzioni di sorta.
+			 Pertanto, nessun diritto a detrazione può essere riconosciuto quando nelle riduzioni operate sia ravvisabile la natura di premio di fine anno anziché di sconto.
+			 Mentre quest'ultimo, infatti, è una componente che incide direttamente sul prezzo della merce compravenduta o del servizio scambiato, riducendone l'ammontare dovuto per le singole operazioni compiute, il premio di fine anno è, invece, un contributo autonomo riconosciuto indistintamente a fine esercizio ai cliente al raggiungimento di un determinato fatturato o comunque per incentivarlo a futuri acquisti”.
+
+			 Naturalmente il discrimine per considerare tali erogazioni di denaro in una categoria piuttosto che in un'altra, e quindi all’interno o fuori dal campo di applicazione dell'IVA, dipende dagli accordi contrattuali sottostanti che devono trovare adeguata documentazione sia sostanziale che contabile.
+
+		 	 In questo caso dalla documentazione presentata non emerge alcun impegno specifico, quale può essere il raggiungimento di un determinato fatturato connesso all'effettivo esercizio di una determinata obbligazione di fare, non fare o permettere, ma al contrario si afferma {come da p.v.c. allegato, non fattualmente e probatoriamente smentito dalla società) che “il riconoscimento dei premi impegnativa non è in funzione di alcuna attività da parte dei centri media AMI nel senso che non vi è alcuna assunzione di obblighi da entrambe le parti”.
+
+			 Da quanto sopra esposto deriva che la possibilità di inquadrare i diritti di impegnativa “de quibus” tra i bonus e, come tali, da assoggettare ad IVA, secondo la definizione offerta alla giurisprudenza di legittimità, viene meno e quindi il recupero dell'imposta effettuato va confermato.
+
+			 D'altro canto, le affermazioni della società appellante che rimandano ad una “indagine conoscitiva sul sistema televisivo” svolta dalla Autorità della Concorrenza e del Mercato con specifico riferimento alla raccolta pubblicitaria espongono semplicemente, in termini generali, le possibili e variabili forme contrattuali che i più volte evocati diritti di impegnativa possono assumere nel nostro Paese e anche all’estero, ma nulla aggiungono di probatoriamente efficace, rispetto al caso concreto, al fine di adeguatamente contrastare la ricostruzione della fattispecie sostanziale che l'Ufficio ha offerto a questo Giudice. 
+			 In sostanza, la genericità delle controdeduzioni fornite dalla società contribuente non ha fornito a questa Commissione la possibilità di ricostruire, secondo lo schema sinallagmatico alternativo proposto, le prestazioni effettivamente risultanti dagli atti di causa.
+		</mot>
+
+		Le spese seguono fa soccombenza e vengono determinate in euro 500.
+	
+
+	PQM
+		<dec ID="Dec2" G="2" E="0" O="Req2">La Commissione rigetta l'appello in epigrafe.</dec>
+		Le spese seguono la soccombenza e vengono determinate in euro 500.
+
+		
+			Così deciso in Roma, nella Camera di Consiglio del DD MM 2014.
+		
+
+		giu2
+
+		giu1
+	
+</body>

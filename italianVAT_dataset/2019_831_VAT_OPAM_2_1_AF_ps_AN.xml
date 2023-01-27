@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+
+
+REPUBBLICA ITALIANA
+IN NOME DEL POPOLO ITALIANO
+
+ LA COMMISSIONE TRIBUTARIA REGIONALE DI XXX SEZIONE 9
+
+ riunita con l'intervento dei Signori: 
+ giu1 Presidente e Relatore
+ giu2 Giudice
+ giu3 Giudice
+ 
+
+ ha emesso la seguente
+ SENTENZA
+
+ - sull'appello n. 2736/2016
+ depositato il DD/MM/2016
+
+ - avverso la pronuncia sentenza n. 475/2016 Sez:1 emessa dalla Commissione Tributaria
+ Provinciale di XXX
+
+ <part P="A">contro:
+ G SCA
+ VIA XXX</part>
+
+ difeso da:
+ DOTT. MB
+ C/O STUDIO AVV. MT
+ VIA XXX
+
+ e da
+ AVV. MT
+ VIA XXX
+
+ <part P="B">proposto dall'appellante:
+ DIREZIONE REGIONALE XXX UFFICIO CONTENZIOSO</part>
+
+ Atti impugnati:
+ AVVISO DI ACCERTAMENTO n° TGB03M000314/2014 IRES-ALTRO 2009
+ AVVISO DI ACCERTAMENTO n° TGB03M000314/2014 IVA-OP.ESENTI 2009
+
+ REG.GENERALE N° 2736/2016
+
+
+FATTO
+
+Con l'avviso di accertamento sopra indicato l'Ufficio Grandi Contribuenti della Direzione Generale dell'XXX ha provveduto a contestare a G SCA:
+1) maggiore IRES per Euro 130.421,00 per indebita deduzione di componenti negativi di reddito (recupero IRES);
+2) maggiore IVA per Euro 4.500.262,00 per indebita detrazione di imposta su costi sostenuti per l'acquisto di imballaggi e materiale di confezionamento (recupero IVA/1):
+3) maggiore IVA per Euro 103.040,00 per indebita detrazione dell'imposta su premi in natura (recupero IVA/2).
+
+Ha poi provveduto ad irrogare sanzioni per dichiarazione infedele ai fini IRES per un importo di Euro 13.421,00 e per illegittima detrazione dell'imposta e dichiarazione con imposta inferiore a quella dovuta ai fini IVA per un importo di Euro 5.754.128,75.
+
+Successivamente l'Agenzia aveva fatto pervenire nota del seguente tenore: "....L'Ufficio Grandi contribuenti ha poi provveduto all' annullamento parziale dell'atto in via di autotutela , rinunciando al recupero IVA relativo all'indebita detrazione (recupero IVA/1}”.
+
+Con successiva comunicazione: “....l'Ufficio ha notificato alla società di ritenere che la documentazione dalla stessa prodotta nell'ambito del procedimento di adesione dimostrasse l'inerenza all'attività d'impresa dei costi inizialmente disconosciuti, col conseguente venir meno del presupposto impositivo”.
+
+
+ 
+ <req ID="Req1" G="1" P="A">La società accertata concluso negativamente il procedimento di adesione, ha presentato ricorso per l'annullamento dell'avviso di accertamento</req>
+ 
+ 
+ <dec ID="Dec1" G="1" E="1" O="Req1">e la Commissione tributaria provinciale di XXX, con sentenza n. 475 del 13/04/2016 ha accolto il medesimo</dec> 
+ e compensato le spese.
+ 
+
+
+
+ 
+ <req ID="Req2" G="2" P="B">Con appello in termini l'Ufficio legale dell'Agenzia ha contestato la sentenza e ne ha chiesto la riforma</req> 
+ con vittoria di spese in entrambi i gradi del giudizio 
+ <claim ID="Claim1" G="2" P="B" PRO="Req2">per le seguenti ragioni:
+ 1) nullità della sentenza per carenza di motivazione: violazione dell'art. 36, comma 2, del d. lgs. n. 546/1992, dell'art.132, comma 2, c.p.c., nonché dell'art. 111, comma 5 della Costituzione;</claim>
+ 2) <claim ID="Claim2" G="2" P="B" PRO="Req2">carenza ed erroneità della motivazione allorché si fonda esclusivamente sulla mancata allegazione del PV.C. della Guardia di Finanza: violazione degli artt. 42 del D.P.R. n.600/1973, 56 del D.P.R. n. 633/1972 e 16 del d. Igs. n. 472/1997;</claim>
+ 3) <claim ID="Claim3" G="2" P="B" PRO="Req2">nel merito: infondatezza del dispositivo della sentenza, allorché conclude per l'annullamento dei recuperi contenuti nell'atto impugnato;</claim> 
+ <arg ID="Arg3" G="2" P="B" PRO="Claim3">in particolare, recupero relativo all'indebita deduzione dei componenti negativi di reddito (recupero IRES) e al recupero relativo all'indebita detrazione dell'IVA sui premi in natura (recupero IVA/2).</arg>
+
+ <req ID="Req3" G="1" P="A">La parte contribuente resiste con deduzioni, ribadendo quanto già esposto in primo grado e chiedendo il rigetto dell'appello dell'Ufficio con conseguente conferma della sentenza appellata</req>
+ e vittoria di spese, competenze ed onorari di tutti i gradi del giudizio.
+ 
+ 
+ DIRITTO
+
+ Si osserva innanzi tutto che le questioni su cui verte l'appello, oltre alle due questioni pregiudiziali di cui ai numeri 1) e 2) sopra indicati, risultano essere:
+ a) maggiore IRES pari ad Euro 130.421,00 (come indicato nell'atto di appello) per indebita deduzione di componenti negativi di reddito (recupero IRES);
+ b) maggiore IVA pari ad Euro 103.040,00 per indebita detrazione dell'imposta su premi in natura (recupero IVA/2).
+ 
+ Esaminando le considerazioni dell'Agenzia nel proprio atto di appello e costituzione avverso la sentenza, a suo dire “immotivata ed arbitraria“, svolte in linea pregiudiziale di diritto, si osserva che sulle stesse non si può concordare.
+
+ <mot ID="Mot1" G="2" O="Claim1|Claim2">Sull'invocata richiesta di nullità della sentenza per carenza ed erroneità della motivazione si nutrono molteplici perplessità.
+
+ L'obbligo di motivare la sentenza trova la sua fonte direttamente nella legge; la ratio di tale incombenza va ricercata essenzialmente nella necessità di rendere controllabile la decisione, quale atto conclusivo del processo, ad opera delle parti e dei Giudici del riesame nel caso di impugnazione e va correlata ai principi di legalità, che vuole i Giudici soggetti solo alla legge, e di effettività del diritto di difesa.
+
+ Oggetto del giudizio tributario è l'impugnativa da parte del contribuente di atti fi impositivi di un tributo o di una sanzione o di altri atti relativi ad operazioni di cui il contribuente sostiene la illegittimita per i motivi che devono essere specificamente indicati a pena di inammissibilità e che possono riguardare questioni di merito concernenti l'assenza di presupposti di fatto previsti dalla legge oppure l'errata applicazione o interpretazione di una norma giuridica.
+
+ Anche la Corte di Cassazione, in diverse pronunce, ha precisato che l'obbligo di motivazione dell'atto impositivo “persegue il fine di porre il contribuente in condizioni di conoscere la pretesa impositiva in misura tale da consentirgli sia di valutare l'opportunità di esperire l'impugnazione giudiziale, sia in caso positivo, di contestare efficacemente l'an e il quantum debeatur. Detti elementi conoscitivi devono essere forniti all'interessato non solo tempestivamente (e cioè inserendoli ab origine nel provvedimento impositivo) ma anche con quel grado di determinatezza ed intelligibilita che permetta al medesimo un esercizio non difficoltoso “ (Cassazione 5842/2006; 25064/2006; 23009/2009).
+
+ Dalla documentazione agli atti, mentre risulta alla pag. 3 dell'appello la rinuncia al recupero IVA/1, (cosa di cui il contribuente ha avuto contezza in quanto non riproposta), non risulta alcunché quanto alla maggiore IRES di cui sopra.
+
+ Nel caso di specie la motivazione, anche se non condivisa dall'Ufficio, è congrua e sufficiente ad espletare il ragionamento del giudicante e ad esprimere l'iter argomentativo da lui seguito offrendo anche ai contendenti, contribuente ed Ufficio, l'opportunità di determinarsi in ordine alla facoltà di insistere ulteriormente nelle proprie richieste.
+
+ Ne fa prova, oltre alla ricca esposizione in sentenza dei fatti e delle ragioni, anche la ridondanza di esposizione, a volte anche romanzata del contribuente, il quale prendendo spunto proprio dalla sentenza (varie prospettazioni dell'inerenza nel diritto tributario) ha allestito idonea difesa a proprio favore, con ciò dimostrando di conoscere nel dettaglio le motivazioni che hanno portato all'adozione dell'avviso di accertamento impugnato, che riporta esattamente le risultanze del verbale dal quale è scaturito.
+
+ Sul punto, “maggiore IRES pari ad Euro 130.421,00”, quindi, si conferma, anche nel merito, l'operato dei Giudici di prime cure nella sentenza appellata.
+
+ Ad abundantiam, poi, si osserva al riguardo che l'Agenzia avrebbe rilevato che le citate commissioni sarebbero state calcolate sul montante e non sul debito residuo e che tale prassi sarebbe stata attuata fino al 2011; il recupero a tassazione, quindi, è stato operato “tenendo come base di calcolo non l'importo garantito ma la media dell'indebitamento”.
+
+ Correttamente i primi Giudici hanno rilevato che l'onere della prova grava sull'Amministrazione finanziaria, la quale attraverso una descrizione generica ha ritenuto non inerenti costi che invece lo sono, così giungendo a conclusioni che non hanno il requisito dell'oggettività.
+
+
+ Sul punto i Giudici citano ampia giurisprudenza consolidata della Cassazione, la quale, nella sentenza n. 6548 del 2012 ha affermato che “il concetto di inerenza ex art.109, comma 5, del TUIR è legato indissolubilmente all'idea ampia di reddito (collegamento tra costo e tipologia dell'attività di impresa), laddove tali spese siano intrinsecamente necessarie alla potenziale produzione del reddito aziendale....”.
+
+ Si concorda, pertanto, con tale impostazione nel senso che siffatto onere grava sull'Amministrazione, la quale dovrà comprovare la non inerenza dei costi astrattamente riconducibili all'attività commerciale.</mot>
+
+ <mot ID="Mot2" G="2" O="Claim3">Sul secondo punto in contestazione intitolato “maggiore IVA pari ad Euro 103.040,00, IVA/2”, si rileva che la ripresa prende lo spunto da un contratto con la Ditta EP finalizzato alla promozione delle vendite attraverso la distribuzione di carte di credito prepagate per sconti in natura concessi ai clienti ed esclusi dall'applicazione dell'IVA in quanto semplici documenti di legittimazione ai sensi dell'art.2002 del Codice Civile.
+
+ Il problema è sorto dal fatto che G ha effettuato attività promozionale di concessione di premi e sconti in danaro alla propria clientela anche in autonomia, originando contabilmente operazioni escluse dal campo di applicazione dell'IVA.
+
+ L'Ufficio ha spiegato che “nella realtà il rapporto intercorso tra le due società è giuridicamente riconducibile alla causa negoziale tipica del contratto misto di appalto/somministrazione, poiché l'iniziativa commerciale nella fase relativa alla determinazione degli incentivi ed in quella conseguente relativa alla concessione del premio al cliente è gestita direttamente dalla società verificata, mentre il corrispettivo riconosciuto a P è dovuto unicamente per l'assistenza commerciale e promozionale da esso svolta”.
+
+ Soggiunge ancora l'Ufficio: “.....P SRL ha assoggettato ad IVA le ulteriori attività dalla stessa svolte ed altrettanto correttamente G ha esercitato il proprio diritto alla detrazione. Come precisa il citato documento di prassi dovrà essere, invece, fatturato separatamente, con aliquota ordinaria, qualsiasi eventuale servizio prestato dall'emittente verso corrispettivo specifico. E tuttavia la detrazione dell'IVA relativa ai premi in natura, non essendo l'operazione soggetta all'imposta, risulta illegittimamente effettuata dalla Società”.
+
+ Parte contribuente ha osservato che tutte le fasi dell'iniziativa promozionale, quali l'appalto del servizio ed il trasferimento ai terzi clienti dei documenti di legittimazione, dovrebbero essere considerate un'unica operazione complessa ai fini IVA.
+
+ Il Collegio, sul punto, non concorda sia dal punto di vista logico ma anche in relazione all'interpretazione fornita dalla Corte di Giustizia Europea la quale ha sancito che il committente nei cui confronti il prestatore abbia erroneamente esercitato la rivalsa per un'operazione oggettivamente non soggetto ad IVA, non ha titolo per esercitare il diritto alla detrazione.
+
+ L'Ufficio ha citato la circolare n. 8 del 2009 dell'Agenzia, fa quale riporta che sia la Corte di Giustizia Europea (causa C-342/87, GH) e sia la Corte di Cassazione (sentenza n. 12547del 2001 e n. 1607 del 2008) ritengono che l'esercizio del diritto alla detrazione contemplato nella IV direttiva per le merci ed i servizi acquistati deve limitarsi alle sole imposte dovute, vale a dire alle imposte corrispondenti ad un'operazione soggetta ad IVA o versate in quanto effettivamente dovute e non si estende all'imposta addebitata solo perché indicata in fattura.
+
+ Per tali ragioni si ritiene che non può essere legittimata la tesi “dell'operazione unica sotto il profilo dell'IVA” auspicata da parte contribuente, in quanto priva di fondamento. Eventualmente, ave ne sussistano i presupposti, potrebbe essere attivata l'operazione di rimborso.</mot>
+
+ Sulla base di quanto rilevato, si ritengono, pertanto, prive di pregio le conclusioni sul punto sia dei Giudici di prime cure che di parte contribuente, perché non conclusive per la risoluzione del problema all'esame.
+
+ In conclusione, mentre si ritiene non accoglibile l'appello dell'Ufficio, con conseguente conferma della sentenza appellata per quanto attiene il recupero di maggiore IRES per l'indebita deduzione di componenti negativi di reddito (euro 130.421,00), la sentenza stessa deve essere riformata per la parte in cui accoglie il ricorso relativamente alla maggiore IVA indebita detrazione dell'imposta sui premi in natura, recupero IVA/2 (euro 103.040,00).
+
+ Quanto alle spese, considerato l'accoglimento parziale dell'appello dell'Ufficio, sì ritiene che debbano essere compensate.
+ 
+
+ P.Q.M.
+
+ <dec ID="Dec2" G="2" E="1" O="Req2">La Commissione accoglie parzialmente l'appello dell'Ufficio relativamente alla maggiore IVA/2, riformando la sentenza appellata sul punto e confermando la stessa per quanto attiene la parte relativa al recupero IRES;</dec> 
+ spese compensate.
+
+ 
+ XXX, DD MM 2019
+ 
+
+ IL PRESIDENTE RELATORE
+ giu1
+ 
+
+</body>

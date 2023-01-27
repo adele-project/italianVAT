@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+REPUBBLICA ITALIANA
+IN NOME DEL POPOLO ITALIANO
+
+LA COMMISSIONE TRIBUTARIA REGIONALE
+DI TOSCANA SEZIONE 5
+
+riunita con l'intervento dei Signori:
+giu1 Presidente e Relatore
+giu2 Giudice
+giu3 Giudice
+
+ha emesso la seguente
+SENTENZA
+
+- sull'appello n. 23/2018
+spedito il DD/MM/2017
+
+- avverso la pronuncia sentenza n. 51/2017 Sez:1 emessa dalla Commissione Tributaria
+Provinciale di SIENA
+
+<part P="A">contro:
+AG. ENTRATE DIR. PROVIN. UFF. CONTROLLI-LEGALE SIENA</part>
+
+<part P="B">proposto dall'appellante:
+LC
+XXX</part>
+
+difeso da:
+TG
+XXX
+
+Atti impugnati:
+AVVISO DI INTIMAZIONE n° T8VIPAU00179/2015 IRPEF-ADD.REG. 2009
+AVVISO DI INTIMAZIONE n° T8VIPAU00179/2015 IRPEF-LAV.AUTON 2009
+AVVISO DI INTIMAZIONE n° T8VIPAU00179/2015 IVA-OP.NON IMP. 2009
+
+REG.GENERALE N° 23/2018
+
+
+FATTO
+sulla base di PVC della G.F. di Siena l’Agenzia delle Entrate emetteva Avvisi di accertamento nei confronti del prof. LC, contestando evasioni fiscali relative agli anni del 2005 al 2009 inclusi. Quest’ultimo aderiva agli accertamenti e concordava una rateizzazione per il pagamento delle imposte. Nel corso del periodo di pagamento delle rate, riteneva di non essere tenuto al pagamento di quanto concordato e pertanto ometteva di pagare alcune rate delle imposte relative agli anni 2007-2008-2009.
+L'Agenzia delle Entrate-Dir. Prov/le di Siena notificava al contribuente l’intimazione di pagamento, qui in contestazione, per ottenere il pagamento del credito tributario rimasto insoluto di cui agli Avvisi di accertamento sopra ricordati 2007-2008-2009.
+
+
+ 
+ <req ID="Req1" G="1" P="B"> Avverso tale atto il contribuente ricorreva alla Comm/ne trib/ria prov/le di Siena</req> 
+ <claim ID="Claim1" G="1" P="B" PRO="Req1">eccependo: che la notificazione degli Avvisi di accertamento predetti era inesistente per illegittimità della
+ procedura di notificazione;</claim> 
+ <claim ID="Claim2" G="1" P="B" PRO="Req1">che l’intimazione di pagamento qui in contestazione era invalida in quanto fondata su Avvisi di accertamento non regolarmente notificati;</claim> 
+ <claim ID="Claim3" G="1" P="B" PRO="Req1">che l’Agenzia era decaduta dal potere impositivo;</claim> 
+ <claim ID="Claim4" G="1" P="B" PRO="Req1">che nessun tributo era comunque da lui dovuto per irretroattività della normativa tributaria.</claim>
+ <claim ID="Claim5" G="1" P="A" CON="Req1">Resisteva l’Agenzia</claim> 
+ 
+
+ 
+ <dec ID="Dec1" G="1" E="-1" O="Req1">ed il Giudice adito dichiarava inammissibile il ricorso per tardività</dec>
+ 
+
+ 
+ <mot ID="Mot1" G="1" O="Req1">in quanto l’impugnata intimazione di pagamento era notificata il DD.MM.2016, data del ritiro della racc/ta A.R. contenente l’intimazione, mentre il ricorso era proposto solo il DD.MM.2016, oltre i termini di cui all’art. 21 d.Lgs. 31.12.1992, n. 546.</mot>
+ 
+
+
+
+ 
+ <req ID="Req3" G="2" P="B">Proponeva appello il contribuente</req>
+ <arg ID="Arg7" G="2" P="A" PRO="Claim6">lamentando che in realtà la racc/ta A.R. contenente l’intimazione era ritirata il DD.MM.2016, che la data del DD.MM.2016 era frutto di un errore del Giudice</arg>
+ <claim ID="Claim6" G="2" P="B" PRO="Req2">e che, pertanto, il ricorso era tempestivo.</claim>
+
+ <req ID="Req2" G="2" P="B">Chiedeva, sulla base di tali motivi, l'annullamento della appellata sentenza e l’accoglimento del ricorso.</req>
+ <arg ID="Arg2" G="2" P="A" CON="Claim6"> Si costituiva l’Agenzia, precisando qual era stata la procedura di notificazione dell’intimazione che giustificava la dichiarazione d’inammissibilità del ricorso di primo grado.</arg>
+
+ <claim ID="Claim7" G="2" P="A" CON="Req2">Ribadiva poi la legittimità della pretesa tributaria.</claim>
+ 
+
+ OSSERVA
+ <mot ID="Mot10" G="2" O="Req2">Secondo condivisa e costante giurisprudenza (Cass. 7.3.2018 n. 5426) “in tema di contenzioso tributario, la rimessione della causa alla Commissione provinciale è prevista dall’ art. 59, comma 1, del d.Lgs. 31 dicembre 1992, n. 546, solo per ipotesi tassative ed eccezionali, al di fuori delle quali la Commissione tributaria regionale, qualora accolga l’appello, è tenuta a decidere la causa nel merito, trattandosi di mezzo di impugnazione a carattere sostitutivo, e non ostandovi il principio del doppio grado di giurisdizione, il quale, oltre a non trovare garanzia costituzionale nel nostro ordinamento, postula solo che una questione venga successivamente proposta a due giudici di grado diverso e non anche che venga decisa da entrambi”.
+ Tuttavia, nel caso qui in esame, la Comm/ne non può esercitare il suo potere sostitutorio in quanto il contribuente non proponeva fra i motivi d’appello alcuna questione di merito che potrebbe giustificare l'accoglimento del ricorso contro l’intimazione.
+ A tal proposito si ricorda che la Corte cost. (Ordinanza 27.6.2013 166) affermava che “ è manifestamente infondata la questione di legittimita ‘costituzionale dell’art. 59 del d.Lgs. 31 dicembre 1992, mn. 546, (Disposizioni sul processo tributario in attuazione della delega al Governo contenuta nell’articolo 30 della legge 30 dicembre 1991, n. 413), nella parte in cui non contempla, tra i casi di rimessione, quello dell’erronea dichiarazione di inammissibilità del ricorso, emessa da parte del giudice di primo grado senza trattazione nel merito della causa, promossa in riferimento ali’art. 24 Cost., sulla base di un erroneo presupposto interpretativo; infatti, la norma censurata non limita in alcun modo la trattazione del processo né pone il giudice dell’appello nella situazione di stallo prospettata dal rimettente; sicché la preclusione lamentata dal giudice a quo è dovuta, nel caso di specie, non all’applicazione della norma impugnata, ma alla mera circostanza di fatto della mancata deduzione delle questioni di merito da parte dell’appellante, il quale ha male esercitato il suo diritto di appellare; dal che discende che la questione sottoposta si risolve nella denuncia di un inconveniente di mero fatto che, secondo la costante giurisprudenza di questa Corte, non rileva ai fini del controllo di legittimità costituzionale. - In senso analogo, v. citate sentenze nn. 117/2012, 303/2011 e 329/2009; ordinanze nn. 270/2013 e 112/2013)”.
+
+ Inoltre (Cass. 2.9.2013 n. 20064) “qualora la sentenza impugnata, nel definire il giudizio, abbia deciso esclusivamente una questione preliminare di rito (nella specie dichiarando improcedibile l’opposizione a decreto ingiuntivo, per tardività di costituzione dell’opponente), sebbene l’appellante possa limitarsi a riproporre, ai sensi dell’art. 346 cod. proc. civ., la domanda non esaminata, non è tuttavia sufficiente, ad evitare la declaratoria di inammissibilità dell’appello, un generico richiamo al precedente giudizio di primo grado, privo di ogni rinvio alle difese ed ai contenuti della domanda di merito posta al giudice di primo grado”.</mot>
+
+ Valutando l’appello qui in esame sulla base di tali premesse, la Comm/ne lo ritiene inammissibile.
+
+ Infatti il richiamo dell’appellante alle sue doglianze di primo grado è del tutto generico, non avendo l’appellante proposto alcuna questione di merito a sostegno della richiesta di annullamento dell’intimazione.
+
+ L'appello, comunque, è infondato.
+
+ <mot ID="Mot2" G="2" O="Claim6">Infatti risulta dagli atti che il DD.MM.2016 non era possibile al portalettere consegnare al contribuente, assente dalla sua residenza, la corrispondenza raccomandata costituente notificazione della intimazione. 
+ In tale data era però rilasciato nella cassetta della posta del contribuente l’avviso di giacenza della Racc/ta nell’ufficio postale. 
+ Al contribuente, in pari data, era inviata la Racc/ta contenente la comunicazione della giacenza.
+ Pertanto, decorsi 10 giorni da tale data, la notificazione a mezzo posta era perfezionata, essendo state compiute tutte formalità di legge previste per tale modalità di notificazione.
+
+ Risulta pertanto irrilevante, ai fini della decorrenza dei termini per l’impugnazione, la successiva data dell’effettivo ritiro della corrispondenza (DD.MM.2016) da parte del contribuente.
+
+ Deve pertanto confermarsi che il ricorso di primo grado era inammissibile per tardività e che l’intimazione diventava inoppugnabile lunedì DD.MM.2016, considerato che cadeva di sabato il DD.MM.2016, giorno di scadenza del decimo giorno successivo all’invio della Racc/ta contenente la comunicazione della giacenza e quindi il completo compimento di tutte formalità di legge previste per la modalità di notificazione a mezzo posta.</mot>
+ L'appellante è condannato alle spese di lite, liquidate come in dispositivo.
+ 
+
+ P.Q.M.
+ <dec ID="Dec2" G="2" E="-1" O="Req2">La Comm/ne dichiara inammissibile l'appello</dec>
+ e condanna l’'appellante al pagamento delle spese di lite del grado di € 1.000, oltre accessori di legge.
+
+ Firenze, DD.MM.2018. 
+
+ Il Presidente relatore ed estensore
+ 
+
+</body>

@@ -1,0 +1,534 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+REPUBBLICA ITALIANA
+IN NOME DEL POPOLO ITALIANO
+
+ LA COMMISSIONE TRIBUTARIA REGIONALE
+ DI E. ROMAGNA SEZIONE 11
+
+ riunita con l'intervento dei Signori
+ giu1 Presidente
+ giu2 Relatore
+ giu3 Giudice
+ 
+ ha emesso la seguente
+ SENTENZA
+
+ - sull'appello n. 255/2015
+ depositato il DD/MM/2015
+
+ - avverso la pronuncia sentenza n. 245/2014 Sez:1 emessa dalla Commissione
+ Tributaria Provinciale di REGGIO NELL'EMILIA
+
+ <part P="A">contro:
+ AUTOSALONE O SRL
+ XXX</part>
+
+ difeso da:
+ GM
+ XXX
+
+ contro:
+ <part P="B">CG
+ XXX</part>
+
+ difeso da:
+ GM
+ XXX
+
+ <part P="C">proposto dall'appellante:
+ AG. ENTRATE DIREZIONE PROVINCIALE REGGIO EMILIA</part>
+
+ Atti impugnati:
+ AVVISO DI ACCERTAMENTO n° THS013300162/2012 IVA-OP.NON IMP. 2004
+ AVVISO DI ACCERTAMENTO n° THS033300610/2012 IVA-ALTRO 2005
+ AVVISO DI ACCERTAMENTO n° THS033300612/2012 IVA-ALTRO 2006
+
+ REG.GENERALE N° 255/2015
+
+
+OGGETTO DELLA CAUSA E SVOLGIMENTO DEL PROCESSO
+
+
+ 
+ <req ID="Req10" G="2" P="C">L’Agenzia delle Entrate, Direzione Provinciale di Reggio Emilia, ha proposto appello alla sentenza n. 245/01/2014 della Commissione Tributaria Provinciale di Reggio Emilia, pronunciata in data DD/MM/2014 e depositata il DD/0MM/2014</req>
+ 
+
+
+ 
+ <dec ID="Dec10" G="1" E="1" O="Req11"><req ID="Req11" G="1" P="B">che aveva accolto il ricorso promosso dal Signor CG, residente a XXX, titolare della ditta individuale CG, e dalla Società AUTOSALONE O SRL, con sede in XXX, che avevano proposto ricorso avverso gli avvisi di accertamento n. THS013300162/2012, n. THS033300610/2012 e n. THS03330612/2012 relativi all’imposta IVA per gli anni 2004, 2005 e 2006 per un importo di €. 40.217,00 (2006), €. 398.926,00 (2005) e €. 50.840,00 (2004), oltre alle sanzioni per €. 248.370,60 (2006), €. 496.741,25 (2005) e €. 63.550,00 (2004).</req></dec>
+ 
+ 
+
+Il tutto prendeva origine dalla verifica svolta dall’ Agenzia delle ia
+Entrate, Direzione Provinciale di Modena, nei confronti della Societa EC
+srl, unipersonale, per gli anni d’imposta 2004, 2005, 2006 e 2007. La verifica aveva
+portato a constatare la mancanza di una sede ove svolgere l’attività societaria, costituita
+da un autosalone, e in assenza di collaboratori. Dalla documentazione prodotta
+risultavano fatture di trasporto relative a pochissime autovetture che faceva supporre che
+le auto fossero consegnate direttamente agli acquirenti senza transitare dall’autosalone.
+
+Era stato rilevato un consistente aumento del volume d’affari dal 2004 (€. 622.092,00)
+al 2005 (€. 4,5 milioni) confrontandolo con la inadeguatezza del solo soggetto gestore di
+quel mercato. La EC acquistava auto da fornitori tedeschi, senza
+applicazione dell’IVA (principio di tassazione del paese di destinazione della merce
+per poi rivenderle in Italia ad un imponibile quasi sempre inferiore a quello d'acquisto,
+applicando poi l'IVA e incassando perciò un ammontare di prezzo superiore
+all’esborsato. Comunque l’IVA ricevuta non veniva versata, ottenendo così, pur
+operando in perdita, discreti margini di cassa, generando a favore degli acquirenti
+indebiti vantaggi competitivi, corrispondenti al prezzo inferiore a quello a cui avrebbero
+dovuto sottostare con l’acquisto diretto. Ritenendo questo soggetto economico,
+EC srl, un operatore predisposto per porre in essere una frode ai fini IVA,
+tutte le operazioni dalla stessa società poste in essere venivano ritenute soggettivamente
+inesistenti. L’ Autosalone O srl (fino al DD/MM/2005 ditta individuale del medesimo
+CG) era risultata una dei maggiori acquirenti della EC srl
+acquistando, insieme ad altro soggetto, 180% delle autovetture importate dalla stessa
+EC srl. Da ciò erano nati i tre distinti avvisi notificati sia alla ditta
+individuale Autosalone O di CG per l’anno 2004 e all’ Autosalone
+O srl per gli anni 2005 e 2006. Contestualmente, essendo le operazioni intercorse
+fra i due soggetti giuridici con la EC srl soggettivamente inesistente, era
+stata disconosciuta la detraibilità dell’IVA delle fatture ricevute da quest’ultima società.
+
+
+ 
+ 
+ <req ID="Req1" G="1" P="A|B">
+ I due ricorrenti, impugnati gli avvisi,</req> 
+ <claim ID="Claim1" G="1" P="A|B" PRO="Req1">avevano eccepito in via pregiudiziale la decadenza
+ della potestà accertativa dell’Ufficio</claim> 
+ <arg ID="Arg1" G="1" P="A|B" PRO="Claim1">sostenendo che la notifica degli atti era tardiva in
+ quanto non era applicabile il raddoppio dei termini di accertamento. Inoltre, tramite
+ prove e indizi, sostenevano di aver dimostrato la non sussistenza della simulazione dei
+ rapporti intercorsi fra la cedente e le ricorrenti, non potendosi ritenere fittizia
+ l’interposizione della società EC srl nella filiera commerciale, in mancanza
+ negli elementi indiziari addotti per ritenere le fatture emesse per operazioni
+ soggettivamente inesistenti. Comunque esponevano la loro buona fede e la loro
+ estraneità a qualsiasi meccanismo fraudolento, in quanto i prezzi praticati dalla
+ EC srl erano allineati a quelli di mercato, anche più alti, non risultando
+ quindi alcun vantaggio dall'acquisto tramite questa società.</arg> 
+ <claim ID="Claim2" G="1" P="A|B" PRO="Req1">Avevano contestato la
+ utilizzazione del PVC, relativo ad altro soggetto, senza averlo notificato a loro.</claim> 
+ <claim ID="Claim3" G="1" P="A|B" PRO="Req1">Hanno contestato l’applicazione delle sanzioni.</claim>
+ 
+ 
+ La sentenza di primo grado ha rilevato la mancata produzione della denuncia
+ penale ex art. 331 c.p.p. che avrebbe permesso di usufruire del raddoppio dei termini per
+ eseguire gli accertamenti fiscali,
+ 
+ con la conseguenza di dover ritenere illegittimi gli
+ avvisi di accertamento impugnati,
+ <mot ID="Mot1" G="1" O="Claim1">non potendo proporsi la prova dei presupposti
+ legittimanti il raddoppio dei termini dopo la notifica dell’atto impositivo, dovendo il
+ Pubblico Ufficiale accertatore presentare la denuncia penale prontamente e non quando
+ lo ritenesse opportuno, visto che il termine di decadenza dell’accertamento dipendeva
+ dalla eventuale intervenuta prescrizione del reato tributario prima della proposizione
+ della denuncia penale, per la cui circostanza era il giudice tributario a stabilire
+ l’esistenza dei presupposti dell’obbligo di denuncia, come pure l’esistenza di una ipotesi
+ di reato ex D.Lgs. 74/2000.Ha evidenziato la problematica se il raddoppio del termine
+ potesse avvenire anche dalla notizia del reato acquisita dopo la decorrenza del termine
+ ordinario di decadenza all’accertamento, non essendo in accordo con la motivazione
+ della sentenza n. 247/2011 della Corte Costituzionale sulle due fattispecie intercorrenti
+ di accertamento di violazioni amministrative non comportanti fattispecie penali e altre
+ violazioni amministrative comportanti fattispecie penali, entrambe però riunite nello
+ stesso accertamento. Inoltre il giudice del primo grado ha sostenuto come dovessero
+ tenersi in considerazione i termini di prescrizione dei reati contestati in considerazione
+ del massimo della pena stabilita dalla legge per ogni singolo reato o di sei anni per i
+ delitti e di quattro anni per le contravvenzioni, ancorché puniti con la sola pena
+ pecuniaria.
+ Ha tenuto conto del comma 1 dell’art. 2 D.Lgs. 74/2000 che prescriveva
+ come massimo di pena edittale la reclusione fino a 6 anni, da cui derivare il terming di
+ prescrizione a cui fare riferimento. Trattandosi di reato dichiarativo, la violazione si 
+ considerava commessa all’atto della presentazione della dichiarazione. Perciò, essendo
+ il termine per la presentazione della dichiarazione per l’anno 2004 scaduta il
+ 31/10/2005, da quella data iniziava la decorrenza del termine di prescrizione del reato di
+ falsa dichiarazione, con intervenuta sua prescrizione al 31/10/2011, molto prima della
+ notifica dell’avviso di accertamento, avvenuto il 18/05/2012. Ha contestato come
+ nell’avviso di accertamento non fosse stata introdotta una motivazione più esaustiva sul
+ reato accertato, dovendo essere il giudice tributario a stabilire se 1° Amministrazione
+ avesse o meno fatto un uso pretestuoso e strumentale della normativa in questione.</mot>
+
+ <mot ID="Mot2" G="1" O="Claim2">Conseguentemente, non essendo stata prodotta agli atti dall'Ufficio la denuncia penale,
+ intervenuta prima della scadenza ordinaria del termine dell’accertamento,</mot> 
+ l’avviso
+ doveva considerarsi assolutamente nullo. 
+ <mot ID="Mot3" G="1" O="Claim3">Ha escluso che i rilievi eseguiti dall’Ufficio
+ fossero sorretti da prove certe, mancando del carattere di gravità, precisione e
+ concordanza richiesto dalla legge, senza alcun elemento di prova sulla condotta evasiva.
+
+ Ha escluso, altresì, l’esistenza del meccanismo definito “frode carosello”, mentre le
+ operazioni commerciali effettuate dai soggetti processuali non avevano contenuti
+ truffaldini ma solo di operazioni imponibili con diritto di rimborso IVA. Ha escluso
+ l’esistenza di alcuna prova dei supposti reati fiscali intrattenuti con un’impresa
+ assoggettata a verifiche fiscali in altra provincia. Ha rilevato come, in caso di mancato
+ versamento dell’imposta IVA da parte del cedente tale merce (con prezzi inferiori al
+ valore normale) il cessionario ai sensi dell’art. 60 bis DPR 633/72 (introdotto dall’art. 1,
+ comma 386, legge 30/12/2004 n. 311) sarebbe stato solidamente obbligato al pagamento
+ dell’imposta, sempreché il prezzo di vendita, inferiore al prezzo di mercato, non fosse
+ stato determinato da particolari eventi. Comunque, anche in tal caso la VI direttiva 
+ CEE aveva disposto come il cessionario avesse diritto alla detrazione IVA nel caso in cui
+ l'acquirente agisse quale soggetto passivo dell’imposta nell’ambito della sua attività
+ economica indipendentemente dall’intenzione fraudolenta di un operatore diverso dal
+ soggetto passivo acquirente di cui quest’ultimo non abbia conoscenza. Nel caso si
+ specie la ricorrente Società Autosalone O srl non risultava essere a conoscenza che
+ il proprio fornitore avesse o meno versato VIVA ricevuta all’Erario.</mot>
+ Accogliendo il
+ ricorso ha compensato le spese processuali in considerazione della contrastante
+ giurisprudenza.
+ 
+ 
+ 
+
+ 
+ <claim ID="Claim4" G="2" P="C" PRO="Req2">L'Agenzia appellante ha contestato le motivazioni della sentenza di primo grado in quanto carente in diritto e basata su assunti immotivati nel merito.</claim>
+ <arg ID="Arg2" G="2" P="C" PRO="Claim4">Circa il raddoppio
+ dei termini ha ricordato come la sentenza n. 247/2011 della Corte Costituzionale avesse
+ stabilito che il pubblico ufficiale deve valutare gli elementi previsti dall’art. 331 c.p.p.,
+ obbiettivamente riscontrabili, per dover denunciare il responsabile, nella loro
+ determinazione astratta, a prescindere dagli esiti penali della denuncia. Perciò il
+ raddoppio dei termini conseguiva dal mero riscontro dei fatti comportanti l’obbligo
+ della denuncia penale, indipendentemente dall’effettiva presentazione della denuncia o
+ dell’inizio dell’azione penale, restando riservato all’autorita giudiziaria penale
+ l'accertamento del reato e delle eventuali cause di non punibilità, anche perché il
+ termine di prescrizione del reato (6 anni) era minore del termine raddoppiato
+ dell’accertamento. Ha negato la necessaria allegazione della denuncia stante l’esistenza
+ di una oggettiva ricorrenza dei presupposti che la rendevano obbligatoria, visto che il
+ giudice tributario non doveva valutare il contenuto formale della notizia del reato,
+ secondo gli elementi contenuti nell’avviso di accertamento. Certamente non limitato
+ agli ordinari termini di decadenza dell’accertamento. In merito alla mancanza di prove
+ ed indizi circa l'emissione di fatture oggettivamente inesistenti verificato dall'ufficio di Modena
+ avevano raccolto una serie di gravi indizi, precisi e concordanti riportati nel PVC dell'avviso
+ di accertamento, avente natura di atto pubblico, ove
+ erano riportate le indagini sulla società EC srl unipersonale, priva di sede
+ operativa, di personale e di una organizzazione sufficiente per tenere la contabilità
+ ordinaria, nonostante un volume d’affari notevolissimo, occultato al fisco,
+ presuntivamente per una attività dedita alle frodi IVA, con omissione dei versamenti
+ IVA. Con beneficio dell’Autosalone O srl che otteneva indebiti risparmi
+ d’imposta, utilizzabile in termini concorrenziali. A fronte di queste contestazioni la
+ ricorrente aveva proposto l’apparente regolarità della propria contabilità e delle pezze
+ d’appoggio giustificative, sostenendo che il prezzo pagato alla EC fosse
+ maggiore del mercato italiano, nonostante avesse praticato un prezzo inferiore a quello
+ di approvvigionamento. Avendo utilizzato il vantaggio fiscale della contabilizzazione di
+ fatture d’acquisto con IVA da detrarre per l’intermediazione fittizia del finto operatore
+ nazionale, poteva così risparmiare rispetto all’acquisto delle auto direttamente negli altri
+ paesi europei (anche se ad un prezzo maggiore), non potendo però detrarre L’IVA,
+ dovendo altresì integrare le fatture, registrandole in acquisto e in rivendita, con effetto
+ neutrale, dovendo poi effettivamente rivenderle applicando un ricarico, quale margine di
+ guadagno, oltre all’IVA a debito, sicuramente superiore a quelli praticabili a seguito del Ò
+ meccanismo fraudolento che formalmente produceva una notevole perdita in capo alla
+ società EC srl che poteva contare sul mancato versamento dell’imposta IVA
+ e sull’assenza di ogni obbligo fiscale. Meccanismo di frode facilmente individuabile da
+ parte della società acquirente delle auto formalmente importate dalla Germania in Italia,
+ anche con modalità induttive. Ha escluso l’ignoranza incolpevole della cessionaria che,
+ dotata di organizzazione, doveva verificare la situazione reale del cedente che, privo di
+ sede ed organizzazione, andava in Germania per acquistare personalmente le autovetture
+ che portava in Italia e consegnava direttamente al cessionario.</arg>
+ <req ID="Req2" G="2" P="C"> Ha concluso per l'annullamento della sentenza impugnata con conferma della piena legittimità degli atti di accertamento emessi dall'Ufficio</req> 
+ e con condanna del contribuente al pagamento delle spese e competenze di entrambi i gradi del giudizio.
+
+ Si sono costituiti gli appellati, proponendo anche appello incidentale
+ condizionato. 
+ <claim ID="Claim5" G="2" P="A|B" PRO="Req3|Req4|Req5">Hanno confermato l’inesistenza, nullità e illegittimità degli avvisi di
+ accertamento per l’insussistenza dei presupposti del raddoppio dei termini per
+ l’accertamento, dovuta alla mancata allegazione della denuncia penale, e per
+ l’inapplicabilità del raddoppio del termine accertativo quando questo era scaduto al
+ momento della notifica degli atti impositivi.</claim> 
+ <arg ID="Arg3" G="2" P="A|B">Inoltre hanno contestato l’inapplicabilità
+ del raddoppio di tale termine anche in quanto al momento della notifica degli avvisi di
+ accertamento il reato ipotizzato era già prescritto. Hanno confermato in toto le
+ considerazioni della sentenza di primo grado in riguardo alla mancanza di qualsiasi
+ prova circa l’asserita falsità soggettiva delle fatture emesse dalla EC srl nei
+ confronti dei ricorrenti. Hanno evidenziato come fosse risultato che i prezzi delle
+ autovetture vendute dalla EC srl fossero addirittura superiori a quelli del
+ mercato italiano. Inoltre la cedente emetteva una dichiarazione sostitutiva di atto notorio i
+ ai sensi della legge 15/1968 sull’avvenuto regolare versamento dell’TVA, necessaria per
+ l’immatricolazione delle auto. Hanno evidenziato come l’onere della prova gravasse “|
+ sull’ Amministrazione finanziaria nell’ipotesi di fatture soggettivamente false, visto che
+ le fatture ricevute erano state inserite in contabilità. Salvo nel caso in cui tale prova
+ potesse essere data in via presuntiva tramite presunzioni semplici purché basate su
+ elementi gravi, precisi e concordanti, comunque con un alto grado di probabilità, stante
+ il contenuto dell’accertamento, la cui prova sarebbe ricaduta sul contribuente per
+ dimostrare l'infondatezza della pretesa erariale. Hanno eccepito l'inopponibilità,
+ l'inutilizzabilità e l'inefficacia verso i ricorrenti del PVC dell'agenzia delle entrate di
+ Modena, essendo basato su mere illazioni e sospetti. Hanno asserito come la EC srl 
+		fosse stata pienamente operativa, mancando la prova contraria dato che
+ l’accertamento dell’ Agenzia di Modena era avvenuto nell’anno 2010 quando già da anni
+ la EC srl aveva cessato l’attività (fine anno 2006, inizio anno 2007). Hanno
+ posto in evidenza come l’ Autosalone O srl non pagasse mai le auto acquistate in
+ anticipo ma solamente alla consegna, ritenendo che la cedente avesse proprie risorse
+ finanziarie per il pagamento ai fornitori. La EC srl provvedeva alla consegna
+ delle centinaia di auto vendute all’Autosalone O srl tramite autotrasportatori
+ incaricati dalla venditrice; anche in mancanza di alcun tipo di organizzazione. Hanno
+ contestato la mancanza di qualsiasi prova circa la falsità soggettiva delle fatture e della
+ interposizione fittizia personale e reale. Inoltre i prezzi d’acquisto, secondo le fatture
+ prodotte, erano risultati superiori a quelli praticati sul mercato italiano. Hanno proposto
+ appello incidentale condizionato, nel caso in cui l’appello dell’Ufficio fosse stato
+ accolto, chiedendo che venissero annullati e dichiarati infondati tutti e tre gli avvisi di
+ accertamento per violazione del principio del contraddittorio e per violazione dell’art.
+ 12 legge 212/2000 per mancanza del PVC dell’Agenzia delle Entrate di Reggio Emilia;
+ non avendo quest’ultima emesso, prima della notifica degli avvisi, il verbale di
+ constatazione, mai redatto, senza, quindi, rispettare il termine di 60 giorni prima della di
+ emissione degli avvisi, impedendo al contribuente di proporre la propria difesa. Hanno
+ negato un accordo trilatero con i fornitori esteri per la simulazione oggettiva dei rapporti
+ commerciali, mancando alcuna prova della interposizione fittizia o la falsità soggettiva
+ delle fatture. Hanno ribadito la loro buonafede nei rapporti con la EC srl,
+ che consentiva loro la piena detraibilità dell’TVA, contestando il preteso obbligo di
+ versamento dell'IVA e la sua contestuale indetraibilità. Hanno contestato l'illeggitimità e
+ infondatezza delle sanzioni irrogate per completa erroneità degli avvisi di accertamento
+ ed in quanto per i cessionari di buona fede veniva esclusa la possibilità di 
+ comminare sanzioni. In subordine hanno chiesto la disapplicazione delle sanzioni e la
+ loro non irrogazione ex art. 10 legge 212/2000 in presenza della loro buona fede. In
+ ulteriore subordine hanno chiesto la loro riduzione fino alla meta del minimo ex art. 7,
+ quarto comma, D.Lgs. 427/97 trattandosi di acquisti veri ed effettivi, assunti in buona
+ fede. Hanno contestato la duplicazione delle sanzioni per l’indebita detrazione
+ d’imposta e per la dichiarazione con una imposta inferiore a quella dovuta. Con sanzioni
+ sproporzionate rispetto alla contestata violazione.</arg>
+ <req ID="Req3" G="2" P="A|B">Hanno concluso chiedendo sia
+ dichiarata l’inammissibilità dell’appello o comunque lo stesso fosse rigettato, con
+ conferma della sentenza di primo grado.</req>
+ <req ID="Req4" G="2" P="A|B">In subordine, in caso di non rigetto o di non
+ declaratoria di inammissibilità dell’appello principale, voglia la Commissione adita
+ annullare, dichiarare nulli, illegittimi, illeciti, invalidi e infondati gli avvisi di
+ accertamento de quo, secondo l’appello incidentale condizionato ed in riforma
+ dell’appellata sentenza nella parte in cui non risultassero accolti i medesimi motivi
+ addotti nell’appello incidentale condizionato. Con dichiarazione di non debenza di
+ alcuna somma né a titolo d’imposta né a titolo di sanzioni.</req>
+ <req ID="Req5" G="2" P="A|B">In ulteriore subordine con
+ riduzione congrua di tutte le somme portate dai medesimi avvisi, con esclusione della
+ debenza delle sanzioni.</req>
+ Con vittoria di spese, diritti ed onorari.
+
+ I due appellati hanno depositato una memoria con la quale hanno riferito
+ dell’avvenuto deposito della sentenza n. 1048/15 del DD/MM/2015 del Tribunale penale di
+ Reggio Emilia che aveva assolto CG, perché il fatto non sussiste, dai delitti
+ a lui ascritti, nella sua qualita dapprima di titolare della ditta individuale “Autosalone
+ O” e dall’DD/MM/2005 quale rappresentante legale della Società Autosalone O srl,
+ al fine di evadere le imposte IVA per aver presentato le dichiarazioni SC 2006 e SC
+ 2007 per gli anni d’imposta 2005 e 2006 facendo confluire elementi passivi fittizi per la 
+ fraudolenta contabilizzazione delle fatture passive emesse dalla Società EC
+ srl, come indicato nel verbale di accertamento per l’anno 2006, secondo la metodologia
+ fraudolenta della ‘frode carosello”: delitti avvenuti in XXX il DD/MM/2006 e il
+ DD/MM/2007 e accertati il DD/MM/2012. Dalle indagini penali era risultato come i prezzi
+ delle autovetture praticati nella vendita all’ Autosalone O srl fossero superiori a
+ quelli del mercato italiano: indagini basate sulla testimonianza del figlio dell’imputato e
+ sulla relazione tecnica del dott. VI sulla base della documentazione contabile
+ dell’ Autosalone. Inoltre dalle stesse era risultato che la EC poteva operare
+ senza la necessità di alcuna struttura, quale mero intermediario commerciale, con
+ evidenziazione della mancata dimostrazione di un accordo trilaterale sul fittizio
+ commercio internazionale. Hanno riproposto le considerazioni sull’insussistenza del
+ raddoppio dei termini per l’inizio dell’accertamento e sulla mancanza di accordo
+ simulatorio trilaterale e per la buonafede dell’autosalone.
+ 
+
+ MOTIVI DELLA DECISIONE
+ <mot ID="Mot4" G="2" O="Claim5">
+ Il primo motivo d’appello concerne la presa di posizione del giudice di primo
+ grado del diritto dell’ Agenzia di poter raddoppiare dei termini di decadenza dal diritto a
+ svolgere le indagini fiscali sui contribuenti senza l’autorizzazione di conferma del
+ giudice tributario, essendo necessaria almeno la prova della presentazione al giudice
+ penale della denuncia penale in adempimento dell’obbligo disposto dall’art. 331 c.p.p..
+
+ Giustamente l’appellante contesta tale interpretazione, dovendo l’Ufficio, al
+ momento della conoscenza di fatti costituenti uno dei reati previsti dagli artt. 2, 3 e 4 del
+ D.Lgs. 74/2000, provvedere alla denuncia prevista dall’art. 331 c.p.p.. Non rappresenta
+ così un onere a carico del Pubblico Ufficiale la valutazione se il reato fosse o meno
+ prescritto oppure che i fatti individuati dalle indagini potessero non essere ritenuti dal 
+ giudice penale reati perseguibili.
+ Dovendo, come sostiene anche il giudice di prime cure, il Pubblico Ufficiale
+ addetto alle verifiche fiscali presentare la denuncia penale prontamente, al primo indizio
+ di reato finanziario, questi non era autorizzato o legittimato ad attendere di presentare la
+ denuncia fino a quando lo ritenesse opportuno, onde evitare una qualsiasi prescrizione
+ del reato tributario. Certamente però la verifica del giudice tributario non può essere
+ riferita a dati e fatti successivi all’instaurazione del processo tributario ma agli elementi,
+ più o meno fondati, riportati nel PVC degli accertatori. PVC dal quale si evidenziava
+ come la Società EC srl potesse considerarsi una “cartiera” con acquisto per
+ quantità ingentissime, superiori grandemente alla possibile attività dell’unico socio di
+ quella Società, di autoveicoli anche se mancante di una sede congrua ove svolgere
+ l’attività societaria, senza collaboratori e in assenza dei versamenti obbligatori dell’IVA
+ percepita dalla emissione delle fatture di vendita alle società acquirenti.
+
+ Questi elementi, anche in assenza materiale dell'avvenuta denuncia penale,
+ avrebbero dovuto convincere il giudice di prime cure dell’esistenza, anche presunta, di
+ un reato fiscale, con obbligo, quindi, dell’immediata denuncia penale.
+
+ Dalla richiesta di rinvio a giudizio n. 12/008295 R.G.N.R. della Procura della
+ Repubblica del Tribunale di Reggio Emilia, prodotta agli atti, risulta che il CG,
+		dapprima titolare della ditta individuale “Autosalone O” e poi quale
+ legale rappresentante della Società “Autosalone O srl” era stato imputato dei delitti
+ p. e p. dall’art. 81, cpv, c.p. e dall’art. 2 D.Lgs. 74/2000, commessi in Reggio Emilia il
+ DD/MM/2006 e il DD/MM/2007, accertati penalmente il DD/MM/2012, mentre la verifica alla
+ Società EC srl unipersonale era stata eseguita in data DD/MM/2010
+ dall’Agenzia delle Entrate — D.P. — di Modena, che aveva trasmesso il P.V.C.
+ all’Agenzia delle Entrate di Reggio Emilia, poi sfociato negli avvisi di accertamento
+ notificati ai ricorrenti.
+
+ Accertata, pertanto, la fondatezza degli elementi riscontrati dal PVC 
+ dell’Agenzia delle Entrate di Modena, l'Agenzia delle Entrate di Reggio Emilia non
+ poteva che procedere alla denuncia penale avverso il CGo. Procedendo
+ quell’obbligatorio adempimento si veniva a raddoppiare i termini per eseguire un
+ completo accertamento e notificare il relativo avviso. La Corte Costituzionale con la
+ sentenza n. 247/2011, richiamata dallo stesso giudice di primo grado, ha sentenziato
+ come il detto termine di decadenza per l’accertamento dovesse considerarsi a tutti gli
+ effetti raddoppiato per permettere all’ Amministrazione finanziaria di considerare in toto
+ le risultanze delle indagini e contestare le eventuali violazioni alle norme fiscali.
+
+ Stante la non preminenza del giudizio penale sul giudizio tributario, ogni
+ decisione del giudice penale non può influire più di tanto sul processo tributario, non è
+ possibile, perciò, condividere le argomentazioni della sentenza di primo grado sui
+ termini penali influenzanti i termini fiscali. Conseguentemente il diritto del Fisco alla
+ contestazione alle parti ricorrenti degli illeciti fiscali non può essere contestato per la
+ decadenza dei termini per l’accertamento.
+
+ Gli elementi portati dal PVC prodotto circa le indagini sull’attività della Società
+ EC srl costituivano una presunzione grave, precisa e concordante nei
+ confronti di quest’ultima società, coinvolgente direttamente anche l’emissione delle ai
+ fatture nei confronti di altri autosaloni. Tutto ciò ha giustificato la verifica presso la ditta
+ individuale e poi nei confronti dell’ Autosalone O srl della concreta realtà del
+ contenuto delle fatture ricevute dalla EC srl, ritenute dagli accertatori
+ soggettivamente inesistenti e predisporre ad hoc per dar la possibilità all’emittente delle
+ stesse fatture, ricevute dall’ Autosalone O (acquirente, unitamente ad altra ditta,
+ dell’80% delle autovetture vendute dalla EC srl), di lucrare sull’IVA, non
+ versata, che, aggiunta al costo dell’autovettura importata dalla Germania, nazione 
+ europea da, cui, si poteva importare senza il pagamento dell’imposta IVA, a prezzi
+ scontati rispetto a quelli esistenti in Italia, permetteva un lucroso vantaggio sia
+ all’importatore — venditore che all’acquirente che, acquistando a prezzi inferiori a quelli
+ di mercato, poteva rivendere in Italia a prezzi certamente concorrenziali.
+
+ Questa ipotesi, prospettata dall'Ufficio, prendeva le mosse dai riscontri sulla
+ contabilità della EC srl, unipersonale, ove risultavano fatture di trasporto per
+ pochissime autovetture, sebbene il volume d’affari fosse aumentato enormemente dagli
+ €. 622.092,00 del 2004 agli €. 4.500.000,00 del 2005. I dubbi dell’Ufficio certamente si
+ erano indirizzati alla individuazione del metodo di importazione di tutte quelle
+ autovettura senza che risultassero transitate dall’ Autosalone. Le ipotesi portavano a
+ ritenere che o l’unico socio della EC srl, in mancanza di dipendenti,
+ provvedesse personalmente al trasporto dalla Germania all’Italia, dopo averle acquistate
+ colà, oppure con delegazione ad uno o più trasportatori alla presa dei veicoli in
+ Germania, acquistati dalla EC srl, onde trasportarli alla sede italiana
+ dell’EC srl, oppure, a seguito dell’ordine del legale rappresentante di
+ quest’ultima, direttamente presso l’acquirente, se questi avesse già corrisposto il
+ pagamento o parte dello stesso.
+
+ Per risolvere questi dubbi era necessario verificare presso gli acquirenti delle
+ auto vendute dalla EC srl in Italia (1’80% di queste risultava acquistato da
+ due acquirenti di cui uno era il CG, prima, e la Società Autosalone O
+ srl, poi). Questa verifica ha portato alla evidenziazione della metodologia utilizzata dal
+ cedente e da questo cessionario per poter usufruire dell’importazione privilegiata intra-
+ comunitaria, con acquisto a prezzi favorevoli in Germania, senza applicazione dell'imposta IVA 
+ e successiva rivendita, da parte dell’acquirente, ad un prezzo comprendente il recupero del costo 
+ dell’acquisto, maggiorato ma sempre inferiore ai prezzi praticati in Italia. In tal modo la
+ Società venditrice, non versando l’IVA acquisita per ogni vendita, poteva contare su un
+ guadagno assicurato.
+
+ Correttamente gli appellati hanno osservato come le presunzioni operate nei
+ confronti della EC srl non potessero essere trasferite tout court nei loro
+ confronti, gravando sull’Ufficio l’onere di provare l’esistenza di una triangolazione
+ d’affari fra il venditore tedesco, l’acquirente all’estero EC srl italiana e la
+ Autosalone O, prima ditta individuale e poi srl, pur’essa italiana.
+
+ Però dai documenti prodotti in causa, risultano chiaramente due fatti: dalla
+ lettera di vettura internazionale n. 6231 (doc. 3), senza data, risulta il trasporto
+ dell’autovettura Touran, telaio n. XXX, dal venditore EC srl, con
+ sede a Monaco, all’ Autosalone O. La medesima autovettura risulta riportata nella
+ fattura n. 2 del DD/MM/2005 (doc. 1) emessa dalla EC srl, con sede in
+ Modena, a carico dell’ Autosalone O con sede in Reggio Emilia, per un
+ importo di €. 16.250,00, più IVA al 20% per €. 3.250,00.
+
+ Causa perplessità la circostanza che la società venditrice di quell’autovettura in
+ Germania risulta essere la stessa società acquirente in Italia, salvo che la prima dichiara
+ aver la sede a Monaco di Baviera e la seconda in provincia di Reggio Emilia. Questa
+ triangolazione fra ditta venditrice, ditta acquirente e ditta ricevente, porta a ritenere che
+ la EC srl italiana non avesse acquistato direttamente il Germania
+ l’autovettura ma che la stessa fosse stata acquistata dalla sua gemella tedesca e poi
+ rivenduta alla stessa società italiana, che a sua volta l’aveva rivenduta alla ricorrente.
+
+ Questa circostanza consentiva all’Ufficio di presumere che l’ Autosalone o
+ fosse coinvolto in un giro di affari non corretto. Perciò su quest’ultima ditta incombeva
+ l’onere di dimostrare di non conoscere questo strano giro di affari fra la Società tedesca
+ e la sua gemella italiana.
+
+ Quale dimostrazione della buona fede gli appellati hanno prodotto la
+ dichiarazione sostitutiva di atto notorio sottoscritta in data DD/MM/05 da un certo DCE, per conto della EC srl, con sede in XXX (MO) che
+ dichiarava, agli effetti dell’art. 38/4 D.L. 30/08/1993 n. 331, che per il veicolo VW
+ Touran XXX, usato, acquistato in Germania con fattura n. 14966
+ del DD/MM/04, aveva assolto gli obblighi IVA sull’acquisto extra-comunitario del veicolo.
+ Superando il dubbio sulla certezza della data e della ricolleganza della firma al soggetto
+ specificato nell’atto notorio e partendo dal presupposto, indimostrato, che il DCE
+ questo processo tale documento non può assumere alcun connotato di prova,
+ provenendo dallo stesso soggetto giuridico da cui sono partite le indagini fiscali e per il
+ quale sono state confermate le presunzioni per fatti gravi, precisi e concordanti per
+ l’emissione di fatture inesistenti soggettivamente a causa della evidenza come la stessa
+ Emanuele Cars srl italiana si fosse frapposta fittiziamente nella vendita di auto dalla
+ venditrice tedesca alla ditta acquirente italiana Autosalone O per lucrare sull’imposta
+ IVA ricevuta formalmente dalla acquirente senza però versarla all’ Amministrazione
+ finanziaria dello Stato italiano.
+
+ Circa i documenti probanti portati dai ricorrenti in merito alla differenza di
+ valore delle autovetture usate acquistate, asseritamente superiore al costo d’acquisto in
+ Germania e non inferiore come ipotizzato dall'Ufficio, si deve notare come nel foglio
+ (doc. 4) prodotto non risulta da quale pubblicazione sia stato estratto, non potendo,
+ perciò, permettere il controllo della provenienza o della autenticità e neppure la
+ fondatezza. Inoltre, trattandosi di autovetture usate, acquistate in Germania, il valore
+ commerciale delle stesse è notoriamente dipendente dallo stato materiale e visivo delle 
+ stesse, in, dipendenza dei chilometri percorsi. Inoltre, l’elenco delle autovetture
+ Volkswagen depositato, riportante ogni tipo di autovettura prodotto da tale fabbrica,
+ individua il (presunto) prezzo di vendita di un’auto nuova riportando il prezzo di listino
+ (chiavi in mano) e (ritenendo quei valori effettivamente riferentesi al mercato italiano) il
+ valore dello stesso tipo di autoveicolo prodotto negli anni antecedenti.
+
+ Manca un riferimento certo al valore dell’autovettura riportata nella fattura
+ prodotta che, teoricamente dai documenti presentati, venne acquistata in Germania dalla
+ EC srl italiana il DD/MM/2004 col contachilometri riportante i chilometri
+ percorsi dalla prima vendita della stessa auto nuova (Km. 25.911). Manca ogni
+ riferimento alla data di produzione o di primo acquisto dell’auto nuova, Di conseguenza
+ non è possibile stabilire a quale anno riferirsi per confrontarlo con l’indice dei prezzi
+ prodotto: se all’anno di acquisto dell’autoveicolo usato (2004) oppure all’anno
+ antecedente di messa in commercio dell’auto nuova, visto che dallo stesso listino risulta
+ che l’autovettura Touran venne commercializzata per la prima volta nell’anno 2003.
+ Non essendo stato neppure riportato nei documenti prodotti il tipo particolare di Touran
+ a cui la fattura n. 2/2005 del DD/,,/2005 si riferiva, non è possibile stabilire neppure se
+ il prezzo pagato dalla acquirente all’importatrice di €. 16.250,00 fosse maggiore o
+ inferiore al prezzo di acquisto in Germania od anche al prezzo di acquisto dello stesso
+ tipo di autovettura in Italia.
+
+ Gli appellati non sono riusciti a confermare i loro assunti che non possono che
+ avvalorare la presunzione semplice di un concordato sistema con la EC srl
+ italiana per ottenere entrambe delle utilità economiche dalla metodologia instaurata da
+ quest’ultima tramite il circuito con Ia sua sede tedesca.
+
+ Nel merito della falsità soggettiva delle fatture emesse dalla EC srl a,
+ nome della ditta Autosalone O (ditta individuale prima e società poi) è evidente dai
+ documenti surriportati che in pratica l’acquisto delle autovetture da parte
+ dell’Autosalone avveniva dalla EC srl con sede a Monaco e non dalla
+ EC srl con sede in Sassuolo. Quest’ultima si interponeva per utilizzare un
+ metodo illecito come intermediario onde lucrare sull’TVA non versata sulle vendite
+ effettuate in Italia, non dovendo corrispondere la stessa IVA sugli acquisti intra-
+ comunitari.
+
+ Circa la conoscenza di quella triangolazione di interessi non leciti, non si ritiene
+ accoglibile la giustificativa dei ricorrenti circa la loro buona fede e per l'impossibilità di
+ conoscere i mancati versamenti dell’imposta IVA da parte della venditrice formale delle
+ auto. Il fatto dell’esistenza di una sede della EC srl a Monaco mentre la sua
+ sede a Sassuolo era materialmente inesistente e senza dipendenti, nonostante la
+ grandissima attività operata dalla Società, avrebbero dovuto far sorgere dei forti dubbi
+ sul punto dell’acquisto da parte della EC srl italiana di autovetture in
+ Germania, poi a loro rivendute, piuttosto che dalla stessa società con sede in Germania,
+ visto che le autovetture acquistate provenivano direttamente dalla Società tedesca
+ mentre le fatture erano emesse dalla Società italiana.</mot>
+ 
+ Da tutte queste considerazioni questa Commissione non può che accogliere
+ l’appello e confermare gli avvisi di accertamento notificati. 
+ Stante la complessità della
+ materia e della individuazione delle esatte responsabilità si ritiene opportuno
+ compensare le spese processuali.
+ 
+ P. Q. M.
+
+ <dec ID="Dec1" G="2" E="1" O="Req3">la Commissione accoglie l’appello.</dec> 
+ Compensa le spese processuali.
+
+ Il Presidente
+ Il Relatore 
+
+ Bologna,DD MM 2017
+ 
+ 
+ </body>

@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf8'?>
+<body>
+
+
+REPUBBLICA ITALIANA
+ IN NOME DEL POPOLO ITALIANO
+
+ REG.GENERALE N° 4/2016
+
+ LA COMMISSIONE TRIBUTARIA REGIONALE DI PERUGIA SEZIONE 3
+ riunita con l'intervento dei Signori:
+ giu1 Presidente 
+ giu2 Relatore 
+ giu3 Giudice 
+ 
+ ha emesso la seguente
+ SENTENZA
+
+ - sull'appello n. 4/2016
+ depositato il DD/MM/2016
+
+ - avverso la sentenza n. 188/2015 emessa dalla Commissione Tributaria Provinciale di PERUGIA
+
+ <part P="A"> contro:
+ AG. ENTRATE DIR. PROVIN. UFF. CONTROLLHLEGALE PERUGIA</part>
+
+ <part P="B"> proposto dall'appellante:
+ ZG
+ XXX</part>
+
+ difeso da:
+ VM
+ XXX
+
+ Atti impugnati:
+ ATTO.CONTESTAZ. n° T3NCO1600619 IVA-ALTRO 2010
+
+
+FATTO E SVOLGIMENTO DEL PROCESSO
+
+ 
+ <req ID="Req1" G="1" P="B">ZG ha proposto ricorso avverso l’atto di contestazione</req>
+ 
+
+mediante il quale l'Agenzia delle Entrate ha irrogato la sanzione amministrativa di euro 29.474,46, ai sensi dell’art 7 comma 4 bis d.lgs 471/97, conseguente all’omessa comunicazione delle dichiarazioni d’intento ricevute dalla M di ZG nell’ambito di operazioni effettuate in regime di non imponibilità.
+
+
+ 
+ <claim ID="Claim1" G="1" P="A" CON="Req1"> L'Agenzia delle Entrate si è costituita in giudizio concludendo per la conferma della
+ legittimità del proprio operato.</claim>
+ 
+
+ 
+ <dec ID="Dec1" G="1" E="0" O="Req1">Con sentenza del DD/MM/2015 la Commissione Tributaria Provinciale ha respinto il ricorso.</dec>
+ 
+
+
+
+ 
+ <req ID="Req2" G="2" P="B">Avverso tale sentenza ha proposto appello il contribuente.</req> 
+ 
+
+ MOTIVI DELLA DECISIONE
+
+ <claim ID="Claim2" G="2" P="B" PRO="Req2">L’appellante censura l’operato della Commissione Provinciale riproponendo sostanzialmente le argomentazioni svolte nel pregresso grado, insistendo altresì per l’applicazione del principio del favor rei.</claim>
+
+ <mot ID="Mot1" G="2" O="Req2">Rileva questa Commissione che a seguito della modifica operata dall’art 20 d.lgs. 174/2014, a decorrere dal 13/12714 sul cedente non grava più l’obbligo di trasmissione dei documenti concernenti l’esportazione, bensì un mero obbligo di previa verifica della regolarità del comportamento del cessionario.
+
+ Considerato, pertanto, che a seguito della suddetta modifica legislativa non sussiste più la fattispecie sanzionata dall’Ufficio, oggetto della vicenda in esame, è da ritenere effettivamente applicabile il principio del favor di cui all’art 3 d.lgs 471/97, secondo il quale -come noto- nessuno può essere assoggettato a sanzioni per un fatto che, secondo una legge posteriore, non costituisce violazione punibile.</mot> 
+
+ Stante la modifica legislativa medio tempore intervenuta, sussistono giusti motivi per compensare tra le parti le spese di.lite.
+ 
+
+ P.T.M.
+ <dec ID="Dec2" G="2" E="1" O="Req2"> la Commissione accoglie l’appello del contribuente.</dec> 
+ Spese compensate.
+ 
+ PerugiaDD MM 2017
+ 
+ 
+ Il Relatore
+ Il Presidente
+ 
+
+</body>
